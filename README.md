@@ -1,5 +1,11 @@
 # Tunnel-Based Reverse Proxy (Expose) Tools Benchmarking Framework
 
+
+
+[![DOI](https://zenodo.org/badge/1071978576.svg)](https://doi.org/10.5281/zenodo.17291653)
+
+
+
 ## Overview
 
 This is a comprehensive framework for quantifying and assessing the performance and reliability aspects of Expose tools, such as ngrok, zrok, and Cloudflared, among others.
