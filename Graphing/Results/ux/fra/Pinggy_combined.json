@@ -1,0 +1,2702 @@
+[
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 1,
+    "timestamp": 5651602.679007024,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3366,
+        "uploadSpeed": 0,
+        "dnsLookup": 78.641,
+        "tcpConnection": 178.61599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 384.235,
+        "totalTime": 483.33500000000004,
+        "fcp": 526.276,
+        "lcp": 526.276,
+        "speedIndex": 433,
+        "curlTotalTime": 518.2368689775467,
+        "playwrightTotalTime": 807.7042209804058
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 2,
+    "timestamp": 2358401.768329978,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2154,
+        "uploadSpeed": 0,
+        "dnsLookup": 67.414,
+        "tcpConnection": 218.115,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.1410000000001,
+        "totalTime": 755.196,
+        "fcp": 710.634,
+        "lcp": 710.634,
+        "speedIndex": 574,
+        "curlTotalTime": 799.458937048912,
+        "playwrightTotalTime": 1062.6374720335007
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 3,
+    "timestamp": 2325729.9787670374,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3087,
+        "uploadSpeed": 0,
+        "dnsLookup": 104.137,
+        "tcpConnection": 205.224,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 426.30600000000004,
+        "totalTime": 526.9399999999999,
+        "fcp": 522.02,
+        "lcp": 522.02,
+        "speedIndex": 435,
+        "curlTotalTime": 563.9504840373993,
+        "playwrightTotalTime": 810.8521789312363
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 4,
+    "timestamp": 2489869.427007079,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3904,
+        "uploadSpeed": 0,
+        "dnsLookup": 71.062,
+        "tcpConnection": 164.05700000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 324.69,
+        "totalTime": 416.74699999999996,
+        "fcp": 441.036,
+        "lcp": 441.036,
+        "speedIndex": 376,
+        "curlTotalTime": 461.29301500320435,
+        "playwrightTotalTime": 757.4300209283829
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 5,
+    "timestamp": 2160147.431025982,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2147,
+        "uploadSpeed": 0,
+        "dnsLookup": 68.323,
+        "tcpConnection": 216.56900000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 610.753,
+        "totalTime": 757.747,
+        "fcp": 686.777,
+        "lcp": 686.777,
+        "speedIndex": 561,
+        "curlTotalTime": 795.6663119792938,
+        "playwrightTotalTime": 967.1416689157486
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 6,
+    "timestamp": 3475171.590546,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3925,
+        "uploadSpeed": 0,
+        "dnsLookup": 70.409,
+        "tcpConnection": 163.571,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 322.104,
+        "totalTime": 414.482,
+        "fcp": 465.811,
+        "lcp": 465.811,
+        "speedIndex": 387,
+        "curlTotalTime": 454.2768419999629,
+        "playwrightTotalTime": 802.4015169995837
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 7,
+    "timestamp": 5668533.198679,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3275,
+        "uploadSpeed": 0,
+        "dnsLookup": 68.65100000000001,
+        "tcpConnection": 175.987,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 390.226,
+        "totalTime": 496.753,
+        "fcp": 505.949,
+        "lcp": 505.949,
+        "speedIndex": 423,
+        "curlTotalTime": 534.8408949971199,
+        "playwrightTotalTime": 595.6252550184727
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 8,
+    "timestamp": 2375945.0690050125,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2172,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.88199999999999,
+        "tcpConnection": 213.13299999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 599.0490000000001,
+        "totalTime": 748.916,
+        "fcp": 712.075,
+        "lcp": 712.075,
+        "speedIndex": 590,
+        "curlTotalTime": 793.8168339729309,
+        "playwrightTotalTime": 766.7691379785538
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 9,
+    "timestamp": 2342575.4105980396,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3244,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.141000000000005,
+        "tcpConnection": 169.09099999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 395.228,
+        "totalTime": 501.45099999999996,
+        "fcp": 500.345,
+        "lcp": 500.345,
+        "speedIndex": 415,
+        "curlTotalTime": 547.0490128993988,
+        "playwrightTotalTime": 619.4427419900894
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 10,
+    "timestamp": 2506291.488656044,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4033,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.083,
+        "tcpConnection": 156.386,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 312.417,
+        "totalTime": 403.358,
+        "fcp": 460.577,
+        "lcp": 460.577,
+        "speedIndex": 379,
+        "curlTotalTime": 442.3654819726944,
+        "playwrightTotalTime": 548.8232619762421
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 11,
+    "timestamp": 2177583.8190129995,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2151,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.92,
+        "tcpConnection": 212.076,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.001,
+        "totalTime": 756.224,
+        "fcp": 691.787,
+        "lcp": 691.787,
+        "speedIndex": 578,
+        "curlTotalTime": 798.9422100782394,
+        "playwrightTotalTime": 748.896388053894
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 12,
+    "timestamp": 3491725.03675,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4114,
+        "uploadSpeed": 0,
+        "dnsLookup": 67.073,
+        "tcpConnection": 155.15200000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 308.159,
+        "totalTime": 395.40799999999996,
+        "fcp": 450.118,
+        "lcp": 450.118,
+        "speedIndex": 385,
+        "curlTotalTime": 437.93691899999976,
+        "playwrightTotalTime": 561.7965510003269
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 13,
+    "timestamp": 5685875.911807001,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1852,
+        "uploadSpeed": 0,
+        "dnsLookup": 465.03,
+        "tcpConnection": 567.611,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 776.62,
+        "totalTime": 878.462,
+        "fcp": 564.805,
+        "lcp": 564.805,
+        "speedIndex": 445,
+        "curlTotalTime": 927.70018902421,
+        "playwrightTotalTime": 625.355780005455
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 14,
+    "timestamp": 2393766.4777070284,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2091,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.355000000000004,
+        "tcpConnection": 216.984,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 620.548,
+        "totalTime": 777.9540000000001,
+        "fcp": 703.413,
+        "lcp": 703.413,
+        "speedIndex": 577,
+        "curlTotalTime": 832.6658630371094,
+        "playwrightTotalTime": 806.6228249073029
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 15,
+    "timestamp": 2359300.4640159607,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3932,
+        "uploadSpeed": 0,
+        "dnsLookup": 78.93799999999999,
+        "tcpConnection": 188.165,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 413.514,
+        "totalTime": 413.697,
+        "fcp": 513.839,
+        "lcp": 513.839,
+        "speedIndex": 427,
+        "curlTotalTime": 456.3022030591965,
+        "playwrightTotalTime": 681.4120399951935
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 16,
+    "timestamp": 2522906.3920930624,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3986,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.53699999999999,
+        "tcpConnection": 158.618,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 316.20500000000004,
+        "totalTime": 408.16400000000004,
+        "fcp": 449.001,
+        "lcp": 449.001,
+        "speedIndex": 378,
+        "curlTotalTime": 450.9354519844055,
+        "playwrightTotalTime": 564.6307719945908
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 17,
+    "timestamp": 2195025.2022969723,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2149,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.203,
+        "tcpConnection": 211.017,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.399,
+        "totalTime": 756.923,
+        "fcp": 662.691,
+        "lcp": 662.691,
+        "speedIndex": 550,
+        "curlTotalTime": 805.4782069921494,
+        "playwrightTotalTime": 754.6881539821625
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 18,
+    "timestamp": 3508031.493605,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4055,
+        "uploadSpeed": 0,
+        "dnsLookup": 67.95700000000001,
+        "tcpConnection": 156.86700000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 312.24800000000005,
+        "totalTime": 401.19100000000003,
+        "fcp": 452.361,
+        "lcp": 452.361,
+        "speedIndex": 374,
+        "curlTotalTime": 443.7177349999547,
+        "playwrightTotalTime": 558.7465840000659
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 19,
+    "timestamp": 5702587.249626011,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3301,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.302,
+        "tcpConnection": 169.47799999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 384.892,
+        "totalTime": 492.87199999999996,
+        "fcp": 522.436,
+        "lcp": 522.436,
+        "speedIndex": 432,
+        "curlTotalTime": 529.6690720021725,
+        "playwrightTotalTime": 617.3745940029621
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 20,
+    "timestamp": 2411258.6111040115,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2139,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.3,
+        "tcpConnection": 215.894,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.917,
+        "totalTime": 760.477,
+        "fcp": 688.549,
+        "lcp": 688.549,
+        "speedIndex": 555,
+        "curlTotalTime": 796.7080479860306,
+        "playwrightTotalTime": 771.6914479732513
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 21,
+    "timestamp": 2376023.030611038,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3206,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.125,
+        "tcpConnection": 170.04,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 398.883,
+        "totalTime": 507.48,
+        "fcp": 499.89,
+        "lcp": 499.89,
+        "speedIndex": 416,
+        "curlTotalTime": 548.0720880031586,
+        "playwrightTotalTime": 603.417396903038
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 22,
+    "timestamp": 2539662.673500061,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5247,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.25,
+        "tcpConnection": 154.965,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 309.877,
+        "totalTime": 310.068,
+        "fcp": 456.289,
+        "lcp": 456.289,
+        "speedIndex": 389,
+        "curlTotalTime": 358.97044599056244,
+        "playwrightTotalTime": 630.8817299604416
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 23,
+    "timestamp": 2212443.128875971,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2186,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.989000000000004,
+        "tcpConnection": 206.664,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 598.518,
+        "totalTime": 744.149,
+        "fcp": 661.802,
+        "lcp": 661.802,
+        "speedIndex": 549,
+        "curlTotalTime": 782.9070489406586,
+        "playwrightTotalTime": 797.4462790489197
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 24,
+    "timestamp": 3524469.131247,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5385,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.743,
+        "tcpConnection": 151.947,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 301.786,
+        "totalTime": 302.085,
+        "fcp": 438.757,
+        "lcp": 458.361,
+        "speedIndex": 377,
+        "curlTotalTime": 341.10837500030175,
+        "playwrightTotalTime": 606.7813829998486
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 25,
+    "timestamp": 5719275.714475006,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3326,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.377,
+        "tcpConnection": 168.15099999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 383.123,
+        "totalTime": 489.047,
+        "fcp": 489.098,
+        "lcp": 489.098,
+        "speedIndex": 411,
+        "curlTotalTime": 540.3885120153427,
+        "playwrightTotalTime": 640.7993479967117
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 26,
+    "timestamp": 2428676.976169944,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2131,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.263999999999996,
+        "tcpConnection": 216.057,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.52,
+        "totalTime": 763.2560000000001,
+        "fcp": 711.131,
+        "lcp": 711.131,
+        "speedIndex": 583,
+        "curlTotalTime": 804.0734679698944,
+        "playwrightTotalTime": 747.5603810548782
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 27,
+    "timestamp": 2392902.190541029,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3173,
+        "uploadSpeed": 0,
+        "dnsLookup": 74.2,
+        "tcpConnection": 180.372,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 406.651,
+        "totalTime": 512.756,
+        "fcp": 513.565,
+        "lcp": 513.565,
+        "speedIndex": 419,
+        "curlTotalTime": 553.65942299366,
+        "playwrightTotalTime": 602.1020400524139
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 28,
+    "timestamp": 2556294.6632909775,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4123,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.047,
+        "tcpConnection": 152.285,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 306.55100000000004,
+        "totalTime": 394.52500000000003,
+        "fcp": 476.109,
+        "lcp": 476.109,
+        "speedIndex": 387,
+        "curlTotalTime": 435.5089520215988,
+        "playwrightTotalTime": 606.2267370223999
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 29,
+    "timestamp": 2230253.71202302,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2148,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.503,
+        "tcpConnection": 211.376,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.552,
+        "totalTime": 757.344,
+        "fcp": 664.595,
+        "lcp": 664.595,
+        "speedIndex": 552,
+        "curlTotalTime": 796.2636209726334,
+        "playwrightTotalTime": 741.817626953125
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 30,
+    "timestamp": 3540775.314892,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5285,
+        "uploadSpeed": 0,
+        "dnsLookup": 63.682,
+        "tcpConnection": 153.518,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 307.526,
+        "totalTime": 307.80800000000005,
+        "fcp": 479.039,
+        "lcp": 479.039,
+        "speedIndex": 385,
+        "curlTotalTime": 343.92509600007907,
+        "playwrightTotalTime": 563.6006680000573
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 31,
+    "timestamp": 5736146.828970015,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3327,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.584,
+        "tcpConnection": 168.52800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 382.125,
+        "totalTime": 488.894,
+        "fcp": 489.013,
+        "lcp": 489.013,
+        "speedIndex": 405,
+        "curlTotalTime": 535.3685629963875,
+        "playwrightTotalTime": 645.2138960063457
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 32,
+    "timestamp": 2446215.374642968,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2204,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.668,
+        "tcpConnection": 209.426,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 591.4359999999999,
+        "totalTime": 737.99,
+        "fcp": 736.004,
+        "lcp": 736.004,
+        "speedIndex": 613,
+        "curlTotalTime": 780.8881469964981,
+        "playwrightTotalTime": 802.7055430412292
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 33,
+    "timestamp": 2409692.48378098,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3230,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.14,
+        "tcpConnection": 167.38500000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 397.267,
+        "totalTime": 503.597,
+        "fcp": 476.841,
+        "lcp": 476.841,
+        "speedIndex": 400,
+        "curlTotalTime": 546.8842430114746,
+        "playwrightTotalTime": 621.9241820573807
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 34,
+    "timestamp": 2572841.48724401,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4072,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.36,
+        "tcpConnection": 151.91199999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 311.94,
+        "totalTime": 399.543,
+        "fcp": 459.219,
+        "lcp": 459.219,
+        "speedIndex": 377,
+        "curlTotalTime": 436.6963959932327,
+        "playwrightTotalTime": 567.537290930748
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 35,
+    "timestamp": 2247847.1055699587,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1932,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.966,
+        "tcpConnection": 218.278,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 688.274,
+        "totalTime": 841.7,
+        "fcp": 693.727,
+        "lcp": 693.727,
+        "speedIndex": 567,
+        "curlTotalTime": 901.3068380355835,
+        "playwrightTotalTime": 790.4128040075302
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 36,
+    "timestamp": 3557150.3610859998,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4165,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.94900000000001,
+        "tcpConnection": 151.164,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 304.338,
+        "totalTime": 390.584,
+        "fcp": 443.861,
+        "lcp": 443.861,
+        "speedIndex": 370,
+        "curlTotalTime": 439.96738300006837,
+        "playwrightTotalTime": 592.2451429995708
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 37,
+    "timestamp": 5753223.585851997,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3371,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.314,
+        "tcpConnection": 166.823,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 377.858,
+        "totalTime": 482.529,
+        "fcp": 514.921,
+        "lcp": 514.921,
+        "speedIndex": 428,
+        "curlTotalTime": 530.4536070227623,
+        "playwrightTotalTime": 653.0617620050907
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 38,
+    "timestamp": 2463627.4686769247,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2142,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.01199999999999,
+        "tcpConnection": 215.249,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.5160000000001,
+        "totalTime": 759.432,
+        "fcp": 699.087,
+        "lcp": 699.087,
+        "speedIndex": 583,
+        "curlTotalTime": 796.5614320039749,
+        "playwrightTotalTime": 798.4953390359879
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 39,
+    "timestamp": 2426260.8108890057,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4276,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.982,
+        "tcpConnection": 160.73499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 380.308,
+        "totalTime": 380.452,
+        "fcp": 500.981,
+        "lcp": 500.981,
+        "speedIndex": 412,
+        "curlTotalTime": 422.5599319934845,
+        "playwrightTotalTime": 591.0809090137482
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 40,
+    "timestamp": 2589427.217550993,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3993,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.356,
+        "tcpConnection": 157.421,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 315.603,
+        "totalTime": 407.46,
+        "fcp": 473.776,
+        "lcp": 473.776,
+        "speedIndex": 386,
+        "curlTotalTime": 450.35542500019073,
+        "playwrightTotalTime": 561.1378449201584
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 41,
+    "timestamp": 2265348.0476549864,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2135,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.581,
+        "tcpConnection": 212.224,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 610.465,
+        "totalTime": 761.926,
+        "fcp": 670.122,
+        "lcp": 670.122,
+        "speedIndex": 549,
+        "curlTotalTime": 801.8912479877472,
+        "playwrightTotalTime": 734.7244960069656
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 42,
+    "timestamp": 3573433.638565,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5215,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.79899999999999,
+        "tcpConnection": 154.785,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 311.70300000000003,
+        "totalTime": 311.952,
+        "fcp": 469.071,
+        "lcp": 469.071,
+        "speedIndex": 382,
+        "curlTotalTime": 353.81810700008646,
+        "playwrightTotalTime": 574.1553349997848
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 43,
+    "timestamp": 5770005.5982200205,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3061,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.608999999999995,
+        "tcpConnection": 214.595,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 426.439,
+        "totalTime": 531.4910000000001,
+        "fcp": 501.493,
+        "lcp": 501.493,
+        "speedIndex": 403,
+        "curlTotalTime": 571.0381889939308,
+        "playwrightTotalTime": 617.2298780083656
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 44,
+    "timestamp": 2481111.0764830112,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2138,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.602,
+        "tcpConnection": 216.04999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 606.405,
+        "totalTime": 760.739,
+        "fcp": 702.394,
+        "lcp": 702.394,
+        "speedIndex": 575,
+        "curlTotalTime": 803.4059059619904,
+        "playwrightTotalTime": 779.7421799898148
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 45,
+    "timestamp": 2442850.728708029,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3259,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.162,
+        "tcpConnection": 166.179,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 393.382,
+        "totalTime": 499.183,
+        "fcp": 517.477,
+        "lcp": 517.477,
+        "speedIndex": 428,
+        "curlTotalTime": 541.4169009923935,
+        "playwrightTotalTime": 596.6631999015808
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 46,
+    "timestamp": 2605863.4218109846,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5196,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.52900000000001,
+        "tcpConnection": 152.901,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 312.959,
+        "totalTime": 313.08200000000005,
+        "fcp": 433.479,
+        "lcp": 433.479,
+        "speedIndex": 363,
+        "curlTotalTime": 358.6117470264435,
+        "playwrightTotalTime": 557.1317369937897
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 47,
+    "timestamp": 2282894.363155961,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2205,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.035,
+        "tcpConnection": 204.871,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 594.525,
+        "totalTime": 737.8209999999999,
+        "fcp": 673.111,
+        "lcp": 673.111,
+        "speedIndex": 554,
+        "curlTotalTime": 786.9142611026764,
+        "playwrightTotalTime": 771.2035809755325
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 48,
+    "timestamp": 3590078.107313,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3874,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.303,
+        "tcpConnection": 159.58,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 326.061,
+        "totalTime": 419.936,
+        "fcp": 478.865,
+        "lcp": 478.865,
+        "speedIndex": 389,
+        "curlTotalTime": 461.7702589998953,
+        "playwrightTotalTime": 586.548193000257
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 49,
+    "timestamp": 5786734.363641024,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3295,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.961,
+        "tcpConnection": 170.553,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 385.16,
+        "totalTime": 493.733,
+        "fcp": 523.525,
+        "lcp": 523.525,
+        "speedIndex": 432,
+        "curlTotalTime": 532.9782440066338,
+        "playwrightTotalTime": 611.0460840165615
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 50,
+    "timestamp": 2498504.962180972,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2147,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.654,
+        "tcpConnection": 215.168,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 604.058,
+        "totalTime": 757.49,
+        "fcp": 676.567,
+        "lcp": 676.567,
+        "speedIndex": 556,
+        "curlTotalTime": 797.2431800365448,
+        "playwrightTotalTime": 797.612074971199
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 51,
+    "timestamp": 2459598.176805973,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3261,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.568,
+        "tcpConnection": 166.991,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 392.698,
+        "totalTime": 498.844,
+        "fcp": 493.68,
+        "lcp": 493.68,
+        "speedIndex": 402,
+        "curlTotalTime": 536.9163290262222,
+        "playwrightTotalTime": 667.3692330121994
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 52,
+    "timestamp": 2622473.998257041,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4037,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.67299999999999,
+        "tcpConnection": 154.438,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 313.338,
+        "totalTime": 402.981,
+        "fcp": 472.271,
+        "lcp": 505.446,
+        "speedIndex": 409,
+        "curlTotalTime": 442.638100028038,
+        "playwrightTotalTime": 543.3118619918823
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 53,
+    "timestamp": 2300365.2726089954,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2177,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.98,
+        "tcpConnection": 207.528,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 601.0640000000001,
+        "totalTime": 747.165,
+        "fcp": 709.299,
+        "lcp": 709.299,
+        "speedIndex": 589,
+        "curlTotalTime": 787.4428800344467,
+        "playwrightTotalTime": 767.979465007782
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 54,
+    "timestamp": 3606663.198424,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4191,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.641,
+        "tcpConnection": 151.224,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 302.554,
+        "totalTime": 388.20300000000003,
+        "fcp": 459.275,
+        "lcp": 459.275,
+        "speedIndex": 384,
+        "curlTotalTime": 436.20044299960136,
+        "playwrightTotalTime": 584.0388839999214
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 55,
+    "timestamp": 5803880.762294024,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3204,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.996,
+        "tcpConnection": 168.69500000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 403.866,
+        "totalTime": 507.756,
+        "fcp": 518.862,
+        "lcp": 518.862,
+        "speedIndex": 422,
+        "curlTotalTime": 548.1018780171871,
+        "playwrightTotalTime": 594.2128499746323
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 56,
+    "timestamp": 2515947.1847649813,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2141,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.998999999999995,
+        "tcpConnection": 215.35399999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.678,
+        "totalTime": 759.67,
+        "fcp": 701.901,
+        "lcp": 701.901,
+        "speedIndex": 585,
+        "curlTotalTime": 800.7485209703445,
+        "playwrightTotalTime": 810.6950680017471
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 57,
+    "timestamp": 2476434.4505609274,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3210,
+        "uploadSpeed": 0,
+        "dnsLookup": 67.267,
+        "tcpConnection": 173.55100000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 400.58700000000005,
+        "totalTime": 506.711,
+        "fcp": 510.331,
+        "lcp": 510.331,
+        "speedIndex": 412,
+        "curlTotalTime": 548.1328780651093,
+        "playwrightTotalTime": 648.9377419948578
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 58,
+    "timestamp": 2639033.541010976,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5090,
+        "uploadSpeed": 0,
+        "dnsLookup": 68.092,
+        "tcpConnection": 161.071,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 319.458,
+        "totalTime": 319.642,
+        "fcp": 454.936,
+        "lcp": 454.936,
+        "speedIndex": 376,
+        "curlTotalTime": 358.1660039424896,
+        "playwrightTotalTime": 586.6835210323334
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 59,
+    "timestamp": 2317873.7904839516,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1951,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.845000000000006,
+        "tcpConnection": 213.945,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 680.578,
+        "totalTime": 833.841,
+        "fcp": 715.466,
+        "lcp": 715.466,
+        "speedIndex": 577,
+        "curlTotalTime": 877.1089940071106,
+        "playwrightTotalTime": 805.2770849466324
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 60,
+    "timestamp": 3623091.666924,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4150,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.735,
+        "tcpConnection": 152.582,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 304.40099999999995,
+        "totalTime": 392.021,
+        "fcp": 479.961,
+        "lcp": 479.961,
+        "speedIndex": 405,
+        "curlTotalTime": 436.0530110001564,
+        "playwrightTotalTime": 583.8539720000699
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 61,
+    "timestamp": 5820830.523340017,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3445,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.93,
+        "tcpConnection": 162.898,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 370.521,
+        "totalTime": 472.27000000000004,
+        "fcp": 527.916,
+        "lcp": 527.916,
+        "speedIndex": 431,
+        "curlTotalTime": 518.2089869976044,
+        "playwrightTotalTime": 668.5421079993248
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 62,
+    "timestamp": 2533304.0195839405,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2153,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.175,
+        "tcpConnection": 213.959,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 602.972,
+        "totalTime": 755.6619999999999,
+        "fcp": 700.632,
+        "lcp": 700.632,
+        "speedIndex": 571,
+        "curlTotalTime": 799.4107669591904,
+        "playwrightTotalTime": 773.6890609264374
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 63,
+    "timestamp": 2493009.046231985,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4284,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.634,
+        "tcpConnection": 160.167,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 379.56600000000003,
+        "totalTime": 379.727,
+        "fcp": 501.147,
+        "lcp": 501.147,
+        "speedIndex": 411,
+        "curlTotalTime": 419.1223530769348,
+        "playwrightTotalTime": 660.9150810241699
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 64,
+    "timestamp": 2655583.8217680454,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5184,
+        "uploadSpeed": 0,
+        "dnsLookup": 62.855999999999995,
+        "tcpConnection": 154.985,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 313.197,
+        "totalTime": 313.849,
+        "fcp": 457.695,
+        "lcp": 457.695,
+        "speedIndex": 394,
+        "curlTotalTime": 356.2689369916916,
+        "playwrightTotalTime": 566.0058259963989
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 65,
+    "timestamp": 2335467.421990037,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2147,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.013,
+        "tcpConnection": 211.167,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.5899999999999,
+        "totalTime": 757.73,
+        "fcp": 687.131,
+        "lcp": 687.131,
+        "speedIndex": 568,
+        "curlTotalTime": 810.5326060056686,
+        "playwrightTotalTime": 751.6965910196304
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 66,
+    "timestamp": 3639564.645916,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4125,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.89200000000001,
+        "tcpConnection": 153.138,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 307.651,
+        "totalTime": 394.34599999999995,
+        "fcp": 459.102,
+        "lcp": 459.102,
+        "speedIndex": 376,
+        "curlTotalTime": 436.93636800022796,
+        "playwrightTotalTime": 593.8964520003647
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 67,
+    "timestamp": 5837613.349816024,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3320,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.504000000000005,
+        "tcpConnection": 166.28799999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 384.344,
+        "totalTime": 489.991,
+        "fcp": 505.062,
+        "lcp": 505.062,
+        "speedIndex": 415,
+        "curlTotalTime": 533.2799260020256,
+        "playwrightTotalTime": 609.0868009924889
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 68,
+    "timestamp": 2550923.482226014,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2133,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.501,
+        "tcpConnection": 215.948,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 607.348,
+        "totalTime": 762.692,
+        "fcp": 700.414,
+        "lcp": 700.414,
+        "speedIndex": 576,
+        "curlTotalTime": 807.4549499750137,
+        "playwrightTotalTime": 756.3464020490646
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 69,
+    "timestamp": 2509639.3851259947,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3258,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.974000000000004,
+        "tcpConnection": 166.712,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 391.618,
+        "totalTime": 499.377,
+        "fcp": 516.839,
+        "lcp": 516.839,
+        "speedIndex": 426,
+        "curlTotalTime": 540.667937040329,
+        "playwrightTotalTime": 582.5198119878769
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 70,
+    "timestamp": 2671972.52769506,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4120,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.108,
+        "tcpConnection": 153.275,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 308.452,
+        "totalTime": 394.863,
+        "fcp": 456.215,
+        "lcp": 456.215,
+        "speedIndex": 372,
+        "curlTotalTime": 436.46925699710846,
+        "playwrightTotalTime": 551.5651559829712
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 71,
+    "timestamp": 2353152.252161026,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2157,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.251,
+        "tcpConnection": 210.07999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.202,
+        "totalTime": 753.947,
+        "fcp": 685.313,
+        "lcp": 685.313,
+        "speedIndex": 566,
+        "curlTotalTime": 796.098415017128,
+        "playwrightTotalTime": 795.246456027031
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 72,
+    "timestamp": 3656074.560483,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5132,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.095,
+        "tcpConnection": 157.304,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 316.868,
+        "totalTime": 316.987,
+        "fcp": 485.55,
+        "lcp": 485.55,
+        "speedIndex": 404,
+        "curlTotalTime": 358.07714000018314,
+        "playwrightTotalTime": 561.3265300001949
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 73,
+    "timestamp": 5854364.824345022,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3546,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.127,
+        "tcpConnection": 158.329,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 361.69,
+        "totalTime": 458.735,
+        "fcp": 494.212,
+        "lcp": 494.212,
+        "speedIndex": 403,
+        "curlTotalTime": 503.20108100771904,
+        "playwrightTotalTime": 624.2702090144157
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 74,
+    "timestamp": 2568088.0451630354,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2736,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.042,
+        "tcpConnection": 208.82,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 594.277,
+        "totalTime": 594.4509999999999,
+        "fcp": 692.917,
+        "lcp": 692.917,
+        "speedIndex": 568,
+        "curlTotalTime": 634.7912750244141,
+        "playwrightTotalTime": 779.2908089160919
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 75,
+    "timestamp": 2526297.679927945,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3392,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.349000000000004,
+        "tcpConnection": 160.797,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 380.238,
+        "totalTime": 479.55199999999996,
+        "fcp": 505.622,
+        "lcp": 505.622,
+        "speedIndex": 412,
+        "curlTotalTime": 523.7765820026398,
+        "playwrightTotalTime": 627.7211890220642
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 76,
+    "timestamp": 2688501.1713700294,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3939,
+        "uploadSpeed": 0,
+        "dnsLookup": 66.153,
+        "tcpConnection": 162.301,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 320.09,
+        "totalTime": 412.964,
+        "fcp": 454.654,
+        "lcp": 454.654,
+        "speedIndex": 367,
+        "curlTotalTime": 452.04542899131775,
+        "playwrightTotalTime": 542.7364310026169
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 77,
+    "timestamp": 2370578.1993119717,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2156,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.664,
+        "tcpConnection": 209.54999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.798,
+        "totalTime": 754.486,
+        "fcp": 655.44,
+        "lcp": 655.44,
+        "speedIndex": 540,
+        "curlTotalTime": 798.9675039052963,
+        "playwrightTotalTime": 771.1062649488449
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 78,
+    "timestamp": 3672495.305479,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4155,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.123,
+        "tcpConnection": 149.99599999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 299.30899999999997,
+        "totalTime": 391.51599999999996,
+        "fcp": 443.148,
+        "lcp": 443.148,
+        "speedIndex": 367,
+        "curlTotalTime": 435.74769999971613,
+        "playwrightTotalTime": 663.5310949999839
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 79,
+    "timestamp": 5871280.0015900135,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3437,
+        "uploadSpeed": 0,
+        "dnsLookup": 63.547999999999995,
+        "tcpConnection": 164.666,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 372.44300000000004,
+        "totalTime": 473.25600000000003,
+        "fcp": 521.195,
+        "lcp": 521.195,
+        "speedIndex": 436,
+        "curlTotalTime": 520.0107539892197,
+        "playwrightTotalTime": 616.1694220006466
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 80,
+    "timestamp": 2585665.505167961,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2169,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.407999999999994,
+        "tcpConnection": 212.502,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 599.195,
+        "totalTime": 750.094,
+        "fcp": 695.991,
+        "lcp": 695.991,
+        "speedIndex": 570,
+        "curlTotalTime": 789.3614559173584,
+        "playwrightTotalTime": 793.1300749778748
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 81,
+    "timestamp": 2542939.9972029924,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3299,
+        "uploadSpeed": 0,
+        "dnsLookup": 63.622,
+        "tcpConnection": 166.717,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 390.023,
+        "totalTime": 493.08299999999997,
+        "fcp": 492.399,
+        "lcp": 492.399,
+        "speedIndex": 397,
+        "curlTotalTime": 545.2487980127335,
+        "playwrightTotalTime": 628.8599829673767
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 82,
+    "timestamp": 2704799.174597025,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5326,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.381,
+        "tcpConnection": 151.793,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 305.31399999999996,
+        "totalTime": 305.449,
+        "fcp": 442.393,
+        "lcp": 442.393,
+        "speedIndex": 367,
+        "curlTotalTime": 346.37904703617096,
+        "playwrightTotalTime": 585.9483190774918
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 83,
+    "timestamp": 2387889.841320038,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2139,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.529,
+        "tcpConnection": 214.721,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 610.247,
+        "totalTime": 760.582,
+        "fcp": 667.585,
+        "lcp": 667.585,
+        "speedIndex": 544,
+        "curlTotalTime": 805.8766720294952,
+        "playwrightTotalTime": 790.3167409896851
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 84,
+    "timestamp": 3688765.629017,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5156,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.025,
+        "tcpConnection": 155.998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 315.392,
+        "totalTime": 315.519,
+        "fcp": 430.221,
+        "lcp": 430.221,
+        "speedIndex": 363,
+        "curlTotalTime": 353.018796000164,
+        "playwrightTotalTime": 540.9693829999305
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 85,
+    "timestamp": 5887944.0243830085,
+    "webTests": [
+      {
+        "url": "http://rnuja-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3506,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.452,
+        "tcpConnection": 160.099,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 365.526,
+        "totalTime": 464.053,
+        "fcp": 521.932,
+        "lcp": 521.932,
+        "speedIndex": 433,
+        "curlTotalTime": 504.69386398792267,
+        "playwrightTotalTime": 569.3815369904041
+      }
+    ],
+    "totalDuration": 264795.7241280079,
+    "setupDuration": 1268.7305789887905,
+    "diagnosticsDuration": 0.0029359757900238037,
+    "measurementDuration": 253519.18256399035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 86,
+    "timestamp": 2603074.5272539854,
+    "webTests": [
+      {
+        "url": "http://rnkkg-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2158,
+        "uploadSpeed": 0,
+        "dnsLookup": 60.973,
+        "tcpConnection": 213.605,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 601.5200000000001,
+        "totalTime": 753.798,
+        "fcp": 692.247,
+        "lcp": 692.247,
+        "speedIndex": 570,
+        "curlTotalTime": 799.4066680669785,
+        "playwrightTotalTime": 748.3509949445724
+      }
+    ],
+    "totalDuration": 274476.82490491867,
+    "setupDuration": 1968.70834004879,
+    "diagnosticsDuration": 0.003992915153503418,
+    "measurementDuration": 262498.0612771511,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 87,
+    "timestamp": 2559621.3126950264,
+    "webTests": [
+      {
+        "url": "http://rnodb-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3254,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.313,
+        "tcpConnection": 167.5,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 394.278,
+        "totalTime": 499.99399999999997,
+        "fcp": 507.684,
+        "lcp": 507.684,
+        "speedIndex": 433,
+        "curlTotalTime": 548.9399110078812,
+        "playwrightTotalTime": 605.8948069810867
+      }
+    ],
+    "totalDuration": 262133.34493601322,
+    "setupDuration": 1215.471498966217,
+    "diagnosticsDuration": 0.002624034881591797,
+    "measurementDuration": 250908.87655305862,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 88,
+    "timestamp": 2721340.2620550394,
+    "webTests": [
+      {
+        "url": "http://rntas-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4166,
+        "uploadSpeed": 0,
+        "dnsLookup": 65.765,
+        "tcpConnection": 152.188,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 304.179,
+        "totalTime": 390.501,
+        "fcp": 447.765,
+        "lcp": 447.765,
+        "speedIndex": 370,
+        "curlTotalTime": 435.4701360464096,
+        "playwrightTotalTime": 606.2909959554672
+      }
+    ],
+    "totalDuration": 259576.3718110323,
+    "setupDuration": 1133.0586919784546,
+    "diagnosticsDuration": 0.003545999526977539,
+    "measurementDuration": 248433.9095159769,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 89,
+    "timestamp": 2405344.2407130003,
+    "webTests": [
+      {
+        "url": "http://rnsak-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2124,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.417,
+        "tcpConnection": 214.308,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 612.98,
+        "totalTime": 765.873,
+        "fcp": 701.512,
+        "lcp": 701.512,
+        "speedIndex": 582,
+        "curlTotalTime": 807.7162629365921,
+        "playwrightTotalTime": 783.7909690141678
+      }
+    ],
+    "totalDuration": 275083.05825197697,
+    "setupDuration": 1950.8598539829254,
+    "diagnosticsDuration": 0.003062009811401367,
+    "measurementDuration": 263119.6949338913,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Pinggy",
+    "measurementNumber": 90,
+    "timestamp": 3705201.8113039997,
+    "webTests": [
+      {
+        "url": "http://rnldk-174-138-65-79.a.free.pinggy.link/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4171,
+        "uploadSpeed": 0,
+        "dnsLookup": 64.33999999999999,
+        "tcpConnection": 151.26700000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 303.29499999999996,
+        "totalTime": 389.986,
+        "fcp": 455.343,
+        "lcp": 455.343,
+        "speedIndex": 375,
+        "curlTotalTime": 430.1476189997047,
+        "playwrightTotalTime": 584.9821899998933
+      }
+    ],
+    "totalDuration": 258191.28495600028,
+    "setupDuration": 1084.9424159997143,
+    "diagnosticsDuration": 0.0026679998263716698,
+    "measurementDuration": 247096.2414909983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

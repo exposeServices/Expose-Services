@@ -1,0 +1,4052 @@
+[
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 1,
+    "timestamp": 1046235.603555,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1222,
+        "uploadSpeed": 0,
+        "dnsLookup": 49.78,
+        "tcpConnection": 294.908,
+        "tlsHandshake": 1007.8149999999999,
+        "timeToFirstByte": 1331.174,
+        "totalTime": 1331.3319999999999,
+        "fcp": 1493.865,
+        "lcp": 2540.975,
+        "speedIndex": 2396,
+        "curlTotalTime": 1371.4190519999247,
+        "playwrightTotalTime": 2445.1247470000526
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 2,
+    "timestamp": 831959.982353,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1349,
+        "uploadSpeed": 0,
+        "dnsLookup": 212.034,
+        "tcpConnection": 457.944,
+        "tlsHandshake": 956.631,
+        "timeToFirstByte": 1205.312,
+        "totalTime": 1205.414,
+        "fcp": 1083.531,
+        "lcp": 2135.633,
+        "speedIndex": 1872,
+        "curlTotalTime": 1245.4814979999792,
+        "playwrightTotalTime": 2564.7423989999807
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 3,
+    "timestamp": 1033903.963789,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1012,
+        "uploadSpeed": 0,
+        "dnsLookup": 205.991,
+        "tcpConnection": 447.849,
+        "tlsHandshake": 1228.0120000000002,
+        "timeToFirstByte": 1607.477,
+        "totalTime": 1607.57,
+        "fcp": 1096.509,
+        "lcp": 2236.022,
+        "speedIndex": 1933,
+        "curlTotalTime": 1656.4159969999455,
+        "playwrightTotalTime": 2827.1739009999437
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 4,
+    "timestamp": 978922.831527,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 996,
+        "uploadSpeed": 0,
+        "dnsLookup": 216.74599999999998,
+        "tcpConnection": 461.503,
+        "tlsHandshake": 1249.927,
+        "timeToFirstByte": 1632.3719999999998,
+        "totalTime": 1632.4840000000002,
+        "fcp": 1084.736,
+        "lcp": 2165.911,
+        "speedIndex": 1969,
+        "curlTotalTime": 1679.6734779999824,
+        "playwrightTotalTime": 2860.3017919999547
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 5,
+    "timestamp": 1392021.570179,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1133,
+        "uploadSpeed": 0,
+        "dnsLookup": 200.162,
+        "tcpConnection": 445.425,
+        "tlsHandshake": 1098.126,
+        "timeToFirstByte": 1435.413,
+        "totalTime": 1435.512,
+        "fcp": 1053.322,
+        "lcp": 2081.57,
+        "speedIndex": 1937,
+        "curlTotalTime": 1482.3165929999668,
+        "playwrightTotalTime": 2748.5441809999757
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 6,
+    "timestamp": 1127247.618785,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1359,
+        "uploadSpeed": 0,
+        "dnsLookup": 204.31,
+        "tcpConnection": 446.973,
+        "tlsHandshake": 951.207,
+        "timeToFirstByte": 1196.28,
+        "totalTime": 1196.3919999999998,
+        "fcp": 1660.905,
+        "lcp": 2696.552,
+        "speedIndex": 2502,
+        "curlTotalTime": 1238.8522870000452,
+        "playwrightTotalTime": 2786.169962000102
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 7,
+    "timestamp": 1377933.754221,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1344,
+        "uploadSpeed": 0,
+        "dnsLookup": 201.97799999999998,
+        "tcpConnection": 447.666,
+        "tlsHandshake": 961.678,
+        "timeToFirstByte": 1209.836,
+        "totalTime": 1209.9660000000001,
+        "fcp": 1632.415,
+        "lcp": 2671.698,
+        "speedIndex": 2525,
+        "curlTotalTime": 1255.3587420000695,
+        "playwrightTotalTime": 2517.2980740000494
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 8,
+    "timestamp": 1691327.142305,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 959,
+        "uploadSpeed": 0,
+        "dnsLookup": 208.52,
+        "tcpConnection": 453.65299999999996,
+        "tlsHandshake": 1285.29,
+        "timeToFirstByte": 1696.024,
+        "totalTime": 1696.148,
+        "fcp": 1564.092,
+        "lcp": 2765.387,
+        "speedIndex": 2589,
+        "curlTotalTime": 1748.4308909999672,
+        "playwrightTotalTime": 3152.0592729998752
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 9,
+    "timestamp": 1318724.057536,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1094,
+        "uploadSpeed": 0,
+        "dnsLookup": 56.099999999999994,
+        "tcpConnection": 305.95099999999996,
+        "tlsHandshake": 1097.335,
+        "timeToFirstByte": 1487.035,
+        "totalTime": 1487.155,
+        "fcp": 1335.079,
+        "lcp": 2395.146,
+        "speedIndex": 2241,
+        "curlTotalTime": 1529.7155790000688,
+        "playwrightTotalTime": 2421.034852999961
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 10,
+    "timestamp": 1068634.876604,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1055,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5149999999999997,
+        "tcpConnection": 245.148,
+        "tlsHandshake": 1118.573,
+        "timeToFirstByte": 1540.713,
+        "totalTime": 1540.84,
+        "fcp": 1261.841,
+        "lcp": 2353.021,
+        "speedIndex": 2181,
+        "curlTotalTime": 1585.5439710000064,
+        "playwrightTotalTime": 2537.5710909998743
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 11,
+    "timestamp": 854520.466834,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1165,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.464,
+        "tcpConnection": 245.469,
+        "tlsHandshake": 1012.9760000000001,
+        "timeToFirstByte": 1395.422,
+        "totalTime": 1395.522,
+        "fcp": 1465.387,
+        "lcp": 2561.448,
+        "speedIndex": 2287,
+        "curlTotalTime": 1441.917529999977,
+        "playwrightTotalTime": 2778.5966470000567
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 12,
+    "timestamp": 1071746.278443,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 101,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.971,
+        "tcpConnection": 247.095,
+        "tlsHandshake": 11413.142,
+        "timeToFirstByte": 15971.118,
+        "totalTime": 15971.231,
+        "fcp": 1562.491,
+        "lcp": 2688.871,
+        "speedIndex": 2445,
+        "curlTotalTime": 16014.046807999955,
+        "playwrightTotalTime": 2807.670832999982
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 13,
+    "timestamp": 1001169.255047,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1343,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.633,
+        "tcpConnection": 242.51600000000002,
+        "tlsHandshake": 893.287,
+        "timeToFirstByte": 1210.721,
+        "totalTime": 1210.829,
+        "fcp": 1532.828,
+        "lcp": 2630.676,
+        "speedIndex": 2314,
+        "curlTotalTime": 1253.5591199999908,
+        "playwrightTotalTime": 2689.1521169999614
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 14,
+    "timestamp": 1414356.719364,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1160,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.968,
+        "tcpConnection": 246.231,
+        "tlsHandshake": 1018.216,
+        "timeToFirstByte": 1402.16,
+        "totalTime": 1402.25,
+        "fcp": 1086.425,
+        "lcp": 2099.266,
+        "speedIndex": 1960,
+        "curlTotalTime": 1444.0261709999759,
+        "playwrightTotalTime": 2858.736167000141
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 15,
+    "timestamp": 1150442.725739,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1340,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9949999999999997,
+        "tcpConnection": 244.001,
+        "tlsHandshake": 893.886,
+        "timeToFirstByte": 1213.214,
+        "totalTime": 1213.308,
+        "fcp": 1683.162,
+        "lcp": 2849.411,
+        "speedIndex": 2669,
+        "curlTotalTime": 1263.846468000207,
+        "playwrightTotalTime": 2835.6467369999737
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 16,
+    "timestamp": 1401172.476659,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1320,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.725,
+        "tcpConnection": 248.29100000000003,
+        "tlsHandshake": 909.169,
+        "timeToFirstByte": 1232.412,
+        "totalTime": 1232.524,
+        "fcp": 1622.7,
+        "lcp": 2667.856,
+        "speedIndex": 2524,
+        "curlTotalTime": 1276.4892329999711,
+        "playwrightTotalTime": 2835.9993280000053
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 17,
+    "timestamp": 1714289.577265,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1088,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8240000000000003,
+        "tcpConnection": 240.65900000000002,
+        "tlsHandshake": 1077.17,
+        "timeToFirstByte": 1494.336,
+        "totalTime": 1494.451,
+        "fcp": 1500.685,
+        "lcp": 2679.222,
+        "speedIndex": 2512,
+        "curlTotalTime": 1535.7405960001051,
+        "playwrightTotalTime": 2455.2660710001364
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 18,
+    "timestamp": 1341431.633945,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1121,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.32,
+        "tcpConnection": 246.044,
+        "tlsHandshake": 1032.8139999999999,
+        "timeToFirstByte": 1449.945,
+        "totalTime": 1450.094,
+        "fcp": 1622.001,
+        "lcp": 2753.035,
+        "speedIndex": 2605,
+        "curlTotalTime": 1488.4516610000283,
+        "playwrightTotalTime": 2371.434317999985
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 19,
+    "timestamp": 1091341.229897,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1109,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.881,
+        "tcpConnection": 246.022,
+        "tlsHandshake": 1051.7620000000002,
+        "timeToFirstByte": 1466.2759999999998,
+        "totalTime": 1466.401,
+        "fcp": 1355.86,
+        "lcp": 2401.615,
+        "speedIndex": 2265,
+        "curlTotalTime": 1506.3433979998808,
+        "playwrightTotalTime": 2865.2206939999014
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 20,
+    "timestamp": 876710.357932,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1370,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7520000000000002,
+        "tcpConnection": 239.76,
+        "tlsHandshake": 871.984,
+        "timeToFirstByte": 1186.671,
+        "totalTime": 1186.763,
+        "fcp": 1331.181,
+        "lcp": 2464.753,
+        "speedIndex": 2167,
+        "curlTotalTime": 1230.2606470000464,
+        "playwrightTotalTime": 2843.8266610000283
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 21,
+    "timestamp": 1117410.912929,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1667,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.98,
+        "tcpConnection": 240.123,
+        "tlsHandshake": 727.72,
+        "timeToFirstByte": 975.745,
+        "totalTime": 975.831,
+        "fcp": 1493.088,
+        "lcp": 2682.497,
+        "speedIndex": 2394,
+        "curlTotalTime": 1024.6693410000298,
+        "playwrightTotalTime": 25605.136569000082
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 22,
+    "timestamp": 1022861.34448,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1693,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.61,
+        "tcpConnection": 238.313,
+        "tlsHandshake": 721.016,
+        "timeToFirstByte": 960.8449999999999,
+        "totalTime": 960.933,
+        "fcp": 1473.502,
+        "lcp": 2548.653,
+        "speedIndex": 2400,
+        "curlTotalTime": 1004.1188369999873,
+        "playwrightTotalTime": 2531.786551999976
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 23,
+    "timestamp": 1437061.208627,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1347,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.938,
+        "tcpConnection": 244.62800000000001,
+        "tlsHandshake": 887.323,
+        "timeToFirstByte": 1207.295,
+        "totalTime": 1207.4009999999998,
+        "fcp": 1582.487,
+        "lcp": 2720.458,
+        "speedIndex": 2505,
+        "curlTotalTime": 1250.982204,
+        "playwrightTotalTime": 2704.202358999988
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 24,
+    "timestamp": 1174084.490635,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 998,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0100000000000002,
+        "tcpConnection": 240.437,
+        "tlsHandshake": 1387.899,
+        "timeToFirstByte": 1629.326,
+        "totalTime": 1629.465,
+        "fcp": 1492.132,
+        "lcp": 2688.379,
+        "speedIndex": 2526,
+        "curlTotalTime": 1679.666363999946,
+        "playwrightTotalTime": 2747.206533999881
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 25,
+    "timestamp": 1423398.259155,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1628,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.761,
+        "tcpConnection": 240.18300000000002,
+        "tlsHandshake": 758.304,
+        "timeToFirstByte": 999.184,
+        "totalTime": 999.287,
+        "fcp": 1474.057,
+        "lcp": 2615.743,
+        "speedIndex": 2428,
+        "curlTotalTime": 1040.5555460001342,
+        "playwrightTotalTime": 2555.2758369999938
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 26,
+    "timestamp": 1736886.841309,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1090,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.238,
+        "tcpConnection": 247.733,
+        "tlsHandshake": 1081.487,
+        "timeToFirstByte": 1491.9679999999998,
+        "totalTime": 1492.06,
+        "fcp": 1144.043,
+        "lcp": 2242.419,
+        "speedIndex": 2096,
+        "curlTotalTime": 1533.3029789999127,
+        "playwrightTotalTime": 2933.8594629999716
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 27,
+    "timestamp": 1363709.431611,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1327,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.801,
+        "tcpConnection": 246.70600000000002,
+        "tlsHandshake": 904.638,
+        "timeToFirstByte": 1225.5549999999998,
+        "totalTime": 1225.674,
+        "fcp": 1159.809,
+        "lcp": 2296.286,
+        "speedIndex": 2143,
+        "curlTotalTime": 1266.956341000041,
+        "playwrightTotalTime": 2803.192885000026
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 28,
+    "timestamp": 1113485.016326,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1640,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.182,
+        "tcpConnection": 242.07,
+        "tlsHandshake": 747.656,
+        "timeToFirstByte": 991.442,
+        "totalTime": 991.561,
+        "fcp": 1535.669,
+        "lcp": 2634.767,
+        "speedIndex": 2475,
+        "curlTotalTime": 1036.0383390001953,
+        "playwrightTotalTime": 2707.7726789999288
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 29,
+    "timestamp": 899101.151292,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1654,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.742,
+        "tcpConnection": 243.302,
+        "tlsHandshake": 739.116,
+        "timeToFirstByte": 983.515,
+        "totalTime": 983.644,
+        "fcp": 1540.787,
+        "lcp": 2746.61,
+        "speedIndex": 2430,
+        "curlTotalTime": 1021.92400800006,
+        "playwrightTotalTime": 2742.155211000005
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 30,
+    "timestamp": 1139959.179154,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1139,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.285,
+        "tcpConnection": 238.922,
+        "tlsHandshake": 1032.894,
+        "timeToFirstByte": 1428.1889999999999,
+        "totalTime": 1428.31,
+        "fcp": 1505.003,
+        "lcp": 2590.545,
+        "speedIndex": 2394,
+        "curlTotalTime": 1473.1652919999324,
+        "playwrightTotalTime": 2363.1365940000396
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 31,
+    "timestamp": 1044912.652717,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1108,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.507,
+        "tcpConnection": 247.57199999999997,
+        "tlsHandshake": 1060.838,
+        "timeToFirstByte": 1467.356,
+        "totalTime": 1467.448,
+        "fcp": 1306.907,
+        "lcp": 2375.509,
+        "speedIndex": 2219,
+        "curlTotalTime": 1512.950176000013,
+        "playwrightTotalTime": 2262.9984989999793
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 32,
+    "timestamp": 1459424.39829,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1069,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.419,
+        "tcpConnection": 246.95600000000002,
+        "tlsHandshake": 1098.997,
+        "timeToFirstByte": 1521.586,
+        "totalTime": 1521.693,
+        "fcp": 1527.686,
+        "lcp": 2587.518,
+        "speedIndex": 2441,
+        "curlTotalTime": 1572.83456200012,
+        "playwrightTotalTime": 2286.163508000085
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 33,
+    "timestamp": 1197564.999976,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1103,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.448,
+        "tcpConnection": 245.34,
+        "tlsHandshake": 1066.68,
+        "timeToFirstByte": 1474.243,
+        "totalTime": 1474.338,
+        "fcp": 1323.915,
+        "lcp": 2506.622,
+        "speedIndex": 2333,
+        "curlTotalTime": 1521.7818200001493,
+        "playwrightTotalTime": 2882.0710439998657
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 34,
+    "timestamp": 1445936.775388,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1098,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.796,
+        "tcpConnection": 245.478,
+        "tlsHandshake": 1072.333,
+        "timeToFirstByte": 1480.558,
+        "totalTime": 1480.6680000000001,
+        "fcp": 1360.391,
+        "lcp": 2391.395,
+        "speedIndex": 2232,
+        "curlTotalTime": 1526.9641790001187,
+        "playwrightTotalTime": 2790.9178369999863
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 35,
+    "timestamp": 1760256.572325,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1290,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9619999999999997,
+        "tcpConnection": 240.4,
+        "tlsHandshake": 943.6360000000001,
+        "timeToFirstByte": 1260.45,
+        "totalTime": 1260.54,
+        "fcp": 1600.618,
+        "lcp": 2935.457,
+        "speedIndex": 2762,
+        "curlTotalTime": 1315.9456489998847,
+        "playwrightTotalTime": 2802.570042999927
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 36,
+    "timestamp": 1386362.794373,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 972,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.458,
+        "tcpConnection": 254.345,
+        "tlsHandshake": 1210.925,
+        "timeToFirstByte": 1672.917,
+        "totalTime": 1673.023,
+        "fcp": 1551.244,
+        "lcp": 2655.575,
+        "speedIndex": 2499,
+        "curlTotalTime": 1721.4305569999851,
+        "playwrightTotalTime": 2560.910416000057
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 37,
+    "timestamp": 1135785.920194,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1125,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.518,
+        "tcpConnection": 240.863,
+        "tlsHandshake": 1044.503,
+        "timeToFirstByte": 1445.4119999999998,
+        "totalTime": 1445.5059999999999,
+        "fcp": 1088.847,
+        "lcp": 2138.438,
+        "speedIndex": 1985,
+        "curlTotalTime": 1486.5819060001522,
+        "playwrightTotalTime": 2553.571888000006
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 38,
+    "timestamp": 920497.467155,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1103,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6670000000000003,
+        "tcpConnection": 246.972,
+        "tlsHandshake": 1062.312,
+        "timeToFirstByte": 1474.24,
+        "totalTime": 1474.334,
+        "fcp": 1301.72,
+        "lcp": 2466.572,
+        "speedIndex": 2158,
+        "curlTotalTime": 1526.5179720000597,
+        "playwrightTotalTime": 1744.398380999919
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 39,
+    "timestamp": 1162149.915172,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1208,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.303,
+        "tcpConnection": 239.345,
+        "tlsHandshake": 1023.5190000000001,
+        "timeToFirstByte": 1346.522,
+        "totalTime": 1346.67,
+        "fcp": 1179.881,
+        "lcp": 2194.479,
+        "speedIndex": 1931,
+        "curlTotalTime": 1393.9098590000067,
+        "playwrightTotalTime": 2770.224863000214
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 40,
+    "timestamp": 1066946.124211,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1163,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.155,
+        "tcpConnection": 245.784,
+        "tlsHandshake": 1015.63,
+        "timeToFirstByte": 1398.774,
+        "totalTime": 1398.8890000000001,
+        "fcp": 1556.933,
+        "lcp": 2627.551,
+        "speedIndex": 2481,
+        "curlTotalTime": 1439.5390459999908,
+        "playwrightTotalTime": 2276.7926860000007
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 41,
+    "timestamp": 1482020.187112,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1105,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5300000000000002,
+        "tcpConnection": 245.211,
+        "tlsHandshake": 1064.222,
+        "timeToFirstByte": 1471.992,
+        "totalTime": 1472.117,
+        "fcp": 1118.795,
+        "lcp": 2184.732,
+        "speedIndex": 2037,
+        "curlTotalTime": 1511.3854450001381,
+        "playwrightTotalTime": 2743.8495499999262
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 42,
+    "timestamp": 1221490.665978,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1133,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.133,
+        "tcpConnection": 247.148,
+        "tlsHandshake": 1036.772,
+        "timeToFirstByte": 1434.71,
+        "totalTime": 1434.8229999999999,
+        "fcp": 1637.28,
+        "lcp": 2746.953,
+        "speedIndex": 2581,
+        "curlTotalTime": 1483.8242420000024,
+        "playwrightTotalTime": 3045.675123000052
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 43,
+    "timestamp": 1468755.20377,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1165,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.819,
+        "tcpConnection": 239.203,
+        "tlsHandshake": 1019.368,
+        "timeToFirstByte": 1396.135,
+        "totalTime": 1396.224,
+        "fcp": 1609.24,
+        "lcp": 2657.295,
+        "speedIndex": 2502,
+        "curlTotalTime": 1443.8660349999554,
+        "playwrightTotalTime": 2776.937416000059
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 44,
+    "timestamp": 1783014.186585,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1658,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.593,
+        "tcpConnection": 243.41,
+        "tlsHandshake": 736.529,
+        "timeToFirstByte": 980.975,
+        "totalTime": 981.075,
+        "fcp": 1517.818,
+        "lcp": 2646.201,
+        "speedIndex": 2492,
+        "curlTotalTime": 1041.4510600001086,
+        "playwrightTotalTime": 2882.575806000037
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 45,
+    "timestamp": 1408709.42022,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1582,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3739999999999997,
+        "tcpConnection": 241.203,
+        "tlsHandshake": 767.1419999999999,
+        "timeToFirstByte": 1028.199,
+        "totalTime": 1028.282,
+        "fcp": 1375.48,
+        "lcp": 2519.985,
+        "speedIndex": 2342,
+        "curlTotalTime": 1069.7230060000438,
+        "playwrightTotalTime": 2941.7132379999384
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 46,
+    "timestamp": 1158789.093653,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1495,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.64,
+        "tcpConnection": 246.327,
+        "tlsHandshake": 838.588,
+        "timeToFirstByte": 1087.6399999999999,
+        "totalTime": 1087.758,
+        "fcp": 1398.122,
+        "lcp": 2438.818,
+        "speedIndex": 2296,
+        "curlTotalTime": 1126.5650860001333,
+        "playwrightTotalTime": 3566.6879700000864
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 47,
+    "timestamp": 943119.069263,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1341,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.069,
+        "tcpConnection": 243.64,
+        "tlsHandshake": 886.574,
+        "timeToFirstByte": 1213.006,
+        "totalTime": 1213.116,
+        "fcp": 1576.612,
+        "lcp": 2699.08,
+        "speedIndex": 2442,
+        "curlTotalTime": 1253.1543130000355,
+        "playwrightTotalTime": 2748.1725909999805
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 48,
+    "timestamp": 1184670.910998,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1149,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1270000000000002,
+        "tcpConnection": 242.626,
+        "tlsHandshake": 1036.672,
+        "timeToFirstByte": 1415.7040000000002,
+        "totalTime": 1415.8090000000002,
+        "fcp": 1556.35,
+        "lcp": 2658.451,
+        "speedIndex": 2383,
+        "curlTotalTime": 1457.3511230000295,
+        "playwrightTotalTime": 2534.0789139999542
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 49,
+    "timestamp": 1089046.432598,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1174,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9929999999999999,
+        "tcpConnection": 242.122,
+        "tlsHandshake": 1004.1899999999999,
+        "timeToFirstByte": 1384.709,
+        "totalTime": 1384.837,
+        "fcp": 1321.414,
+        "lcp": 2424.572,
+        "speedIndex": 2217,
+        "curlTotalTime": 1421.0966450001579,
+        "playwrightTotalTime": 2165.9502210000064
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 50,
+    "timestamp": 1504501.679947,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1341,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.184,
+        "tcpConnection": 246.625,
+        "tlsHandshake": 891.5,
+        "timeToFirstByte": 1212.316,
+        "totalTime": 1212.428,
+        "fcp": 1585.332,
+        "lcp": 2638.442,
+        "speedIndex": 2438,
+        "curlTotalTime": 1264.580014999956,
+        "playwrightTotalTime": 2712.786608999828
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 51,
+    "timestamp": 1245723.618966,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1611,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.488,
+        "tcpConnection": 244.561,
+        "tlsHandshake": 742.374,
+        "timeToFirstByte": 1009.7510000000001,
+        "totalTime": 1009.8620000000001,
+        "fcp": 1518.177,
+        "lcp": 4067.948,
+        "speedIndex": 3657,
+        "curlTotalTime": 1048.4999800000805,
+        "playwrightTotalTime": 2740.1340260000434
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 52,
+    "timestamp": 1490953.163078,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1690,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.012,
+        "tcpConnection": 239.44,
+        "tlsHandshake": 722.175,
+        "timeToFirstByte": 962.356,
+        "totalTime": 962.466,
+        "fcp": 1510.564,
+        "lcp": 2588.653,
+        "speedIndex": 2460,
+        "curlTotalTime": 1005.8828129998874,
+        "playwrightTotalTime": 2614.820427000057
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 53,
+    "timestamp": 1806096.872792,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1121,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.006,
+        "tcpConnection": 239.59,
+        "tlsHandshake": 1048.269,
+        "timeToFirstByte": 1451.242,
+        "totalTime": 1451.338,
+        "fcp": 1083.728,
+        "lcp": 2437.606,
+        "speedIndex": 2245,
+        "curlTotalTime": 1495.0720679999795,
+        "playwrightTotalTime": 2923.574283000082
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 54,
+    "timestamp": 1431495.664002,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1059,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.464,
+        "tcpConnection": 249.811,
+        "tlsHandshake": 1124.779,
+        "timeToFirstByte": 1535.719,
+        "totalTime": 1535.836,
+        "fcp": 1679.57,
+        "lcp": 2871.639,
+        "speedIndex": 2721,
+        "curlTotalTime": 1577.527499999851,
+        "playwrightTotalTime": 2446.6049360001925
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 55,
+    "timestamp": 1180786.693342,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1087,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.443,
+        "tcpConnection": 245.571,
+        "tlsHandshake": 1091.1390000000001,
+        "timeToFirstByte": 1495.492,
+        "totalTime": 1495.636,
+        "fcp": 1641.686,
+        "lcp": 2156.244,
+        "speedIndex": 2083,
+        "curlTotalTime": 1535.0055299999658,
+        "playwrightTotalTime": 2571.2435930001084
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 56,
+    "timestamp": 965004.897079,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1139,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8930000000000002,
+        "tcpConnection": 238.53199999999998,
+        "tlsHandshake": 1032.496,
+        "timeToFirstByte": 1427.7649999999999,
+        "totalTime": 1427.8690000000001,
+        "fcp": 1380.389,
+        "lcp": 2424.519,
+        "speedIndex": 2206,
+        "curlTotalTime": 1470.1798580000177,
+        "playwrightTotalTime": 2314.646168000065
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 57,
+    "timestamp": 1206677.898047,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1657,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.543,
+        "tcpConnection": 242.331,
+        "tlsHandshake": 736.928,
+        "timeToFirstByte": 981.557,
+        "totalTime": 981.657,
+        "fcp": 1306.554,
+        "lcp": 2423.813,
+        "speedIndex": 2176,
+        "curlTotalTime": 1028.7536649999674,
+        "playwrightTotalTime": 2735.758211000124
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 58,
+    "timestamp": 1111369.302319,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1633,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.803,
+        "tcpConnection": 246.337,
+        "tlsHandshake": 744.8580000000001,
+        "timeToFirstByte": 995.788,
+        "totalTime": 995.884,
+        "fcp": 1552.024,
+        "lcp": 2645.717,
+        "speedIndex": 2466,
+        "curlTotalTime": 1036.8122809999622,
+        "playwrightTotalTime": 2726.1968910000287
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 59,
+    "timestamp": 1526385.875019,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1074,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2399999999999998,
+        "tcpConnection": 245.90699999999998,
+        "tlsHandshake": 1092.5249999999999,
+        "timeToFirstByte": 1514.313,
+        "totalTime": 1514.416,
+        "fcp": 1307.007,
+        "lcp": 2364.572,
+        "speedIndex": 2170,
+        "curlTotalTime": 1554.1057470000815,
+        "playwrightTotalTime": 2224.564923999831
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 60,
+    "timestamp": 1267752.9251,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1102,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.732,
+        "tcpConnection": 245.89,
+        "tlsHandshake": 1066.643,
+        "timeToFirstByte": 1475.778,
+        "totalTime": 1475.892,
+        "fcp": 1085.089,
+        "lcp": 1723.3,
+        "speedIndex": 1624,
+        "curlTotalTime": 1513.7834189999849,
+        "playwrightTotalTime": 2927.64035900007
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 61,
+    "timestamp": 1512881.914602,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1120,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.718,
+        "tcpConnection": 237.429,
+        "tlsHandshake": 1041.472,
+        "timeToFirstByte": 1451.484,
+        "totalTime": 1451.584,
+        "fcp": 1086.315,
+        "lcp": 1571.686,
+        "speedIndex": 1533,
+        "curlTotalTime": 1490.803731000051,
+        "playwrightTotalTime": 2940.298014000058
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 62,
+    "timestamp": 1829133.546447,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1323,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.6180000000000003,
+        "tcpConnection": 241.647,
+        "tlsHandshake": 909.1120000000001,
+        "timeToFirstByte": 1229.414,
+        "totalTime": 1229.53,
+        "fcp": 1638.411,
+        "lcp": 2725.961,
+        "speedIndex": 2592,
+        "curlTotalTime": 1281.9268210001756,
+        "playwrightTotalTime": 2822.0875979999546
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 63,
+    "timestamp": 1453444.869243,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1264,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7430000000000003,
+        "tcpConnection": 243.103,
+        "tlsHandshake": 969.1650000000001,
+        "timeToFirstByte": 1286.59,
+        "totalTime": 1286.691,
+        "fcp": 1062.237,
+        "lcp": 2134.778,
+        "speedIndex": 2014,
+        "curlTotalTime": 1327.8149060001597,
+        "playwrightTotalTime": 2751.0108870000113
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 64,
+    "timestamp": 1202752.857816,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1607,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3449999999999998,
+        "tcpConnection": 242.01,
+        "tlsHandshake": 768.317,
+        "timeToFirstByte": 1012.2439999999999,
+        "totalTime": 1012.3539999999999,
+        "fcp": 1093.028,
+        "lcp": 2167.055,
+        "speedIndex": 2017,
+        "curlTotalTime": 1057.6963319999631,
+        "playwrightTotalTime": 2891.5354230001103
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 65,
+    "timestamp": 987252.751781,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1328,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.591,
+        "tcpConnection": 247.355,
+        "tlsHandshake": 900.824,
+        "timeToFirstByte": 1224.385,
+        "totalTime": 1224.501,
+        "fcp": 1086.761,
+        "lcp": 2178.331,
+        "speedIndex": 1905,
+        "curlTotalTime": 1271.7548340000212,
+        "playwrightTotalTime": 2746.121532000019
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 66,
+    "timestamp": 1229115.783062,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1114,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.234,
+        "tcpConnection": 246.28900000000002,
+        "tlsHandshake": 1054.466,
+        "timeToFirstByte": 1459.811,
+        "totalTime": 1459.9089999999999,
+        "fcp": 1450.228,
+        "lcp": 2533.199,
+        "speedIndex": 2288,
+        "curlTotalTime": 1509.2745039998554,
+        "playwrightTotalTime": 2346.620099000167
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 67,
+    "timestamp": 1133411.993123,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1138,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.685,
+        "tcpConnection": 238.35999999999999,
+        "tlsHandshake": 1033.284,
+        "timeToFirstByte": 1428.777,
+        "totalTime": 1428.8890000000001,
+        "fcp": 1388.076,
+        "lcp": 2512.799,
+        "speedIndex": 2361,
+        "curlTotalTime": 1470.7782449999359,
+        "playwrightTotalTime": 2288.1286469998304
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 68,
+    "timestamp": 1549313.608782,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1164,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.841,
+        "tcpConnection": 243.953,
+        "tlsHandshake": 1015.657,
+        "timeToFirstByte": 1397.238,
+        "totalTime": 1397.3500000000001,
+        "fcp": 1670.64,
+        "lcp": 2729.478,
+        "speedIndex": 2562,
+        "curlTotalTime": 1440.351360999979,
+        "playwrightTotalTime": 2787.6933600001503
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 69,
+    "timestamp": 1290046.400877,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1333,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.949,
+        "tcpConnection": 246.93300000000002,
+        "tlsHandshake": 897.672,
+        "timeToFirstByte": 1219.889,
+        "totalTime": 1219.994,
+        "fcp": 1571.015,
+        "lcp": 2770.49,
+        "speedIndex": 2572,
+        "curlTotalTime": 1263.0147840001155,
+        "playwrightTotalTime": 2269.7104080000427
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 70,
+    "timestamp": 1539737.705831,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 419,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.003,
+        "tcpConnection": 244.369,
+        "tlsHandshake": 3513.263,
+        "timeToFirstByte": 3876.818,
+        "totalTime": 3876.92,
+        "fcp": 1589.514,
+        "lcp": 2683.225,
+        "speedIndex": 2530,
+        "curlTotalTime": 3923.916002999991,
+        "playwrightTotalTime": 3710.4035300000105
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 71,
+    "timestamp": 1851785.759154,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1062,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.311,
+        "tcpConnection": 243.34,
+        "tlsHandshake": 1114.4579999999999,
+        "timeToFirstByte": 1531.77,
+        "totalTime": 1531.881,
+        "fcp": 1332.73,
+        "lcp": 2491.62,
+        "speedIndex": 2297,
+        "curlTotalTime": 1602.2048629999626,
+        "playwrightTotalTime": 2419.6051729999017
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 72,
+    "timestamp": 1475471.814229,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1082,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3379999999999996,
+        "tcpConnection": 240.764,
+        "tlsHandshake": 1092.786,
+        "timeToFirstByte": 1503.5259999999998,
+        "totalTime": 1503.636,
+        "fcp": 1088.835,
+        "lcp": 2165.478,
+        "speedIndex": 2046,
+        "curlTotalTime": 1553.6607470000163,
+        "playwrightTotalTime": 2596.320173999993
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 73,
+    "timestamp": 1226863.991186,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1229,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.108,
+        "tcpConnection": 238.987,
+        "tlsHandshake": 993.715,
+        "timeToFirstByte": 1323.622,
+        "totalTime": 1323.73,
+        "fcp": 1331.466,
+        "lcp": 2414.038,
+        "speedIndex": 2260,
+        "curlTotalTime": 1373.0310909999534,
+        "playwrightTotalTime": 4227.63285699999
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 74,
+    "timestamp": 1009452.095636,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1116,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.644,
+        "tcpConnection": 244.677,
+        "tlsHandshake": 1055.3760000000002,
+        "timeToFirstByte": 1457.554,
+        "totalTime": 1457.644,
+        "fcp": 1522.206,
+        "lcp": 2596.503,
+        "speedIndex": 2305,
+        "curlTotalTime": 1496.6082929999102,
+        "playwrightTotalTime": 2295.583788000047
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 75,
+    "timestamp": 1251090.527079,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1369,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.322,
+        "tcpConnection": 239.791,
+        "tlsHandshake": 872.938,
+        "timeToFirstByte": 1187.56,
+        "totalTime": 1187.729,
+        "fcp": 1087.037,
+        "lcp": 2170.713,
+        "speedIndex": 1924,
+        "curlTotalTime": 1232.2598699999508,
+        "playwrightTotalTime": 2805.366859999951
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 76,
+    "timestamp": 1156070.627539,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1338,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.864,
+        "tcpConnection": 246.00900000000001,
+        "tlsHandshake": 893.336,
+        "timeToFirstByte": 1215.8700000000001,
+        "totalTime": 1215.9679999999998,
+        "fcp": 1535.18,
+        "lcp": 2603.016,
+        "speedIndex": 2459,
+        "curlTotalTime": 1264.0051489998586,
+        "playwrightTotalTime": 2757.195081999991
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 77,
+    "timestamp": 1571288.998429,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1646,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.303,
+        "tcpConnection": 244.668,
+        "tlsHandshake": 740.975,
+        "timeToFirstByte": 988.1,
+        "totalTime": 988.223,
+        "fcp": 1501.743,
+        "lcp": 2540.759,
+        "speedIndex": 2381,
+        "curlTotalTime": 1032.8227160000242,
+        "playwrightTotalTime": 2482.48358
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 78,
+    "timestamp": 1313131.617916,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1069,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5010000000000003,
+        "tcpConnection": 246.704,
+        "tlsHandshake": 1098.0339999999999,
+        "timeToFirstByte": 1520.91,
+        "totalTime": 1521.021,
+        "fcp": 1479.682,
+        "lcp": 2648.167,
+        "speedIndex": 2481,
+        "curlTotalTime": 1560.5836050000507,
+        "playwrightTotalTime": 2329.453080000123
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 79,
+    "timestamp": 1562419.611257,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1091,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.801,
+        "tcpConnection": 239.964,
+        "tlsHandshake": 1074.2469999999998,
+        "timeToFirstByte": 1489.857,
+        "totalTime": 1489.949,
+        "fcp": 1579.896,
+        "lcp": 2711.366,
+        "speedIndex": 2523,
+        "curlTotalTime": 1532.8726800000295,
+        "playwrightTotalTime": 2317.918793000048
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 80,
+    "timestamp": 1874433.237784,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1179,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5860000000000003,
+        "tcpConnection": 238.292,
+        "tlsHandshake": 996.165,
+        "timeToFirstByte": 1378.8780000000002,
+        "totalTime": 1378.971,
+        "fcp": 1108.885,
+        "lcp": 2210.854,
+        "speedIndex": 2079,
+        "curlTotalTime": 1424.0667970001232,
+        "playwrightTotalTime": 2957.982476999983
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 81,
+    "timestamp": 1498298.306434,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1054,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7889999999999997,
+        "tcpConnection": 247.168,
+        "tlsHandshake": 1086.021,
+        "timeToFirstByte": 1542.853,
+        "totalTime": 1543.038,
+        "fcp": 1527.278,
+        "lcp": 2637.535,
+        "speedIndex": 2463,
+        "curlTotalTime": 1591.3862029998563,
+        "playwrightTotalTime": 2735.099087999901
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 82,
+    "timestamp": 1249423.130576,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1113,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.933,
+        "tcpConnection": 243.959,
+        "tlsHandshake": 1053.2459999999999,
+        "timeToFirstByte": 1460.942,
+        "totalTime": 1461.028,
+        "fcp": 1537.346,
+        "lcp": 2624.978,
+        "speedIndex": 2426,
+        "curlTotalTime": 1505.228361000074,
+        "playwrightTotalTime": 2377.1294390000403
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 83,
+    "timestamp": 1032091.000448,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1359,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.593,
+        "tcpConnection": 241.987,
+        "tlsHandshake": 879.379,
+        "timeToFirstByte": 1196.316,
+        "totalTime": 1196.421,
+        "fcp": 1471.255,
+        "lcp": 2568.194,
+        "speedIndex": 2337,
+        "curlTotalTime": 1243.1631170000182,
+        "playwrightTotalTime": 2818.583409999963
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 84,
+    "timestamp": 1273767.038172,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1151,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2,
+        "tcpConnection": 248.76999999999998,
+        "tlsHandshake": 1027.9270000000001,
+        "timeToFirstByte": 1412.9,
+        "totalTime": 1412.987,
+        "fcp": 1530.937,
+        "lcp": 2620.105,
+        "speedIndex": 2420,
+        "curlTotalTime": 1456.362627999857,
+        "playwrightTotalTime": 2505.878502999898
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 85,
+    "timestamp": 1177764.937191,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1134,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2399999999999998,
+        "tcpConnection": 239.235,
+        "tlsHandshake": 1036.1750000000002,
+        "timeToFirstByte": 1433.515,
+        "totalTime": 1433.609,
+        "fcp": 1291.603,
+        "lcp": 2390.729,
+        "speedIndex": 2196,
+        "curlTotalTime": 1471.871821000008,
+        "playwrightTotalTime": 2305.8235479998402
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 86,
+    "timestamp": 1593555.167538,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1090,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.783,
+        "tcpConnection": 245.168,
+        "tlsHandshake": 1079.675,
+        "timeToFirstByte": 1492.281,
+        "totalTime": 1492.383,
+        "fcp": 1052.125,
+        "lcp": 2156.226,
+        "speedIndex": 2013,
+        "curlTotalTime": 1532.9090119998436,
+        "playwrightTotalTime": 2844.9157579999883
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 87,
+    "timestamp": 1335832.749596,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1113,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.002,
+        "tcpConnection": 238.61599999999999,
+        "tlsHandshake": 1044.7569999999998,
+        "timeToFirstByte": 1460.787,
+        "totalTime": 1460.877,
+        "fcp": 1101.611,
+        "lcp": 2275.513,
+        "speedIndex": 2107,
+        "curlTotalTime": 1514.0030779999215,
+        "playwrightTotalTime": 2907.667710999958
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 88,
+    "timestamp": 1584813.525273,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1075,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.673,
+        "tcpConnection": 243.256,
+        "tlsHandshake": 1086.471,
+        "timeToFirstByte": 1513.228,
+        "totalTime": 1513.333,
+        "fcp": 1379.89,
+        "lcp": 2390.066,
+        "speedIndex": 2299,
+        "curlTotalTime": 1567.7434359998442,
+        "playwrightTotalTime": 2388.3809829999227
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 89,
+    "timestamp": 1897609.865292,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1174,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.306,
+        "tcpConnection": 242.617,
+        "tlsHandshake": 1007.22,
+        "timeToFirstByte": 1385.0130000000001,
+        "totalTime": 1385.1370000000002,
+        "fcp": 1630.126,
+        "lcp": 2754.631,
+        "speedIndex": 2592,
+        "curlTotalTime": 1429.7080250000581,
+        "playwrightTotalTime": 2884.5093199999537
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 90,
+    "timestamp": 1522619.61405,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1590,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.492,
+        "tcpConnection": 251.52600000000004,
+        "tlsHandshake": 768.3879999999999,
+        "timeToFirstByte": 1022.912,
+        "totalTime": 1023.0010000000001,
+        "fcp": 3291.266,
+        "lcp": 4402.502,
+        "speedIndex": 4215,
+        "curlTotalTime": 1069.6313490001485,
+        "playwrightTotalTime": 2954.954771999968
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 91,
+    "timestamp": 1272715.965785,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1146,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.65,
+        "tcpConnection": 244.881,
+        "tlsHandshake": 1036.27,
+        "timeToFirstByte": 1418.555,
+        "totalTime": 1418.652,
+        "fcp": 1603.423,
+        "lcp": 2610.296,
+        "speedIndex": 2486,
+        "curlTotalTime": 1468.3993239998817,
+        "playwrightTotalTime": 2784.9870370000135
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 92,
+    "timestamp": 1054017.311991,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1335,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0500000000000003,
+        "tcpConnection": 247.278,
+        "tlsHandshake": 895.91,
+        "timeToFirstByte": 1218.002,
+        "totalTime": 1218.1090000000002,
+        "fcp": 1050.287,
+        "lcp": 2171.583,
+        "speedIndex": 1900,
+        "curlTotalTime": 1259.879973000032,
+        "playwrightTotalTime": 2695.4802450001007
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 93,
+    "timestamp": 1295776.454601,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1640,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.564,
+        "tcpConnection": 245.587,
+        "tlsHandshake": 743.793,
+        "timeToFirstByte": 991.937,
+        "totalTime": 992.0409999999999,
+        "fcp": 1319.663,
+        "lcp": 2392.264,
+        "speedIndex": 2149,
+        "curlTotalTime": 1033.939616000047,
+        "playwrightTotalTime": 2737.4281450000126
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 94,
+    "timestamp": 1199343.793548,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1366,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.21,
+        "tcpConnection": 240.014,
+        "tlsHandshake": 874.966,
+        "timeToFirstByte": 1190.886,
+        "totalTime": 1190.9769999999999,
+        "fcp": 1089.278,
+        "lcp": 2150.96,
+        "speedIndex": 1969,
+        "curlTotalTime": 1231.4656559999567,
+        "playwrightTotalTime": 2638.133840999799
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 95,
+    "timestamp": 1615600.224021,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1353,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.298,
+        "tcpConnection": 241.582,
+        "tlsHandshake": 884.711,
+        "timeToFirstByte": 1202.03,
+        "totalTime": 1202.119,
+        "fcp": 1099.884,
+        "lcp": 2234.744,
+        "speedIndex": 2090,
+        "curlTotalTime": 1244.8716750000603,
+        "playwrightTotalTime": 2690.6429530000314
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 96,
+    "timestamp": 1358616.255871,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1337,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.633,
+        "tcpConnection": 246.68699999999998,
+        "tlsHandshake": 894.408,
+        "timeToFirstByte": 1216.241,
+        "totalTime": 1216.338,
+        "fcp": 1596,
+        "lcp": 2715.964,
+        "speedIndex": 2574,
+        "curlTotalTime": 1261.255839999998,
+        "playwrightTotalTime": 2794.790753999958
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 97,
+    "timestamp": 1607374.969698,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1156,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7720000000000002,
+        "tcpConnection": 246.45700000000002,
+        "tlsHandshake": 1021.7290000000002,
+        "timeToFirstByte": 1407.0739999999998,
+        "totalTime": 1407.172,
+        "fcp": 1072.386,
+        "lcp": 2232.558,
+        "speedIndex": 2024,
+        "curlTotalTime": 1461.779513000045,
+        "playwrightTotalTime": 2819.464971000096
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 98,
+    "timestamp": 1919933.717066,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1652,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.83,
+        "tcpConnection": 244.648,
+        "tlsHandshake": 738.254,
+        "timeToFirstByte": 984.746,
+        "totalTime": 984.833,
+        "fcp": 1494.774,
+        "lcp": 2627.722,
+        "speedIndex": 2441,
+        "curlTotalTime": 1029.4305920000188,
+        "playwrightTotalTime": 2616.518985999981
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 99,
+    "timestamp": 1545513.631131,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1041,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6359999999999997,
+        "tcpConnection": 253.22899999999998,
+        "tlsHandshake": 1086.484,
+        "timeToFirstByte": 1562.354,
+        "totalTime": 1562.479,
+        "fcp": 1597.416,
+        "lcp": 2738.338,
+        "speedIndex": 2560,
+        "curlTotalTime": 1600.716502000112,
+        "playwrightTotalTime": 2465.239082999993
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 100,
+    "timestamp": 1306949.404947,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 174,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.791,
+        "tcpConnection": 242.208,
+        "tlsHandshake": 8885.002,
+        "timeToFirstByte": 9298.992,
+        "totalTime": 9299.08,
+        "fcp": 2508.124,
+        "lcp": 3549.427,
+        "speedIndex": 3400,
+        "curlTotalTime": 9342.763774000108,
+        "playwrightTotalTime": 4759.97562599997
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 101,
+    "timestamp": 1076659.550683,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1118,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.611,
+        "tcpConnection": 244.79500000000002,
+        "tlsHandshake": 1052.8,
+        "timeToFirstByte": 1454.987,
+        "totalTime": 1455.0829999999999,
+        "fcp": 1544.814,
+        "lcp": 2646.584,
+        "speedIndex": 2395,
+        "curlTotalTime": 1501.4090009999927,
+        "playwrightTotalTime": 2536.75113400002
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 102,
+    "timestamp": 1318317.606739,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1139,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7729999999999997,
+        "tcpConnection": 237.321,
+        "tlsHandshake": 1030.578,
+        "timeToFirstByte": 1427.495,
+        "totalTime": 1427.627,
+        "fcp": 1506.476,
+        "lcp": 2554.453,
+        "speedIndex": 2318,
+        "curlTotalTime": 1478.1381330001168,
+        "playwrightTotalTime": 2362.4929480000865
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 103,
+    "timestamp": 1221748.10858,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1113,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.888,
+        "tcpConnection": 246.453,
+        "tlsHandshake": 1057.71,
+        "timeToFirstByte": 1461.27,
+        "totalTime": 1461.3780000000002,
+        "fcp": 1535.927,
+        "lcp": 2654.444,
+        "speedIndex": 2456,
+        "curlTotalTime": 1506.63751699985,
+        "playwrightTotalTime": 2308.5140420000535
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 104,
+    "timestamp": 1638327.077521,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1153,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.57,
+        "tcpConnection": 247.939,
+        "tlsHandshake": 1024.7569999999998,
+        "timeToFirstByte": 1410.557,
+        "totalTime": 1410.684,
+        "fcp": 1590.493,
+        "lcp": 2567.8,
+        "speedIndex": 2438,
+        "curlTotalTime": 1463.1124239999335,
+        "playwrightTotalTime": 2764.373876000056
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 105,
+    "timestamp": 1381610.110595,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1084,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.494,
+        "tcpConnection": 239.91299999999998,
+        "tlsHandshake": 1074.811,
+        "timeToFirstByte": 1499.588,
+        "totalTime": 1499.691,
+        "fcp": 1503.913,
+        "lcp": 2607.377,
+        "speedIndex": 2483,
+        "curlTotalTime": 1543.6997620000038,
+        "playwrightTotalTime": 2387.65936099994
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 106,
+    "timestamp": 1630867.176191,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1367,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.469,
+        "tcpConnection": 239.533,
+        "tlsHandshake": 874.779,
+        "timeToFirstByte": 1189.8329999999999,
+        "totalTime": 1189.952,
+        "fcp": 1624.084,
+        "lcp": 2680.613,
+        "speedIndex": 2549,
+        "curlTotalTime": 1236.772481000051,
+        "playwrightTotalTime": 2687.6586909999605
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 107,
+    "timestamp": 1943587.270114,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1091,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.61,
+        "tcpConnection": 248.389,
+        "tlsHandshake": 1077.085,
+        "timeToFirstByte": 1490.22,
+        "totalTime": 1490.311,
+        "fcp": 1293.254,
+        "lcp": 2579.408,
+        "speedIndex": 2371,
+        "curlTotalTime": 1538.3474129999522,
+        "playwrightTotalTime": 3060.944269000087
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 108,
+    "timestamp": 1577785.888729,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1312,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.613,
+        "tcpConnection": 243.923,
+        "tlsHandshake": 921.23,
+        "timeToFirstByte": 1239.519,
+        "totalTime": 1239.6670000000001,
+        "fcp": 7195.825,
+        "lcp": 8270.821,
+        "speedIndex": 8127,
+        "curlTotalTime": 1287.3051449998748,
+        "playwrightTotalTime": 6397.682596999919
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 109,
+    "timestamp": 1329194.019554,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1121,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.044,
+        "tcpConnection": 242.11599999999999,
+        "tlsHandshake": 1045.267,
+        "timeToFirstByte": 1450.089,
+        "totalTime": 1450.183,
+        "fcp": 1202.83,
+        "lcp": 2318.703,
+        "speedIndex": 2174,
+        "curlTotalTime": 1492.7306810000446,
+        "playwrightTotalTime": 2791.054889000021
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 110,
+    "timestamp": 1099058.124173,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1155,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5669999999999997,
+        "tcpConnection": 247.928,
+        "tlsHandshake": 1023.1840000000001,
+        "timeToFirstByte": 1407.9440000000002,
+        "totalTime": 1408.034,
+        "fcp": 1091.68,
+        "lcp": 2228.078,
+        "speedIndex": 1979,
+        "curlTotalTime": 1452.4188700001687,
+        "playwrightTotalTime": 2805.7653990001418
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 111,
+    "timestamp": 1340581.770385,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1150,
+        "uploadSpeed": 0,
+        "dnsLookup": 181.621,
+        "tcpConnection": 422.08299999999997,
+        "tlsHandshake": 1091.5140000000001,
+        "timeToFirstByte": 1413.903,
+        "totalTime": 1413.992,
+        "fcp": 1080.541,
+        "lcp": 2241.897,
+        "speedIndex": 1945,
+        "curlTotalTime": 1461.2633899999782,
+        "playwrightTotalTime": 2805.923259999836
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 112,
+    "timestamp": 1243764.270936,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1336,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.552,
+        "tcpConnection": 247.07899999999998,
+        "tlsHandshake": 895.86,
+        "timeToFirstByte": 1217.6260000000002,
+        "totalTime": 1217.725,
+        "fcp": 1313.86,
+        "lcp": 2371.23,
+        "speedIndex": 2203,
+        "curlTotalTime": 1258.2889580000192,
+        "playwrightTotalTime": 2708.4964459999464
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 113,
+    "timestamp": 1662857.478987,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1369,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.676,
+        "tcpConnection": 239.237,
+        "tlsHandshake": 873.321,
+        "timeToFirstByte": 1188.152,
+        "totalTime": 1188.2379999999998,
+        "fcp": 1570.757,
+        "lcp": 2700.164,
+        "speedIndex": 2556,
+        "curlTotalTime": 1238.933097000001,
+        "playwrightTotalTime": 4336.508940000087
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 114,
+    "timestamp": 1403597.757033,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1113,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6159999999999997,
+        "tcpConnection": 238.744,
+        "tlsHandshake": 1058.554,
+        "timeToFirstByte": 1461.182,
+        "totalTime": 1461.354,
+        "fcp": 1069.193,
+        "lcp": 2201.49,
+        "speedIndex": 2039,
+        "curlTotalTime": 1503.6016890001483,
+        "playwrightTotalTime": 2345.094821000006
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 115,
+    "timestamp": 1652978.283014,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1629,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.978,
+        "tcpConnection": 247.098,
+        "tlsHandshake": 750.0409999999999,
+        "timeToFirstByte": 998.1370000000001,
+        "totalTime": 998.248,
+        "fcp": 1492.717,
+        "lcp": 2546.305,
+        "speedIndex": 2347,
+        "curlTotalTime": 1045.8879730000626,
+        "playwrightTotalTime": 2472.40480499994
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 116,
+    "timestamp": 1967416.140268,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1152,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.725,
+        "tcpConnection": 246.09300000000002,
+        "tlsHandshake": 1026.128,
+        "timeToFirstByte": 1411.058,
+        "totalTime": 1411.166,
+        "fcp": 1729.028,
+        "lcp": 2951.695,
+        "speedIndex": 2771,
+        "curlTotalTime": 1468.5496920000296,
+        "playwrightTotalTime": 2843.634497999912
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 117,
+    "timestamp": 1600542.691079,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1024,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7,
+        "tcpConnection": 248.477,
+        "tlsHandshake": 1169.983,
+        "timeToFirstByte": 1588.499,
+        "totalTime": 1588.62,
+        "fcp": 1542.31,
+        "lcp": 2617.779,
+        "speedIndex": 2426,
+        "curlTotalTime": 1628.2935490000527,
+        "playwrightTotalTime": 2550.5282439999282
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 118,
+    "timestamp": 1351677.194565,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1295,
+        "uploadSpeed": 0,
+        "dnsLookup": 25.52,
+        "tcpConnection": 262.11899999999997,
+        "tlsHandshake": 915.738,
+        "timeToFirstByte": 1255.3600000000001,
+        "totalTime": 1255.463,
+        "fcp": 1443.282,
+        "lcp": 2497.566,
+        "speedIndex": 2367,
+        "curlTotalTime": 1300.6893360000104,
+        "playwrightTotalTime": 2336.571874999907
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 119,
+    "timestamp": 1121219.753263,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1631,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.697,
+        "tcpConnection": 246.194,
+        "tlsHandshake": 747.789,
+        "timeToFirstByte": 997.101,
+        "totalTime": 997.198,
+        "fcp": 1484.649,
+        "lcp": 2612.616,
+        "speedIndex": 2349,
+        "curlTotalTime": 1046.1188010000624,
+        "playwrightTotalTime": 2516.6499379999004
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 120,
+    "timestamp": 1363445.655362,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1164,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4299999999999997,
+        "tcpConnection": 246.542,
+        "tlsHandshake": 1015.353,
+        "timeToFirstByte": 1397.368,
+        "totalTime": 1397.47,
+        "fcp": 1541.808,
+        "lcp": 2707.245,
+        "speedIndex": 2428,
+        "curlTotalTime": 1437.7714400000405,
+        "playwrightTotalTime": 2663.775817999849
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 121,
+    "timestamp": 1265939.650258,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1634,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9619999999999997,
+        "tcpConnection": 249.308,
+        "tlsHandshake": 747.803,
+        "timeToFirstByte": 995.408,
+        "totalTime": 995.512,
+        "fcp": 1108.147,
+        "lcp": 2239.244,
+        "speedIndex": 2068,
+        "curlTotalTime": 1041.8250470000785,
+        "playwrightTotalTime": 2760.601015999913
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 122,
+    "timestamp": 1685317.762901,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1087,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.618,
+        "tcpConnection": 240.341,
+        "tlsHandshake": 1076.6960000000001,
+        "timeToFirstByte": 1495.611,
+        "totalTime": 1495.801,
+        "fcp": 1326.757,
+        "lcp": 2388.741,
+        "speedIndex": 2225,
+        "curlTotalTime": 1543.4899850001093,
+        "playwrightTotalTime": 2321.9889640000183
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 123,
+    "timestamp": 1426081.137058,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1327,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.823,
+        "tcpConnection": 240.92,
+        "tlsHandshake": 886.152,
+        "timeToFirstByte": 1225.176,
+        "totalTime": 1225.282,
+        "fcp": 1099.441,
+        "lcp": 2388.673,
+        "speedIndex": 2205,
+        "curlTotalTime": 1272.923798999982,
+        "playwrightTotalTime": 2939.1088900000323
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 124,
+    "timestamp": 1675772.885107,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1094,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.634,
+        "tcpConnection": 246.075,
+        "tlsHandshake": 1076.95,
+        "timeToFirstByte": 1486.385,
+        "totalTime": 1486.48,
+        "fcp": 1683.039,
+        "lcp": 2647.944,
+        "speedIndex": 2525,
+        "curlTotalTime": 1528.6898409998976,
+        "playwrightTotalTime": 2806.894741000142
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 125,
+    "timestamp": 1990054.403077,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1380,
+        "uploadSpeed": 0,
+        "dnsLookup": 187.922,
+        "tcpConnection": 431.85499999999996,
+        "tlsHandshake": 929.846,
+        "timeToFirstByte": 1178.067,
+        "totalTime": 1178.241,
+        "fcp": 1509.254,
+        "lcp": 2591.317,
+        "speedIndex": 2396,
+        "curlTotalTime": 1230.6384980001021,
+        "playwrightTotalTime": 2742.3536439999007
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 126,
+    "timestamp": 1622914.719381,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1524,
+        "uploadSpeed": 0,
+        "dnsLookup": 27.667,
+        "tcpConnection": 277.52,
+        "tlsHandshake": 813.4259999999999,
+        "timeToFirstByte": 1067.385,
+        "totalTime": 1067.474,
+        "fcp": 1329.971,
+        "lcp": 2465.067,
+        "speedIndex": 2284,
+        "curlTotalTime": 1110.4387779999524,
+        "playwrightTotalTime": 2829.106259000022
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 127,
+    "timestamp": 1374345.007412,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1057,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6380000000000003,
+        "tcpConnection": 249.071,
+        "tlsHandshake": 1133.914,
+        "timeToFirstByte": 1538.1970000000001,
+        "totalTime": 1538.294,
+        "fcp": 1560.185,
+        "lcp": 2643.446,
+        "speedIndex": 2500,
+        "curlTotalTime": 1583.4561179999728,
+        "playwrightTotalTime": 2538.577625000151
+      }
+    ],
+    "totalDuration": 366718.86424100003,
+    "setupDuration": 5999.623186999932,
+    "diagnosticsDuration": 0.004544000024907291,
+    "measurementDuration": 350711.4063850002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 128,
+    "timestamp": 1143238.459202,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 999,
+        "uploadSpeed": 0,
+        "dnsLookup": 174.21200000000002,
+        "tcpConnection": 415.12100000000004,
+        "tlsHandshake": 1224.812,
+        "timeToFirstByte": 1627.089,
+        "totalTime": 1627.1789999999999,
+        "fcp": 1292.815,
+        "lcp": 2406.677,
+        "speedIndex": 2155,
+        "curlTotalTime": 1670.7108489999082,
+        "playwrightTotalTime": 2303.909789000172
+      }
+    ],
+    "totalDuration": 344970.9069869999,
+    "setupDuration": 1766.4163479999406,
+    "diagnosticsDuration": 0.004684000043198466,
+    "measurementDuration": 333196.15749200026,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 129,
+    "timestamp": 1385686.372191,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1670,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8890000000000002,
+        "tcpConnection": 240.636,
+        "tlsHandshake": 730.33,
+        "timeToFirstByte": 973.913,
+        "totalTime": 974.05,
+        "fcp": 1308.589,
+        "lcp": 2448.232,
+        "speedIndex": 2175,
+        "curlTotalTime": 1022.4784210000653,
+        "playwrightTotalTime": 2713.7574490001425
+      }
+    ],
+    "totalDuration": 386676.665298,
+    "setupDuration": 1865.1391819999553,
+    "diagnosticsDuration": 0.0047839999897405505,
+    "measurementDuration": 374803.05093700043,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 130,
+    "timestamp": 1288307.08438,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1010,
+        "uploadSpeed": 0,
+        "dnsLookup": 177.146,
+        "tcpConnection": 413.982,
+        "tlsHandshake": 1213.7720000000002,
+        "timeToFirstByte": 1610.333,
+        "totalTime": 1610.43,
+        "fcp": 1506.146,
+        "lcp": 2578.185,
+        "speedIndex": 2407,
+        "curlTotalTime": 1652.7606150000356,
+        "playwrightTotalTime": 2516.8492459999397
+      }
+    ],
+    "totalDuration": 347172.4461810001,
+    "setupDuration": 5085.939045000006,
+    "diagnosticsDuration": 0.005749999894760549,
+    "measurementDuration": 332075.3888290004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 131,
+    "timestamp": 1707638.84872,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1160,
+        "uploadSpeed": 0,
+        "dnsLookup": 17.138,
+        "tcpConnection": 256.53900000000004,
+        "tlsHandshake": 1021.568,
+        "timeToFirstByte": 1401.555,
+        "totalTime": 1401.663,
+        "fcp": 1090.815,
+        "lcp": 2205.43,
+        "speedIndex": 2046,
+        "curlTotalTime": 1451.2493640000466,
+        "playwrightTotalTime": 2772.664274000097
+      }
+    ],
+    "totalDuration": 353404.77934300015,
+    "setupDuration": 5664.866421000101,
+    "diagnosticsDuration": 0.005077000008895993,
+    "measurementDuration": 337728.5669860004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 132,
+    "timestamp": 1449946.674124,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1334,
+        "uploadSpeed": 0,
+        "dnsLookup": 12.262,
+        "tcpConnection": 254.218,
+        "tlsHandshake": 898.671,
+        "timeToFirstByte": 1218.874,
+        "totalTime": 1219.044,
+        "fcp": 1572.07,
+        "lcp": 3200.573,
+        "speedIndex": 2908,
+        "curlTotalTime": 1266.2458369999658,
+        "playwrightTotalTime": 2820.599164000014
+      }
+    ],
+    "totalDuration": 357386.56182099995,
+    "setupDuration": 1745.5611749999225,
+    "diagnosticsDuration": 0.004488999955356121,
+    "measurementDuration": 345632.0862409994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 133,
+    "timestamp": 1698016.008442,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1102,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.544,
+        "tcpConnection": 251.023,
+        "tlsHandshake": 1068.826,
+        "timeToFirstByte": 1475.782,
+        "totalTime": 1475.879,
+        "fcp": 1156.126,
+        "lcp": 2183.552,
+        "speedIndex": 2059,
+        "curlTotalTime": 1518.6579880001955,
+        "playwrightTotalTime": 2795.3680479999166
+      }
+    ],
+    "totalDuration": 353894.51810800005,
+    "setupDuration": 1248.7711259999778,
+    "diagnosticsDuration": 0.004358999896794558,
+    "measurementDuration": 342637.7660939996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 134,
+    "timestamp": 2008156.305134,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1087,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.987,
+        "tcpConnection": 248.669,
+        "tlsHandshake": 1076.5800000000002,
+        "timeToFirstByte": 1496.2549999999999,
+        "totalTime": 1496.348,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 1537.8492489999626,
+        "playwrightTotalTime": 2349.3452200000174
+      }
+    ],
+    "totalDuration": 353054.55113300006,
+    "setupDuration": 1954.6561749998946,
+    "diagnosticsDuration": 0.006797000067308545,
+    "measurementDuration": 341090.88548399974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Telebit",
+    "measurementNumber": 135,
+    "timestamp": 1645532.933531,
+    "webTests": [
+      {
+        "url": "https://lucky-impala-81.telebit.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1129,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.451,
+        "tcpConnection": 248.51000000000002,
+        "tlsHandshake": 1049.879,
+        "timeToFirstByte": 1439.77,
+        "totalTime": 1439.9299999999998,
+        "fcp": 1706.106,
+        "lcp": 2820.047,
+        "speedIndex": 2638,
+        "curlTotalTime": 1481.4693030000199,
+        "playwrightTotalTime": 2402.8914769999683
+      }
+    ],
+    "totalDuration": 364856.203677,
+    "setupDuration": 5471.182016999926,
+    "diagnosticsDuration": 0.005474999779835343,
+    "measurementDuration": 349374.9091730004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

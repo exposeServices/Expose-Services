@@ -1,0 +1,285 @@
+{
+    "tool": "Ngrok",
+    "data": [
+        {
+            "measurementNumber": 1,
+            "dnsLookup": 3.7
+        },
+        {
+            "measurementNumber": 2,
+            "dnsLookup": 3.856
+        },
+        {
+            "measurementNumber": 3,
+            "dnsLookup": 3.646
+        },
+        {
+            "measurementNumber": 4,
+            "dnsLookup": 6.466
+        },
+        {
+            "measurementNumber": 5,
+            "dnsLookup": 4.105
+        },
+        {
+            "measurementNumber": 6,
+            "dnsLookup": 3.868
+        },
+        {
+            "measurementNumber": 7,
+            "dnsLookup": 3.7729999999999997
+        },
+        {
+            "measurementNumber": 8,
+            "dnsLookup": 4.002999999999999
+        },
+        {
+            "measurementNumber": 9,
+            "dnsLookup": 3.694
+        },
+        {
+            "measurementNumber": 10,
+            "dnsLookup": 4.465
+        },
+        {
+            "measurementNumber": 11,
+            "dnsLookup": 4.609
+        },
+        {
+            "measurementNumber": 12,
+            "dnsLookup": 3.312
+        },
+        {
+            "measurementNumber": 13,
+            "dnsLookup": 4.662
+        },
+        {
+            "measurementNumber": 14,
+            "dnsLookup": 3.878
+        },
+        {
+            "measurementNumber": 15,
+            "dnsLookup": 2.6809999999999996
+        },
+        {
+            "measurementNumber": 16,
+            "dnsLookup": 4.123
+        },
+        {
+            "measurementNumber": 17,
+            "dnsLookup": 2.064
+        },
+        {
+            "measurementNumber": 18,
+            "dnsLookup": 1.976
+        },
+        {
+            "measurementNumber": 19,
+            "dnsLookup": 2.271
+        },
+        {
+            "measurementNumber": 20,
+            "dnsLookup": 1.66
+        },
+        {
+            "measurementNumber": 21,
+            "dnsLookup": 2.221
+        },
+        {
+            "measurementNumber": 22,
+            "dnsLookup": 1.6509999999999998
+        },
+        {
+            "measurementNumber": 23,
+            "dnsLookup": 1.846
+        },
+        {
+            "measurementNumber": 24,
+            "dnsLookup": 1.676
+        },
+        {
+            "measurementNumber": 25,
+            "dnsLookup": 2.6679999999999997
+        },
+        {
+            "measurementNumber": 26,
+            "dnsLookup": 1.5690000000000002
+        },
+        {
+            "measurementNumber": 27,
+            "dnsLookup": 2.625
+        },
+        {
+            "measurementNumber": 28,
+            "dnsLookup": 1.9
+        },
+        {
+            "measurementNumber": 29,
+            "dnsLookup": 2.062
+        },
+        {
+            "measurementNumber": 30,
+            "dnsLookup": 1.535
+        },
+        {
+            "measurementNumber": 31,
+            "dnsLookup": 1.961
+        },
+        {
+            "measurementNumber": 32,
+            "dnsLookup": 1.466
+        },
+        {
+            "measurementNumber": 33,
+            "dnsLookup": 6.151
+        },
+        {
+            "measurementNumber": 34,
+            "dnsLookup": 1.9919999999999998
+        },
+        {
+            "measurementNumber": 35,
+            "dnsLookup": 2.1220000000000003
+        },
+        {
+            "measurementNumber": 36,
+            "dnsLookup": 2.0709999999999997
+        },
+        {
+            "measurementNumber": 37,
+            "dnsLookup": 2.5
+        },
+        {
+            "measurementNumber": 38,
+            "dnsLookup": 2.2520000000000002
+        },
+        {
+            "measurementNumber": 39,
+            "dnsLookup": 2.176
+        },
+        {
+            "measurementNumber": 40,
+            "dnsLookup": 2.0349999999999997
+        },
+        {
+            "measurementNumber": 41,
+            "dnsLookup": 1.7229999999999999
+        },
+        {
+            "measurementNumber": 42,
+            "dnsLookup": 1.8259999999999998
+        },
+        {
+            "measurementNumber": 43,
+            "dnsLookup": 2.081
+        },
+        {
+            "measurementNumber": 44,
+            "dnsLookup": 1.598
+        },
+        {
+            "measurementNumber": 45,
+            "dnsLookup": 2.025
+        },
+        {
+            "measurementNumber": 46,
+            "dnsLookup": 2.032
+        },
+        {
+            "measurementNumber": 47,
+            "dnsLookup": 2.2720000000000002
+        },
+        {
+            "measurementNumber": 48,
+            "dnsLookup": 1.464
+        },
+        {
+            "measurementNumber": 49,
+            "dnsLookup": 1.858
+        },
+        {
+            "measurementNumber": 50,
+            "dnsLookup": 1.981
+        },
+        {
+            "measurementNumber": 51,
+            "dnsLookup": 2.476
+        },
+        {
+            "measurementNumber": 52,
+            "dnsLookup": 1.929
+        },
+        {
+            "measurementNumber": 53,
+            "dnsLookup": 2.023
+        },
+        {
+            "measurementNumber": 54,
+            "dnsLookup": 2.012
+        },
+        {
+            "measurementNumber": 55,
+            "dnsLookup": 3.444
+        },
+        {
+            "measurementNumber": 56,
+            "dnsLookup": 2.06
+        },
+        {
+            "measurementNumber": 57,
+            "dnsLookup": 2.099
+        },
+        {
+            "measurementNumber": 58,
+            "dnsLookup": 1.792
+        },
+        {
+            "measurementNumber": 59,
+            "dnsLookup": 2.113
+        },
+        {
+            "measurementNumber": 60,
+            "dnsLookup": 1.693
+        },
+        {
+            "measurementNumber": 61,
+            "dnsLookup": 1.9829999999999999
+        },
+        {
+            "measurementNumber": 62,
+            "dnsLookup": 1.5250000000000001
+        },
+        {
+            "measurementNumber": 63,
+            "dnsLookup": 1.895
+        },
+        {
+            "measurementNumber": 64,
+            "dnsLookup": 2.059
+        },
+        {
+            "measurementNumber": 65,
+            "dnsLookup": 2.7439999999999998
+        },
+        {
+            "measurementNumber": 66,
+            "dnsLookup": 2.155
+        },
+        {
+            "measurementNumber": 67,
+            "dnsLookup": 1.492
+        },
+        {
+            "measurementNumber": 68,
+            "dnsLookup": 1.682
+        },
+        {
+            "measurementNumber": 69,
+            "dnsLookup": 1.804
+        },
+        {
+            "measurementNumber": 70,
+            "dnsLookup": 1.393
+        }
+    ]
+}

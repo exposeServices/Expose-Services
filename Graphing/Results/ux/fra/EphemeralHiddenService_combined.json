@@ -1,0 +1,2762 @@
+[
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 1,
+    "timestamp": 6793538.46421802,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1022,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.19699999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1591.045,
+        "totalTime": 1591.156,
+        "fcp": 2884.20482,
+        "lcp": 7114.913960000001,
+        "speedIndex": 3306.907422006813,
+        "curlTotalTime": 1631.0258049964905,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 2,
+    "timestamp": 3595219.745893955,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 671,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.296,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2422.903,
+        "totalTime": 2423.051,
+        "fcp": 3196.87554,
+        "lcp": 7739.741415,
+        "speedIndex": 5231.259532071509,
+        "curlTotalTime": 2463.3920580148697,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 3,
+    "timestamp": 3518230.249194026,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 681,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.13999999999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2388.788,
+        "totalTime": 2388.973,
+        "fcp": 5280.3306999999995,
+        "lcp": 9808.344889999998,
+        "speedIndex": 9118.916861995494,
+        "curlTotalTime": 2424.465896964073,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 4,
+    "timestamp": 3677301.053063035,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 258,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.16799999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 6305.466,
+        "totalTime": 6305.586,
+        "fcp": 5099.0868199999995,
+        "lcp": 13129.103060174908,
+        "speedIndex": 12558.830379871924,
+        "curlTotalTime": 6342.500827908516,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 5,
+    "timestamp": 3543969.5058619976,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 6,
+    "timestamp": 4659938.042287,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 317,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.19,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 5117.48,
+        "totalTime": 5117.641,
+        "fcp": 3703.19548,
+        "lcp": 4217.23568,
+        "speedIndex": 5703.715599998908,
+        "curlTotalTime": 5159.277263999917,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 7,
+    "timestamp": 6809253.5756010115,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3968,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.045000000000000005,
+        "tcpConnection": 0.243,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 409.812,
+        "totalTime": 409.95300000000003,
+        "fcp": 2837.99842,
+        "lcp": 5329.827160000001,
+        "speedIndex": 3124.2120439794357,
+        "curlTotalTime": 451.1964190006256,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 8,
+    "timestamp": 3614417.407863021,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2283,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.16,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 712.329,
+        "totalTime": 712.467,
+        "fcp": 3635.47956,
+        "lcp": 7445.835150000001,
+        "speedIndex": 5702.237080010293,
+        "curlTotalTime": 749.9385349750519,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 9,
+    "timestamp": 3541770.6504119635,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2586,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.243,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 628.87,
+        "totalTime": 629.078,
+        "fcp": 5369.955499999999,
+        "lcp": 11668.93625,
+        "speedIndex": 9699.789442086414,
+        "curlTotalTime": 667.3378620147705,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 10,
+    "timestamp": 3699298.2311199903,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 776,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.163,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2094.723,
+        "totalTime": 2094.8540000000003,
+        "fcp": 4579.26376,
+        "lcp": 9077.27836,
+        "speedIndex": 7936.43015798216,
+        "curlTotalTime": 2134.764545917511,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 11,
+    "timestamp": 3544009.22073102,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 12,
+    "timestamp": 4681284.08131,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1104,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.033,
+        "tcpConnection": 0.188,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1472.6399999999999,
+        "totalTime": 1472.758,
+        "fcp": 4402.083140000001,
+        "lcp": 9265.52014,
+        "speedIndex": 8785.345156000727,
+        "curlTotalTime": 1512.5601940006018,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 13,
+    "timestamp": 6825533.207778007,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4403,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.16899999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 369.382,
+        "totalTime": 369.497,
+        "fcp": 2932.9040800000002,
+        "lcp": 6552.82192,
+        "speedIndex": 3154.6532840254604,
+        "curlTotalTime": 415.7887409925461,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 14,
+    "timestamp": 3633073.2325810194,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2780,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.27399999999999997,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 585.006,
+        "totalTime": 585.1460000000001,
+        "fcp": 3749.80274,
+        "lcp": 8362.58643,
+        "speedIndex": 6516.397329982563,
+        "curlTotalTime": 624.6809320449829,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 15,
+    "timestamp": 3563522.9686570168,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2670,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.221,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 609.133,
+        "totalTime": 609.302,
+        "fcp": 4119.94968,
+        "lcp": 9025.91742,
+        "speedIndex": 7841.9917799422965,
+        "curlTotalTime": 654.5908490419388,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 16,
+    "timestamp": 3724901.93434906,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 724,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.279,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2246.5510000000004,
+        "totalTime": 2246.663,
+        "fcp": 5909.95334,
+        "lcp": 9978.194410000002,
+        "speedIndex": 11210.913472004684,
+        "curlTotalTime": 2289.433434009552,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 17,
+    "timestamp": 3544049.3638409376,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 18,
+    "timestamp": 4701706.650682,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1138,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.18100000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1428.364,
+        "totalTime": 1428.5149999999999,
+        "fcp": 4009.77528,
+        "lcp": 5827.853300000001,
+        "speedIndex": 6673.330552000298,
+        "curlTotalTime": 1469.7223199997097,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 19,
+    "timestamp": 6841741.476681024,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4268,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 381.017,
+        "totalTime": 381.141,
+        "fcp": 3113.2658600000004,
+        "lcp": 7490.12732,
+        "speedIndex": 3422.705736014146,
+        "curlTotalTime": 421.1594179868698,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 20,
+    "timestamp": 3651480.241907954,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3048,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.15,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 533.516,
+        "totalTime": 533.67,
+        "fcp": 4459.5635,
+        "lcp": 7601.1044999999995,
+        "speedIndex": 5882.266082078599,
+        "curlTotalTime": 573.0554440021515,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 21,
+    "timestamp": 3584224.5643279552,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2454,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.183,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 662.65,
+        "totalTime": 662.759,
+        "fcp": 4027.0470200000004,
+        "lcp": 8288.6543,
+        "speedIndex": 7368.730617924361,
+        "curlTotalTime": 701.9292449951172,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 22,
+    "timestamp": 3748903.1267670393,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 821,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.2,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1981.481,
+        "totalTime": 1981.5910000000001,
+        "fcp": 5476.8559399999995,
+        "lcp": 8233.44685,
+        "speedIndex": 8395.62889600927,
+        "curlTotalTime": 2023.46904194355,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 23,
+    "timestamp": 3544091.211338997,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 24,
+    "timestamp": 4721871.876267,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1137,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.158,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1429.896,
+        "totalTime": 1429.996,
+        "fcp": 4061.2364000000002,
+        "lcp": 7814.139724999999,
+        "speedIndex": 6475.253689999905,
+        "curlTotalTime": 1468.1313140001148,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 25,
+    "timestamp": 6857634.773378998,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4330,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.026,
+        "tcpConnection": 0.13999999999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 375.553,
+        "totalTime": 375.669,
+        "fcp": 2847.9425,
+        "lcp": 5608.683999999999,
+        "speedIndex": 3044.5818299953926,
+        "curlTotalTime": 414.8169229924679,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 26,
+    "timestamp": 3669453.0664229393,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2749,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.148,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 591.7139999999999,
+        "totalTime": 591.822,
+        "fcp": 3113.1606599999996,
+        "lcp": 7374.083479999999,
+        "speedIndex": 5005.470391915861,
+        "curlTotalTime": 630.083732008934,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 27,
+    "timestamp": 3603395.100304961,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2540,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.18100000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 640.364,
+        "totalTime": 640.509,
+        "fcp": 3972.76286,
+        "lcp": 7261.19843,
+        "speedIndex": 6888.042367965404,
+        "curlTotalTime": 680.0362060070038,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 28,
+    "timestamp": 3777412.604775071,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 413,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.161,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 3938.615,
+        "totalTime": 3938.746,
+        "fcp": 6495.635,
+        "lcp": 9230.1705,
+        "speedIndex": 12803.638392098424,
+        "curlTotalTime": 3976.9563950300217,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 29,
+    "timestamp": 3544131.0340930223,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 30,
+    "timestamp": 4742334.153001,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1128,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.038,
+        "tcpConnection": 0.21000000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1441.3339999999998,
+        "totalTime": 1441.466,
+        "fcp": 3973.64782,
+        "lcp": 8903.683819999998,
+        "speedIndex": 7621.345506000167,
+        "curlTotalTime": 1479.7812200002372,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 31,
+    "timestamp": 6873148.99010101,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3735,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.059,
+        "tcpConnection": 0.294,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 435.45099999999996,
+        "totalTime": 435.581,
+        "fcp": 2860.44524,
+        "lcp": 6203.59414,
+        "speedIndex": 3152.6381719906176,
+        "curlTotalTime": 476.5718230009079,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 32,
+    "timestamp": 3687721.380028963,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1915,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.201,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 849.3770000000001,
+        "totalTime": 849.525,
+        "fcp": 3526.0463600000003,
+        "lcp": 6798.263579999999,
+        "speedIndex": 5245.341453955738,
+        "curlTotalTime": 895.6444829702377,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 33,
+    "timestamp": 3624249.4720169306,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2230,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.176,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 729.2570000000001,
+        "totalTime": 729.379,
+        "fcp": 3637.5694,
+        "lcp": 9043.496650000001,
+        "speedIndex": 5264.622808033961,
+        "curlTotalTime": 770.2015570402145,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 34,
+    "timestamp": 3805842.3551830053,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 394,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.215,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 4127.629,
+        "totalTime": 4127.757,
+        "fcp": 7797.072270000001,
+        "lcp": 10447.164270000001,
+        "speedIndex": 14075.790434101345,
+        "curlTotalTime": 4166.602463006973,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 35,
+    "timestamp": 3544172.8258110285,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 36,
+    "timestamp": 4763586.412041,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1139,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.13999999999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1428.193,
+        "totalTime": 1428.3310000000001,
+        "fcp": 4239.2869200000005,
+        "lcp": 7383.47512,
+        "speedIndex": 6895.34548399947,
+        "curlTotalTime": 1466.1099550006911,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 37,
+    "timestamp": 6889780.007054001,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3368,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.245,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 482.88100000000003,
+        "totalTime": 483.072,
+        "fcp": 2899.5096,
+        "lcp": 4856.8492,
+        "speedIndex": 3309.7922820110593,
+        "curlTotalTime": 528.8778429925442,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 38,
+    "timestamp": 3706247.742102027,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2744,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.152,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 592.679,
+        "totalTime": 592.795,
+        "fcp": 3306.01282,
+        "lcp": 6983.12349,
+        "speedIndex": 5294.530838048196,
+        "curlTotalTime": 636.1290299892426,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 39,
+    "timestamp": 3642132.729053974,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2482,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.15100000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 655.144,
+        "totalTime": 655.266,
+        "fcp": 3162.34852,
+        "lcp": 5123.3746200000005,
+        "speedIndex": 5073.882420073992,
+        "curlTotalTime": 695.1738929748535,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 40,
+    "timestamp": 3846498.3408709764,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 275,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.14300000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 5907.369,
+        "totalTime": 5907.504999999999,
+        "fcp": 8431.436500000002,
+        "lcp": 11649.484000000004,
+        "speedIndex": 18366.298841914515,
+        "curlTotalTime": 5946.703215003014,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 41,
+    "timestamp": 3544219.918233037,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 42,
+    "timestamp": 4782902.533516,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1119,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.19799999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1453.404,
+        "totalTime": 1453.5240000000001,
+        "fcp": 3739.7738600000002,
+        "lcp": 7466.41308,
+        "speedIndex": 5524.3101439999555,
+        "curlTotalTime": 1489.5119059998542,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 43,
+    "timestamp": 6905476.747088999,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4330,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.176,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 375.57099999999997,
+        "totalTime": 375.685,
+        "fcp": 3162.7068799999997,
+        "lcp": 6212.09837508316,
+        "speedIndex": 3322.4538999827164,
+        "curlTotalTime": 412.94921800494194,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 44,
+    "timestamp": 3724154.3868379593,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2708,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.19,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 600.497,
+        "totalTime": 600.638,
+        "fcp": 3155.67408,
+        "lcp": 6962.897559999999,
+        "speedIndex": 5012.6093580088955,
+        "curlTotalTime": 641.8133569955826,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 45,
+    "timestamp": 3661497.457618952,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2493,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.247,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 652.437,
+        "totalTime": 652.5649999999999,
+        "fcp": 3336.5848199999996,
+        "lcp": 7584.01393,
+        "speedIndex": 6271.077846007855,
+        "curlTotalTime": 693.4203639030457,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 46,
+    "timestamp": 3871303.9651830196,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 506,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.193,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 3210.817,
+        "totalTime": 3210.951,
+        "fcp": 4913.52142,
+        "lcp": 11236.73847,
+        "speedIndex": 10169.898413976116,
+        "curlTotalTime": 3252.081429004669,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 47,
+    "timestamp": 3544270.341429949,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 48,
+    "timestamp": 4801984.1613960005,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1164,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.146,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1396.855,
+        "totalTime": 1396.9959999999999,
+        "fcp": 4095.36471,
+        "lcp": 5874.59221,
+        "speedIndex": 6116.791425999851,
+        "curlTotalTime": 1433.7305950000882,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 49,
+    "timestamp": 6921384.419678003,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4365,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.043000000000000003,
+        "tcpConnection": 0.191,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 372.528,
+        "totalTime": 372.669,
+        "fcp": 2498.507,
+        "lcp": 4490.043,
+        "speedIndex": 3315.2379160225264,
+        "curlTotalTime": 410.58218199014664,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 50,
+    "timestamp": 3742949.70548594,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3020,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.041,
+        "tcpConnection": 0.204,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 538.496,
+        "totalTime": 538.6300000000001,
+        "fcp": 3203.62046,
+        "lcp": 6735.78897,
+        "speedIndex": 5493.119535882933,
+        "curlTotalTime": 583.6650379896164,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 51,
+    "timestamp": 3680414.259068966,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2626,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.061,
+        "tcpConnection": 0.311,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 619.247,
+        "totalTime": 619.39,
+        "fcp": 3280.0665000000004,
+        "lcp": 6549.409000000001,
+        "speedIndex": 5975.686860008811,
+        "curlTotalTime": 667.9345409870148,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 52,
+    "timestamp": 3904614.54788208,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 519,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.19699999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 3132.863,
+        "totalTime": 3133.014,
+        "fcp": 6861.810840000002,
+        "lcp": 10451.98007,
+        "speedIndex": 15038.736051970045,
+        "curlTotalTime": 3179.5186849832535,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 53,
+    "timestamp": 3544318.155984044,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 54,
+    "timestamp": 4820422.029538,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1130,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.145,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1439.624,
+        "totalTime": 1439.7649999999999,
+        "fcp": 3851.89642,
+        "lcp": 6907.290620000001,
+        "speedIndex": 5259.192867999639,
+        "curlTotalTime": 1476.0272380001843,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 55,
+    "timestamp": 6937485.246969998,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3193,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.192,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 509.375,
+        "totalTime": 509.493,
+        "fcp": 2922.86934,
+        "lcp": 6015.431850000001,
+        "speedIndex": 3426.5838819734445,
+        "curlTotalTime": 544.8468519747257,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 56,
+    "timestamp": 3761851.709975958,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3214,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.159,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 505.961,
+        "totalTime": 506.07899999999995,
+        "fcp": 2834.8194999999996,
+        "lcp": 4738.59,
+        "speedIndex": 5294.253620029973,
+        "curlTotalTime": 544.8077600002289,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 57,
+    "timestamp": 3698998.6114070415,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2018,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.04,
+        "tcpConnection": 0.19799999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 805.725,
+        "totalTime": 805.8610000000001,
+        "fcp": 3381.0793599999997,
+        "lcp": 6304.556779999999,
+        "speedIndex": 5041.226265984337,
+        "curlTotalTime": 850.1207029819489,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 58,
+    "timestamp": 3937842.96718204,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 880,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.17,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1847.221,
+        "totalTime": 1847.338,
+        "fcp": 6146.88932,
+        "lcp": 9764.461580000001,
+        "speedIndex": 10096.054109982802,
+        "curlTotalTime": 1889.8212240934372,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 59,
+    "timestamp": 3544362.513599992,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 60,
+    "timestamp": 4839084.361110001,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1169,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.163,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1390.862,
+        "totalTime": 1390.981,
+        "fcp": 3769.2213400000005,
+        "lcp": 8800.64528,
+        "speedIndex": 5577.972823999976,
+        "curlTotalTime": 1428.5156890004873,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 61,
+    "timestamp": 6953681.844843,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3947,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.26699999999999996,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 412.00399999999996,
+        "totalTime": 412.143,
+        "fcp": 2933.2127,
+        "lcp": 6669.745550000001,
+        "speedIndex": 3276.1588879860215,
+        "curlTotalTime": 455.46740302443504,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 62,
+    "timestamp": 3779742.8950389624,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3102,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.044,
+        "tcpConnection": 0.16,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 524.332,
+        "totalTime": 524.47,
+        "fcp": 3155.56422,
+        "lcp": 7210.47292,
+        "speedIndex": 4963.975950025595,
+        "curlTotalTime": 565.9913070201874,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 63,
+    "timestamp": 3717149.1616510153,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2563,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.24600000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 634.488,
+        "totalTime": 634.618,
+        "fcp": 3296.6040599999997,
+        "lcp": 7071.84616,
+        "speedIndex": 5251.461284102601,
+        "curlTotalTime": 681.1842550039291,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 64,
+    "timestamp": 3963798.264230013,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 998,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.242,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1628.9199999999998,
+        "totalTime": 1629.0230000000001,
+        "fcp": 5941.716779999999,
+        "lcp": 10098.604722407134,
+        "speedIndex": 13515.28520399128,
+        "curlTotalTime": 1668.0576740503311,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 65,
+    "timestamp": 3544410.2285119295,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 66,
+    "timestamp": 4859564.088809,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1176,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.14100000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1382.585,
+        "totalTime": 1382.73,
+        "fcp": 4509.301815000001,
+        "lcp": 6323.546680000001,
+        "speedIndex": 7568.897878000173,
+        "curlTotalTime": 1417.5039119999856,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 67,
+    "timestamp": 6969644.932646006,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3885,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.186,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 418.56399999999996,
+        "totalTime": 418.707,
+        "fcp": 2977.4435799999997,
+        "lcp": 6127.50224,
+        "speedIndex": 3395.2302380076235,
+        "curlTotalTime": 457.6126700043678,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 68,
+    "timestamp": 3800719.0761209726,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2937,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.038,
+        "tcpConnection": 0.27799999999999997,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 553.7800000000001,
+        "totalTime": 553.895,
+        "fcp": 6141.008880000001,
+        "lcp": 7823.562720000001,
+        "speedIndex": 10421.845386050649,
+        "curlTotalTime": 594.4647558927536,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 69,
+    "timestamp": 3737256.0603870153,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2539,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.038,
+        "tcpConnection": 0.189,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 640.402,
+        "totalTime": 640.556,
+        "fcp": 3853.29214,
+        "lcp": 7447.704659999999,
+        "speedIndex": 6044.638097921186,
+        "curlTotalTime": 689.6308870315552,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 70,
+    "timestamp": 3994312.3049730062,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 978,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.195,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1661.884,
+        "totalTime": 1662,
+        "fcp": 6166.1748800000005,
+        "lcp": 13378.27024,
+        "speedIndex": 9624.30837402139,
+        "curlTotalTime": 1709.115513920784,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 71,
+    "timestamp": 3544457.1309199333,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 72,
+    "timestamp": 4878197.587479,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1166,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.157,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1394.3229999999999,
+        "totalTime": 1394.464,
+        "fcp": 3650.6125199999997,
+        "lcp": 7765.786910000001,
+        "speedIndex": 5346.436996000129,
+        "curlTotalTime": 1433.2874169992283,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 73,
+    "timestamp": 6987271.263830006,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2272,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.04,
+        "tcpConnection": 0.207,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 715.88,
+        "totalTime": 716.028,
+        "fcp": 2896.42148,
+        "lcp": 5806.497949999999,
+        "speedIndex": 3734.3926820008674,
+        "curlTotalTime": 760.005842000246,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 74,
+    "timestamp": 3819816.986887932,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2711,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.188,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 599.829,
+        "totalTime": 599.951,
+        "fcp": 3501.30654,
+        "lcp": 9533.29882,
+        "speedIndex": 6194.6543361154245,
+        "curlTotalTime": 637.5520569086075,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 75,
+    "timestamp": 3756311.074506998,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2671,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.17300000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 608.9780000000001,
+        "totalTime": 609.101,
+        "fcp": 3464.4777599999998,
+        "lcp": 6992.245860000001,
+        "speedIndex": 5904.608889971641,
+        "curlTotalTime": 653.3420889377594,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 76,
+    "timestamp": 4031911.1916120052,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 859,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.164,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1893.027,
+        "totalTime": 1893.147,
+        "fcp": 7051.656900000001,
+        "lcp": 7815.8148,
+        "speedIndex": 13823.566616080061,
+        "curlTotalTime": 1932.055617928505,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 77,
+    "timestamp": 3544504.378700018,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 78,
+    "timestamp": 4898998.9471350005,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1129,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.24000000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1439.79,
+        "totalTime": 1439.917,
+        "fcp": 3705.2165,
+        "lcp": 8299.9225,
+        "speedIndex": 7467.740372000793,
+        "curlTotalTime": 1487.564650000073,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 79,
+    "timestamp": 7003458.747903019,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4170,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.24600000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 389.96599999999995,
+        "totalTime": 390.141,
+        "fcp": 2871.8075599999997,
+        "lcp": 7124.983200000001,
+        "speedIndex": 3305.970017980945,
+        "curlTotalTime": 431.44650399684906,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 80,
+    "timestamp": 3837522.2438789606,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2771,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.199,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 586.832,
+        "totalTime": 586.979,
+        "fcp": 3412.0670600000003,
+        "lcp": 6236.76514,
+        "speedIndex": 5057.478122050642,
+        "curlTotalTime": 637.0779029130936,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 81,
+    "timestamp": 3775499.433476925,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1676,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.187,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 970.2570000000001,
+        "totalTime": 970.384,
+        "fcp": 3351.6022399999997,
+        "lcp": 6742.95456,
+        "speedIndex": 5623.598623935553,
+        "curlTotalTime": 1013.7708189487457,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 82,
+    "timestamp": 4056691.292095065,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 583,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.15100000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2789.0950000000003,
+        "totalTime": 2789.198,
+        "fcp": 5251.90182,
+        "lcp": 9356.26708,
+        "speedIndex": 10438.131924072577,
+        "curlTotalTime": 2829.586832046509,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 83,
+    "timestamp": 3544546.7386449575,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 84,
+    "timestamp": 4921726.752904001,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1120,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.3,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1452.157,
+        "totalTime": 1452.3239999999998,
+        "fcp": 3787.0129800000004,
+        "lcp": 7162.99768,
+        "speedIndex": 5272.678471999395,
+        "curlTotalTime": 1529.3155940007418,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 85,
+    "timestamp": 7021092.434670001,
+    "webTests": [
+      {
+        "url": "http://7pgvcfbp2ixmzrxpe6o6catzlaakreufretrg7naliu76nkwmxvrstid.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1683,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.212,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 966.005,
+        "totalTime": 966.16,
+        "fcp": 2430.8685,
+        "lcp": 7062.243499999999,
+        "speedIndex": 3173.5203320105907,
+        "curlTotalTime": 1013.9808600246906,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 264969.28760898113,
+    "setupDuration": 9998.122296988964,
+    "diagnosticsDuration": 0.003286987543106079,
+    "measurementDuration": 244961.78369507194,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 86,
+    "timestamp": 3855321.939512968,
+    "webTests": [
+      {
+        "url": "http://wbdyh7c4dsj2hukrfr5tjt2o7sjcfdt7n3eraul3e4izxyziqmbqs2id.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3062,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.146,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 531.2099999999999,
+        "totalTime": 531.3290000000001,
+        "fcp": 3324.4575600000003,
+        "lcp": 7297.39518,
+        "speedIndex": 5128.776152014326,
+        "curlTotalTime": 565.8263249397278,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 299303.7367219925,
+    "setupDuration": 7873.820681929588,
+    "diagnosticsDuration": 0.003922939300537109,
+    "measurementDuration": 281423.87835514545,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 87,
+    "timestamp": 3794662.7765809298,
+    "webTests": [
+      {
+        "url": "http://4votpipcedlfgt3uwtwjgtaggxm6yr2rmmcnmg6as6tqeezwe3e6lfyd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2525,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.206,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 644.03,
+        "totalTime": 644.1510000000001,
+        "fcp": 3202.3673599999997,
+        "lcp": 5907.472339999998,
+        "speedIndex": 5271.236968081228,
+        "curlTotalTime": 691.0154949426651,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 323082.86182689667,
+    "setupDuration": 10139.151118040085,
+    "diagnosticsDuration": 0.004056096076965332,
+    "measurementDuration": 302936.7568901777,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 88,
+    "timestamp": 4084349.049757004,
+    "webTests": [
+      {
+        "url": "http://7wyhyoawqx7yvebc2l6mmr6ad2yydgtbrprzghhhvdw3ofd2xdreu2yd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 667,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.17200000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2435.614,
+        "totalTime": 2435.808,
+        "fcp": 4450.0071,
+        "lcp": 8984.457199999999,
+        "speedIndex": 9862.872207990484,
+        "curlTotalTime": 2475.2183480262756,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 472473.92522501945,
+    "setupDuration": 16740.504909038544,
+    "diagnosticsDuration": 0.0035979747772216797,
+    "measurementDuration": 445728.4064041376,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 89,
+    "timestamp": 3544586.6184870005,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 10762.357976913452,
+    "setupDuration": 102.99817895889282,
+    "diagnosticsDuration": 0.022385001182556152,
+    "measurementDuration": 657.2975209951401,
+    "hasErrors": true,
+    "errorCount": 2,
+    "errors": [
+      "Tunnel Setup: connect ECONNREFUSED 174.138.65.79:3000",
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "EphemeralHiddenService",
+    "measurementNumber": 90,
+    "timestamp": 4940873.260690001,
+    "webTests": [
+      {
+        "url": "http://g4lajehquon5r7utto57ttpzrwibzpododp3d6db7urqjdb5owavbbqd.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1149,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.202,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1415.269,
+        "totalTime": 1415.424,
+        "fcp": 3808.74578,
+        "lcp": 6662.389840000001,
+        "speedIndex": 5239.969490000429,
+        "curlTotalTime": 1466.0049310000613,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 324065.2363800006,
+    "setupDuration": 10028.180382999592,
+    "diagnosticsDuration": 0.003320000134408474,
+    "measurementDuration": 304030.9110660013,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

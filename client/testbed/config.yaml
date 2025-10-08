@@ -1,0 +1,3 @@
+url: http://localhost:3000
+tunnel: a44ed555-6b0c-4016-a959-ea7e6e69e330
+credentials-file: /home/adi/.cloudflared/a44ed555-6b0c-4016-a959-ea7e6e69e330.json

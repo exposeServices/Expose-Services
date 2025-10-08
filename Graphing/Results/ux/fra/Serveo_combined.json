@@ -1,0 +1,2882 @@
+[
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 1,
+    "timestamp": 1125749.966257006,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 2,
+    "timestamp": 1190132.599871993,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 3,
+    "timestamp": 1158711.84544003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 4,
+    "timestamp": 760665.4497600794,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5868,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.257,
+        "tcpConnection": 64.906,
+        "tlsHandshake": 107.581,
+        "timeToFirstByte": 277.134,
+        "totalTime": 277.243,
+        "fcp": 248.136,
+        "lcp": 503.747,
+        "speedIndex": 510,
+        "curlTotalTime": 318.5282859802246,
+        "playwrightTotalTime": 559.2343499660492
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 5,
+    "timestamp": 1237785.5615739822,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 6,
+    "timestamp": 924561.9267259999,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5125,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.752,
+        "tcpConnection": 65.71000000000001,
+        "tlsHandshake": 141.011,
+        "timeToFirstByte": 317.326,
+        "totalTime": 317.438,
+        "fcp": 269.738,
+        "lcp": 752.33,
+        "speedIndex": 755,
+        "curlTotalTime": 363.6340489999857,
+        "playwrightTotalTime": 627.2333620000863
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 7,
+    "timestamp": 1125788.144140005,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 8,
+    "timestamp": 1190173.8236299753,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 9,
+    "timestamp": 1158750.519124031,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 10,
+    "timestamp": 777495.0150860548,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6116,
+        "uploadSpeed": 0,
+        "dnsLookup": 54.089,
+        "tcpConnection": 55.627,
+        "tlsHandshake": 98.605,
+        "timeToFirstByte": 265.899,
+        "totalTime": 266.007,
+        "fcp": 196.476,
+        "lcp": 508.262,
+        "speedIndex": 510,
+        "curlTotalTime": 314.0632621049881,
+        "playwrightTotalTime": 592.1029809713364
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 11,
+    "timestamp": 1237831.8135359287,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 12,
+    "timestamp": 941666.680798,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6306,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9659999999999997,
+        "tcpConnection": 4.256,
+        "tlsHandshake": 79.829,
+        "timeToFirstByte": 257.893,
+        "totalTime": 257.99100000000004,
+        "fcp": 219.103,
+        "lcp": 448.775,
+        "speedIndex": 468,
+        "curlTotalTime": 306.26197300013155,
+        "playwrightTotalTime": 610.0648310000543
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 13,
+    "timestamp": 1125829.4712300003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 14,
+    "timestamp": 1190211.7323570251,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 15,
+    "timestamp": 1158785.6198539734,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 16,
+    "timestamp": 794772.6380339861,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7541,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.584,
+        "tcpConnection": 3.9290000000000003,
+        "tlsHandshake": 45.025999999999996,
+        "timeToFirstByte": 215.643,
+        "totalTime": 215.75300000000001,
+        "fcp": 204.501,
+        "lcp": 553.137,
+        "speedIndex": 523,
+        "curlTotalTime": 255.5912309885025,
+        "playwrightTotalTime": 556.5059729814529
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 17,
+    "timestamp": 1237879.229918003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 18,
+    "timestamp": 958786.682214,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7332,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.608,
+        "tcpConnection": 4.4270000000000005,
+        "tlsHandshake": 44.953,
+        "timeToFirstByte": 221.792,
+        "totalTime": 221.884,
+        "fcp": 239.676,
+        "lcp": 497.77,
+        "speedIndex": 486,
+        "curlTotalTime": 258.50807400001213,
+        "playwrightTotalTime": 606.3673419998959
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 19,
+    "timestamp": 1125867.2789330184,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 20,
+    "timestamp": 1190251.9822239876,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 21,
+    "timestamp": 1158820.5977180004,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 22,
+    "timestamp": 811709.1269800663,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7638,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7529999999999997,
+        "tcpConnection": 3.75,
+        "tlsHandshake": 45.417,
+        "timeToFirstByte": 212.88199999999998,
+        "totalTime": 212.98700000000002,
+        "fcp": 223.095,
+        "lcp": 620.788,
+        "speedIndex": 619,
+        "curlTotalTime": 260.5506980419159,
+        "playwrightTotalTime": 623.9288328886032
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 23,
+    "timestamp": 1237918.949741006,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 24,
+    "timestamp": 976005.951233,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7076,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.277,
+        "tcpConnection": 4.478000000000001,
+        "tlsHandshake": 54.330000000000005,
+        "timeToFirstByte": 229.802,
+        "totalTime": 229.905,
+        "fcp": 201.955,
+        "lcp": 683.242,
+        "speedIndex": 560,
+        "curlTotalTime": 276.9893320000265,
+        "playwrightTotalTime": 651.9284609998576
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 25,
+    "timestamp": 1125904.216791004,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 26,
+    "timestamp": 1190291.7489659786,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 27,
+    "timestamp": 1158855.1825430393,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 28,
+    "timestamp": 828829.7896660566,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7742,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.599,
+        "tcpConnection": 3.4520000000000004,
+        "tlsHandshake": 42.873000000000005,
+        "timeToFirstByte": 210.023,
+        "totalTime": 210.12800000000001,
+        "fcp": 190.629,
+        "lcp": 667.709,
+        "speedIndex": 555,
+        "curlTotalTime": 247.58324301242828,
+        "playwrightTotalTime": 699.2186899185181
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 29,
+    "timestamp": 1237959.9880000353,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 30,
+    "timestamp": 992973.726663,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6348,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.806,
+        "tcpConnection": 5.39,
+        "tlsHandshake": 80.24499999999999,
+        "timeToFirstByte": 256.181,
+        "totalTime": 256.291,
+        "fcp": 214.096,
+        "lcp": 588.299,
+        "speedIndex": 574,
+        "curlTotalTime": 295.7587690001819,
+        "playwrightTotalTime": 654.3888949998654
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 31,
+    "timestamp": 1125940.9436620176,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 32,
+    "timestamp": 1190330.4448770285,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 33,
+    "timestamp": 1158890.3406089544,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 34,
+    "timestamp": 845818.2495499849,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7637,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7079999999999997,
+        "tcpConnection": 4.026,
+        "tlsHandshake": 46.260999999999996,
+        "timeToFirstByte": 212.927,
+        "totalTime": 213.01999999999998,
+        "fcp": 196.01,
+        "lcp": 510.118,
+        "speedIndex": 514,
+        "curlTotalTime": 254.80262792110443,
+        "playwrightTotalTime": 619.4759340286255
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 35,
+    "timestamp": 1237997.8805730343,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 36,
+    "timestamp": 1010177.1920660001,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7205,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.713,
+        "tcpConnection": 3.78,
+        "tlsHandshake": 50.471000000000004,
+        "timeToFirstByte": 225.70000000000002,
+        "totalTime": 225.806,
+        "fcp": 271.179,
+        "lcp": 558.796,
+        "speedIndex": 574,
+        "curlTotalTime": 270.1463409999851,
+        "playwrightTotalTime": 654.7670020000078
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 37,
+    "timestamp": 1125981.4464590251,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 38,
+    "timestamp": 1190367.507972002,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 39,
+    "timestamp": 1158925.247764945,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 40,
+    "timestamp": 862949.157507062,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6826,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.691,
+        "tcpConnection": 4.044,
+        "tlsHandshake": 70.48400000000001,
+        "timeToFirstByte": 238.246,
+        "totalTime": 238.35,
+        "fcp": 214.622,
+        "lcp": 497.976,
+        "speedIndex": 513,
+        "curlTotalTime": 288.86996603012085,
+        "playwrightTotalTime": 588.2656810283661
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 41,
+    "timestamp": 1238037.2548129559,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 42,
+    "timestamp": 1027338.252362,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7183,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.614,
+        "tcpConnection": 6.2509999999999994,
+        "tlsHandshake": 50.56,
+        "timeToFirstByte": 226.36800000000002,
+        "totalTime": 226.482,
+        "fcp": 204.548,
+        "lcp": 514.831,
+        "speedIndex": 524,
+        "curlTotalTime": 269.109388000099,
+        "playwrightTotalTime": 668.8412280001212
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 43,
+    "timestamp": 1126018.1981330216,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 44,
+    "timestamp": 1190403.9621709585,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 45,
+    "timestamp": 1158963.5021089315,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 46,
+    "timestamp": 879939.3316270113,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7561,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9450000000000003,
+        "tcpConnection": 5.239,
+        "tlsHandshake": 48.739,
+        "timeToFirstByte": 215.072,
+        "totalTime": 215.171,
+        "fcp": 211.771,
+        "lcp": 514.792,
+        "speedIndex": 512,
+        "curlTotalTime": 259.0270439386368,
+        "playwrightTotalTime": 579.4488710165024
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 47,
+    "timestamp": 1238073.006240964,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 48,
+    "timestamp": 1044275.595282,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7133,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.112,
+        "tcpConnection": 4.555,
+        "tlsHandshake": 52.21,
+        "timeToFirstByte": 227.994,
+        "totalTime": 228.08800000000002,
+        "fcp": 201.163,
+        "lcp": 515.081,
+        "speedIndex": 487,
+        "curlTotalTime": 269.81156300008297,
+        "playwrightTotalTime": 619.8733910000883
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 49,
+    "timestamp": 1126053.561623007,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 50,
+    "timestamp": 1190438.6628209352,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 51,
+    "timestamp": 1158997.8813500404,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 52,
+    "timestamp": 896869.8322219849,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6641,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.074999999999999,
+        "tcpConnection": 6.319,
+        "tlsHandshake": 76.386,
+        "timeToFirstByte": 244.862,
+        "totalTime": 244.961,
+        "fcp": 213.533,
+        "lcp": 529.523,
+        "speedIndex": 535,
+        "curlTotalTime": 289.54367995262146,
+        "playwrightTotalTime": 579.157429099083
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 53,
+    "timestamp": 1238109.0295250416,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 54,
+    "timestamp": 1061167.98244,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7398,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.555,
+        "tcpConnection": 3.4450000000000003,
+        "tlsHandshake": 44.028,
+        "timeToFirstByte": 219.817,
+        "totalTime": 219.92000000000002,
+        "fcp": 215.247,
+        "lcp": 528.676,
+        "speedIndex": 526,
+        "curlTotalTime": 255.79788099997677,
+        "playwrightTotalTime": 555.7981219999492
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 55,
+    "timestamp": 1126088.1251940131,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 56,
+    "timestamp": 1190475.531041026,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 57,
+    "timestamp": 1159035.0105659962,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 58,
+    "timestamp": 913906.2942830324,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7547,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.553,
+        "tcpConnection": 3.7529999999999997,
+        "tlsHandshake": 44.311,
+        "timeToFirstByte": 215.474,
+        "totalTime": 215.577,
+        "fcp": 229.637,
+        "lcp": 762.229,
+        "speedIndex": 766,
+        "curlTotalTime": 256.77411103248596,
+        "playwrightTotalTime": 579.1411820650101
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 59,
+    "timestamp": 1238150.896484971,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 60,
+    "timestamp": 1078104.848661,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7328,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0820000000000003,
+        "tcpConnection": 4.114999999999999,
+        "tlsHandshake": 46.266,
+        "timeToFirstByte": 221.916,
+        "totalTime": 222.025,
+        "fcp": 219.488,
+        "lcp": 573.368,
+        "speedIndex": 572,
+        "curlTotalTime": 262.8599159999285,
+        "playwrightTotalTime": 603.2502570000943
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 61,
+    "timestamp": 1126123.509465009,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 62,
+    "timestamp": 1190512.8102259636,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 63,
+    "timestamp": 1159070.7142449617,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 64,
+    "timestamp": 930902.8133740425,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7009,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7950000000000004,
+        "tcpConnection": 4.916,
+        "tlsHandshake": 64.012,
+        "timeToFirstByte": 232.01,
+        "totalTime": 232.104,
+        "fcp": 192.953,
+        "lcp": 682.899,
+        "speedIndex": 567,
+        "curlTotalTime": 275.09213399887085,
+        "playwrightTotalTime": 557.2959580421448
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 65,
+    "timestamp": 1238196.6280859709,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 66,
+    "timestamp": 1095368.593316,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6676,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.471,
+        "tcpConnection": 6.135,
+        "tlsHandshake": 67.356,
+        "timeToFirstByte": 243.614,
+        "totalTime": 243.707,
+        "fcp": 220.965,
+        "lcp": 856.7,
+        "speedIndex": 802,
+        "curlTotalTime": 285.6925460000057,
+        "playwrightTotalTime": 631.2311510001309
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 67,
+    "timestamp": 1126158.8918090165,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 68,
+    "timestamp": 1190549.81011796,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 69,
+    "timestamp": 1159106.7068629265,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 70,
+    "timestamp": 948361.0223190784,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7482,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.799,
+        "tcpConnection": 4.218,
+        "tlsHandshake": 50.833999999999996,
+        "timeToFirstByte": 217.337,
+        "totalTime": 217.432,
+        "fcp": 204.743,
+        "lcp": 806.436,
+        "speedIndex": 683,
+        "curlTotalTime": 268.3346449136734,
+        "playwrightTotalTime": 612.3603429794312
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 71,
+    "timestamp": 1238235.3314700127,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 72,
+    "timestamp": 1112554.281424,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6760,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7889999999999997,
+        "tcpConnection": 3.892,
+        "tlsHandshake": 65.111,
+        "timeToFirstByte": 240.52100000000002,
+        "totalTime": 240.651,
+        "fcp": 215.478,
+        "lcp": 544.676,
+        "speedIndex": 543,
+        "curlTotalTime": 280.25327900005504,
+        "playwrightTotalTime": 674.046148999827
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 73,
+    "timestamp": 1126195.4172739983,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 74,
+    "timestamp": 1190588.518535018,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 75,
+    "timestamp": 1159140.996369958,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 76,
+    "timestamp": 965484.2443109751,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6995,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.611,
+        "tcpConnection": 3.8440000000000003,
+        "tlsHandshake": 65.40899999999999,
+        "timeToFirstByte": 232.463,
+        "totalTime": 232.563,
+        "fcp": 196.847,
+        "lcp": 620.877,
+        "speedIndex": 594,
+        "curlTotalTime": 276.29091691970825,
+        "playwrightTotalTime": 622.6112478971481
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 77,
+    "timestamp": 1238277.0345790386,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 78,
+    "timestamp": 1129637.360998,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7395,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.822,
+        "tcpConnection": 4.457,
+        "tlsHandshake": 44.396,
+        "timeToFirstByte": 219.892,
+        "totalTime": 220.00300000000001,
+        "fcp": 231.816,
+        "lcp": 814.097,
+        "speedIndex": 687,
+        "curlTotalTime": 261.5144899999723,
+        "playwrightTotalTime": 619.4548500000965
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 79,
+    "timestamp": 1126235.7252690196,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 80,
+    "timestamp": 1190625.634552002,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 81,
+    "timestamp": 1159179.8485369682,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 82,
+    "timestamp": 982533.409224987,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7636,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.978,
+        "tcpConnection": 4.378,
+        "tlsHandshake": 45.184000000000005,
+        "timeToFirstByte": 212.927,
+        "totalTime": 213.065,
+        "fcp": 198.181,
+        "lcp": 520.926,
+        "speedIndex": 534,
+        "curlTotalTime": 266.9430249929428,
+        "playwrightTotalTime": 703.1303000450134
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 83,
+    "timestamp": 1238319.5913389921,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 84,
+    "timestamp": 1146746.390411,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7329,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.748,
+        "tcpConnection": 3.492,
+        "tlsHandshake": 46.023,
+        "timeToFirstByte": 221.882,
+        "totalTime": 221.973,
+        "fcp": 203.303,
+        "lcp": 431.326,
+        "speedIndex": 436,
+        "curlTotalTime": 259.5746240001172,
+        "playwrightTotalTime": 618.8718220000155
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 85,
+    "timestamp": 1126278.4474630058,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30884.007843017578,
+    "setupDuration": 20310.287854999304,
+    "diagnosticsDuration": 0.0032449960708618164,
+    "measurementDuration": 569.9606319665909,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 86,
+    "timestamp": 1190662.3057340384,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30864.827806949615,
+    "setupDuration": 20295.646774053574,
+    "diagnosticsDuration": 0.0027719736099243164,
+    "measurementDuration": 566.7487738132477,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 87,
+    "timestamp": 1159219.9757779837,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30856.270404934883,
+    "setupDuration": 20308.976112008095,
+    "diagnosticsDuration": 0.0030249357223510742,
+    "measurementDuration": 545.5712147951126,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 88,
+    "timestamp": 999618.6953070164,
+    "webTests": [
+      {
+        "url": "https://ae74d62304a8552747e93d385838f105.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7782,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.639,
+        "tcpConnection": 3.556,
+        "tlsHandshake": 41.894,
+        "timeToFirstByte": 208.945,
+        "totalTime": 209.065,
+        "fcp": 195.594,
+        "lcp": 463.521,
+        "speedIndex": 467,
+        "curlTotalTime": 248.91145491600037,
+        "playwrightTotalTime": 648.2099829912186
+      }
+    ],
+    "totalDuration": 267573.7870299816,
+    "setupDuration": 1285.4277430772781,
+    "diagnosticsDuration": 0.003054022789001465,
+    "measurementDuration": 256280.3273780346,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 89,
+    "timestamp": 1238360.3062149286,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30929.711811065674,
+    "setupDuration": 20307.458540081978,
+    "diagnosticsDuration": 0.0042231082916259766,
+    "measurementDuration": 618.7862732410431,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Serveo",
+    "measurementNumber": 90,
+    "timestamp": 1163943.263211,
+    "webTests": [
+      {
+        "url": "https://fd0c206c340388ef20b8dd440cfd374a.serveo.net/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6463,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9810000000000003,
+        "tcpConnection": 3.886,
+        "tlsHandshake": 76.07700000000001,
+        "timeToFirstByte": 251.617,
+        "totalTime": 251.718,
+        "fcp": 203.555,
+        "lcp": 529.454,
+        "speedIndex": 535,
+        "curlTotalTime": 295.7386809999589,
+        "playwrightTotalTime": 597.8348659998737
+      }
+    ],
+    "totalDuration": 268065.515165,
+    "setupDuration": 1292.355383999995,
+    "diagnosticsDuration": 0.0031510000117123127,
+    "measurementDuration": 256765.6478520002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

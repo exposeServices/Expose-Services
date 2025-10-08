@@ -1,0 +1,2732 @@
+[
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 1,
+    "timestamp": 6510309.112101018,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4708,
+        "uploadSpeed": 0,
+        "dnsLookup": 77.986,
+        "tcpConnection": 97.274,
+        "tlsHandshake": 137.639,
+        "timeToFirstByte": 345.389,
+        "totalTime": 345.54400000000004,
+        "fcp": 312.201,
+        "lcp": 512.502,
+        "speedIndex": 561,
+        "curlTotalTime": 389.1825590133667,
+        "playwrightTotalTime": 933.211061000824
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 2,
+    "timestamp": 3312025.447909951,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4415,
+        "uploadSpeed": 0,
+        "dnsLookup": 89.172,
+        "tcpConnection": 114.203,
+        "tlsHandshake": 154.462,
+        "timeToFirstByte": 368.38300000000004,
+        "totalTime": 368.49,
+        "fcp": 275.84,
+        "lcp": 664.667,
+        "speedIndex": 651,
+        "curlTotalTime": 414.9388210773468,
+        "playwrightTotalTime": 694.3960870504379
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 3,
+    "timestamp": 3227884.140277028,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4141,
+        "uploadSpeed": 0,
+        "dnsLookup": 113.33,
+        "tcpConnection": 138.351,
+        "tlsHandshake": 178.624,
+        "timeToFirstByte": 392.774,
+        "totalTime": 392.88,
+        "fcp": 295.693,
+        "lcp": 677.867,
+        "speedIndex": 672,
+        "curlTotalTime": 431.8677740097046,
+        "playwrightTotalTime": 677.1533360481262
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 4,
+    "timestamp": 3365893.0663410425,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4260,
+        "uploadSpeed": 0,
+        "dnsLookup": 73.965,
+        "tcpConnection": 89.422,
+        "tlsHandshake": 127.48799999999999,
+        "timeToFirstByte": 381.768,
+        "totalTime": 381.869,
+        "fcp": 283.125,
+        "lcp": 539.122,
+        "speedIndex": 506,
+        "curlTotalTime": 427.56380093097687,
+        "playwrightTotalTime": 611.6521480083466
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 5,
+    "timestamp": 2557038.4628419876,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 84,
+        "uploadSpeed": 0,
+        "dnsLookup": 115.084,
+        "tcpConnection": 140.322,
+        "tlsHandshake": 179.94299999999998,
+        "timeToFirstByte": 19167.942,
+        "totalTime": 19168.049,
+        "fcp": 3373.13,
+        "lcp": 3633.079,
+        "speedIndex": 3652,
+        "curlTotalTime": 19206.72382593155,
+        "playwrightTotalTime": 5819.68032002449
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 6,
+    "timestamp": 4373447.419552,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4460,
+        "uploadSpeed": 0,
+        "dnsLookup": 74.79299999999999,
+        "tcpConnection": 94.127,
+        "tlsHandshake": 155.842,
+        "timeToFirstByte": 364.57,
+        "totalTime": 364.787,
+        "fcp": 360.134,
+        "lcp": 734.479,
+        "speedIndex": 628,
+        "curlTotalTime": 410.5292270006612,
+        "playwrightTotalTime": 813.6356490002945
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 7,
+    "timestamp": 6527592.693269014,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5920,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.67,
+        "tcpConnection": 20.925,
+        "tlsHandshake": 67.70700000000001,
+        "timeToFirstByte": 274.68199999999996,
+        "totalTime": 274.786,
+        "fcp": 280.042,
+        "lcp": 806.264,
+        "speedIndex": 707,
+        "curlTotalTime": 325.0608519911766,
+        "playwrightTotalTime": 710.2820380032063
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 8,
+    "timestamp": 3329200.8751369715,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5735,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8649999999999998,
+        "tcpConnection": 26.447,
+        "tlsHandshake": 70.43,
+        "timeToFirstByte": 283.53299999999996,
+        "totalTime": 283.66200000000003,
+        "fcp": 261.709,
+        "lcp": 497.866,
+        "speedIndex": 512,
+        "curlTotalTime": 325.26976001262665,
+        "playwrightTotalTime": 637.7874380350113
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 9,
+    "timestamp": 3245355.678815961,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5828,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4520000000000004,
+        "tcpConnection": 25.988,
+        "tlsHandshake": 66.354,
+        "timeToFirstByte": 279.061,
+        "totalTime": 279.161,
+        "fcp": 272.323,
+        "lcp": 796.014,
+        "speedIndex": 747,
+        "curlTotalTime": 315.7450850009918,
+        "playwrightTotalTime": 697.4287079572678
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 10,
+    "timestamp": 3383055.5903379917,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6177,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.938,
+        "tcpConnection": 17.58,
+        "tlsHandshake": 57.875,
+        "timeToFirstByte": 263.233,
+        "totalTime": 263.361,
+        "fcp": 256.605,
+        "lcp": 613.496,
+        "speedIndex": 541,
+        "curlTotalTime": 316.6686741113663,
+        "playwrightTotalTime": 686.0296179056168
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 11,
+    "timestamp": 2616056.6674770117,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 74,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.624,
+        "tcpConnection": 27.915,
+        "tlsHandshake": 66.343,
+        "timeToFirstByte": 21926.613,
+        "totalTime": 21926.718999999997,
+        "fcp": 4905.935,
+        "lcp": 5210.208,
+        "speedIndex": 5193,
+        "curlTotalTime": 21965.37553691864,
+        "playwrightTotalTime": 11218.906442046165
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 12,
+    "timestamp": 4390773.664954,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5353,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.598,
+        "tcpConnection": 25.988,
+        "tlsHandshake": 90.024,
+        "timeToFirstByte": 302.619,
+        "totalTime": 303.928,
+        "fcp": 278.769,
+        "lcp": 750.201,
+        "speedIndex": 660,
+        "curlTotalTime": 343.5666589997709,
+        "playwrightTotalTime": 665.9824240002781
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 13,
+    "timestamp": 6545049.5122100115,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6054,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6679999999999997,
+        "tcpConnection": 20.459000000000003,
+        "tlsHandshake": 61.399,
+        "timeToFirstByte": 268.591,
+        "totalTime": 268.717,
+        "fcp": 337.938,
+        "lcp": 815.311,
+        "speedIndex": 671,
+        "curlTotalTime": 311.3459779918194,
+        "playwrightTotalTime": 735.9209389984608
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 14,
+    "timestamp": 3346276.651666999,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5645,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.141,
+        "tcpConnection": 22.005,
+        "tlsHandshake": 81.56099999999999,
+        "timeToFirstByte": 288.069,
+        "totalTime": 288.193,
+        "fcp": 265.88,
+        "lcp": 470.442,
+        "speedIndex": 500,
+        "curlTotalTime": 332.44596207141876,
+        "playwrightTotalTime": 641.4162889719009
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 15,
+    "timestamp": 3263235.97072196,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5966,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.191000000000001,
+        "tcpConnection": 23.411,
+        "tlsHandshake": 65.393,
+        "timeToFirstByte": 272.552,
+        "totalTime": 272.67400000000004,
+        "fcp": 273.813,
+        "lcp": 647.414,
+        "speedIndex": 552,
+        "curlTotalTime": 322.57375597953796,
+        "playwrightTotalTime": 792.1833529472351
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 16,
+    "timestamp": 3401159.6447570324,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5726,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.569,
+        "tcpConnection": 18.07,
+        "tlsHandshake": 61.405,
+        "timeToFirstByte": 283.98,
+        "totalTime": 284.10999999999996,
+        "fcp": 248.059,
+        "lcp": 836.646,
+        "speedIndex": 719,
+        "curlTotalTime": 326.5253119468689,
+        "playwrightTotalTime": 1088.5303000211716
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 17,
+    "timestamp": 2672155.633553028,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 90,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.883,
+        "tcpConnection": 27.11,
+        "tlsHandshake": 65.536,
+        "timeToFirstByte": 17879.231,
+        "totalTime": 17880.986,
+        "fcp": 3478.735,
+        "lcp": 3834.885,
+        "speedIndex": 3810,
+        "curlTotalTime": 17924.39447402954,
+        "playwrightTotalTime": 12310.756708025932
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 18,
+    "timestamp": 4407954.877488,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5127,
+        "uploadSpeed": 0,
+        "dnsLookup": 39.717,
+        "tcpConnection": 63.63,
+        "tlsHandshake": 102.81099999999999,
+        "timeToFirstByte": 317.19199999999995,
+        "totalTime": 317.319,
+        "fcp": 283.908,
+        "lcp": 496.685,
+        "speedIndex": 502,
+        "curlTotalTime": 358.18269800022244,
+        "playwrightTotalTime": 762.3003749996424
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 19,
+    "timestamp": 6562888.673126012,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5578,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.476,
+        "tcpConnection": 28.067999999999998,
+        "tlsHandshake": 78.33900000000001,
+        "timeToFirstByte": 291.566,
+        "totalTime": 291.66900000000004,
+        "fcp": 261.029,
+        "lcp": 771.379,
+        "speedIndex": 680,
+        "curlTotalTime": 334.18942299485207,
+        "playwrightTotalTime": 1078.1303519904613
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 20,
+    "timestamp": 3363736.7388449907,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5711,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.435,
+        "tcpConnection": 27.037,
+        "tlsHandshake": 70.65100000000001,
+        "timeToFirstByte": 284.711,
+        "totalTime": 284.84,
+        "fcp": 305.919,
+        "lcp": 730.452,
+        "speedIndex": 607,
+        "curlTotalTime": 324.6300359964371,
+        "playwrightTotalTime": 661.8144099712372
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 21,
+    "timestamp": 3280630.896968007,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6052,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.678,
+        "tcpConnection": 21.288,
+        "tlsHandshake": 60.479,
+        "timeToFirstByte": 268.715,
+        "totalTime": 268.81500000000005,
+        "fcp": 282.882,
+        "lcp": 762.655,
+        "speedIndex": 751,
+        "curlTotalTime": 311.91341507434845,
+        "playwrightTotalTime": 740.1117610931396
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 22,
+    "timestamp": 3419077.228172064,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6066,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.564,
+        "tcpConnection": 17.056,
+        "tlsHandshake": 57.11,
+        "timeToFirstByte": 268.079,
+        "totalTime": 268.2,
+        "fcp": 237.79,
+        "lcp": 930.622,
+        "speedIndex": 807,
+        "curlTotalTime": 316.85549199581146,
+        "playwrightTotalTime": 1088.7516560554504
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 23,
+    "timestamp": 2747301.136216998,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 99,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.716,
+        "tcpConnection": 26.185,
+        "tlsHandshake": 69.95800000000001,
+        "timeToFirstByte": 16392.292,
+        "totalTime": 16392.405,
+        "fcp": 9835.692,
+        "lcp": 10352.038,
+        "speedIndex": 10207,
+        "curlTotalTime": 16434.04095697403,
+        "playwrightTotalTime": 20982.288223981857
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 24,
+    "timestamp": 4425514.956265001,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5999,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.695,
+        "tcpConnection": 20.919,
+        "tlsHandshake": 63.972,
+        "timeToFirstByte": 271.109,
+        "totalTime": 271.207,
+        "fcp": 258.495,
+        "lcp": 635.63,
+        "speedIndex": 630,
+        "curlTotalTime": 311.5993059994653,
+        "playwrightTotalTime": 732.1363199995831
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 25,
+    "timestamp": 6580614.117244005,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5783,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.54,
+        "tcpConnection": 27.163,
+        "tlsHandshake": 68.373,
+        "timeToFirstByte": 281.202,
+        "totalTime": 281.324,
+        "fcp": 264.769,
+        "lcp": 562.014,
+        "speedIndex": 557,
+        "curlTotalTime": 320.29402899742126,
+        "playwrightTotalTime": 1085.1920469999313
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 26,
+    "timestamp": 3381056.0545430183,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5611,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.733,
+        "tcpConnection": 20.502,
+        "tlsHandshake": 81.14200000000001,
+        "timeToFirstByte": 289.777,
+        "totalTime": 289.938,
+        "fcp": 293.477,
+        "lcp": 766.683,
+        "speedIndex": 765,
+        "curlTotalTime": 334.23570692539215,
+        "playwrightTotalTime": 666.7407100200653
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 27,
+    "timestamp": 3297838.965822935,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6091,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.378,
+        "tcpConnection": 20.218,
+        "tlsHandshake": 59.6,
+        "timeToFirstByte": 266.93899999999996,
+        "totalTime": 267.07599999999996,
+        "fcp": 258.702,
+        "lcp": 748.387,
+        "speedIndex": 692,
+        "curlTotalTime": 307.3125630617142,
+        "playwrightTotalTime": 696.208151102066
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 28,
+    "timestamp": 3438061.952336073,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6203,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7880000000000003,
+        "tcpConnection": 17.547,
+        "tlsHandshake": 56.884,
+        "timeToFirstByte": 262.14300000000003,
+        "totalTime": 262.26899999999995,
+        "fcp": 494.552,
+        "lcp": 746.301,
+        "speedIndex": 749,
+        "curlTotalTime": 313.7026309967041,
+        "playwrightTotalTime": 643.2368348836899
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 29,
+    "timestamp": 2837782.7212359905,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 82,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.777,
+        "tcpConnection": 26.801,
+        "tlsHandshake": 66.51400000000001,
+        "timeToFirstByte": 19733.737999999998,
+        "totalTime": 19734.477,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 19778.07954096794,
+        "playwrightTotalTime": 21990.26472401619
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 30,
+    "timestamp": 4443056.298978001,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5814,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.859,
+        "tcpConnection": 26.672,
+        "tlsHandshake": 67.49900000000001,
+        "timeToFirstByte": 279.724,
+        "totalTime": 279.823,
+        "fcp": 270.439,
+        "lcp": 853.29,
+        "speedIndex": 733,
+        "curlTotalTime": 325.06335800047964,
+        "playwrightTotalTime": 732.9034559996799
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 31,
+    "timestamp": 6598141.773378015,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5335,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.032,
+        "tcpConnection": 29.139000000000003,
+        "tlsHandshake": 91.96300000000001,
+        "timeToFirstByte": 304.056,
+        "totalTime": 304.96099999999996,
+        "fcp": 254.196,
+        "lcp": 545.255,
+        "speedIndex": 563,
+        "curlTotalTime": 355.15421599149704,
+        "playwrightTotalTime": 769.6200830042362
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 32,
+    "timestamp": 3398514.352208972,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5918,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0370000000000004,
+        "tcpConnection": 28.9,
+        "tlsHandshake": 67.828,
+        "timeToFirstByte": 274.797,
+        "totalTime": 274.92100000000005,
+        "fcp": 276.602,
+        "lcp": 756.974,
+        "speedIndex": 745,
+        "curlTotalTime": 320.05215203762054,
+        "playwrightTotalTime": 658.7980619668961
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 33,
+    "timestamp": 3315388.7341040373,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5712,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.376,
+        "tcpConnection": 27.528,
+        "tlsHandshake": 71.504,
+        "timeToFirstByte": 284.67900000000003,
+        "totalTime": 284.803,
+        "fcp": 297.515,
+        "lcp": 640.883,
+        "speedIndex": 654,
+        "curlTotalTime": 324.5835419893265,
+        "playwrightTotalTime": 667.8520200252533
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 34,
+    "timestamp": 3455743.5538300276,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5316,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.814,
+        "tcpConnection": 20.774,
+        "tlsHandshake": 99.465,
+        "timeToFirstByte": 305.916,
+        "totalTime": 306.022,
+        "fcp": 255.727,
+        "lcp": 529.468,
+        "speedIndex": 460,
+        "curlTotalTime": 374.5848089456558,
+        "playwrightTotalTime": 652.2140760421753
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 35,
+    "timestamp": 3321230.463953972,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.637,
+        "tcpConnection": 19.398,
+        "tlsHandshake": 62.374,
+        "timeToFirstByte": 462885.34099999996,
+        "totalTime": 462885.432,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 462927.5104329586,
+        "playwrightTotalTime": 3377.149342060089
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 36,
+    "timestamp": 4460796.268018001,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5702,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.722,
+        "tcpConnection": 27.607,
+        "tlsHandshake": 70.98599999999999,
+        "timeToFirstByte": 284.116,
+        "totalTime": 285.302,
+        "fcp": 264.659,
+        "lcp": 860.967,
+        "speedIndex": 761,
+        "curlTotalTime": 333.01826100051403,
+        "playwrightTotalTime": 692.65325100068
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 37,
+    "timestamp": 6615409.752019018,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5980,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.839,
+        "tcpConnection": 20.683,
+        "tlsHandshake": 63.836000000000006,
+        "timeToFirstByte": 271.871,
+        "totalTime": 272.04,
+        "fcp": 257.699,
+        "lcp": 555.928,
+        "speedIndex": 552,
+        "curlTotalTime": 318.8566839993,
+        "playwrightTotalTime": 753.1318260133266
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 38,
+    "timestamp": 3415955.1178529263,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5817,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2720000000000002,
+        "tcpConnection": 26.735,
+        "tlsHandshake": 66.256,
+        "timeToFirstByte": 279.50199999999995,
+        "totalTime": 279.671,
+        "fcp": 273.981,
+        "lcp": 716.371,
+        "speedIndex": 689,
+        "curlTotalTime": 325.6184229850769,
+        "playwrightTotalTime": 700.6662240028381
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 39,
+    "timestamp": 3332804.0477859974,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5739,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7009999999999996,
+        "tcpConnection": 27.955000000000002,
+        "tlsHandshake": 69.37599999999999,
+        "timeToFirstByte": 283.37600000000003,
+        "totalTime": 283.481,
+        "fcp": 254.746,
+        "lcp": 609.181,
+        "speedIndex": 606,
+        "curlTotalTime": 326.6668839454651,
+        "playwrightTotalTime": 644.0887739658356
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 40,
+    "timestamp": 3473734.220059037,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5711,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0300000000000002,
+        "tcpConnection": 17.323,
+        "tlsHandshake": 77.74300000000001,
+        "timeToFirstByte": 284.74100000000004,
+        "totalTime": 284.863,
+        "fcp": 271.595,
+        "lcp": 614.483,
+        "speedIndex": 566,
+        "curlTotalTime": 343.41243505477905,
+        "playwrightTotalTime": 717.2963510751724
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 41,
+    "timestamp": 3344789.436553955,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.813,
+        "tcpConnection": 21.208000000000002,
+        "tlsHandshake": 79.28699999999999,
+        "timeToFirstByte": 3099.5119999999997,
+        "totalTime": 3099.582,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3143.0407699346542,
+        "playwrightTotalTime": 3417.8418530225754
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 42,
+    "timestamp": 4478252.9919610005,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5773,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.73,
+        "tcpConnection": 27.077,
+        "tlsHandshake": 68.199,
+        "timeToFirstByte": 281.418,
+        "totalTime": 281.822,
+        "fcp": 274.138,
+        "lcp": 542.065,
+        "speedIndex": 554,
+        "curlTotalTime": 322.84848099946976,
+        "playwrightTotalTime": 684.4671449996531
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 43,
+    "timestamp": 6633057.083981007,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5767,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.624,
+        "tcpConnection": 26.127000000000002,
+        "tlsHandshake": 67.557,
+        "timeToFirstByte": 281.548,
+        "totalTime": 282.12,
+        "fcp": 302.022,
+        "lcp": 1051.482,
+        "speedIndex": 1010,
+        "curlTotalTime": 321.1324349939823,
+        "playwrightTotalTime": 846.9676460027695
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 44,
+    "timestamp": 3433301.7069239616,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5966,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.643,
+        "tcpConnection": 22.262,
+        "tlsHandshake": 63.58800000000001,
+        "timeToFirstByte": 272.504,
+        "totalTime": 272.687,
+        "fcp": 278.241,
+        "lcp": 809.504,
+        "speedIndex": 691,
+        "curlTotalTime": 318.97840094566345,
+        "playwrightTotalTime": 721.5012469291687
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 45,
+    "timestamp": 3350197.32070899,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6107,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.98,
+        "tcpConnection": 21.115,
+        "tlsHandshake": 60.592,
+        "timeToFirstByte": 266.28200000000004,
+        "totalTime": 266.399,
+        "fcp": 291.637,
+        "lcp": 651.405,
+        "speedIndex": 640,
+        "curlTotalTime": 305.22768700122833,
+        "playwrightTotalTime": 695.2262400388718
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 46,
+    "timestamp": 3491010.2459130287,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6159,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.595,
+        "tcpConnection": 17.131,
+        "tlsHandshake": 60.543,
+        "timeToFirstByte": 264.024,
+        "totalTime": 264.142,
+        "fcp": 271.989,
+        "lcp": 471.307,
+        "speedIndex": 454,
+        "curlTotalTime": 304.72983396053314,
+        "playwrightTotalTime": 607.3712389469147
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 47,
+    "timestamp": 3368343.577837944,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.637,
+        "tcpConnection": 20.414,
+        "tlsHandshake": 81.584,
+        "timeToFirstByte": 3102.114,
+        "totalTime": 3102.204,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3147.382364988327,
+        "playwrightTotalTime": 3380.227040052414
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 48,
+    "timestamp": 4495435.383836,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5723,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.822,
+        "tcpConnection": 26.38,
+        "tlsHandshake": 71.09400000000001,
+        "timeToFirstByte": 284.10999999999996,
+        "totalTime": 284.24300000000005,
+        "fcp": 253.781,
+        "lcp": 553.958,
+        "speedIndex": 566,
+        "curlTotalTime": 328.5766799999401,
+        "playwrightTotalTime": 672.9855140000582
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 49,
+    "timestamp": 6650766.804128021,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5790,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.732,
+        "tcpConnection": 26.333,
+        "tlsHandshake": 68.731,
+        "timeToFirstByte": 280.846,
+        "totalTime": 280.96700000000004,
+        "fcp": 285.796,
+        "lcp": 857.621,
+        "speedIndex": 834,
+        "curlTotalTime": 322.4669559895992,
+        "playwrightTotalTime": 668.440140992403
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 50,
+    "timestamp": 3450725.848951936,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5723,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.811,
+        "tcpConnection": 28.125,
+        "tlsHandshake": 71.77699999999999,
+        "timeToFirstByte": 284.149,
+        "totalTime": 284.275,
+        "fcp": 292.193,
+        "lcp": 833.674,
+        "speedIndex": 739,
+        "curlTotalTime": 331.79449105262756,
+        "playwrightTotalTime": 703.2930979728699
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 51,
+    "timestamp": 3367744.260002017,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6013,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8800000000000003,
+        "tcpConnection": 21.326999999999998,
+        "tlsHandshake": 62.218,
+        "timeToFirstByte": 270.426,
+        "totalTime": 270.544,
+        "fcp": 271.433,
+        "lcp": 861.701,
+        "speedIndex": 800,
+        "curlTotalTime": 309.82756197452545,
+        "playwrightTotalTime": 676.4178309440613
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 52,
+    "timestamp": 3508095.5939249992,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6106,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.922,
+        "tcpConnection": 17.756999999999998,
+        "tlsHandshake": 59.45099999999999,
+        "timeToFirstByte": 266.324,
+        "totalTime": 266.425,
+        "fcp": 249.785,
+        "lcp": 482.264,
+        "speedIndex": 459,
+        "curlTotalTime": 310.45829606056213,
+        "playwrightTotalTime": 622.5712980031967
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 53,
+    "timestamp": 3391951.4117150307,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.16,
+        "tcpConnection": 20.312,
+        "tlsHandshake": 73.24,
+        "timeToFirstByte": 3095.312,
+        "totalTime": 3095.393,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3146.137874007225,
+        "playwrightTotalTime": 3410.5315039157867
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 54,
+    "timestamp": 4513057.868038001,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4934,
+        "uploadSpeed": 0,
+        "dnsLookup": 52.387,
+        "tcpConnection": 76.532,
+        "tlsHandshake": 117.529,
+        "timeToFirstByte": 329.579,
+        "totalTime": 329.707,
+        "fcp": 273.744,
+        "lcp": 623.86,
+        "speedIndex": 568,
+        "curlTotalTime": 367.49694800004363,
+        "playwrightTotalTime": 735.2150210002437
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 55,
+    "timestamp": 6668030.292262018,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5141,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7009999999999996,
+        "tcpConnection": 27.179,
+        "tlsHandshake": 102.589,
+        "timeToFirstByte": 316.272,
+        "totalTime": 316.423,
+        "fcp": 279.573,
+        "lcp": 676.793,
+        "speedIndex": 583,
+        "curlTotalTime": 359.56830298900604,
+        "playwrightTotalTime": 705.9763810038567
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 56,
+    "timestamp": 3468211.128144026,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5181,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.023,
+        "tcpConnection": 28.382,
+        "tlsHandshake": 99.867,
+        "timeToFirstByte": 313.859,
+        "totalTime": 313.99399999999997,
+        "fcp": 273.614,
+        "lcp": 714.982,
+        "speedIndex": 691,
+        "curlTotalTime": 372.4475990533829,
+        "playwrightTotalTime": 737.1845510005951
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 57,
+    "timestamp": 3385121.3170599937,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5546,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.589,
+        "tcpConnection": 20.868000000000002,
+        "tlsHandshake": 86.335,
+        "timeToFirstByte": 293.21799999999996,
+        "totalTime": 293.343,
+        "fcp": 254.799,
+        "lcp": 460.597,
+        "speedIndex": 482,
+        "curlTotalTime": 339.6450539827347,
+        "playwrightTotalTime": 642.8536559343338
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 58,
+    "timestamp": 3525265.053833008,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6040,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.776,
+        "tcpConnection": 18.087,
+        "tlsHandshake": 64.376,
+        "timeToFirstByte": 269.201,
+        "totalTime": 269.366,
+        "fcp": 251.351,
+        "lcp": 489.213,
+        "speedIndex": 455,
+        "curlTotalTime": 311.33605694770813,
+        "playwrightTotalTime": 657.0764750242233
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 59,
+    "timestamp": 3415407.4202890396,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.8619999999999999,
+        "tcpConnection": 25.616,
+        "tlsHandshake": 63.523999999999994,
+        "timeToFirstByte": 3090.502,
+        "totalTime": 3090.601,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3138.118250966072,
+        "playwrightTotalTime": 3387.614771962166
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 60,
+    "timestamp": 4530183.322777,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5750,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.074999999999999,
+        "tcpConnection": 27.659,
+        "tlsHandshake": 69.398,
+        "timeToFirstByte": 282.815,
+        "totalTime": 282.945,
+        "fcp": 280.846,
+        "lcp": 591.199,
+        "speedIndex": 596,
+        "curlTotalTime": 327.8731240006164,
+        "playwrightTotalTime": 657.1625330001116
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 61,
+    "timestamp": 6685470.138646007,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5925,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8,
+        "tcpConnection": 21.323,
+        "tlsHandshake": 66.536,
+        "timeToFirstByte": 274.475,
+        "totalTime": 274.599,
+        "fcp": 263.412,
+        "lcp": 554.078,
+        "speedIndex": 552,
+        "curlTotalTime": 320.03973200917244,
+        "playwrightTotalTime": 636.5414009988308
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 62,
+    "timestamp": 3485495.242851019,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6097,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.859,
+        "tcpConnection": 20.551,
+        "tlsHandshake": 59.307,
+        "timeToFirstByte": 266.737,
+        "totalTime": 266.839,
+        "fcp": 270.594,
+        "lcp": 596.287,
+        "speedIndex": 614,
+        "curlTotalTime": 310.18794095516205,
+        "playwrightTotalTime": 640.3879410028458
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 63,
+    "timestamp": 3402421.0715099573,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5962,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7439999999999998,
+        "tcpConnection": 21.259,
+        "tlsHandshake": 65.69,
+        "timeToFirstByte": 272.748,
+        "totalTime": 272.874,
+        "fcp": 261.456,
+        "lcp": 851.932,
+        "speedIndex": 796,
+        "curlTotalTime": 313.1498680114746,
+        "playwrightTotalTime": 703.1434890031815
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 64,
+    "timestamp": 3542499.1077979803,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5500,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6470000000000002,
+        "tcpConnection": 18.01,
+        "tlsHandshake": 89.257,
+        "timeToFirstByte": 295.631,
+        "totalTime": 295.76599999999996,
+        "fcp": 266.22,
+        "lcp": 501.409,
+        "speedIndex": 472,
+        "curlTotalTime": 346.578577041626,
+        "playwrightTotalTime": 636.7922149896622
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 65,
+    "timestamp": 3439063.449530959,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.899,
+        "tcpConnection": 20.833000000000002,
+        "tlsHandshake": 81.379,
+        "timeToFirstByte": 3102.876,
+        "totalTime": 3102.955,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3142.6748329401016,
+        "playwrightTotalTime": 3478.5770699977875
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 66,
+    "timestamp": 4547349.7318440005,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5804,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.871,
+        "tcpConnection": 26.703,
+        "tlsHandshake": 67.78399999999999,
+        "timeToFirstByte": 280.169,
+        "totalTime": 280.311,
+        "fcp": 284.81,
+        "lcp": 796.63,
+        "speedIndex": 749,
+        "curlTotalTime": 325.10716099943966,
+        "playwrightTotalTime": 657.2475860007107
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 67,
+    "timestamp": 6702848.505962998,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6088,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7430000000000003,
+        "tcpConnection": 20.445,
+        "tlsHandshake": 59.768,
+        "timeToFirstByte": 267.093,
+        "totalTime": 267.212,
+        "fcp": 293.778,
+        "lcp": 669.533,
+        "speedIndex": 658,
+        "curlTotalTime": 315.8677290081978,
+        "playwrightTotalTime": 686.7071779966354
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 68,
+    "timestamp": 3502972.697631955,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5998,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.66,
+        "tcpConnection": 21.428,
+        "tlsHandshake": 61.669000000000004,
+        "timeToFirstByte": 271.081,
+        "totalTime": 271.21299999999997,
+        "fcp": 293.319,
+        "lcp": 677.258,
+        "speedIndex": 637,
+        "curlTotalTime": 316.3587609529495,
+        "playwrightTotalTime": 671.9999350309372
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 69,
+    "timestamp": 3419600.9667270184,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5590,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7239999999999998,
+        "tcpConnection": 26.808,
+        "tlsHandshake": 78.10799999999999,
+        "timeToFirstByte": 290.88599999999997,
+        "totalTime": 291.01500000000004,
+        "fcp": 328.456,
+        "lcp": 607.439,
+        "speedIndex": 601,
+        "curlTotalTime": 335.9105110168457,
+        "playwrightTotalTime": 662.879212975502
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 70,
+    "timestamp": 3559634.9734380245,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5551,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.032,
+        "tcpConnection": 18.551000000000002,
+        "tlsHandshake": 83.485,
+        "timeToFirstByte": 292.98600000000005,
+        "totalTime": 293.1,
+        "fcp": 262.305,
+        "lcp": 522.447,
+        "speedIndex": 497,
+        "curlTotalTime": 341.80875301361084,
+        "playwrightTotalTime": 671.7783269882202
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 71,
+    "timestamp": 3462468.73860693,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9120000000000001,
+        "tcpConnection": 20.133000000000003,
+        "tlsHandshake": 62.47,
+        "timeToFirstByte": 3084.1,
+        "totalTime": 3084.187,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3132.3067520856857,
+        "playwrightTotalTime": 3371.640632033348
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 72,
+    "timestamp": 4564880.130575,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6074,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.777,
+        "tcpConnection": 21.584,
+        "tlsHandshake": 60.387,
+        "timeToFirstByte": 267.748,
+        "totalTime": 267.853,
+        "fcp": 272.926,
+        "lcp": 519.807,
+        "speedIndex": 536,
+        "curlTotalTime": 306.7645519999787,
+        "playwrightTotalTime": 655.279765999876
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 73,
+    "timestamp": 6720702.554029018,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5967,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.66,
+        "tcpConnection": 20.891,
+        "tlsHandshake": 64.56,
+        "timeToFirstByte": 272.115,
+        "totalTime": 272.623,
+        "fcp": 271.186,
+        "lcp": 584.944,
+        "speedIndex": 564,
+        "curlTotalTime": 312.4552359879017,
+        "playwrightTotalTime": 688.5942440032959
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 74,
+    "timestamp": 3520561.5390570164,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5820,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.818,
+        "tcpConnection": 26.712,
+        "tlsHandshake": 65.679,
+        "timeToFirstByte": 279.42699999999996,
+        "totalTime": 279.53099999999995,
+        "fcp": 275.515,
+        "lcp": 745.012,
+        "speedIndex": 718,
+        "curlTotalTime": 322.67968595027924,
+        "playwrightTotalTime": 661.3427219390869
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 75,
+    "timestamp": 3436855.7517859936,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5697,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.285,
+        "tcpConnection": 28.410999999999998,
+        "tlsHandshake": 72.112,
+        "timeToFirstByte": 285.41,
+        "totalTime": 285.571,
+        "fcp": 279.175,
+        "lcp": 759.002,
+        "speedIndex": 706,
+        "curlTotalTime": 330.6764199733734,
+        "playwrightTotalTime": 648.8133699893951
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 76,
+    "timestamp": 3577093.259016037,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5430,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5260000000000002,
+        "tcpConnection": 17.105999999999998,
+        "tlsHandshake": 55.927,
+        "timeToFirstByte": 299.488,
+        "totalTime": 299.587,
+        "fcp": 293.924,
+        "lcp": 587.213,
+        "speedIndex": 546,
+        "curlTotalTime": 343.5092650651932,
+        "playwrightTotalTime": 643.4759839773178
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 77,
+    "timestamp": 3486366.3791199923,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.911,
+        "tcpConnection": 20.926000000000002,
+        "tlsHandshake": 85.632,
+        "timeToFirstByte": 3107.262,
+        "totalTime": 3107.3650000000002,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3157.9177379608154,
+        "playwrightTotalTime": 3504.623874902725
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 78,
+    "timestamp": 4581935.736930001,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5883,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.842,
+        "tcpConnection": 22.044999999999998,
+        "tlsHandshake": 63.721,
+        "timeToFirstByte": 276.426,
+        "totalTime": 276.524,
+        "fcp": 286.994,
+        "lcp": 540.602,
+        "speedIndex": 571,
+        "curlTotalTime": 326.44559899996966,
+        "playwrightTotalTime": 685.7672680001706
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 79,
+    "timestamp": 6738400.6417300105,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5845,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.226,
+        "tcpConnection": 21.579,
+        "tlsHandshake": 70.968,
+        "timeToFirstByte": 278.192,
+        "totalTime": 278.326,
+        "fcp": 285.376,
+        "lcp": 636.422,
+        "speedIndex": 642,
+        "curlTotalTime": 328.7493610084057,
+        "playwrightTotalTime": 759.3450900018215
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 80,
+    "timestamp": 3538404.546685934,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5739,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0300000000000002,
+        "tcpConnection": 27.605,
+        "tlsHandshake": 69.925,
+        "timeToFirstByte": 283.221,
+        "totalTime": 283.46,
+        "fcp": 290.392,
+        "lcp": 895.327,
+        "speedIndex": 843,
+        "curlTotalTime": 326.63496708869934,
+        "playwrightTotalTime": 715.753347992897
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 81,
+    "timestamp": 3454128.583678961,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6098,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.693,
+        "tcpConnection": 20.570999999999998,
+        "tlsHandshake": 59.748000000000005,
+        "timeToFirstByte": 266.69399999999996,
+        "totalTime": 266.80199999999996,
+        "fcp": 267.857,
+        "lcp": 569.24,
+        "speedIndex": 575,
+        "curlTotalTime": 304.25266695022583,
+        "playwrightTotalTime": 643.4046440124512
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 82,
+    "timestamp": 3594195.3664159775,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6010,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.906,
+        "tcpConnection": 18.306,
+        "tlsHandshake": 65.591,
+        "timeToFirstByte": 270.572,
+        "totalTime": 270.678,
+        "fcp": 253.943,
+        "lcp": 576.864,
+        "speedIndex": 531,
+        "curlTotalTime": 314.68158996105194,
+        "playwrightTotalTime": 630.1325169801712
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 83,
+    "timestamp": 3510105.33483696,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.8550000000000002,
+        "tcpConnection": 20.339,
+        "tlsHandshake": 87.95400000000001,
+        "timeToFirstByte": 3108.346,
+        "totalTime": 3108.4390000000003,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3151.4499700069427,
+        "playwrightTotalTime": 3475.4447259902954
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 84,
+    "timestamp": 4599066.376829,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5323,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.749,
+        "tcpConnection": 21.023,
+        "tlsHandshake": 63.962,
+        "timeToFirstByte": 305.44599999999997,
+        "totalTime": 305.601,
+        "fcp": 284.75,
+        "lcp": 599.134,
+        "speedIndex": 598,
+        "curlTotalTime": 346.367563999258,
+        "playwrightTotalTime": 637.7285989997908
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 85,
+    "timestamp": 6755795.356869012,
+    "webTests": [
+      {
+        "url": "https://1tef2w.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5785,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.662,
+        "tcpConnection": 21.641000000000002,
+        "tlsHandshake": 73.92500000000001,
+        "timeToFirstByte": 281.094,
+        "totalTime": 281.215,
+        "fcp": 280.326,
+        "lcp": 839.897,
+        "speedIndex": 790,
+        "curlTotalTime": 319.6701090037823,
+        "playwrightTotalTime": 728.8509870171547
+      }
+    ],
+    "totalDuration": 274443.86990600824,
+    "setupDuration": 1226.738743007183,
+    "diagnosticsDuration": 0.004251986742019653,
+    "measurementDuration": 263203.4407149255,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 86,
+    "timestamp": 3555666.2330229282,
+    "webTests": [
+      {
+        "url": "https://vo7k9k.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5923,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7369999999999997,
+        "tcpConnection": 20.522,
+        "tlsHandshake": 67.802,
+        "timeToFirstByte": 274.551,
+        "totalTime": 274.66200000000003,
+        "fcp": 276.62,
+        "lcp": 571.123,
+        "speedIndex": 594,
+        "curlTotalTime": 317.3628189563751,
+        "playwrightTotalTime": 732.7912420034409
+      }
+    ],
+    "totalDuration": 272567.07413196564,
+    "setupDuration": 1342.5695660114288,
+    "diagnosticsDuration": 0.0040509700775146484,
+    "measurementDuration": 261215.44447791576,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 87,
+    "timestamp": 3471285.2142869234,
+    "webTests": [
+      {
+        "url": "https://7citbr.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6092,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.575,
+        "tcpConnection": 20.764000000000003,
+        "tlsHandshake": 60.116,
+        "timeToFirstByte": 266.961,
+        "totalTime": 267.063,
+        "fcp": 265.382,
+        "lcp": 613.738,
+        "speedIndex": 583,
+        "curlTotalTime": 308.44515788555145,
+        "playwrightTotalTime": 681.2202299833298
+      }
+    ],
+    "totalDuration": 272400.74317896366,
+    "setupDuration": 1243.595265030861,
+    "diagnosticsDuration": 0.003738999366760254,
+    "measurementDuration": 261145.45591378212,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 88,
+    "timestamp": 3611552.599349022,
+    "webTests": [
+      {
+        "url": "https://xgxc2f.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5784,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.239,
+        "tcpConnection": 19.424,
+        "tlsHandshake": 76.25500000000001,
+        "timeToFirstByte": 281.114,
+        "totalTime": 281.253,
+        "fcp": 270.124,
+        "lcp": 524.784,
+        "speedIndex": 503,
+        "curlTotalTime": 367.22908902168274,
+        "playwrightTotalTime": 716.328271985054
+      }
+    ],
+    "totalDuration": 273929.98367500305,
+    "setupDuration": 1213.6409809589386,
+    "diagnosticsDuration": 0.0034409761428833008,
+    "measurementDuration": 262706.4533550739,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 89,
+    "timestamp": 3533653.858441949,
+    "webTests": [
+      {
+        "url": "https://nxiek9.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.891,
+        "tcpConnection": 25.273,
+        "tlsHandshake": 90.506,
+        "timeToFirstByte": 3117.455,
+        "totalTime": 3117.544,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3178.1425449848175,
+        "playwrightTotalTime": 3371.802417039871
+      }
+    ],
+    "totalDuration": 1042458.191857934,
+    "setupDuration": 7598.5036779642105,
+    "diagnosticsDuration": 0.004256010055541992,
+    "measurementDuration": 1024847.3986147642,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Cleanup: connect ECONNREFUSED 174.138.65.79:3000"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 90,
+    "timestamp": 4616488.7525120005,
+    "webTests": [
+      {
+        "url": "https://qqpgwi.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5545,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.7590000000000003,
+        "tcpConnection": 21.866,
+        "tlsHandshake": 85.896,
+        "timeToFirstByte": 293.23199999999997,
+        "totalTime": 293.373,
+        "fcp": 297.016,
+        "lcp": 674.059,
+        "speedIndex": 680,
+        "curlTotalTime": 339.042011000216,
+        "playwrightTotalTime": 668.485427999869
+      }
+    ],
+    "totalDuration": 272273.6445319997,
+    "setupDuration": 1226.5590420002118,
+    "diagnosticsDuration": 0.0037620002403855324,
+    "measurementDuration": 261037.5628770003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

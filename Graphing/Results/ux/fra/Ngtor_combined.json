@@ -1,0 +1,2747 @@
+[
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 1,
+    "timestamp": 5943611.801984012,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 364,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 4463.508,
+        "totalTime": 4463.6990000000005,
+        "fcp": 3380.50362,
+        "lcp": 6752.959756382947,
+        "speedIndex": 4220.1728479886515,
+        "curlTotalTime": 4506.014975011349,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 2,
+    "timestamp": 2666708.5414259434,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 260,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.193,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 6247.121,
+        "totalTime": 6247.256,
+        "fcp": 3361.208,
+        "lcp": 6899.958999999999,
+        "speedIndex": 5077.29188796873,
+        "curlTotalTime": 6291.039707064629,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 3,
+    "timestamp": 2621992.236014962,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 312,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 5202.51,
+        "totalTime": 5202.626,
+        "fcp": 5382.48236,
+        "lcp": 7407.640839999999,
+        "speedIndex": 12028.240535950888,
+        "curlTotalTime": 5242.115521907806,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 4,
+    "timestamp": 2780036.3903809786,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 364,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.162,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 4458.182,
+        "totalTime": 4458.316,
+        "fcp": 3270.018,
+        "lcp": 7474.084499999999,
+        "speedIndex": 6033.876166096878,
+        "curlTotalTime": 4498.296769976616,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 5,
+    "timestamp": 2456150.37906003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 6,
+    "timestamp": 3763131.0253,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 907,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.04,
+        "tcpConnection": 0.175,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1792.23,
+        "totalTime": 1792.395,
+        "fcp": 3037.06194,
+        "lcp": 8551.462759476939,
+        "speedIndex": 4778.778623999723,
+        "curlTotalTime": 1834.0962519999593,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 7,
+    "timestamp": 5960415.639678001,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2838,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.031,
+        "tcpConnection": 0.193,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 573.025,
+        "totalTime": 573.185,
+        "fcp": 3174.2644,
+        "lcp": 8657.411399999999,
+        "speedIndex": 3944.537513985166,
+        "curlTotalTime": 612.673896998167,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 8,
+    "timestamp": 2689318.533071995,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 679,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.041999999999999996,
+        "tcpConnection": 0.201,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2395.73,
+        "totalTime": 2395.866,
+        "fcp": 4230.52238,
+        "lcp": 8132.207540000001,
+        "speedIndex": 7288.439437915898,
+        "curlTotalTime": 2435.410887002945,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 9,
+    "timestamp": 2642160.954049945,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2168,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.205,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 750.202,
+        "totalTime": 750.325,
+        "fcp": 3225.647,
+        "lcp": 7605.308,
+        "speedIndex": 7552.450651968051,
+        "curlTotalTime": 796.4253569841385,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 10,
+    "timestamp": 2800547.469680071,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2137,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.161,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 760.854,
+        "totalTime": 760.993,
+        "fcp": 4237.305019999998,
+        "lcp": 6800.717379999998,
+        "speedIndex": 8526.497415957318,
+        "curlTotalTime": 809.8894150257111,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 11,
+    "timestamp": 2456186.1761859655,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 12,
+    "timestamp": 3785628.550161,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3390,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.047,
+        "tcpConnection": 0.17200000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 479.711,
+        "totalTime": 479.81800000000004,
+        "fcp": 3362.9812199999997,
+        "lcp": 5713.739679999999,
+        "speedIndex": 8282.246248000107,
+        "curlTotalTime": 525.9693789999001,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 13,
+    "timestamp": 5977298.174243003,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2840,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.214,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 572.6329999999999,
+        "totalTime": 572.783,
+        "fcp": 3256.9611999999997,
+        "lcp": 6465.816699999999,
+        "speedIndex": 4136.352013991157,
+        "curlTotalTime": 613.0946680009365,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 14,
+    "timestamp": 2712740.1128590107,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1678,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.153,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 968.909,
+        "totalTime": 969.0459999999999,
+        "fcp": 5216.137140000001,
+        "lcp": 7912.82764,
+        "speedIndex": 11529.879868002228,
+        "curlTotalTime": 1008.8067240715027,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 15,
+    "timestamp": 2660760.2833889723,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2279,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.165,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 713.677,
+        "totalTime": 713.792,
+        "fcp": 3229.6005000000005,
+        "lcp": 5374.424000000001,
+        "speedIndex": 4958.202326117711,
+        "curlTotalTime": 763.9010400772095,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 16,
+    "timestamp": 2819807.6540780067,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2078,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.275,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 782.707,
+        "totalTime": 782.8199999999999,
+        "fcp": 3532.99372,
+        "lcp": 6161.5528,
+        "speedIndex": 5611.7592820721475,
+        "curlTotalTime": 829.3756750822067,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 17,
+    "timestamp": 2456224.0888689756,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 18,
+    "timestamp": 3805408.269485,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3160,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.146,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 514.6659999999999,
+        "totalTime": 514.775,
+        "fcp": 3188.3829800000003,
+        "lcp": 7812.5642800000005,
+        "speedIndex": 6701.133258000388,
+        "curlTotalTime": 553.6982309999876,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 19,
+    "timestamp": 5995530.920884013,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3018,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.153,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 538.8340000000001,
+        "totalTime": 538.949,
+        "fcp": 3265.7214860130516,
+        "lcp": 6872.326986013051,
+        "speedIndex": 4258.9342343904855,
+        "curlTotalTime": 579.0482180118561,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 20,
+    "timestamp": 2739585.250551939,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1939,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.185,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 838.6479999999999,
+        "totalTime": 838.782,
+        "fcp": 3592.89818,
+        "lcp": 8381.75598,
+        "speedIndex": 6274.156989956776,
+        "curlTotalTime": 878.9362409114838,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 21,
+    "timestamp": 2682075.672888994,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1761,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.19799999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 923.624,
+        "totalTime": 923.7990000000001,
+        "fcp": 3541.1132599999996,
+        "lcp": 8762.81699,
+        "speedIndex": 7124.751375993349,
+        "curlTotalTime": 964.8954150676727,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 22,
+    "timestamp": 2838345.0762730837,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1786,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.149,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 910.531,
+        "totalTime": 910.6619999999999,
+        "fcp": 3949.657,
+        "lcp": 5742.4805,
+        "speedIndex": 4461.335141909169,
+        "curlTotalTime": 956.4200260639191,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 23,
+    "timestamp": 2456259.841979027,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 24,
+    "timestamp": 3822460.079873,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4348,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.051,
+        "tcpConnection": 0.17200000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 373.971,
+        "totalTime": 374.113,
+        "fcp": 3123.38328,
+        "lcp": 6421.5574642877145,
+        "speedIndex": 3982.585323999675,
+        "curlTotalTime": 412.5862489999272,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 25,
+    "timestamp": 6012200.445778012,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3081,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.158,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 527.8439999999999,
+        "totalTime": 528.0550000000001,
+        "fcp": 3197.28328,
+        "lcp": 8491.9551,
+        "speedIndex": 3988.6355719858648,
+        "curlTotalTime": 580.5471479892731,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 26,
+    "timestamp": 2759688.9861739874,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 954,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.235,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1703.902,
+        "totalTime": 1704.049,
+        "fcp": 3829.2219999999998,
+        "lcp": 7370.7255000000005,
+        "speedIndex": 6787.474076012898,
+        "curlTotalTime": 1747.6953729391098,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 27,
+    "timestamp": 2703528.287613988,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1355,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.149,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1199.925,
+        "totalTime": 1200.064,
+        "fcp": 5144.88066,
+        "lcp": 7879.67059,
+        "speedIndex": 8922.697074069561,
+        "curlTotalTime": 1243.5621110200882,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 28,
+    "timestamp": 2860555.5319600105,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 701,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.23900000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2319.0460000000003,
+        "totalTime": 2319.1639999999998,
+        "fcp": 3511.724348356989,
+        "lcp": 9739.66334835699,
+        "speedIndex": 6838.864751266585,
+        "curlTotalTime": 2355.6482430696487,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 29,
+    "timestamp": 2456295.542304039,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 30,
+    "timestamp": 3844984.685977,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 801,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.041,
+        "tcpConnection": 0.236,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2029.093,
+        "totalTime": 2029.27,
+        "fcp": 3659.16882,
+        "lcp": 7815.6803258527525,
+        "speedIndex": 8398.196261999954,
+        "curlTotalTime": 2077.8852189998142,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 31,
+    "timestamp": 6030304.118770003,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2685,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.041,
+        "tcpConnection": 0.321,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.602,
+        "totalTime": 605.734,
+        "fcp": 3302.6241,
+        "lcp": 5655.367353253437,
+        "speedIndex": 4481.805938027691,
+        "curlTotalTime": 649.9223960042,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 32,
+    "timestamp": 2779768.689901948,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 989,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.298,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1644.186,
+        "totalTime": 1644.301,
+        "fcp": 3156.865,
+        "lcp": 6512.128499999999,
+        "speedIndex": 5586.520937960385,
+        "curlTotalTime": 1682.8707300424576,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 33,
+    "timestamp": 2722408.8095630407,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2259,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.2,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 720.069,
+        "totalTime": 720.195,
+        "fcp": 3244.29748,
+        "lcp": 7859.419940000001,
+        "speedIndex": 5249.842384019986,
+        "curlTotalTime": 771.8406100273132,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 34,
+    "timestamp": 2880747.896359086,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 919,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.287,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1769.4209999999998,
+        "totalTime": 1769.591,
+        "fcp": 3274.681,
+        "lcp": 7953.392500000001,
+        "speedIndex": 5671.669923924348,
+        "curlTotalTime": 1812.9790390729904,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 35,
+    "timestamp": 2456336.8443180323,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 36,
+    "timestamp": 3864397.560126,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2757,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.06499999999999999,
+        "tcpConnection": 0.183,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 589.9060000000001,
+        "totalTime": 590.013,
+        "fcp": 3407.7050200000003,
+        "lcp": 7978.95838,
+        "speedIndex": 5621.327299999916,
+        "curlTotalTime": 632.8126119999215,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 37,
+    "timestamp": 6047754.421844006,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2701,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.161,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 602.171,
+        "totalTime": 602.297,
+        "fcp": 3277.73236,
+        "lcp": 7798.21802,
+        "speedIndex": 4215.24294798767,
+        "curlTotalTime": 637.0165989995003,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 38,
+    "timestamp": 2806895.5081419945,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2552,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.04,
+        "tcpConnection": 0.285,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 637.241,
+        "totalTime": 637.36,
+        "fcp": 4843.421479999999,
+        "lcp": 8820.15962,
+        "speedIndex": 13372.019875931499,
+        "curlTotalTime": 682.5524579286575,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 39,
+    "timestamp": 2745264.6656780243,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1332,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.18100000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1221.264,
+        "totalTime": 1221.385,
+        "fcp": 3222.2098399999995,
+        "lcp": 7689.393629999999,
+        "speedIndex": 10251.683319956188,
+        "curlTotalTime": 1264.3761979341507,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 40,
+    "timestamp": 2900100.185978055,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 754,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.174,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2157.018,
+        "totalTime": 2157.157,
+        "fcp": 3405.6585000000005,
+        "lcp": 6107.929,
+        "speedIndex": 4636.727376045606,
+        "curlTotalTime": 2205.5995160341263,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 41,
+    "timestamp": 2456374.1787480116,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 42,
+    "timestamp": 3884093.89887,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4145,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 392.316,
+        "totalTime": 392.432,
+        "fcp": 3060.5262000000002,
+        "lcp": 7141.3542,
+        "speedIndex": 4721.279187999946,
+        "curlTotalTime": 430.9515849999152,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 43,
+    "timestamp": 6064854.3976560235,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3099,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.041,
+        "tcpConnection": 0.28800000000000003,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 524.857,
+        "totalTime": 524.975,
+        "fcp": 3434.58522,
+        "lcp": 6181.340799999999,
+        "speedIndex": 4187.828459993601,
+        "curlTotalTime": 572.4529730081558,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 44,
+    "timestamp": 2835418.950219989,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1877,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.32899999999999996,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 866.2429999999999,
+        "totalTime": 866.368,
+        "fcp": 3574.1134600000005,
+        "lcp": 6835.565147353982,
+        "speedIndex": 5155.366879966434,
+        "curlTotalTime": 917.9947159290314,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 45,
+    "timestamp": 2767282.051537037,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2168,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.044,
+        "tcpConnection": 0.21000000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 750.261,
+        "totalTime": 750.4,
+        "fcp": 3749.4565000000002,
+        "lcp": 9094.819,
+        "speedIndex": 9021.32275197373,
+        "curlTotalTime": 791.8775060176849,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 46,
+    "timestamp": 2921219.9863390923,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2144,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.162,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 758.491,
+        "totalTime": 758.6239999999999,
+        "fcp": 3904.0430114305236,
+        "lcp": 5431.164511430524,
+        "speedIndex": 6392.443190604934,
+        "curlTotalTime": 799.2880049943924,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 47,
+    "timestamp": 2456412.7306129932,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 48,
+    "timestamp": 3905932.897635,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 886,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1834.883,
+        "totalTime": 1835.01,
+        "fcp": 3052.16518,
+        "lcp": 10010.64626,
+        "speedIndex": 6099.005351999904,
+        "curlTotalTime": 1875.282186999917,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 49,
+    "timestamp": 6082081.557883024,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3113,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.183,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 522.4590000000001,
+        "totalTime": 522.596,
+        "fcp": 3201.20792,
+        "lcp": 6926.138640311346,
+        "speedIndex": 4124.14124401857,
+        "curlTotalTime": 564.6102240085602,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 50,
+    "timestamp": 2854477.949234009,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2786,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.287,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 583.7320000000001,
+        "totalTime": 583.877,
+        "fcp": 4455.391299999999,
+        "lcp": 7895.44705,
+        "speedIndex": 6251.9788420551,
+        "curlTotalTime": 622.6171989440918,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 51,
+    "timestamp": 2785834.8669840097,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2952,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.156,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 550.8629999999999,
+        "totalTime": 551.001,
+        "fcp": 2850.3295,
+        "lcp": 5937.4295,
+        "speedIndex": 5134.562786012698,
+        "curlTotalTime": 595.0333189964294,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 52,
+    "timestamp": 2940234.4257360697,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 613,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.16699999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2653.616,
+        "totalTime": 2653.744,
+        "fcp": 3006.8035,
+        "lcp": 6054.2215,
+        "speedIndex": 4514.6052620402825,
+        "curlTotalTime": 2694.714763045311,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 53,
+    "timestamp": 2456447.6096049547,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 54,
+    "timestamp": 3925105.632905,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5532,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.34400000000000003,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 293.9,
+        "totalTime": 294.056,
+        "fcp": 5252.03942,
+        "lcp": 9365.615479999999,
+        "speedIndex": 5252.03942,
+        "curlTotalTime": 332.3048270000145,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 55,
+    "timestamp": 6099307.738026023,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3049,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.206,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 533.334,
+        "totalTime": 533.443,
+        "fcp": 3347.1712,
+        "lcp": 7515.1645,
+        "speedIndex": 4127.852706002634,
+        "curlTotalTime": 572.8506000041962,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 56,
+    "timestamp": 2874117.1537179947,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1008,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.039,
+        "tcpConnection": 0.211,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1613.035,
+        "totalTime": 1613.151,
+        "fcp": 3584.6631399999997,
+        "lcp": 4462.95614,
+        "speedIndex": 5022.913558070856,
+        "curlTotalTime": 1658.764307975769,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 57,
+    "timestamp": 2807183.3416810036,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3983,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034,
+        "tcpConnection": 0.158,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 408.265,
+        "totalTime": 408.408,
+        "fcp": 3009.63662,
+        "lcp": 7395.182550000001,
+        "speedIndex": 7316.690117906801,
+        "curlTotalTime": 450.4629259109497,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 58,
+    "timestamp": 2958227.4438210726,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1969,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.152,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 826.091,
+        "totalTime": 826.238,
+        "fcp": 3592.50824,
+        "lcp": 6650.956444999999,
+        "speedIndex": 5456.5223800306285,
+        "curlTotalTime": 870.1928240060806,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 59,
+    "timestamp": 2456484.102033019,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 60,
+    "timestamp": 3951247.184086,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2385,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.16799999999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 681.837,
+        "totalTime": 681.965,
+        "fcp": 3014.2196400000003,
+        "lcp": 5697.697244718073,
+        "speedIndex": 3394.2497559998237,
+        "curlTotalTime": 723.6523799998686,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 61,
+    "timestamp": 6119617.830992013,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 986,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.030000000000000002,
+        "tcpConnection": 0.154,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1649.259,
+        "totalTime": 1649.434,
+        "fcp": 3388.410732193456,
+        "lcp": 5643.343732193456,
+        "speedIndex": 4721.316980863639,
+        "curlTotalTime": 1715.8181430101395,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 62,
+    "timestamp": 2897020.2454839945,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 621,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.195,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2618.696,
+        "totalTime": 2618.816,
+        "fcp": 3668.646,
+        "lcp": 8738.999,
+        "speedIndex": 8844.34692607631,
+        "curlTotalTime": 2658.842055916786,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 63,
+    "timestamp": 2829004.420405984,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1854,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.15,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 877.161,
+        "totalTime": 877.33,
+        "fcp": 3799.47998,
+        "lcp": 7229.13203,
+        "speedIndex": 9415.510339949504,
+        "curlTotalTime": 915.6956510543823,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 64,
+    "timestamp": 2977585.270720005,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1873,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.177,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 868.4300000000001,
+        "totalTime": 868.534,
+        "fcp": 3602.5300000000007,
+        "lcp": 5366.4130000000005,
+        "speedIndex": 5917.7039960465445,
+        "curlTotalTime": 905.0221620798111,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 65,
+    "timestamp": 2456520.1424399614,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 66,
+    "timestamp": 3969819.429187,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2019,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.062,
+        "tcpConnection": 0.34600000000000003,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 805.643,
+        "totalTime": 805.784,
+        "fcp": 3049.68204,
+        "lcp": 7235.023845,
+        "speedIndex": 4325.7805999997,
+        "curlTotalTime": 845.2428239998408,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 67,
+    "timestamp": 6137118.970093012,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2579,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.184,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 630.672,
+        "totalTime": 630.788,
+        "fcp": 3124.5531400000004,
+        "lcp": 5737.423780000001,
+        "speedIndex": 3983.990204009671,
+        "curlTotalTime": 679.492819994688,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 68,
+    "timestamp": 2922678.6947169304,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1678,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.037,
+        "tcpConnection": 0.155,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 969.406,
+        "totalTime": 969.527,
+        "fcp": 7028.641140000001,
+        "lcp": 11589.666660000003,
+        "speedIndex": 10180.034106052075,
+        "curlTotalTime": 1012.1473670005798,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 69,
+    "timestamp": 2847504.2522690296,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3446,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.036000000000000004,
+        "tcpConnection": 0.185,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 472.00399999999996,
+        "totalTime": 472.13,
+        "fcp": 2646.004,
+        "lcp": 5168.941000000001,
+        "speedIndex": 5152.067077962253,
+        "curlTotalTime": 508.43417394161224,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 70,
+    "timestamp": 2998757.2245930433,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1656,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.148,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 982.362,
+        "totalTime": 982.478,
+        "fcp": 3079.3875,
+        "lcp": 6635.3135,
+        "speedIndex": 8092.3535839355,
+        "curlTotalTime": 1020.3950999975204,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 71,
+    "timestamp": 2456552.7333220243,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 72,
+    "timestamp": 3996493.017139,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4028,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.148,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 403.737,
+        "totalTime": 403.84799999999996,
+        "fcp": 3396.5851400000006,
+        "lcp": 7959.4751,
+        "speedIndex": 13385.232793999952,
+        "curlTotalTime": 440.40181599976495,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 73,
+    "timestamp": 6154196.982912004,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2833,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.149,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 573.962,
+        "totalTime": 574.111,
+        "fcp": 3181.91962,
+        "lcp": 7347.71832,
+        "speedIndex": 4020.341753995607,
+        "curlTotalTime": 618.037978976965,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 74,
+    "timestamp": 2942598.2960059643,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1977,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.038,
+        "tcpConnection": 0.202,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 822.684,
+        "totalTime": 822.841,
+        "fcp": 3701.88036,
+        "lcp": 7779.65153,
+        "speedIndex": 5964.7882600271205,
+        "curlTotalTime": 869.4983329772949,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 75,
+    "timestamp": 2868303.0773910284,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2126,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.152,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 765.1329999999999,
+        "totalTime": 765.265,
+        "fcp": 3102.6106600000003,
+        "lcp": 7454.4866999999995,
+        "speedIndex": 7158.479242065733,
+        "curlTotalTime": 801.8982599973679,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 76,
+    "timestamp": 3017675.5169080496,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2334,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.043000000000000003,
+        "tcpConnection": 0.245,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 696.692,
+        "totalTime": 696.816,
+        "fcp": 2744.627,
+        "lcp": 6629.8705,
+        "speedIndex": 5198.7425739176715,
+        "curlTotalTime": 736.7956709861755,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 77,
+    "timestamp": 2456585.8806239367,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 78,
+    "timestamp": 4015164.779236,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3630,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.044,
+        "tcpConnection": 0.358,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 448.009,
+        "totalTime": 448.135,
+        "fcp": 3289.1310000000003,
+        "lcp": 7520.0376,
+        "speedIndex": 4845.690926000092,
+        "curlTotalTime": 515.7743060002103,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 79,
+    "timestamp": 6171551.268175006,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2813,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.04,
+        "tcpConnection": 0.205,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 578.139,
+        "totalTime": 578.287,
+        "fcp": 3360.50944,
+        "lcp": 6641.68766,
+        "speedIndex": 3926.1993739949835,
+        "curlTotalTime": 628.8163039982319,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 80,
+    "timestamp": 2964169.1724829674,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 547,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.147,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 2972.486,
+        "totalTime": 2972.601,
+        "fcp": 3208.3244999999997,
+        "lcp": 6652.067999999999,
+        "speedIndex": 5055.412772082137,
+        "curlTotalTime": 3019.4437609910965,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 81,
+    "timestamp": 2890027.565822959,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1122,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034,
+        "tcpConnection": 0.154,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1448.808,
+        "totalTime": 1448.944,
+        "fcp": 5642.41544,
+        "lcp": 7575.2986,
+        "speedIndex": 9478.827228014117,
+        "curlTotalTime": 1488.1112270355225,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 82,
+    "timestamp": 3038153.848944068,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1786,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.148,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 910.525,
+        "totalTime": 910.663,
+        "fcp": 3643.8548799999994,
+        "lcp": 6716.531719999999,
+        "speedIndex": 6527.598677990531,
+        "curlTotalTime": 952.340409040451,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 83,
+    "timestamp": 2456621.234223962,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 84,
+    "timestamp": 4035301.879784,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3089,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.082,
+        "tcpConnection": 0.33399999999999996,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 526.567,
+        "totalTime": 526.6840000000001,
+        "fcp": 2867.5705199999998,
+        "lcp": 9141.90478,
+        "speedIndex": 5128.619877999643,
+        "curlTotalTime": 568.1180909997784,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 85,
+    "timestamp": 6189545.631079018,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2994,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.029,
+        "tcpConnection": 0.35,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 543.269,
+        "totalTime": 543.391,
+        "fcp": 3202.5674,
+        "lcp": 7867.718349999999,
+        "speedIndex": 4524.257146030388,
+        "curlTotalTime": 585.608647018671,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 301403.9383690059,
+    "setupDuration": 24128.548891991377,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 267267.6905300021,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 86,
+    "timestamp": 2988478.454452038,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1348,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.043000000000000003,
+        "tcpConnection": 0.20900000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1206.3010000000002,
+        "totalTime": 1206.4550000000002,
+        "fcp": 4773.888059999999,
+        "lcp": 8034.520816048822,
+        "speedIndex": 10714.07200792982,
+        "curlTotalTime": 1261.7273049354553,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 385205.4275250435,
+    "setupDuration": 28981.32942700386,
+    "diagnosticsDuration": 0.0031739473342895508,
+    "measurementDuration": 346216.98371088505,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 87,
+    "timestamp": 2907724.8093129396,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2573,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.034999999999999996,
+        "tcpConnection": 0.285,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 632.007,
+        "totalTime": 632.1510000000001,
+        "fcp": 3060.931,
+        "lcp": 5896.781,
+        "speedIndex": 4750.083679996398,
+        "curlTotalTime": 673.7917380332947,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 347906.7437739372,
+    "setupDuration": 23492.737058997154,
+    "diagnosticsDuration": 0.002515077590942383,
+    "measurementDuration": 314406.3139798641,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 88,
+    "timestamp": 3058234.790629983,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2164,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.028,
+        "tcpConnection": 0.14400000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 751.664,
+        "totalTime": 751.7700000000001,
+        "fcp": 3744.94404,
+        "lcp": 5812.10359,
+        "speedIndex": 8111.2105079432185,
+        "curlTotalTime": 788.6134510040283,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 336711.23093509674,
+    "setupDuration": 25502.276558041573,
+    "diagnosticsDuration": 0.0026230812072753906,
+    "measurementDuration": 301202.8573089838,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 89,
+    "timestamp": 2456655.0740100145,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 51124.79120004177,
+    "setupDuration": 40581.39302492142,
+    "diagnosticsDuration": 0.002843022346496582,
+    "measurementDuration": 541.5110168457031,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Ngtor",
+    "measurementNumber": 90,
+    "timestamp": 4052045.242142,
+    "webTests": [
+      {
+        "url": "http://da3enkwbmmy2qwutk5opybqw2cetjpzm4sr4ctvky44z4fmpf5jmqlad.onion/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2878,
+        "uploadSpeed": 0,
+        "dnsLookup": 0.027,
+        "tcpConnection": 0.149,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 565.138,
+        "totalTime": 565.2439999999999,
+        "fcp": 2837.89392,
+        "lcp": 5462.84101603237,
+        "speedIndex": 3905.631427999885,
+        "curlTotalTime": 604.2176619996317,
+        "playwrightTotalTime": 0
+      }
+    ],
+    "totalDuration": 346649.61993499985,
+    "setupDuration": 25910.360835999716,
+    "diagnosticsDuration": 0.003111999947577715,
+    "measurementDuration": 310733.00811100006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

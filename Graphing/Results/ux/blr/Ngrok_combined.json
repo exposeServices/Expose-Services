@@ -1,0 +1,4052 @@
+[
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 1,
+    "timestamp": 363886.745758,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4946,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.482999999999999,
+        "tcpConnection": 23.029,
+        "tlsHandshake": 43.992999999999995,
+        "timeToFirstByte": 328.57599999999996,
+        "totalTime": 328.90500000000003,
+        "fcp": 423.342,
+        "lcp": 1523.248,
+        "speedIndex": 1372,
+        "curlTotalTime": 365.5279139999766,
+        "playwrightTotalTime": 1719.0199290000019
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 2,
+    "timestamp": 161627.71423,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3884,
+        "uploadSpeed": 0,
+        "dnsLookup": 22.639,
+        "tcpConnection": 43.145999999999994,
+        "tlsHandshake": 74.769,
+        "timeToFirstByte": 418.151,
+        "totalTime": 418.89,
+        "fcp": 429.655,
+        "lcp": 1565.452,
+        "speedIndex": 1358,
+        "curlTotalTime": 452.616651999997,
+        "playwrightTotalTime": 1722.6748490000027
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 3,
+    "timestamp": 358134.965987,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4540,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.633999999999999,
+        "tcpConnection": 28.302999999999997,
+        "tlsHandshake": 55.236,
+        "timeToFirstByte": 357.695,
+        "totalTime": 358.36899999999997,
+        "fcp": 433.083,
+        "lcp": 1554.426,
+        "speedIndex": 1308,
+        "curlTotalTime": 394.33394099998986,
+        "playwrightTotalTime": 1758.9999839999946
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 4,
+    "timestamp": 309019.256617,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4685,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.522,
+        "tcpConnection": 23.125,
+        "tlsHandshake": 47.135999999999996,
+        "timeToFirstByte": 346.647,
+        "totalTime": 347.205,
+        "fcp": 479.653,
+        "lcp": 1530.881,
+        "speedIndex": 1405,
+        "curlTotalTime": 381.1793530000141,
+        "playwrightTotalTime": 1713.5554690000135
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 5,
+    "timestamp": 422500.291662,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4785,
+        "uploadSpeed": 0,
+        "dnsLookup": 10.297,
+        "tcpConnection": 25.179,
+        "tlsHandshake": 51.142,
+        "timeToFirstByte": 339.59499999999997,
+        "totalTime": 339.95799999999997,
+        "fcp": 426.704,
+        "lcp": 1548.71,
+        "speedIndex": 1407,
+        "curlTotalTime": 387.5198729999829,
+        "playwrightTotalTime": 1796.6473409999744
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 6,
+    "timestamp": 163910.610285,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4728,
+        "uploadSpeed": 0,
+        "dnsLookup": 11.048,
+        "tcpConnection": 25.807,
+        "tlsHandshake": 45.775999999999996,
+        "timeToFirstByte": 343.827,
+        "totalTime": 344.055,
+        "fcp": 431.309,
+        "lcp": 1649.305,
+        "speedIndex": 1467,
+        "curlTotalTime": 380.05010399999446,
+        "playwrightTotalTime": 1822.1795669999847
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 7,
+    "timestamp": 179362.967538,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4725,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.747,
+        "tcpConnection": 23.541,
+        "tlsHandshake": 50.143,
+        "timeToFirstByte": 343.776,
+        "totalTime": 344.267,
+        "fcp": 500.585,
+        "lcp": 1641.648,
+        "speedIndex": 1491,
+        "curlTotalTime": 381.29166099999566,
+        "playwrightTotalTime": 1786.1470050000062
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 8,
+    "timestamp": 461558.001794,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4800,
+        "uploadSpeed": 0,
+        "dnsLookup": 17.244,
+        "tcpConnection": 31.662999999999997,
+        "tlsHandshake": 53.259,
+        "timeToFirstByte": 338.223,
+        "totalTime": 338.95599999999996,
+        "fcp": 443.331,
+        "lcp": 1619.941,
+        "speedIndex": 1483,
+        "curlTotalTime": 376.4159249999793,
+        "playwrightTotalTime": 1857.128468000039
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 9,
+    "timestamp": 361736.229,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4697,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.049,
+        "tcpConnection": 29.541999999999998,
+        "tlsHandshake": 56.568,
+        "timeToFirstByte": 346.049,
+        "totalTime": 346.36899999999997,
+        "fcp": 434.347,
+        "lcp": 1548.612,
+        "speedIndex": 1394,
+        "curlTotalTime": 389.8290679999627,
+        "playwrightTotalTime": 1785.6185260000057
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 10,
+    "timestamp": 383108.669065,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5086,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.421,
+        "tcpConnection": 16.276,
+        "tlsHandshake": 35.669,
+        "timeToFirstByte": 319.478,
+        "totalTime": 319.865,
+        "fcp": 421.299,
+        "lcp": 1524.315,
+        "speedIndex": 1319,
+        "curlTotalTime": 366.31588400003966,
+        "playwrightTotalTime": 1628.6138129999745
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 11,
+    "timestamp": 180919.749833,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4821,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.359,
+        "tcpConnection": 21.965,
+        "tlsHandshake": 47.762,
+        "timeToFirstByte": 337.106,
+        "totalTime": 337.424,
+        "fcp": 475.435,
+        "lcp": 1505.332,
+        "speedIndex": 1251,
+        "curlTotalTime": 375.317887000012,
+        "playwrightTotalTime": 1690.417461999983
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 12,
+    "timestamp": 377557.751285,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4661,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4659999999999997,
+        "tcpConnection": 23.404,
+        "tlsHandshake": 49.626999999999995,
+        "timeToFirstByte": 348.345,
+        "totalTime": 349.022,
+        "fcp": 457.841,
+        "lcp": 1521.476,
+        "speedIndex": 1228,
+        "curlTotalTime": 395.4285380000365,
+        "playwrightTotalTime": 1746.3093099999824
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 13,
+    "timestamp": 328155.128079,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5163,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6710000000000003,
+        "tcpConnection": 15.921999999999999,
+        "tlsHandshake": 35.67,
+        "timeToFirstByte": 314.50600000000003,
+        "totalTime": 315.079,
+        "fcp": 416.906,
+        "lcp": 1469.003,
+        "speedIndex": 1280,
+        "curlTotalTime": 362.88334100000793,
+        "playwrightTotalTime": 1634.143955000036
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 14,
+    "timestamp": 441845.357954,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5036,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.908,
+        "tcpConnection": 16.219,
+        "tlsHandshake": 35.852000000000004,
+        "timeToFirstByte": 322.849,
+        "totalTime": 323.02,
+        "fcp": 440.958,
+        "lcp": 1568.781,
+        "speedIndex": 1395,
+        "curlTotalTime": 370.63707900000736,
+        "playwrightTotalTime": 1716.3647559999954
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 15,
+    "timestamp": 183565.716845,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5018,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5309999999999997,
+        "tcpConnection": 16.282999999999998,
+        "tlsHandshake": 40.696000000000005,
+        "timeToFirstByte": 324.02599999999995,
+        "totalTime": 324.19,
+        "fcp": 415.617,
+        "lcp": 1562.079,
+        "speedIndex": 1406,
+        "curlTotalTime": 371.0742240000109,
+        "playwrightTotalTime": 1722.9048370000091
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 16,
+    "timestamp": 198925.762239,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5007,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8240000000000003,
+        "tcpConnection": 16.833000000000002,
+        "tlsHandshake": 39.817,
+        "timeToFirstByte": 324.745,
+        "totalTime": 324.915,
+        "fcp": 470.346,
+        "lcp": 1548.961,
+        "speedIndex": 1391,
+        "curlTotalTime": 375.95080799999414,
+        "playwrightTotalTime": 1702.7079099999974
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 17,
+    "timestamp": 481258.320093,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5128,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.6180000000000003,
+        "tcpConnection": 16.833000000000002,
+        "tlsHandshake": 36.871,
+        "timeToFirstByte": 317.046,
+        "totalTime": 317.269,
+        "fcp": 407.11,
+        "lcp": 1714.239,
+        "speedIndex": 1549,
+        "curlTotalTime": 368.460361000034,
+        "playwrightTotalTime": 1743.7739709999878
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 18,
+    "timestamp": 381121.850988,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4882,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5140000000000002,
+        "tcpConnection": 21.433,
+        "tlsHandshake": 45.875,
+        "timeToFirstByte": 332.745,
+        "totalTime": 333.245,
+        "fcp": 441.13,
+        "lcp": 1552.64,
+        "speedIndex": 1356,
+        "curlTotalTime": 371.5968320000102,
+        "playwrightTotalTime": 1670.5996929999674
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 19,
+    "timestamp": 404061.856368,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5063,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6830000000000003,
+        "tcpConnection": 16.493000000000002,
+        "tlsHandshake": 36.178000000000004,
+        "timeToFirstByte": 321.121,
+        "totalTime": 321.295,
+        "fcp": 483.313,
+        "lcp": 2894.76,
+        "speedIndex": 2343,
+        "curlTotalTime": 360.4299020000035,
+        "playwrightTotalTime": 1618.8573080000351
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 20,
+    "timestamp": 200061.533963,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4572,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.199,
+        "tcpConnection": 21.392999999999997,
+        "tlsHandshake": 52.247,
+        "timeToFirstByte": 355.237,
+        "totalTime": 355.831,
+        "fcp": 432.534,
+        "lcp": 1575.728,
+        "speedIndex": 1296,
+        "curlTotalTime": 394.4679279999982,
+        "playwrightTotalTime": 1667.2257729999837
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 21,
+    "timestamp": 396638.996076,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4680,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.424,
+        "tcpConnection": 21.858999999999998,
+        "tlsHandshake": 49.125,
+        "timeToFirstByte": 347.138,
+        "totalTime": 347.62399999999997,
+        "fcp": 428.188,
+        "lcp": 1559.587,
+        "speedIndex": 1282,
+        "curlTotalTime": 389.9717220000457,
+        "playwrightTotalTime": 1692.3058439999586
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 22,
+    "timestamp": 347102.290149,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5137,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2889999999999997,
+        "tcpConnection": 15.485000000000001,
+        "tlsHandshake": 34.613,
+        "timeToFirstByte": 316.084,
+        "totalTime": 316.679,
+        "fcp": 438.911,
+        "lcp": 1525.918,
+        "speedIndex": 1354,
+        "curlTotalTime": 358.35957899998175,
+        "playwrightTotalTime": 1627.4381210000138
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 23,
+    "timestamp": 462053.795298,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5071,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.22,
+        "tcpConnection": 16.238,
+        "tlsHandshake": 35.232,
+        "timeToFirstByte": 320.494,
+        "totalTime": 320.795,
+        "fcp": 426.06,
+        "lcp": 1556.135,
+        "speedIndex": 1430,
+        "curlTotalTime": 363.17777199996635,
+        "playwrightTotalTime": 2250.9230960000423
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 24,
+    "timestamp": 203198.041084,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5048,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.575,
+        "tcpConnection": 16.549999999999997,
+        "tlsHandshake": 35.962,
+        "timeToFirstByte": 321.99899999999997,
+        "totalTime": 322.25399999999996,
+        "fcp": 450.509,
+        "lcp": 1619.524,
+        "speedIndex": 1460,
+        "curlTotalTime": 363.22534299999825,
+        "playwrightTotalTime": 1987.19451999999
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 25,
+    "timestamp": 218457.412685,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5073,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.618,
+        "tcpConnection": 16.671,
+        "tlsHandshake": 35.989,
+        "timeToFirstByte": 320.47700000000003,
+        "totalTime": 320.683,
+        "fcp": 428.359,
+        "lcp": 1631.682,
+        "speedIndex": 1433,
+        "curlTotalTime": 364.7153389999876,
+        "playwrightTotalTime": 1767.2150029999902
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 26,
+    "timestamp": 501065.942,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5072,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.908,
+        "tcpConnection": 16.367,
+        "tlsHandshake": 40.114,
+        "timeToFirstByte": 320.522,
+        "totalTime": 320.72,
+        "fcp": 430.769,
+        "lcp": 1028.271,
+        "speedIndex": 936,
+        "curlTotalTime": 370.68654700001935,
+        "playwrightTotalTime": 2443.418967000034
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 27,
+    "timestamp": 400382.091995,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4839,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.008,
+        "tcpConnection": 21.185,
+        "tlsHandshake": 47.551,
+        "timeToFirstByte": 335.894,
+        "totalTime": 336.161,
+        "fcp": 445.081,
+        "lcp": 1612.305,
+        "speedIndex": 1426,
+        "curlTotalTime": 374.01376899995375,
+        "playwrightTotalTime": 1664.824634999968
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 28,
+    "timestamp": 425037.445203,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4422,
+        "uploadSpeed": 0,
+        "dnsLookup": 16.418,
+        "tcpConnection": 31.057000000000002,
+        "tlsHandshake": 62.57699999999999,
+        "timeToFirstByte": 367.293,
+        "totalTime": 367.891,
+        "fcp": 428.152,
+        "lcp": 3023.809,
+        "speedIndex": 2518,
+        "curlTotalTime": 417.4520190000185,
+        "playwrightTotalTime": 1659.7856519999914
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 29,
+    "timestamp": 219209.394589,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4452,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.139000000000001,
+        "tcpConnection": 27.264,
+        "tlsHandshake": 70.16,
+        "timeToFirstByte": 364.91,
+        "totalTime": 365.438,
+        "fcp": 450.757,
+        "lcp": 1553.13,
+        "speedIndex": 1326,
+        "curlTotalTime": 406.1160010000167,
+        "playwrightTotalTime": 1691.9638620000042
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 30,
+    "timestamp": 415906.817795,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4747,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.54,
+        "tcpConnection": 21.812,
+        "tlsHandshake": 49.789,
+        "timeToFirstByte": 342.068,
+        "totalTime": 342.71000000000004,
+        "fcp": 465.588,
+        "lcp": 1519.982,
+        "speedIndex": 1305,
+        "curlTotalTime": 382.36387699999614,
+        "playwrightTotalTime": 1686.2115779999876
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 31,
+    "timestamp": 365694.332745,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5136,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.65,
+        "tcpConnection": 16.581,
+        "tlsHandshake": 36.127,
+        "timeToFirstByte": 315.767,
+        "totalTime": 316.76,
+        "fcp": 420.869,
+        "lcp": 1524.476,
+        "speedIndex": 1359,
+        "curlTotalTime": 359.03393799997866,
+        "playwrightTotalTime": 1074.0106740000192
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 32,
+    "timestamp": 481737.375189,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4832,
+        "uploadSpeed": 0,
+        "dnsLookup": 10.026,
+        "tcpConnection": 24.211,
+        "tlsHandshake": 53.648,
+        "timeToFirstByte": 336.414,
+        "totalTime": 336.68,
+        "fcp": 462.736,
+        "lcp": 1509.908,
+        "speedIndex": 1369,
+        "curlTotalTime": 409.5600599999889,
+        "playwrightTotalTime": 1699.8116889999947
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 33,
+    "timestamp": 225852.956138,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4866,
+        "uploadSpeed": 0,
+        "dnsLookup": 15.970999999999998,
+        "tcpConnection": 29.812,
+        "tlsHandshake": 50.047000000000004,
+        "timeToFirstByte": 334.055,
+        "totalTime": 334.297,
+        "fcp": 443.4,
+        "lcp": 2724.928,
+        "speedIndex": 2344,
+        "curlTotalTime": 377.69399600001634,
+        "playwrightTotalTime": 2883.322524999996
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 34,
+    "timestamp": 237933.544301,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5009,
+        "uploadSpeed": 0,
+        "dnsLookup": 7.985000000000001,
+        "tcpConnection": 21.915,
+        "tlsHandshake": 40.808,
+        "timeToFirstByte": 324.514,
+        "totalTime": 324.803,
+        "fcp": 428.209,
+        "lcp": 1584.122,
+        "speedIndex": 1407,
+        "curlTotalTime": 365.3989330000186,
+        "playwrightTotalTime": 1702.7848700000031
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 35,
+    "timestamp": 520902.065908,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4826,
+        "uploadSpeed": 0,
+        "dnsLookup": 17.905,
+        "tcpConnection": 31.822000000000003,
+        "tlsHandshake": 53.653,
+        "timeToFirstByte": 336.634,
+        "totalTime": 337.096,
+        "fcp": 433.637,
+        "lcp": 1646.67,
+        "speedIndex": 1428,
+        "curlTotalTime": 388.5733459999901,
+        "playwrightTotalTime": 1917.557170999993
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 36,
+    "timestamp": 419590.866158,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4714,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.904,
+        "tcpConnection": 28.347,
+        "tlsHandshake": 53.631,
+        "timeToFirstByte": 344.75,
+        "totalTime": 345.125,
+        "fcp": 450.542,
+        "lcp": 1552.362,
+        "speedIndex": 1416,
+        "curlTotalTime": 396.84005599998636,
+        "playwrightTotalTime": 1661.7458230000339
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 37,
+    "timestamp": 445802.417313,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4770,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.215,
+        "tcpConnection": 17.031000000000002,
+        "tlsHandshake": 44.979,
+        "timeToFirstByte": 340.541,
+        "totalTime": 341.05600000000004,
+        "fcp": 435.692,
+        "lcp": 2921.587,
+        "speedIndex": 2515,
+        "curlTotalTime": 381.7235959999962,
+        "playwrightTotalTime": 1586.6298769999994
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 38,
+    "timestamp": 238082.859507,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4838,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.496,
+        "tcpConnection": 21.718999999999998,
+        "tlsHandshake": 46.729,
+        "timeToFirstByte": 335.897,
+        "totalTime": 336.25300000000004,
+        "fcp": 439.951,
+        "lcp": 1496.568,
+        "speedIndex": 1285,
+        "curlTotalTime": 375.9878080000053,
+        "playwrightTotalTime": 1663.3409819999943
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 39,
+    "timestamp": 435290.359135,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4799,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.932,
+        "tcpConnection": 21.902,
+        "tlsHandshake": 47.531,
+        "timeToFirstByte": 338.60699999999997,
+        "totalTime": 339.015,
+        "fcp": 440.559,
+        "lcp": 1591.688,
+        "speedIndex": 1305,
+        "curlTotalTime": 391.8866599999601,
+        "playwrightTotalTime": 1715.1146350000054
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 40,
+    "timestamp": 384619.985939,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5154,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.162,
+        "tcpConnection": 16.157,
+        "tlsHandshake": 35.906,
+        "timeToFirstByte": 315.31,
+        "totalTime": 315.649,
+        "fcp": 529.437,
+        "lcp": 1541.126,
+        "speedIndex": 1387,
+        "curlTotalTime": 354.4290850000107,
+        "playwrightTotalTime": 1627.659771000035
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 41,
+    "timestamp": 501310.465654,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4692,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.781,
+        "tcpConnection": 16.381,
+        "tlsHandshake": 40.29,
+        "timeToFirstByte": 346.04200000000003,
+        "totalTime": 346.735,
+        "fcp": 423.377,
+        "lcp": 1538.724,
+        "speedIndex": 1328,
+        "curlTotalTime": 392.45091899996623,
+        "playwrightTotalTime": 1601.0869590000366
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 42,
+    "timestamp": 246517.013059,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5042,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.612,
+        "tcpConnection": 16.631,
+        "tlsHandshake": 36.263999999999996,
+        "timeToFirstByte": 322.38899999999995,
+        "totalTime": 322.644,
+        "fcp": 442.158,
+        "lcp": 2090.008,
+        "speedIndex": 1829,
+        "curlTotalTime": 373.8246619999991,
+        "playwrightTotalTime": 2442.8917800000054
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 43,
+    "timestamp": 257554.041277,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5075,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6740000000000004,
+        "tcpConnection": 16.943,
+        "tlsHandshake": 36.415000000000006,
+        "timeToFirstByte": 320.313,
+        "totalTime": 320.558,
+        "fcp": 522.587,
+        "lcp": 1639.656,
+        "speedIndex": 1482,
+        "curlTotalTime": 367.8037250000052,
+        "playwrightTotalTime": 1682.4354129999992
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 44,
+    "timestamp": 540379.359571,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4795,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.523,
+        "tcpConnection": 17.665,
+        "tlsHandshake": 40.006,
+        "timeToFirstByte": 339.023,
+        "totalTime": 339.289,
+        "fcp": 468.442,
+        "lcp": 1574.327,
+        "speedIndex": 1442,
+        "curlTotalTime": 404.70874600001844,
+        "playwrightTotalTime": 1817.4868399999687
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 45,
+    "timestamp": 438880.587422,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4872,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.226,
+        "tcpConnection": 21.467,
+        "tlsHandshake": 45.981,
+        "timeToFirstByte": 333.63300000000004,
+        "totalTime": 333.914,
+        "fcp": 441.946,
+        "lcp": 1556.909,
+        "speedIndex": 1379,
+        "curlTotalTime": 370.9284200000111,
+        "playwrightTotalTime": 1660.2765190000064
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 46,
+    "timestamp": 465375.490396,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5078,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9659999999999997,
+        "tcpConnection": 16.945999999999998,
+        "tlsHandshake": 36.99,
+        "timeToFirstByte": 320.07,
+        "totalTime": 320.356,
+        "fcp": 414.53,
+        "lcp": 1481.389,
+        "speedIndex": 1314,
+        "curlTotalTime": 364.9969529999653,
+        "playwrightTotalTime": 1641.293926000013
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 47,
+    "timestamp": 257389.305745,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3533,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.576,
+        "tcpConnection": 22.023999999999997,
+        "tlsHandshake": 74.03999999999999,
+        "timeToFirstByte": 459.864,
+        "totalTime": 460.51399999999995,
+        "fcp": 439.28,
+        "lcp": 1502.261,
+        "speedIndex": 1273,
+        "curlTotalTime": 505.36461899999995,
+        "playwrightTotalTime": 1672.8371970000153
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 48,
+    "timestamp": 453967.809001,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4865,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8960000000000004,
+        "tcpConnection": 22.784,
+        "tlsHandshake": 48.510999999999996,
+        "timeToFirstByte": 334.10699999999997,
+        "totalTime": 334.38800000000003,
+        "fcp": 446.85,
+        "lcp": 1542.415,
+        "speedIndex": 1291,
+        "curlTotalTime": 386.1553399999975,
+        "playwrightTotalTime": 1138.134568999987
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 49,
+    "timestamp": 403722.61985,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4186,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.478,
+        "tcpConnection": 16.331,
+        "tlsHandshake": 52.592,
+        "timeToFirstByte": 387.756,
+        "totalTime": 388.625,
+        "fcp": 419.559,
+        "lcp": 1500.33,
+        "speedIndex": 1364,
+        "curlTotalTime": 430.3261620000121,
+        "playwrightTotalTime": 1624.294018000015
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 50,
+    "timestamp": 520701.282593,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5037,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.684,
+        "tcpConnection": 16.407,
+        "tlsHandshake": 36.07599999999999,
+        "timeToFirstByte": 322.644,
+        "totalTime": 322.957,
+        "fcp": 446.365,
+        "lcp": 1516.735,
+        "speedIndex": 1327,
+        "curlTotalTime": 367.27899199997773,
+        "playwrightTotalTime": 1634.2149299999583
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 51,
+    "timestamp": 265907.082483,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3780,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1510000000000002,
+        "tcpConnection": 17.083000000000002,
+        "tlsHandshake": 125.81600000000002,
+        "timeToFirstByte": 429.697,
+        "totalTime": 430.391,
+        "fcp": 461.295,
+        "lcp": 1555.534,
+        "speedIndex": 1383,
+        "curlTotalTime": 481.20359600000666,
+        "playwrightTotalTime": 1745.5984499999904
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 52,
+    "timestamp": 277063.40302,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5106,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.942,
+        "tcpConnection": 16.297,
+        "tlsHandshake": 36.345,
+        "timeToFirstByte": 318.40200000000004,
+        "totalTime": 318.62800000000004,
+        "fcp": 457.612,
+        "lcp": 1546.888,
+        "speedIndex": 1398,
+        "curlTotalTime": 366.8345799999952,
+        "playwrightTotalTime": 1717.391901999974
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 53,
+    "timestamp": 560180.411807,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4719,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.057,
+        "tcpConnection": 17.165,
+        "tlsHandshake": 38.622,
+        "timeToFirstByte": 343.979,
+        "totalTime": 344.709,
+        "fcp": 458.836,
+        "lcp": 1006.442,
+        "speedIndex": 939,
+        "curlTotalTime": 388.6914369999431,
+        "playwrightTotalTime": 2652.957138000056
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 54,
+    "timestamp": 458090.344798,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4863,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.604,
+        "tcpConnection": 22.214000000000002,
+        "tlsHandshake": 47.218,
+        "timeToFirstByte": 334.365,
+        "totalTime": 334.562,
+        "fcp": 433.281,
+        "lcp": 1604.377,
+        "speedIndex": 1432,
+        "curlTotalTime": 385.30910200002836,
+        "playwrightTotalTime": 1754.1468610000447
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 55,
+    "timestamp": 484591.948705,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4845,
+        "uploadSpeed": 0,
+        "dnsLookup": 18.352,
+        "tcpConnection": 32.487,
+        "tlsHandshake": 52.867999999999995,
+        "timeToFirstByte": 335.466,
+        "totalTime": 335.76,
+        "fcp": 434.662,
+        "lcp": 1463.233,
+        "speedIndex": 1297,
+        "curlTotalTime": 414.3637020000024,
+        "playwrightTotalTime": 1631.0591569999815
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 56,
+    "timestamp": 276564.885902,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4780,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.852,
+        "tcpConnection": 22.526,
+        "tlsHandshake": 48.95,
+        "timeToFirstByte": 339.935,
+        "totalTime": 340.373,
+        "fcp": 434.547,
+        "lcp": 1587.284,
+        "speedIndex": 1339,
+        "curlTotalTime": 380.48638600000413,
+        "playwrightTotalTime": 1677.1988509999937
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 57,
+    "timestamp": 473211.589783,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4905,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.686,
+        "tcpConnection": 21.656000000000002,
+        "tlsHandshake": 45.782999999999994,
+        "timeToFirstByte": 331.441,
+        "totalTime": 331.683,
+        "fcp": 423.93,
+        "lcp": 1638.322,
+        "speedIndex": 1317,
+        "curlTotalTime": 371.9814269999624,
+        "playwrightTotalTime": 1638.7803380000405
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 58,
+    "timestamp": 422702.631529,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4630,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3040000000000003,
+        "tcpConnection": 16.499,
+        "tlsHandshake": 40.602,
+        "timeToFirstByte": 350.832,
+        "totalTime": 351.403,
+        "fcp": 423.121,
+        "lcp": 1465.869,
+        "speedIndex": 1229,
+        "curlTotalTime": 389.3151740000467,
+        "playwrightTotalTime": 1637.8779380000196
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 59,
+    "timestamp": 541501.11637,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5042,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2430000000000003,
+        "tcpConnection": 15.443999999999999,
+        "tlsHandshake": 35.126,
+        "timeToFirstByte": 322.052,
+        "totalTime": 322.658,
+        "fcp": 428.162,
+        "lcp": 2688.755,
+        "speedIndex": 2375,
+        "curlTotalTime": 366.8306450000382,
+        "playwrightTotalTime": 1654.7322530000238
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 60,
+    "timestamp": 285316.349151,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5075,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6069999999999998,
+        "tcpConnection": 16.387,
+        "tlsHandshake": 36.337,
+        "timeToFirstByte": 320.22499999999997,
+        "totalTime": 320.53,
+        "fcp": 410.018,
+        "lcp": 1763.821,
+        "speedIndex": 1542,
+        "curlTotalTime": 359.69032900000457,
+        "playwrightTotalTime": 1722.5066550000338
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 61,
+    "timestamp": 296131.414157,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5048,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.493,
+        "tcpConnection": 16.29,
+        "tlsHandshake": 35.757999999999996,
+        "timeToFirstByte": 322.007,
+        "totalTime": 322.29,
+        "fcp": 434.288,
+        "lcp": 1520.721,
+        "speedIndex": 1368,
+        "curlTotalTime": 367.2403719999711,
+        "playwrightTotalTime": 1670.7801760000293
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 62,
+    "timestamp": 579720.069249,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5133,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.362,
+        "tcpConnection": 16.04,
+        "tlsHandshake": 36.163000000000004,
+        "timeToFirstByte": 316.78299999999996,
+        "totalTime": 316.945,
+        "fcp": 449.359,
+        "lcp": 1540.148,
+        "speedIndex": 1394,
+        "curlTotalTime": 361.31949900009204,
+        "playwrightTotalTime": 1755.0041650000494
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 63,
+    "timestamp": 477297.343177,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4815,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7590000000000003,
+        "tcpConnection": 22.346999999999998,
+        "tlsHandshake": 49.659,
+        "timeToFirstByte": 337.625,
+        "totalTime": 337.883,
+        "fcp": 445.768,
+        "lcp": 1584.57,
+        "speedIndex": 1413,
+        "curlTotalTime": 386.4962939999532,
+        "playwrightTotalTime": 1699.4359069999773
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 64,
+    "timestamp": 503488.380836,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5073,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.34,
+        "tcpConnection": 16.514999999999997,
+        "tlsHandshake": 38.287,
+        "timeToFirstByte": 320.465,
+        "totalTime": 320.712,
+        "fcp": 432.863,
+        "lcp": 1494.962,
+        "speedIndex": 1329,
+        "curlTotalTime": 364.12591599998996,
+        "playwrightTotalTime": 1633.9986009999993
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 65,
+    "timestamp": 295643.00735,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4247,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.212,
+        "tcpConnection": 27.703,
+        "tlsHandshake": 55.949,
+        "timeToFirstByte": 382.517,
+        "totalTime": 383.02599999999995,
+        "fcp": 427.109,
+        "lcp": 1505.883,
+        "speedIndex": 1309,
+        "curlTotalTime": 423.45210400002543,
+        "playwrightTotalTime": 1716.5985690000234
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 66,
+    "timestamp": 493187.801431,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4771,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.604000000000001,
+        "tcpConnection": 27.864,
+        "tlsHandshake": 53.411,
+        "timeToFirstByte": 340.42499999999995,
+        "totalTime": 340.978,
+        "fcp": 449.442,
+        "lcp": 1616.934,
+        "speedIndex": 1358,
+        "curlTotalTime": 383.69842900004005,
+        "playwrightTotalTime": 1803.926370000001
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 67,
+    "timestamp": 441686.710299,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4669,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.519,
+        "tcpConnection": 16.473000000000003,
+        "tlsHandshake": 37.743,
+        "timeToFirstByte": 344.094,
+        "totalTime": 348.43600000000004,
+        "fcp": 400.127,
+        "lcp": 1490.499,
+        "speedIndex": 1340,
+        "curlTotalTime": 389.23344500001986,
+        "playwrightTotalTime": 1632.7499190000235
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 68,
+    "timestamp": 560612.258355,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4714,
+        "uploadSpeed": 0,
+        "dnsLookup": 16.948,
+        "tcpConnection": 30.869,
+        "tlsHandshake": 50.352000000000004,
+        "timeToFirstByte": 344.825,
+        "totalTime": 345.097,
+        "fcp": 414.651,
+        "lcp": 1411.423,
+        "speedIndex": 1315,
+        "curlTotalTime": 396.52515200001653,
+        "playwrightTotalTime": 1702.1561399999773
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 69,
+    "timestamp": 305982.154486,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4992,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.985,
+        "tcpConnection": 16.79,
+        "tlsHandshake": 40.489,
+        "timeToFirstByte": 325.538,
+        "totalTime": 325.905,
+        "fcp": 452.147,
+        "lcp": 3235.106,
+        "speedIndex": 2811,
+        "curlTotalTime": 371.72291900002165,
+        "playwrightTotalTime": 1193.5966320000007
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 70,
+    "timestamp": 315427.605604,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5070,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.428,
+        "tcpConnection": 16.305,
+        "tlsHandshake": 35.832,
+        "timeToFirstByte": 320.64599999999996,
+        "totalTime": 320.885,
+        "fcp": 428.628,
+        "lcp": 1636.034,
+        "speedIndex": 1456,
+        "curlTotalTime": 359.960505999974,
+        "playwrightTotalTime": 1677.4767530000536
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 71,
+    "timestamp": 599142.38931,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4619,
+        "uploadSpeed": 0,
+        "dnsLookup": 11.246,
+        "tcpConnection": 25.087000000000003,
+        "tlsHandshake": 45.252,
+        "timeToFirstByte": 351.713,
+        "totalTime": 352.174,
+        "fcp": 445.431,
+        "lcp": 1503.726,
+        "speedIndex": 1383,
+        "curlTotalTime": 406.73016100004315,
+        "playwrightTotalTime": 1832.9936839999864
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 72,
+    "timestamp": 496543.28079,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4867,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.554,
+        "tcpConnection": 21.808999999999997,
+        "tlsHandshake": 46.449999999999996,
+        "timeToFirstByte": 334.033,
+        "totalTime": 334.227,
+        "fcp": 431.517,
+        "lcp": 1605.801,
+        "speedIndex": 1421,
+        "curlTotalTime": 374.8370129999821,
+        "playwrightTotalTime": 1712.8384380000061
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 73,
+    "timestamp": 522839.032589,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5002,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8,
+        "tcpConnection": 16.635,
+        "tlsHandshake": 41.029,
+        "timeToFirstByte": 325.071,
+        "totalTime": 325.24399999999997,
+        "fcp": 437.616,
+        "lcp": 1563.337,
+        "speedIndex": 1370,
+        "curlTotalTime": 364.495551,
+        "playwrightTotalTime": 1577.9040990000358
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 74,
+    "timestamp": 314756.748034,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4458,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.432,
+        "tcpConnection": 22.09,
+        "tlsHandshake": 56.387,
+        "timeToFirstByte": 364.269,
+        "totalTime": 364.92900000000003,
+        "fcp": 438.986,
+        "lcp": 1546.527,
+        "speedIndex": 1236,
+        "curlTotalTime": 407.1259779999964,
+        "playwrightTotalTime": 1640.3881000000401
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 75,
+    "timestamp": 512577.516589,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4861,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.14,
+        "tcpConnection": 22.436999999999998,
+        "tlsHandshake": 48.89,
+        "timeToFirstByte": 334.237,
+        "totalTime": 334.685,
+        "fcp": 424.984,
+        "lcp": 1539.424,
+        "speedIndex": 1305,
+        "curlTotalTime": 379.9801929999958,
+        "playwrightTotalTime": 1704.8234170000069
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 76,
+    "timestamp": 460662.027602,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5086,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4610000000000003,
+        "tcpConnection": 16.695,
+        "tlsHandshake": 36.426,
+        "timeToFirstByte": 319.582,
+        "totalTime": 319.85200000000003,
+        "fcp": 417.917,
+        "lcp": 1467.25,
+        "speedIndex": 1319,
+        "curlTotalTime": 364.3033740000101,
+        "playwrightTotalTime": 1600.0898299999535
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 77,
+    "timestamp": 579851.474293,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5114,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.248,
+        "tcpConnection": 15.720999999999998,
+        "tlsHandshake": 34.715,
+        "timeToFirstByte": 317.921,
+        "totalTime": 318.12,
+        "fcp": 459.583,
+        "lcp": 1449.352,
+        "speedIndex": 1301,
+        "curlTotalTime": 358.26918099995237,
+        "playwrightTotalTime": 1652.5492690000683
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 78,
+    "timestamp": 326057.238603,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5008,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.926,
+        "tcpConnection": 16.519,
+        "tlsHandshake": 40.515,
+        "timeToFirstByte": 324.319,
+        "totalTime": 324.87100000000004,
+        "fcp": 419.056,
+        "lcp": 1812.304,
+        "speedIndex": 1619,
+        "curlTotalTime": 369.93292299995665,
+        "playwrightTotalTime": 1971.7737709999783
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 79,
+    "timestamp": 334755.119638,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5062,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.475,
+        "tcpConnection": 16.307,
+        "tlsHandshake": 36.07599999999999,
+        "timeToFirstByte": 320.824,
+        "totalTime": 321.37399999999997,
+        "fcp": 444.104,
+        "lcp": 1560.353,
+        "speedIndex": 1394,
+        "curlTotalTime": 361.3108980000252,
+        "playwrightTotalTime": 1663.6586639999878
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 80,
+    "timestamp": 618897.102966,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5117,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.771,
+        "tcpConnection": 16.426,
+        "tlsHandshake": 35.795,
+        "timeToFirstByte": 317.39,
+        "totalTime": 317.93100000000004,
+        "fcp": 470.803,
+        "lcp": 1587.647,
+        "speedIndex": 1422,
+        "curlTotalTime": 363.96974099997897,
+        "playwrightTotalTime": 1702.2999080000445
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 81,
+    "timestamp": 515725.13848,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4860,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2520000000000002,
+        "tcpConnection": 21.918,
+        "tlsHandshake": 46.805,
+        "timeToFirstByte": 334.424,
+        "totalTime": 334.71299999999997,
+        "fcp": 423.2,
+        "lcp": 1515.778,
+        "speedIndex": 1352,
+        "curlTotalTime": 375.35091300000204,
+        "playwrightTotalTime": 1702.6620819999953
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 82,
+    "timestamp": 541991.017356,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5038,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.823,
+        "tcpConnection": 16.426,
+        "tlsHandshake": 40.253,
+        "timeToFirstByte": 322.339,
+        "totalTime": 322.93100000000004,
+        "fcp": 420.558,
+        "lcp": 1494.375,
+        "speedIndex": 1341,
+        "curlTotalTime": 373.7991199999815,
+        "playwrightTotalTime": 1640.4922739999602
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 83,
+    "timestamp": 333981.099801,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4796,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6380000000000003,
+        "tcpConnection": 22.169999999999998,
+        "tlsHandshake": 47.815000000000005,
+        "timeToFirstByte": 338.64300000000003,
+        "totalTime": 339.221,
+        "fcp": 453.595,
+        "lcp": 1583.823,
+        "speedIndex": 1302,
+        "curlTotalTime": 379.266736999969,
+        "playwrightTotalTime": 1604.2176820000168
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 84,
+    "timestamp": 531970.916606,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4894,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.318,
+        "tcpConnection": 21.552000000000003,
+        "tlsHandshake": 47.205999999999996,
+        "timeToFirstByte": 331.95799999999997,
+        "totalTime": 332.428,
+        "fcp": 436.197,
+        "lcp": 1513.801,
+        "speedIndex": 1235,
+        "curlTotalTime": 376.2701830000151,
+        "playwrightTotalTime": 1648.025713000039
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 85,
+    "timestamp": 479671.579498,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4564,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.591,
+        "tcpConnection": 16.923000000000002,
+        "tlsHandshake": 45.997,
+        "timeToFirstByte": 355.374,
+        "totalTime": 356.435,
+        "fcp": 416.853,
+        "lcp": 1495.228,
+        "speedIndex": 1348,
+        "curlTotalTime": 396.98483200004557,
+        "playwrightTotalTime": 1606.843440000026
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 86,
+    "timestamp": 599170.619124,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5046,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.835,
+        "tcpConnection": 16.558,
+        "tlsHandshake": 37.116,
+        "timeToFirstByte": 322.17699999999996,
+        "totalTime": 322.37,
+        "fcp": 450.97,
+        "lcp": 1547.327,
+        "speedIndex": 1378,
+        "curlTotalTime": 373.563003999996,
+        "playwrightTotalTime": 1740.0065330000361
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 87,
+    "timestamp": 345719.977108,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4998,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.205,
+        "tcpConnection": 16.607,
+        "tlsHandshake": 36.858000000000004,
+        "timeToFirstByte": 324.678,
+        "totalTime": 325.50800000000004,
+        "fcp": 444.912,
+        "lcp": 1558.081,
+        "speedIndex": 1384,
+        "curlTotalTime": 376.8303540000343,
+        "playwrightTotalTime": 1718.0273929999676
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 88,
+    "timestamp": 354062.526648,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4786,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.528,
+        "tcpConnection": 16.619,
+        "tlsHandshake": 38.025000000000006,
+        "timeToFirstByte": 339.424,
+        "totalTime": 339.9,
+        "fcp": 464.758,
+        "lcp": 1567.82,
+        "speedIndex": 1395,
+        "curlTotalTime": 386.199907000002,
+        "playwrightTotalTime": 1719.68056899996
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 89,
+    "timestamp": 638403.176983,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5111,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.497,
+        "tcpConnection": 16.273,
+        "tlsHandshake": 36.169,
+        "timeToFirstByte": 318.03700000000003,
+        "totalTime": 318.33,
+        "fcp": 463.953,
+        "lcp": 1583.11,
+        "speedIndex": 1412,
+        "curlTotalTime": 361.7116180000594,
+        "playwrightTotalTime": 1834.891632999992
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 90,
+    "timestamp": 534913.089233,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4870,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.553,
+        "tcpConnection": 21.825,
+        "tlsHandshake": 46.569,
+        "timeToFirstByte": 333.81899999999996,
+        "totalTime": 334.02700000000004,
+        "fcp": 431.895,
+        "lcp": 1570.696,
+        "speedIndex": 1396,
+        "curlTotalTime": 379.91763700003503,
+        "playwrightTotalTime": 1669.589518999972
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 91,
+    "timestamp": 562282.240584,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4889,
+        "uploadSpeed": 0,
+        "dnsLookup": 16.676,
+        "tcpConnection": 30.395,
+        "tlsHandshake": 49.658,
+        "timeToFirstByte": 332.55400000000003,
+        "totalTime": 332.731,
+        "fcp": 437.145,
+        "lcp": 2624.436,
+        "speedIndex": 2311,
+        "curlTotalTime": 372.13770900003146,
+        "playwrightTotalTime": 1636.2419500000542
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 92,
+    "timestamp": 353061.673768,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4862,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.592,
+        "tcpConnection": 22.055000000000003,
+        "tlsHandshake": 47.444,
+        "timeToFirstByte": 334.429,
+        "totalTime": 334.62199999999996,
+        "fcp": 438.737,
+        "lcp": 1584.336,
+        "speedIndex": 1290,
+        "curlTotalTime": 378.1620690000127,
+        "playwrightTotalTime": 1668.9660480000312
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 93,
+    "timestamp": 551750.430302,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4869,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.499,
+        "tcpConnection": 22.083,
+        "tlsHandshake": 47.772,
+        "timeToFirstByte": 333.90999999999997,
+        "totalTime": 334.129,
+        "fcp": 440.879,
+        "lcp": 1629.146,
+        "speedIndex": 1343,
+        "curlTotalTime": 374.97368200006895,
+        "playwrightTotalTime": 1718.680240000016
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 94,
+    "timestamp": 498536.990129,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5057,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.364999999999998,
+        "tcpConnection": 22.247,
+        "tlsHandshake": 41.154999999999994,
+        "timeToFirstByte": 321.31,
+        "totalTime": 321.7,
+        "fcp": 429.628,
+        "lcp": 1453.842,
+        "speedIndex": 1306,
+        "curlTotalTime": 364.5993249999592,
+        "playwrightTotalTime": 1615.9576309999684
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 95,
+    "timestamp": 624129.033962,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5092,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.568,
+        "tcpConnection": 16.377,
+        "tlsHandshake": 35.812999999999995,
+        "timeToFirstByte": 319.202,
+        "totalTime": 319.46200000000005,
+        "fcp": 458.904,
+        "lcp": 1577.548,
+        "speedIndex": 2366,
+        "curlTotalTime": 358.6065950000193,
+        "playwrightTotalTime": 1671.0233210000442
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 96,
+    "timestamp": 365054.684775,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4994,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7,
+        "tcpConnection": 16.944,
+        "tlsHandshake": 41.065999999999995,
+        "timeToFirstByte": 324.90400000000005,
+        "totalTime": 325.772,
+        "fcp": 451.347,
+        "lcp": 1562.095,
+        "speedIndex": 1423,
+        "curlTotalTime": 370.2774900000077,
+        "playwrightTotalTime": 1763.535950999998
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 97,
+    "timestamp": 373877.789356,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5006,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.192,
+        "tcpConnection": 16.975,
+        "tlsHandshake": 41.329,
+        "timeToFirstByte": 324.61,
+        "totalTime": 324.952,
+        "fcp": 439.722,
+        "lcp": 1566.1,
+        "speedIndex": 1382,
+        "curlTotalTime": 370.1800139999832,
+        "playwrightTotalTime": 1740.7330559999682
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 98,
+    "timestamp": 658011.359736,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5047,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.443,
+        "tcpConnection": 16.011,
+        "tlsHandshake": 41.01,
+        "timeToFirstByte": 321.959,
+        "totalTime": 322.341,
+        "fcp": 441.34,
+        "lcp": 1721.459,
+        "speedIndex": 1526,
+        "curlTotalTime": 363.86345799989067,
+        "playwrightTotalTime": 1698.146859999979
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 99,
+    "timestamp": 553827.374273,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4798,
+        "uploadSpeed": 0,
+        "dnsLookup": 7.957000000000001,
+        "tcpConnection": 27.104,
+        "tlsHandshake": 51.698,
+        "timeToFirstByte": 338.84,
+        "totalTime": 339.077,
+        "fcp": 441.23,
+        "lcp": 1474.521,
+        "speedIndex": 1317,
+        "curlTotalTime": 378.32789099996444,
+        "playwrightTotalTime": 1607.2479080000194
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 100,
+    "timestamp": 581319.231308,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5162,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7030000000000003,
+        "tcpConnection": 15.751999999999999,
+        "tlsHandshake": 34.126,
+        "timeToFirstByte": 314.673,
+        "totalTime": 315.169,
+        "fcp": 485.271,
+        "lcp": 1484.058,
+        "speedIndex": 1370,
+        "curlTotalTime": 364.91562400001567,
+        "playwrightTotalTime": 1602.1604550000047
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 101,
+    "timestamp": 372113.240437,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4854,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.462,
+        "tcpConnection": 21.897,
+        "tlsHandshake": 47.044000000000004,
+        "timeToFirstByte": 334.777,
+        "totalTime": 335.163,
+        "fcp": 429.672,
+        "lcp": 1578.29,
+        "speedIndex": 1294,
+        "curlTotalTime": 377.05132600001525,
+        "playwrightTotalTime": 1657.8497869999846
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 102,
+    "timestamp": 570307.964378,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4770,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.194,
+        "tcpConnection": 28.570999999999998,
+        "tlsHandshake": 55.994,
+        "timeToFirstByte": 340.51,
+        "totalTime": 341.078,
+        "fcp": 439.273,
+        "lcp": 1022.455,
+        "speedIndex": 879,
+        "curlTotalTime": 392.97166000003926,
+        "playwrightTotalTime": 1680.185732999933
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 103,
+    "timestamp": 517310.410567,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5150,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5100000000000002,
+        "tcpConnection": 16.379,
+        "tlsHandshake": 35.655,
+        "timeToFirstByte": 315.654,
+        "totalTime": 315.905,
+        "fcp": 430.753,
+        "lcp": 1512.22,
+        "speedIndex": 1372,
+        "curlTotalTime": 359.7062540000188,
+        "playwrightTotalTime": 1603.282070999965
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 104,
+    "timestamp": 643504.417259,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4824,
+        "uploadSpeed": 0,
+        "dnsLookup": 16.569,
+        "tcpConnection": 30.47,
+        "tlsHandshake": 50.016,
+        "timeToFirstByte": 336.881,
+        "totalTime": 337.271,
+        "fcp": 447.96,
+        "lcp": 1427.198,
+        "speedIndex": 1311,
+        "curlTotalTime": 379.24351600010414,
+        "playwrightTotalTime": 1714.4669729999732
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 105,
+    "timestamp": 383737.844304,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5051,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.842,
+        "tcpConnection": 16.694,
+        "tlsHandshake": 36.043,
+        "timeToFirstByte": 321.863,
+        "totalTime": 322.065,
+        "fcp": 465.709,
+        "lcp": 1055.125,
+        "speedIndex": 985,
+        "curlTotalTime": 372.59159800002817,
+        "playwrightTotalTime": 1707.96624899999
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 106,
+    "timestamp": 393278.213945,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4876,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.251,
+        "tcpConnection": 22.093999999999998,
+        "tlsHandshake": 48.578,
+        "timeToFirstByte": 333.459,
+        "totalTime": 333.64300000000003,
+        "fcp": 434.416,
+        "lcp": 1557.381,
+        "speedIndex": 1377,
+        "curlTotalTime": 381.5671250000014,
+        "playwrightTotalTime": 1707.8076720000245
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 107,
+    "timestamp": 678893.945635,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4933,
+        "uploadSpeed": 0,
+        "dnsLookup": 16.627,
+        "tcpConnection": 30.083,
+        "tlsHandshake": 48.813,
+        "timeToFirstByte": 329.50800000000004,
+        "totalTime": 329.805,
+        "fcp": 466.589,
+        "lcp": 2616.064,
+        "speedIndex": 2230,
+        "curlTotalTime": 367.1811339999549,
+        "playwrightTotalTime": 1840.7662199999904
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 108,
+    "timestamp": 573368.049821,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4757,
+        "uploadSpeed": 0,
+        "dnsLookup": 8.911999999999999,
+        "tcpConnection": 28.521,
+        "tlsHandshake": 53.242,
+        "timeToFirstByte": 341.769,
+        "totalTime": 341.981,
+        "fcp": 450.808,
+        "lcp": 1576.621,
+        "speedIndex": 1408,
+        "curlTotalTime": 385.60966099996585,
+        "playwrightTotalTime": 1654.8988479999825
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 109,
+    "timestamp": 600572.196014,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4885,
+        "uploadSpeed": 0,
+        "dnsLookup": 15.798,
+        "tcpConnection": 28.962000000000003,
+        "tlsHandshake": 51.547999999999995,
+        "timeToFirstByte": 332.639,
+        "totalTime": 333.00800000000004,
+        "fcp": 421.623,
+        "lcp": 1494.246,
+        "speedIndex": 1315,
+        "curlTotalTime": 372.059862999944,
+        "playwrightTotalTime": 1597.994500999921
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 110,
+    "timestamp": 391062.169491,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4859,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.847,
+        "tcpConnection": 22.075,
+        "tlsHandshake": 47.29,
+        "timeToFirstByte": 334.536,
+        "totalTime": 334.794,
+        "fcp": 443.225,
+        "lcp": 1565.452,
+        "speedIndex": 1302,
+        "curlTotalTime": 383.1733880000538,
+        "playwrightTotalTime": 1701.9448839999968
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 111,
+    "timestamp": 589431.47963,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4803,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.381,
+        "tcpConnection": 23.108,
+        "tlsHandshake": 49.317,
+        "timeToFirstByte": 338.215,
+        "totalTime": 338.692,
+        "fcp": 420.746,
+        "lcp": 1583.762,
+        "speedIndex": 1314,
+        "curlTotalTime": 390.7477410000283,
+        "playwrightTotalTime": 1704.2105010000523
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 112,
+    "timestamp": 536424.509925,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5054,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.351,
+        "tcpConnection": 16.26,
+        "tlsHandshake": 35.558,
+        "timeToFirstByte": 321.129,
+        "totalTime": 321.904,
+        "fcp": 403.104,
+        "lcp": 1457.642,
+        "speedIndex": 1262,
+        "curlTotalTime": 360.1075219999766,
+        "playwrightTotalTime": 1619.3959659999819
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 113,
+    "timestamp": 662786.834221,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5085,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.56,
+        "tcpConnection": 15.708,
+        "tlsHandshake": 35.298,
+        "timeToFirstByte": 319.724,
+        "totalTime": 319.94,
+        "fcp": 433.287,
+        "lcp": 1543.553,
+        "speedIndex": 1365,
+        "curlTotalTime": 365.828954000026,
+        "playwrightTotalTime": 1644.0719280000776
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 114,
+    "timestamp": 402390.843731,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5080,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3649999999999998,
+        "tcpConnection": 16.064,
+        "tlsHandshake": 35.455,
+        "timeToFirstByte": 320.01099999999997,
+        "totalTime": 320.272,
+        "fcp": 424.154,
+        "lcp": 1072.076,
+        "speedIndex": 1004,
+        "curlTotalTime": 359.8904929999844,
+        "playwrightTotalTime": 1694.4250480000046
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 115,
+    "timestamp": 412479.958585,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5041,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8310000000000004,
+        "tcpConnection": 16.840999999999998,
+        "tlsHandshake": 36.367,
+        "timeToFirstByte": 322.502,
+        "totalTime": 322.73,
+        "fcp": 442.231,
+        "lcp": 1549.422,
+        "speedIndex": 1405,
+        "curlTotalTime": 366.6581529999967,
+        "playwrightTotalTime": 1666.2139479999896
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 116,
+    "timestamp": 698917.39912,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5056,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.944,
+        "tcpConnection": 16.42,
+        "tlsHandshake": 39.836999999999996,
+        "timeToFirstByte": 321.538,
+        "totalTime": 321.745,
+        "fcp": 426.32,
+        "lcp": 1589.844,
+        "speedIndex": 1415,
+        "curlTotalTime": 374.3596050000051,
+        "playwrightTotalTime": 1719.0269309999421
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 117,
+    "timestamp": 592719.994843,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4821,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.579,
+        "tcpConnection": 21.568,
+        "tlsHandshake": 46.698,
+        "timeToFirstByte": 336.938,
+        "totalTime": 337.428,
+        "fcp": 454.343,
+        "lcp": 1542.544,
+        "speedIndex": 1408,
+        "curlTotalTime": 388.75799200008623,
+        "playwrightTotalTime": 1733.3038710000692
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 118,
+    "timestamp": 619352.100272,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4156,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0309999999999997,
+        "tcpConnection": 16.826,
+        "tlsHandshake": 45.18,
+        "timeToFirstByte": 390.70500000000004,
+        "totalTime": 391.466,
+        "fcp": 418.931,
+        "lcp": 950.037,
+        "speedIndex": 872,
+        "curlTotalTime": 436.97490699996706,
+        "playwrightTotalTime": 1690.1279039999936
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 119,
+    "timestamp": 410158.257861,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4838,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.569,
+        "tcpConnection": 22.249000000000002,
+        "tlsHandshake": 47.218999999999994,
+        "timeToFirstByte": 335.978,
+        "totalTime": 336.23900000000003,
+        "fcp": 437.81,
+        "lcp": 1564.269,
+        "speedIndex": 1326,
+        "curlTotalTime": 374.80738900002325,
+        "playwrightTotalTime": 1651.9286840000423
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 120,
+    "timestamp": 608688.044304,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4850,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.593,
+        "tcpConnection": 22.231,
+        "tlsHandshake": 47.693,
+        "timeToFirstByte": 335.007,
+        "totalTime": 335.42499999999995,
+        "fcp": 431.78,
+        "lcp": 1588.812,
+        "speedIndex": 1290,
+        "curlTotalTime": 376.60190899996087,
+        "playwrightTotalTime": 1697.6277059999993
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 121,
+    "timestamp": 555417.731688,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5127,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1870000000000003,
+        "tcpConnection": 17.295,
+        "tlsHandshake": 37.678999999999995,
+        "timeToFirstByte": 317.087,
+        "totalTime": 317.28299999999996,
+        "fcp": 457.452,
+        "lcp": 1507.86,
+        "speedIndex": 1363,
+        "curlTotalTime": 365.02437600004487,
+        "playwrightTotalTime": 1621.2961840000935
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 122,
+    "timestamp": 681934.817796,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5084,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.732,
+        "tcpConnection": 16.396,
+        "tlsHandshake": 36.928999999999995,
+        "timeToFirstByte": 319.56,
+        "totalTime": 319.984,
+        "fcp": 425.922,
+        "lcp": 1518.068,
+        "speedIndex": 1346,
+        "curlTotalTime": 373.33266600000206,
+        "playwrightTotalTime": 1687.5688399999635
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 123,
+    "timestamp": 432564.303595,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5125,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.599,
+        "tcpConnection": 16.062,
+        "tlsHandshake": 34.982,
+        "timeToFirstByte": 317.266,
+        "totalTime": 317.452,
+        "fcp": 461.603,
+        "lcp": 2197.951,
+        "speedIndex": 1889,
+        "curlTotalTime": 361.2256080000079,
+        "playwrightTotalTime": 10806.622301000054
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 124,
+    "timestamp": 432010.420271,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5019,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.46,
+        "tcpConnection": 16.011,
+        "tlsHandshake": 39.954,
+        "timeToFirstByte": 323.702,
+        "totalTime": 324.127,
+        "fcp": 422.526,
+        "lcp": 1599.672,
+        "speedIndex": 1407,
+        "curlTotalTime": 366.52425000001676,
+        "playwrightTotalTime": 1723.7462110000197
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 125,
+    "timestamp": 717917.052489,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5023,
+        "uploadSpeed": 0,
+        "dnsLookup": 11.151,
+        "tcpConnection": 24.647,
+        "tlsHandshake": 44.079,
+        "timeToFirstByte": 323.652,
+        "totalTime": 323.88800000000003,
+        "fcp": 476.637,
+        "lcp": 1141.716,
+        "speedIndex": 1072,
+        "curlTotalTime": 366.6085140000796,
+        "playwrightTotalTime": 1741.5465649999678
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 126,
+    "timestamp": 611775.946177,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4794,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4819999999999998,
+        "tcpConnection": 22.553,
+        "tlsHandshake": 48.717999999999996,
+        "timeToFirstByte": 339.077,
+        "totalTime": 339.365,
+        "fcp": 456.141,
+        "lcp": 1481.106,
+        "speedIndex": 1361,
+        "curlTotalTime": 386.32315599999856,
+        "playwrightTotalTime": 1683.1665720000165
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 127,
+    "timestamp": 639030.837917,
+    "webTests": [
+      {
+        "url": "https://24bc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5094,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4749999999999996,
+        "tcpConnection": 17.022,
+        "tlsHandshake": 37.189,
+        "timeToFirstByte": 319.14,
+        "totalTime": 319.35799999999995,
+        "fcp": 427.723,
+        "lcp": 1608.738,
+        "speedIndex": 1379,
+        "curlTotalTime": 360.42345699993894,
+        "playwrightTotalTime": 1651.949174999958
+      }
+    ],
+    "totalDuration": 318985.82854699995,
+    "setupDuration": 10171.839773999993,
+    "diagnosticsDuration": 0.004071999981533736,
+    "measurementDuration": 298803.08220600005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 128,
+    "timestamp": 429318.632841,
+    "webTests": [
+      {
+        "url": "https://6aac-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4824,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.469,
+        "tcpConnection": 21.726,
+        "tlsHandshake": 46.235,
+        "timeToFirstByte": 336.96700000000004,
+        "totalTime": 337.225,
+        "fcp": 420.328,
+        "lcp": 1492.587,
+        "speedIndex": 1272,
+        "curlTotalTime": 378.14300799998455,
+        "playwrightTotalTime": 1626.2639670000062
+      }
+    ],
+    "totalDuration": 311017.566622,
+    "setupDuration": 10167.053033999997,
+    "diagnosticsDuration": 0.0041049999999813735,
+    "measurementDuration": 290842.427652,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 129,
+    "timestamp": 627966.274712,
+    "webTests": [
+      {
+        "url": "https://8c00-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4812,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.471,
+        "tcpConnection": 21.39,
+        "tlsHandshake": 45.981,
+        "timeToFirstByte": 337.824,
+        "totalTime": 338.067,
+        "fcp": 441.588,
+        "lcp": 1563.41,
+        "speedIndex": 1278,
+        "curlTotalTime": 376.39346900000237,
+        "playwrightTotalTime": 1709.3699629999464
+      }
+    ],
+    "totalDuration": 313569.00481599994,
+    "setupDuration": 10174.552387000003,
+    "diagnosticsDuration": 0.0032810000120662153,
+    "measurementDuration": 293381.363942,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 130,
+    "timestamp": 574548.162025,
+    "webTests": [
+      {
+        "url": "https://ccbc-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4847,
+        "uploadSpeed": 0,
+        "dnsLookup": 15.969000000000001,
+        "tcpConnection": 32.455,
+        "tlsHandshake": 52.214999999999996,
+        "timeToFirstByte": 335.349,
+        "totalTime": 335.649,
+        "fcp": 435.495,
+        "lcp": 1553.258,
+        "speedIndex": 1281,
+        "curlTotalTime": 371.9493360000197,
+        "playwrightTotalTime": 1574.6957159999292
+      }
+    ],
+    "totalDuration": 309361.65683000005,
+    "setupDuration": 10163.632591000001,
+    "diagnosticsDuration": 0.0035730000236071646,
+    "measurementDuration": 289187.30585799995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 131,
+    "timestamp": 703091.243726,
+    "webTests": [
+      {
+        "url": "https://b594-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4996,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.826,
+        "tcpConnection": 16.499,
+        "tlsHandshake": 40.707,
+        "timeToFirstByte": 325.42900000000003,
+        "totalTime": 325.64700000000005,
+        "fcp": 423.408,
+        "lcp": 1478.667,
+        "speedIndex": 1361,
+        "curlTotalTime": 377.60036599996965,
+        "playwrightTotalTime": 3104.212245999952
+      }
+    ],
+    "totalDuration": 325692.63210200006,
+    "setupDuration": 10152.05783299997,
+    "diagnosticsDuration": 0.003634000022429973,
+    "measurementDuration": 305528.02024699986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 132,
+    "timestamp": 452331.463868,
+    "webTests": [
+      {
+        "url": "https://e088-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5107,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.832,
+        "tcpConnection": 17.266000000000002,
+        "tlsHandshake": 36.398,
+        "timeToFirstByte": 318.397,
+        "totalTime": 318.58,
+        "fcp": 429.41,
+        "lcp": 1575.898,
+        "speedIndex": 1386,
+        "curlTotalTime": 368.47235499997623,
+        "playwrightTotalTime": 1949.2544089999865
+      }
+    ],
+    "totalDuration": 332839.72313399997,
+    "setupDuration": 10276.651553999996,
+    "diagnosticsDuration": 0.005113999999593943,
+    "measurementDuration": 312553.0748279999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 133,
+    "timestamp": 451553.883509,
+    "webTests": [
+      {
+        "url": "https://ab4e-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5068,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.499,
+        "tcpConnection": 15.907999999999998,
+        "tlsHandshake": 35.054,
+        "timeToFirstByte": 320.822,
+        "totalTime": 321.01800000000003,
+        "fcp": 404.065,
+        "lcp": 1515.751,
+        "speedIndex": 1364,
+        "curlTotalTime": 362.8360119999852,
+        "playwrightTotalTime": 1836.916056999995
+      }
+    ],
+    "totalDuration": 315917.904856,
+    "setupDuration": 10272.683423999988,
+    "diagnosticsDuration": 0.00495600001886487,
+    "measurementDuration": 295634.1941620001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 134,
+    "timestamp": 737761.809537,
+    "webTests": [
+      {
+        "url": "https://1268-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5121,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.129,
+        "tcpConnection": 16.764000000000003,
+        "tlsHandshake": 36.586,
+        "timeToFirstByte": 317.47700000000003,
+        "totalTime": 317.70500000000004,
+        "fcp": 456.159,
+        "lcp": 1585.596,
+        "speedIndex": 1318,
+        "curlTotalTime": 360.12418199994136,
+        "playwrightTotalTime": 2033.7789010000415
+      }
+    ],
+    "totalDuration": 320620.288676,
+    "setupDuration": 10276.286189000006,
+    "diagnosticsDuration": 0.010019000037573278,
+    "measurementDuration": 300330.5875789999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Ngrok",
+    "measurementNumber": 135,
+    "timestamp": 631095.444473,
+    "webTests": [
+      {
+        "url": "https://bb49-178-62-69-98.ngrok-free.app/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4853,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.763,
+        "tcpConnection": 22.166999999999998,
+        "tlsHandshake": 47.343999999999994,
+        "timeToFirstByte": 334.896,
+        "totalTime": 335.221,
+        "fcp": 419.665,
+        "lcp": 1518.117,
+        "speedIndex": 1367,
+        "curlTotalTime": 375.82179299998097,
+        "playwrightTotalTime": 1674.3835330000147
+      }
+    ],
+    "totalDuration": 313076.9338439999,
+    "setupDuration": 10156.684621000022,
+    "diagnosticsDuration": 0.004470999992918223,
+    "measurementDuration": 292911.8170030001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

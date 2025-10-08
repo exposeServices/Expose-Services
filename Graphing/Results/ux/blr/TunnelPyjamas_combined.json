@@ -1,0 +1,4277 @@
+[
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 1,
+    "timestamp": 6598560.901108,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2324,
+        "uploadSpeed": 0,
+        "dnsLookup": 194.33100000000002,
+        "tcpConnection": 344.4,
+        "tlsHandshake": 499.27700000000004,
+        "timeToFirstByte": 699.645,
+        "totalTime": 699.799,
+        "fcp": 592.327,
+        "lcp": 1734.555,
+        "speedIndex": 1560,
+        "curlTotalTime": 737.5234170006588,
+        "playwrightTotalTime": 1832.1556169996038
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 2,
+    "timestamp": 3102647.887766,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2654,
+        "uploadSpeed": 0,
+        "dnsLookup": 101.86099999999999,
+        "tcpConnection": 252.648,
+        "tlsHandshake": 407.90900000000005,
+        "timeToFirstByte": 612.015,
+        "totalTime": 612.8900000000001,
+        "fcp": 583.033,
+        "lcp": 1600.869,
+        "speedIndex": 1398,
+        "curlTotalTime": 653.265485000331,
+        "playwrightTotalTime": 1817.6257980000228
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 3,
+    "timestamp": 2783050.248744,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 4,
+    "timestamp": 3464072.86134,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2167,
+        "uploadSpeed": 0,
+        "dnsLookup": 240.804,
+        "tcpConnection": 393.259,
+        "tlsHandshake": 549.1120000000001,
+        "timeToFirstByte": 750.641,
+        "totalTime": 750.796,
+        "fcp": 639.389,
+        "lcp": 1680.062,
+        "speedIndex": 1474,
+        "curlTotalTime": 790.7291699997149,
+        "playwrightTotalTime": 1829.336728000082
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 5,
+    "timestamp": 3995336.949796,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 6,
+    "timestamp": 3757695.250687,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 7,
+    "timestamp": 4037567.245075,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 8,
+    "timestamp": 4007554.649587,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 9,
+    "timestamp": 4062736.60539,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2527,
+        "uploadSpeed": 0,
+        "dnsLookup": 126.441,
+        "tcpConnection": 279.983,
+        "tlsHandshake": 439.195,
+        "timeToFirstByte": 643.457,
+        "totalTime": 643.617,
+        "fcp": 605.382,
+        "lcp": 1698.967,
+        "speedIndex": 1536,
+        "curlTotalTime": 687.5770739996806,
+        "playwrightTotalTime": 1849.3540790001862
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 10,
+    "timestamp": 6619838.885078,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3232,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.415,
+        "tcpConnection": 150.248,
+        "tlsHandshake": 305.324,
+        "timeToFirstByte": 503.22,
+        "totalTime": 503.372,
+        "fcp": 587.835,
+        "lcp": 3021.405,
+        "speedIndex": 2628,
+        "curlTotalTime": 550.4789530001581,
+        "playwrightTotalTime": 1895.078730000183
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 11,
+    "timestamp": 3121748.708041,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3215,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.189,
+        "tcpConnection": 149.719,
+        "tlsHandshake": 303.124,
+        "timeToFirstByte": 505.81,
+        "totalTime": 506.05100000000004,
+        "fcp": 585.718,
+        "lcp": 1662.779,
+        "speedIndex": 1458,
+        "curlTotalTime": 549.2021949999034,
+        "playwrightTotalTime": 1219.6975670000538
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 12,
+    "timestamp": 2783095.225779,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 13,
+    "timestamp": 3483980.20434,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3154,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.184,
+        "tcpConnection": 152.924,
+        "tlsHandshake": 313.397,
+        "timeToFirstByte": 515.702,
+        "totalTime": 515.8470000000001,
+        "fcp": 623.837,
+        "lcp": 1724.751,
+        "speedIndex": 1557,
+        "curlTotalTime": 556.5726339998655,
+        "playwrightTotalTime": 1857.8668359997682
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 14,
+    "timestamp": 3995382.012447,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 15,
+    "timestamp": 3757733.635277,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 16,
+    "timestamp": 4037612.72987,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 17,
+    "timestamp": 4007595.347199,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 18,
+    "timestamp": 4082471.42793,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3189,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4290000000000003,
+        "tcpConnection": 152.468,
+        "tlsHandshake": 308.736,
+        "timeToFirstByte": 509.298,
+        "totalTime": 510.126,
+        "fcp": 581.123,
+        "lcp": 1667.7,
+        "speedIndex": 1480,
+        "curlTotalTime": 568.7528889998794,
+        "playwrightTotalTime": 1860.107851000037
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 19,
+    "timestamp": 6639845.640659,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3183,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.563,
+        "tcpConnection": 152.745,
+        "tlsHandshake": 309.225,
+        "timeToFirstByte": 510.849,
+        "totalTime": 511.084,
+        "fcp": 589.044,
+        "lcp": 1671.052,
+        "speedIndex": 1506,
+        "curlTotalTime": 553.1492250002921,
+        "playwrightTotalTime": 1800.9428409999236
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 20,
+    "timestamp": 3141644.783965,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3207,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.362,
+        "tcpConnection": 149.894,
+        "tlsHandshake": 304.86600000000004,
+        "timeToFirstByte": 505.738,
+        "totalTime": 507.189,
+        "fcp": 605.434,
+        "lcp": 1751.099,
+        "speedIndex": 1507,
+        "curlTotalTime": 556.9846089999191,
+        "playwrightTotalTime": 1827.7669480000623
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 21,
+    "timestamp": 2783139.383177,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 22,
+    "timestamp": 3503618.196753,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3237,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.444,
+        "tcpConnection": 149.96,
+        "tlsHandshake": 303.39500000000004,
+        "timeToFirstByte": 502.406,
+        "totalTime": 502.59200000000004,
+        "fcp": 590.39,
+        "lcp": 1714.066,
+        "speedIndex": 1560,
+        "curlTotalTime": 550.8974909996614,
+        "playwrightTotalTime": 1858.3883819999173
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 23,
+    "timestamp": 3995435.892989,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 24,
+    "timestamp": 3757771.531632,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 25,
+    "timestamp": 4037650.560181,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 26,
+    "timestamp": 4007642.01847,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 27,
+    "timestamp": 4102323.945935,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3158,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.834000000000001,
+        "tcpConnection": 159.48000000000002,
+        "tlsHandshake": 315.00600000000003,
+        "timeToFirstByte": 514.962,
+        "totalTime": 515.161,
+        "fcp": 594.937,
+        "lcp": 1718.182,
+        "speedIndex": 1574,
+        "curlTotalTime": 580.7312210001983,
+        "playwrightTotalTime": 1850.239140999969
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 28,
+    "timestamp": 6659384.069149,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3136,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1710000000000003,
+        "tcpConnection": 156.142,
+        "tlsHandshake": 315.558,
+        "timeToFirstByte": 518.575,
+        "totalTime": 518.754,
+        "fcp": 608.783,
+        "lcp": 1137.157,
+        "speedIndex": 1087,
+        "curlTotalTime": 566.4662539996207,
+        "playwrightTotalTime": 1814.8622080003843
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 29,
+    "timestamp": 3160875.622623,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3197,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1380000000000003,
+        "tcpConnection": 150.73700000000002,
+        "tlsHandshake": 306.184,
+        "timeToFirstByte": 508.19000000000005,
+        "totalTime": 508.83,
+        "fcp": 617.492,
+        "lcp": 1648.076,
+        "speedIndex": 1415,
+        "curlTotalTime": 549.9218299998902,
+        "playwrightTotalTime": 1256.8047420000657
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 30,
+    "timestamp": 2783183.75728,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 31,
+    "timestamp": 3523238.269637,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3191,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.971,
+        "tcpConnection": 150.348,
+        "tlsHandshake": 305.20000000000005,
+        "timeToFirstByte": 509.625,
+        "totalTime": 509.8589999999999,
+        "fcp": 587.602,
+        "lcp": 1646.302,
+        "speedIndex": 1523,
+        "curlTotalTime": 552.7716290000826,
+        "playwrightTotalTime": 1810.6996309999377
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 32,
+    "timestamp": 3995484.041172,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 33,
+    "timestamp": 3757810.887673,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 34,
+    "timestamp": 4037690.521036,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 35,
+    "timestamp": 4007686.833889,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 36,
+    "timestamp": 4122067.599634,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3228,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.262,
+        "tcpConnection": 150.51,
+        "tlsHandshake": 305.36,
+        "timeToFirstByte": 503.455,
+        "totalTime": 503.99499999999995,
+        "fcp": 575.912,
+        "lcp": 1717.821,
+        "speedIndex": 1551,
+        "curlTotalTime": 553.9012620002031,
+        "playwrightTotalTime": 1868.2952620000578
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 37,
+    "timestamp": 6679892.591688,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3209,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5170000000000003,
+        "tcpConnection": 151.119,
+        "tlsHandshake": 306.82300000000004,
+        "timeToFirstByte": 506.803,
+        "totalTime": 506.961,
+        "fcp": 582.55,
+        "lcp": 1686.492,
+        "speedIndex": 1506,
+        "curlTotalTime": 553.7742990003899,
+        "playwrightTotalTime": 2612.959699999541
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 38,
+    "timestamp": 3180867.03102,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3168,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.99,
+        "tcpConnection": 152.41,
+        "tlsHandshake": 309.239,
+        "timeToFirstByte": 513.3389999999999,
+        "totalTime": 513.5020000000001,
+        "fcp": 577.355,
+        "lcp": 1687.679,
+        "speedIndex": 1473,
+        "curlTotalTime": 557.0744859999977,
+        "playwrightTotalTime": 1812.2925209999084
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 39,
+    "timestamp": 2783228.164133,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 40,
+    "timestamp": 3542807.858073,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3111,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.873,
+        "tcpConnection": 154.158,
+        "tlsHandshake": 317.428,
+        "timeToFirstByte": 522.77,
+        "totalTime": 522.9240000000001,
+        "fcp": 599.085,
+        "lcp": 1672.347,
+        "speedIndex": 1541,
+        "curlTotalTime": 559.4160400000401,
+        "playwrightTotalTime": 1835.378297999967
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 41,
+    "timestamp": 3995533.943383,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 42,
+    "timestamp": 3757858.073596,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 43,
+    "timestamp": 4037735.858599,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 44,
+    "timestamp": 4007735.600169,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 45,
+    "timestamp": 4141925.58704,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3201,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.827,
+        "tcpConnection": 152.16,
+        "tlsHandshake": 307.279,
+        "timeToFirstByte": 507.93100000000004,
+        "totalTime": 508.15,
+        "fcp": 577.687,
+        "lcp": 1674.939,
+        "speedIndex": 1497,
+        "curlTotalTime": 550.1901079998352,
+        "playwrightTotalTime": 1820.0083159999922
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 46,
+    "timestamp": 6699627.632327,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3210,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0300000000000002,
+        "tcpConnection": 151.591,
+        "tlsHandshake": 305.92900000000003,
+        "timeToFirstByte": 506.70099999999996,
+        "totalTime": 506.853,
+        "fcp": 606.956,
+        "lcp": 1700.235,
+        "speedIndex": 1579,
+        "curlTotalTime": 547.1575370002538,
+        "playwrightTotalTime": 1847.2850210005417
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 47,
+    "timestamp": 3200547.629942,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3118,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.06,
+        "tcpConnection": 155.278,
+        "tlsHandshake": 314.548,
+        "timeToFirstByte": 521.521,
+        "totalTime": 521.689,
+        "fcp": 612.917,
+        "lcp": 1682.026,
+        "speedIndex": 1427,
+        "curlTotalTime": 561.7063290001824,
+        "playwrightTotalTime": 1849.6674689999782
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 48,
+    "timestamp": 2783270.464008,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 49,
+    "timestamp": 3562633.045472,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3179,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.185,
+        "tcpConnection": 152.93200000000002,
+        "tlsHandshake": 310.003,
+        "timeToFirstByte": 511.53000000000003,
+        "totalTime": 511.78100000000006,
+        "fcp": 632.069,
+        "lcp": 1727.679,
+        "speedIndex": 1566,
+        "curlTotalTime": 554.2797880000435,
+        "playwrightTotalTime": 1810.2054920000955
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 50,
+    "timestamp": 3995582.209903,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 51,
+    "timestamp": 3757901.664029,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 52,
+    "timestamp": 4037777.335744,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 53,
+    "timestamp": 4007777.471906,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 54,
+    "timestamp": 4161693.959867,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3265,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.275,
+        "tcpConnection": 148.993,
+        "tlsHandshake": 301.392,
+        "timeToFirstByte": 498.03700000000003,
+        "totalTime": 498.18899999999996,
+        "fcp": 583.923,
+        "lcp": 1729.954,
+        "speedIndex": 1437,
+        "curlTotalTime": 542.8994960002601,
+        "playwrightTotalTime": 1832.5875169998035
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 55,
+    "timestamp": 6719507.324179,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3156,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.522,
+        "tcpConnection": 154.821,
+        "tlsHandshake": 313.409,
+        "timeToFirstByte": 515.3330000000001,
+        "totalTime": 515.5020000000001,
+        "fcp": 622.935,
+        "lcp": 1682.723,
+        "speedIndex": 1553,
+        "curlTotalTime": 559.4009600002319,
+        "playwrightTotalTime": 1780.3575299996883
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 56,
+    "timestamp": 3219590.708966,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3166,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.277,
+        "tcpConnection": 152.213,
+        "tlsHandshake": 308.847,
+        "timeToFirstByte": 513.596,
+        "totalTime": 513.7479999999999,
+        "fcp": 581.26,
+        "lcp": 1133.05,
+        "speedIndex": 999,
+        "curlTotalTime": 561.4908370003104,
+        "playwrightTotalTime": 1833.9521120004356
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 57,
+    "timestamp": 2783310.168049,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 58,
+    "timestamp": 3582324.50717,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3087,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5829999999999997,
+        "tcpConnection": 158.388,
+        "tlsHandshake": 320.573,
+        "timeToFirstByte": 526.737,
+        "totalTime": 526.905,
+        "fcp": 590.039,
+        "lcp": 1730.398,
+        "speedIndex": 1534,
+        "curlTotalTime": 570.1327709998004,
+        "playwrightTotalTime": 1790.46329900017
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 59,
+    "timestamp": 3995637.91783,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 60,
+    "timestamp": 3757939.97501,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 61,
+    "timestamp": 4037823.17465,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 62,
+    "timestamp": 4007821.408942,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 63,
+    "timestamp": 4181490.479822,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3177,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.227,
+        "tcpConnection": 153.608,
+        "tlsHandshake": 310.118,
+        "timeToFirstByte": 511.92800000000005,
+        "totalTime": 512.0749999999999,
+        "fcp": 575.552,
+        "lcp": 1692.402,
+        "speedIndex": 1515,
+        "curlTotalTime": 562.4371070000343,
+        "playwrightTotalTime": 1800.830067999661
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 64,
+    "timestamp": 6739371.927464,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3189,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.056,
+        "tcpConnection": 152.242,
+        "tlsHandshake": 309.328,
+        "timeToFirstByte": 509.9669999999999,
+        "totalTime": 510.16700000000003,
+        "fcp": 598.875,
+        "lcp": 1680.292,
+        "speedIndex": 1528,
+        "curlTotalTime": 551.9814590001479,
+        "playwrightTotalTime": 1840.2540710000321
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 65,
+    "timestamp": 3239270.868478,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3193,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3080000000000003,
+        "tcpConnection": 151.655,
+        "tlsHandshake": 306.053,
+        "timeToFirstByte": 509.204,
+        "totalTime": 509.471,
+        "fcp": 605.502,
+        "lcp": 1695.357,
+        "speedIndex": 1457,
+        "curlTotalTime": 551.033147000242,
+        "playwrightTotalTime": 1815.9829189996235
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 66,
+    "timestamp": 2783351.527559,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 67,
+    "timestamp": 3602367.78325,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3168,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.199,
+        "tcpConnection": 153.60299999999998,
+        "tlsHandshake": 310.483,
+        "timeToFirstByte": 512.71,
+        "totalTime": 513.562,
+        "fcp": 587.536,
+        "lcp": 1696.301,
+        "speedIndex": 1413,
+        "curlTotalTime": 554.2300269999541,
+        "playwrightTotalTime": 1815.0901979999617
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 68,
+    "timestamp": 3995686.402357,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 69,
+    "timestamp": 3757975.99735,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 70,
+    "timestamp": 4037866.727647,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 71,
+    "timestamp": 4007862.219051,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 72,
+    "timestamp": 4201304.194711,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3210,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2880000000000003,
+        "tcpConnection": 151.823,
+        "tlsHandshake": 307.13800000000003,
+        "timeToFirstByte": 506.644,
+        "totalTime": 506.843,
+        "fcp": 554.754,
+        "lcp": 1757.921,
+        "speedIndex": 1577,
+        "curlTotalTime": 558.0741159999743,
+        "playwrightTotalTime": 1803.9605110003613
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 73,
+    "timestamp": 6758506.815963,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3243,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.663,
+        "tcpConnection": 149.58599999999998,
+        "tlsHandshake": 303.66900000000004,
+        "timeToFirstByte": 501.46500000000003,
+        "totalTime": 501.622,
+        "fcp": 586.502,
+        "lcp": 1740.537,
+        "speedIndex": 1568,
+        "curlTotalTime": 544.4518990004435,
+        "playwrightTotalTime": 1205.4070089999586
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 74,
+    "timestamp": 3259015.126986,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3229,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.225,
+        "tcpConnection": 149.476,
+        "tlsHandshake": 302.312,
+        "timeToFirstByte": 503.59299999999996,
+        "totalTime": 503.75000000000006,
+        "fcp": 592.811,
+        "lcp": 1711.959,
+        "speedIndex": 1473,
+        "curlTotalTime": 543.4344410002232,
+        "playwrightTotalTime": 1767.2254969999194
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 75,
+    "timestamp": 2783399.297561,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 76,
+    "timestamp": 3622232.344384,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3142,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.467,
+        "tcpConnection": 154.93699999999998,
+        "tlsHandshake": 313.919,
+        "timeToFirstByte": 517.482,
+        "totalTime": 517.721,
+        "fcp": 607.783,
+        "lcp": 1667.95,
+        "speedIndex": 1404,
+        "curlTotalTime": 561.1770859998651,
+        "playwrightTotalTime": 1908.3989760000259
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 77,
+    "timestamp": 3995730.975954,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 78,
+    "timestamp": 3758010.889567,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 79,
+    "timestamp": 4037904.474641,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 80,
+    "timestamp": 4007902.817265,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 81,
+    "timestamp": 4220384.748668,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3194,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.522,
+        "tcpConnection": 153.057,
+        "tlsHandshake": 309.464,
+        "timeToFirstByte": 509.127,
+        "totalTime": 509.317,
+        "fcp": 591.795,
+        "lcp": 1671.273,
+        "speedIndex": 1525,
+        "curlTotalTime": 562.3446110002697,
+        "playwrightTotalTime": 1244.7433909997344
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 82,
+    "timestamp": 6778465.278023,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3210,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.48,
+        "tcpConnection": 151.982,
+        "tlsHandshake": 307.336,
+        "timeToFirstByte": 506.68800000000005,
+        "totalTime": 506.83500000000004,
+        "fcp": 580.381,
+        "lcp": 1795.256,
+        "speedIndex": 1635,
+        "curlTotalTime": 547.4188240002841,
+        "playwrightTotalTime": 1775.9311530003324
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 83,
+    "timestamp": 3278638.25375,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3172,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1069999999999998,
+        "tcpConnection": 153.189,
+        "tlsHandshake": 308.605,
+        "timeToFirstByte": 512.655,
+        "totalTime": 512.889,
+        "fcp": 579.568,
+        "lcp": 1699.493,
+        "speedIndex": 1444,
+        "curlTotalTime": 561.4734040000476,
+        "playwrightTotalTime": 1755.537516000215
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 84,
+    "timestamp": 2783450.827104,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 85,
+    "timestamp": 3641893.081291,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3182,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.949,
+        "tcpConnection": 152.719,
+        "tlsHandshake": 308.995,
+        "timeToFirstByte": 510.664,
+        "totalTime": 511.19599999999997,
+        "fcp": 570.266,
+        "lcp": 1699.186,
+        "speedIndex": 1432,
+        "curlTotalTime": 549.1099410001189,
+        "playwrightTotalTime": 1827.0959200002253
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 86,
+    "timestamp": 3995774.933953,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 87,
+    "timestamp": 3758045.928591,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 88,
+    "timestamp": 4037943.653285,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 89,
+    "timestamp": 4007938.601369,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 90,
+    "timestamp": 4240492.623939,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3260,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.903,
+        "tcpConnection": 148.85999999999999,
+        "tlsHandshake": 301.23699999999997,
+        "timeToFirstByte": 498.084,
+        "totalTime": 498.979,
+        "fcp": 607.271,
+        "lcp": 1671.826,
+        "speedIndex": 1456,
+        "curlTotalTime": 542.4988050004467,
+        "playwrightTotalTime": 1804.9311179993674
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 91,
+    "timestamp": 6802912.482287,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5,
+        "tcpConnection": 151.318,
+        "tlsHandshake": 307.50899999999996,
+        "timeToFirstByte": 3459.8559999999998,
+        "totalTime": 3459.9289999999996,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3505.753224999644,
+        "playwrightTotalTime": 3779.7723390003666
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 92,
+    "timestamp": 3298368.909879,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3162,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1519999999999997,
+        "tcpConnection": 152.485,
+        "tlsHandshake": 310.245,
+        "timeToFirstByte": 514.281,
+        "totalTime": 514.48,
+        "fcp": 592.734,
+        "lcp": 1846.516,
+        "speedIndex": 1521,
+        "curlTotalTime": 562.5334629998542,
+        "playwrightTotalTime": 1778.7295299996622
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 93,
+    "timestamp": 2783495.379404,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 94,
+    "timestamp": 3661469.831824,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3199,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.281,
+        "tcpConnection": 151.60100000000003,
+        "tlsHandshake": 306.885,
+        "timeToFirstByte": 508.22999999999996,
+        "totalTime": 508.51900000000006,
+        "fcp": 587.79,
+        "lcp": 1665.438,
+        "speedIndex": 1438,
+        "curlTotalTime": 556.6953779999167,
+        "playwrightTotalTime": 1870.6762899998575
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 95,
+    "timestamp": 3995817.292187,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 96,
+    "timestamp": 3758080.569409,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 97,
+    "timestamp": 4037990.345473,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 98,
+    "timestamp": 4007976.239794,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 99,
+    "timestamp": 4260273.991605,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3153,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.538,
+        "tcpConnection": 154.582,
+        "tlsHandshake": 312.161,
+        "timeToFirstByte": 514.273,
+        "totalTime": 515.987,
+        "fcp": 588.59,
+        "lcp": 1716.922,
+        "speedIndex": 1496,
+        "curlTotalTime": 566.7831770004705,
+        "playwrightTotalTime": 1817.8673590002581
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 100,
+    "timestamp": 6827359.825915,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 502,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.944,
+        "tcpConnection": 149.561,
+        "tlsHandshake": 303.013,
+        "timeToFirstByte": 3452.7239999999997,
+        "totalTime": 3452.82,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 3496.65306300018,
+        "playwrightTotalTime": 3763.6066029993817
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 101,
+    "timestamp": 3318315.227255,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3139,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.294,
+        "tcpConnection": 154.09900000000002,
+        "tlsHandshake": 311.373,
+        "timeToFirstByte": 518.115,
+        "totalTime": 518.295,
+        "fcp": 587.323,
+        "lcp": 1706.421,
+        "speedIndex": 1426,
+        "curlTotalTime": 560.4952910002321,
+        "playwrightTotalTime": 1835.6067989999428
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 102,
+    "timestamp": 2783534.791649,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 103,
+    "timestamp": 3681269.7601,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3195,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.88,
+        "tcpConnection": 151.618,
+        "tlsHandshake": 306.936,
+        "timeToFirstByte": 508.14400000000006,
+        "totalTime": 509.162,
+        "fcp": 589.15,
+        "lcp": 1696.293,
+        "speedIndex": 1398,
+        "curlTotalTime": 550.1012880001217,
+        "playwrightTotalTime": 1814.943350000307
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 104,
+    "timestamp": 3995856.632967,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 105,
+    "timestamp": 3758116.254543,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 106,
+    "timestamp": 4038030.148854,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 107,
+    "timestamp": 4008012.854249,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 108,
+    "timestamp": 4279994.60312,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3045,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2659999999999996,
+        "tcpConnection": 152.567,
+        "tlsHandshake": 334.787,
+        "timeToFirstByte": 534.139,
+        "totalTime": 534.297,
+        "fcp": 590.511,
+        "lcp": 1642.696,
+        "speedIndex": 1501,
+        "curlTotalTime": 586.7953659994528,
+        "playwrightTotalTime": 1814.8346600001678
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 109,
+    "timestamp": 6861235.063183,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.767,
+        "tcpConnection": 150.5,
+        "tlsHandshake": 306.127,
+        "timeToFirstByte": 456.604,
+        "totalTime": 456.71099999999996,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 502.8916300004348,
+        "playwrightTotalTime": 771.2662279997021
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 110,
+    "timestamp": 3337818.820926,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3144,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1719999999999997,
+        "tcpConnection": 153.674,
+        "tlsHandshake": 310.698,
+        "timeToFirstByte": 516.544,
+        "totalTime": 517.443,
+        "fcp": 582.253,
+        "lcp": 1738.364,
+        "speedIndex": 1431,
+        "curlTotalTime": 566.242304999847,
+        "playwrightTotalTime": 1817.7968819998205
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 111,
+    "timestamp": 2783580.137908,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 112,
+    "timestamp": 3701187.18065,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3202,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.008,
+        "tcpConnection": 151.42600000000002,
+        "tlsHandshake": 307.344,
+        "timeToFirstByte": 507.90999999999997,
+        "totalTime": 508.05999999999995,
+        "fcp": 606.002,
+        "lcp": 1683.833,
+        "speedIndex": 1455,
+        "curlTotalTime": 548.7317860000767,
+        "playwrightTotalTime": 1873.5755859999917
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 113,
+    "timestamp": 3995903.41043,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 114,
+    "timestamp": 3758151.629777,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 115,
+    "timestamp": 4038067.881957,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 116,
+    "timestamp": 4008050.207922,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 117,
+    "timestamp": 4299937.707359,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3229,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.251,
+        "tcpConnection": 150.80599999999998,
+        "tlsHandshake": 304.89300000000003,
+        "timeToFirstByte": 503.52200000000005,
+        "totalTime": 503.72499999999997,
+        "fcp": 591.256,
+        "lcp": 1735.056,
+        "speedIndex": 1568,
+        "curlTotalTime": 549.6639759996906,
+        "playwrightTotalTime": 1809.4970609992743
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 118,
+    "timestamp": 6895277.917334,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.493,
+        "tcpConnection": 149.138,
+        "tlsHandshake": 301.588,
+        "timeToFirstByte": 448.927,
+        "totalTime": 449.00600000000003,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 494.4066470004618,
+        "playwrightTotalTime": 821.7727720001712
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 119,
+    "timestamp": 3357836.771609,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3173,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1359999999999997,
+        "tcpConnection": 152.055,
+        "tlsHandshake": 308.727,
+        "timeToFirstByte": 512.456,
+        "totalTime": 512.61,
+        "fcp": 620.088,
+        "lcp": 1688.328,
+        "speedIndex": 1455,
+        "curlTotalTime": 554.6584219997749,
+        "playwrightTotalTime": 1838.8975120000541
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 120,
+    "timestamp": 2783617.844631,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 121,
+    "timestamp": 3720742.623887,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3184,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.053,
+        "tcpConnection": 152.771,
+        "tlsHandshake": 309.81199999999995,
+        "timeToFirstByte": 510.711,
+        "totalTime": 510.892,
+        "fcp": 575.696,
+        "lcp": 1664.635,
+        "speedIndex": 1412,
+        "curlTotalTime": 549.0131079996936,
+        "playwrightTotalTime": 1867.2950399997644
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 122,
+    "timestamp": 3995950.423879,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 123,
+    "timestamp": 3758187.34799,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 124,
+    "timestamp": 4038105.768085,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 125,
+    "timestamp": 4008087.317486,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 126,
+    "timestamp": 4320240.023831,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3211,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.048,
+        "tcpConnection": 151.118,
+        "tlsHandshake": 306.45,
+        "timeToFirstByte": 506.533,
+        "totalTime": 506.692,
+        "fcp": 608.911,
+        "lcp": 1690.011,
+        "speedIndex": 1539,
+        "curlTotalTime": 560.8329149996862,
+        "playwrightTotalTime": 1869.3770110001788
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 127,
+    "timestamp": 6929318.038596,
+    "webTests": [
+      {
+        "url": "https://ci7yeu.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.387,
+        "tcpConnection": 150.155,
+        "tlsHandshake": 304.687,
+        "timeToFirstByte": 453.53700000000003,
+        "totalTime": 453.612,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 502.09534600004554,
+        "playwrightTotalTime": 802.1274269996211
+      }
+    ],
+    "totalDuration": 362093.352376,
+    "setupDuration": 1006.0025269994512,
+    "diagnosticsDuration": 0.0036920001730322838,
+    "measurementDuration": 351079.0496929996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 128,
+    "timestamp": 3377404.461552,
+    "webTests": [
+      {
+        "url": "https://otjccy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3187,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6380000000000003,
+        "tcpConnection": 151.16,
+        "tlsHandshake": 305.105,
+        "timeToFirstByte": 510.317,
+        "totalTime": 510.499,
+        "fcp": 599.68,
+        "lcp": 1721.888,
+        "speedIndex": 1484,
+        "curlTotalTime": 557.4636599998921,
+        "playwrightTotalTime": 1781.2933680000715
+      }
+    ],
+    "totalDuration": 305649.7968629999,
+    "setupDuration": 915.5683610001579,
+    "diagnosticsDuration": 0.0033400002866983414,
+    "measurementDuration": 294725.47179900017,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 129,
+    "timestamp": 2783657.862872,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 86579.48216799973,
+    "setupDuration": 75926.69439999992,
+    "diagnosticsDuration": 0.00228200014680624,
+    "measurementDuration": 650.4037469998002,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 130,
+    "timestamp": 3740451.474222,
+    "webTests": [
+      {
+        "url": "https://gsd51g.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3159,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.025,
+        "tcpConnection": 154.48600000000002,
+        "tlsHandshake": 311.924,
+        "timeToFirstByte": 514.38,
+        "totalTime": 514.926,
+        "fcp": 595.306,
+        "lcp": 1691.977,
+        "speedIndex": 1440,
+        "curlTotalTime": 554.9498020000756,
+        "playwrightTotalTime": 1824.4719779998995
+      }
+    ],
+    "totalDuration": 307452.1103940001,
+    "setupDuration": 890.9767599999905,
+    "diagnosticsDuration": 0.002948999870568514,
+    "measurementDuration": 296551.6932550003,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 131,
+    "timestamp": 3995995.187828,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41135.246803000104,
+    "setupDuration": 30433.093500999734,
+    "diagnosticsDuration": 0.0025910004042088985,
+    "measurementDuration": 700.3332520006225,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 132,
+    "timestamp": 3758222.468101,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41002.754208999686,
+    "setupDuration": 30435.13975000009,
+    "diagnosticsDuration": 0.002499000169336796,
+    "measurementDuration": 566.0019060005434,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 133,
+    "timestamp": 4038149.227041,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41124.15738199977,
+    "setupDuration": 30495.471996000037,
+    "diagnosticsDuration": 0.0032140002585947514,
+    "measurementDuration": 625.677364999894,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 134,
+    "timestamp": 4008125.133249,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 41039.10269399965,
+    "setupDuration": 30422.321790999733,
+    "diagnosticsDuration": 0.004763999953866005,
+    "measurementDuration": 613.4434049995616,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "TunnelPyjamas",
+    "measurementNumber": 135,
+    "timestamp": 4339839.705335,
+    "webTests": [
+      {
+        "url": "https://u5o2fy.tunnel.pyjam.as/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3205,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.209,
+        "tcpConnection": 151.635,
+        "tlsHandshake": 307.325,
+        "timeToFirstByte": 507.385,
+        "totalTime": 507.59,
+        "fcp": 580.418,
+        "lcp": 1677.031,
+        "speedIndex": 1530,
+        "curlTotalTime": 551.0122449994087,
+        "playwrightTotalTime": 1856.071500999853
+      }
+    ],
+    "totalDuration": 308545.2541080001,
+    "setupDuration": 941.5228120000102,
+    "diagnosticsDuration": 0.0058210003189742565,
+    "measurementDuration": 297595.3544020001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

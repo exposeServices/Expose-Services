@@ -1,0 +1,7067 @@
+[
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 1,
+    "timestamp": 975499.868961,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 2,
+    "timestamp": 870189.5233519971,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1758,
+        "uploadSpeed": 0,
+        "dnsLookup": 6.33,
+        "tcpConnection": 7.83,
+        "tlsHandshake": 61.508,
+        "timeToFirstByte": 924.867,
+        "totalTime": 924.976,
+        "fcp": 220.421,
+        "lcp": 220.421,
+        "speedIndex": 220,
+        "curlTotalTime": 966.1076079905033,
+        "playwrightTotalTime": 450.80467799305916
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 3,
+    "timestamp": 766323.123967,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 4,
+    "timestamp": 937518.3858389854,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1996,
+        "uploadSpeed": 0,
+        "dnsLookup": 18.284000000000002,
+        "tcpConnection": 19.964,
+        "tlsHandshake": 97.231,
+        "timeToFirstByte": 814.801,
+        "totalTime": 814.97,
+        "fcp": 392.6,
+        "lcp": 392.6,
+        "speedIndex": 393,
+        "curlTotalTime": 861.2385710477829,
+        "playwrightTotalTime": 492.4870810508728
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 5,
+    "timestamp": 966996.599972,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 6,
+    "timestamp": 905852.1733800173,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2669,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.813,
+        "tcpConnection": 7.675999999999999,
+        "tlsHandshake": 59.88,
+        "timeToFirstByte": 609.3340000000001,
+        "totalTime": 609.466,
+        "fcp": 218.522,
+        "lcp": 218.522,
+        "speedIndex": 219,
+        "curlTotalTime": 649.925234913826,
+        "playwrightTotalTime": 466.7644250392914
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 7,
+    "timestamp": 909150.011192,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 8,
+    "timestamp": 731299.9870150089,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 9,
+    "timestamp": 1047048.931673,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 10,
+    "timestamp": 981638.7599359751,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1826,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.401000000000001,
+        "tcpConnection": 6.779,
+        "tlsHandshake": 59.506,
+        "timeToFirstByte": 890.8399999999999,
+        "totalTime": 890.953,
+        "fcp": 209.703,
+        "lcp": 209.703,
+        "speedIndex": 210,
+        "curlTotalTime": 937.7512249946594,
+        "playwrightTotalTime": 434.5283559560776
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 11,
+    "timestamp": 822985.067788,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1087,
+        "uploadSpeed": 0,
+        "dnsLookup": 21.247,
+        "tcpConnection": 35.456,
+        "tlsHandshake": 233.624,
+        "timeToFirstByte": 1495.752,
+        "totalTime": 1495.902,
+        "fcp": 486.558,
+        "lcp": 486.558,
+        "speedIndex": 488,
+        "curlTotalTime": 1546.5807979999809,
+        "playwrightTotalTime": 1227.69888000004
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 12,
+    "timestamp": 674542.981419,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2811,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.654,
+        "tcpConnection": 7.041,
+        "tlsHandshake": 56.50899999999999,
+        "timeToFirstByte": 578.529,
+        "totalTime": 578.635,
+        "fcp": 242.547,
+        "lcp": 242.547,
+        "speedIndex": 243,
+        "curlTotalTime": 617.4291080000112,
+        "playwrightTotalTime": 436.29200799996033
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 13,
+    "timestamp": 799076.520646,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1106,
+        "uploadSpeed": 0,
+        "dnsLookup": 32.021,
+        "tcpConnection": 46.285,
+        "tlsHandshake": 242.465,
+        "timeToFirstByte": 1470.791,
+        "totalTime": 1470.918,
+        "fcp": 472.818,
+        "lcp": 472.818,
+        "speedIndex": 474,
+        "curlTotalTime": 1519.3623180000577,
+        "playwrightTotalTime": 1304.607822000049
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 14,
+    "timestamp": 887160.602779001,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3503,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.244000000000001,
+        "tcpConnection": 5.25,
+        "tlsHandshake": 89.13799999999999,
+        "timeToFirstByte": 464.234,
+        "totalTime": 464.374,
+        "fcp": 436.527,
+        "lcp": 436.527,
+        "speedIndex": 437,
+        "curlTotalTime": 522.2939219772816,
+        "playwrightTotalTime": 794.7186960279942
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 15,
+    "timestamp": 1098812.927737,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1104,
+        "uploadSpeed": 0,
+        "dnsLookup": 24.962999999999997,
+        "tcpConnection": 39.286,
+        "tlsHandshake": 240.32500000000002,
+        "timeToFirstByte": 1472.559,
+        "totalTime": 1472.691,
+        "fcp": 627.186,
+        "lcp": 627.186,
+        "speedIndex": 629,
+        "curlTotalTime": 1519.3967880001292,
+        "playwrightTotalTime": 1300.0447400000412
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 16,
+    "timestamp": 953393.9291880131,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9694,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2520000000000002,
+        "tcpConnection": 4.316999999999999,
+        "tlsHandshake": 57.184,
+        "timeToFirstByte": 167.692,
+        "totalTime": 167.833,
+        "fcp": 221.61,
+        "lcp": 221.61,
+        "speedIndex": 222,
+        "curlTotalTime": 218.0621829032898,
+        "playwrightTotalTime": 442.20283591747284
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 17,
+    "timestamp": 968491.077609,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 18,
+    "timestamp": 921758.6753469706,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8960,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.202,
+        "tcpConnection": 2.7889999999999997,
+        "tlsHandshake": 65.766,
+        "timeToFirstByte": 181.441,
+        "totalTime": 181.584,
+        "fcp": 233.524,
+        "lcp": 233.524,
+        "speedIndex": 232,
+        "curlTotalTime": 227.69588601589203,
+        "playwrightTotalTime": 498.7541459798813
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 19,
+    "timestamp": 975535.678904,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 20,
+    "timestamp": 731338.6205500364,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 21,
+    "timestamp": 766356.939749,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 22,
+    "timestamp": 998271.3992949724,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3357,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9220000000000002,
+        "tcpConnection": 3.934,
+        "tlsHandshake": 57.289,
+        "timeToFirstByte": 484.44399999999996,
+        "totalTime": 484.572,
+        "fcp": 168.341,
+        "lcp": 168.341,
+        "speedIndex": 172,
+        "curlTotalTime": 524.8810670375824,
+        "playwrightTotalTime": 706.4559119939804
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 23,
+    "timestamp": 967038.128209,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 24,
+    "timestamp": 690638.064532,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3897,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.8760000000000001,
+        "tcpConnection": 3.336,
+        "tlsHandshake": 56.012,
+        "timeToFirstByte": 417.37,
+        "totalTime": 417.476,
+        "fcp": 244.99,
+        "lcp": 244.99,
+        "speedIndex": 245,
+        "curlTotalTime": 456.7894700000761,
+        "playwrightTotalTime": 404.63927299994975
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 25,
+    "timestamp": 909189.020901,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 26,
+    "timestamp": 903205.236187011,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5397,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.6509999999999998,
+        "tcpConnection": 2.762,
+        "tlsHandshake": 53.488,
+        "timeToFirstByte": 301.32,
+        "totalTime": 301.428,
+        "fcp": 192.156,
+        "lcp": 192.156,
+        "speedIndex": 192,
+        "curlTotalTime": 340.64214101433754,
+        "playwrightTotalTime": 420.5307990014553
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 27,
+    "timestamp": 1047085.975621,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 28,
+    "timestamp": 969297.3427020311,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9533,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.842,
+        "tcpConnection": 3.436,
+        "tlsHandshake": 54.355000000000004,
+        "timeToFirstByte": 170.53199999999998,
+        "totalTime": 170.66400000000002,
+        "fcp": 234.003,
+        "lcp": 234.003,
+        "speedIndex": 234,
+        "curlTotalTime": 209.5321090221405,
+        "playwrightTotalTime": 459.27627098560333
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 29,
+    "timestamp": 839988.23121,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3486,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2279999999999998,
+        "tcpConnection": 15.632,
+        "tlsHandshake": 218.29399999999998,
+        "timeToFirstByte": 466.46900000000005,
+        "totalTime": 466.625,
+        "fcp": 483.645,
+        "lcp": 483.645,
+        "speedIndex": 484,
+        "curlTotalTime": 510.8961180000333,
+        "playwrightTotalTime": 806.761991999927
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 30,
+    "timestamp": 937727.3011180162,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8486,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.155,
+        "tcpConnection": 2.828,
+        "tlsHandshake": 73.364,
+        "timeToFirstByte": 191.576,
+        "totalTime": 191.709,
+        "fcp": 226.654,
+        "lcp": 226.654,
+        "speedIndex": 227,
+        "curlTotalTime": 235.42928504943848,
+        "playwrightTotalTime": 475.36321103572845
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 31,
+    "timestamp": 815953.776351,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3559,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.924,
+        "tcpConnection": 15.322000000000001,
+        "tlsHandshake": 215.67700000000002,
+        "timeToFirstByte": 456.878,
+        "totalTime": 457.039,
+        "fcp": 490.209,
+        "lcp": 490.209,
+        "speedIndex": 491,
+        "curlTotalTime": 508.9754730000859,
+        "playwrightTotalTime": 929.8859099999536
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 32,
+    "timestamp": 731375.4920600653,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 33,
+    "timestamp": 1116240.803381,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3494,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.803,
+        "tcpConnection": 14.965,
+        "tlsHandshake": 212.86599999999999,
+        "timeToFirstByte": 465.493,
+        "totalTime": 465.655,
+        "fcp": 548.607,
+        "lcp": 548.607,
+        "speedIndex": 550,
+        "curlTotalTime": 509.2967040000949,
+        "playwrightTotalTime": 925.0656140001956
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 34,
+    "timestamp": 1014155.8570469618,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4644,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.718,
+        "tcpConnection": 4.503,
+        "tlsHandshake": 56.306000000000004,
+        "timeToFirstByte": 350.161,
+        "totalTime": 350.271,
+        "fcp": 223.336,
+        "lcp": 223.336,
+        "speedIndex": 222,
+        "curlTotalTime": 390.03191101551056,
+        "playwrightTotalTime": 430.55733597278595
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 35,
+    "timestamp": 968529.416108,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 36,
+    "timestamp": 706413.0627799999,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9190,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7930000000000001,
+        "tcpConnection": 3.381,
+        "tlsHandshake": 62.88199999999999,
+        "timeToFirstByte": 176.901,
+        "totalTime": 177.02100000000002,
+        "fcp": 215.863,
+        "lcp": 215.863,
+        "speedIndex": 216,
+        "curlTotalTime": 219.14583900000434,
+        "playwrightTotalTime": 423.96998399996664
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 37,
+    "timestamp": 975572.454655,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 38,
+    "timestamp": 919782.9636630118,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5156,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0010000000000003,
+        "tcpConnection": 3.7439999999999998,
+        "tlsHandshake": 57.184,
+        "timeToFirstByte": 315.373,
+        "totalTime": 315.529,
+        "fcp": 461.205,
+        "lcp": 461.205,
+        "speedIndex": 462,
+        "curlTotalTime": 358.84326499700546,
+        "playwrightTotalTime": 686.8525210022926
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 39,
+    "timestamp": 766392.867618,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 40,
+    "timestamp": 985646.4977920055,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2706,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.633,
+        "tcpConnection": 3.0709999999999997,
+        "tlsHandshake": 52.039,
+        "timeToFirstByte": 601.053,
+        "totalTime": 601.1800000000001,
+        "fcp": 200.9,
+        "lcp": 200.9,
+        "speedIndex": 199,
+        "curlTotalTime": 639.9134500026703,
+        "playwrightTotalTime": 425.0625510215759
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 41,
+    "timestamp": 967077.936199,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 42,
+    "timestamp": 953783.573876977,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8913,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.247,
+        "tcpConnection": 2.878,
+        "tlsHandshake": 71.422,
+        "timeToFirstByte": 182.39,
+        "totalTime": 182.524,
+        "fcp": 199.301,
+        "lcp": 199.301,
+        "speedIndex": 200,
+        "curlTotalTime": 234.94718194007874,
+        "playwrightTotalTime": 488.8607190847397
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 43,
+    "timestamp": 909229.578146,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 44,
+    "timestamp": 731413.8847709894,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 45,
+    "timestamp": 1047123.953543,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 46,
+    "timestamp": 1030671.3788520098,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5446,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.815,
+        "tcpConnection": 3.142,
+        "tlsHandshake": 55.324,
+        "timeToFirstByte": 298.543,
+        "totalTime": 298.724,
+        "fcp": 203.954,
+        "lcp": 203.954,
+        "speedIndex": 205,
+        "curlTotalTime": 339.2718390226364,
+        "playwrightTotalTime": 467.39026498794556
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 47,
+    "timestamp": 857673.353549,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1406,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.552,
+        "tcpConnection": 16.026,
+        "tlsHandshake": 218.928,
+        "timeToFirstByte": 1156.566,
+        "totalTime": 1156.717,
+        "fcp": 486.503,
+        "lcp": 486.503,
+        "speedIndex": 487,
+        "curlTotalTime": 1201.6076459999895,
+        "playwrightTotalTime": 877.7133120000362
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 48,
+    "timestamp": 722143.638834,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9560,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9200000000000002,
+        "tcpConnection": 3.806,
+        "tlsHandshake": 61.604,
+        "timeToFirstByte": 170.077,
+        "totalTime": 170.18800000000002,
+        "fcp": 242.204,
+        "lcp": 242.204,
+        "speedIndex": 243,
+        "curlTotalTime": 211.05420300003607,
+        "playwrightTotalTime": 479.68207999994047
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 49,
+    "timestamp": 833521.734805,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1431,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7249999999999999,
+        "tcpConnection": 15.168,
+        "tlsHandshake": 214.13199999999998,
+        "timeToFirstByte": 1136.073,
+        "totalTime": 1136.2479999999998,
+        "fcp": 537.614,
+        "lcp": 537.614,
+        "speedIndex": 538,
+        "curlTotalTime": 1177.7342429999262,
+        "playwrightTotalTime": 809.5527940000175
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 50,
+    "timestamp": 935679.685416013,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9801,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1270000000000002,
+        "tcpConnection": 4.617999999999999,
+        "tlsHandshake": 55.117,
+        "timeToFirstByte": 165.825,
+        "totalTime": 165.99,
+        "fcp": 226.659,
+        "lcp": 226.659,
+        "speedIndex": 227,
+        "curlTotalTime": 210.34575301408768,
+        "playwrightTotalTime": 415.04426500201225
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 51,
+    "timestamp": 1133219.459062,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3514,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.737,
+        "tcpConnection": 15.181000000000001,
+        "tlsHandshake": 211.555,
+        "timeToFirstByte": 462.779,
+        "totalTime": 462.93600000000004,
+        "fcp": 509.158,
+        "lcp": 509.158,
+        "speedIndex": 511,
+        "curlTotalTime": 514.1379809998907,
+        "playwrightTotalTime": 916.1443229999859
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 52,
+    "timestamp": 1001981.8179229498,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9910,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.069,
+        "tcpConnection": 3.5309999999999997,
+        "tlsHandshake": 52.339,
+        "timeToFirstByte": 164.013,
+        "totalTime": 164.176,
+        "fcp": 213.518,
+        "lcp": 213.518,
+        "speedIndex": 214,
+        "curlTotalTime": 204.69584202766418,
+        "playwrightTotalTime": 749.4512370824814
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 53,
+    "timestamp": 968569.535403,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 54,
+    "timestamp": 969589.2610949278,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9673,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.038,
+        "tcpConnection": 3.19,
+        "tlsHandshake": 57.394,
+        "timeToFirstByte": 168.07,
+        "totalTime": 168.18800000000002,
+        "fcp": 249.866,
+        "lcp": 249.866,
+        "speedIndex": 250,
+        "curlTotalTime": 213.7755171060562,
+        "playwrightTotalTime": 474.2445479631424
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 55,
+    "timestamp": 975638.091287,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 56,
+    "timestamp": 731452.8244440556,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 57,
+    "timestamp": 766427.449859,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 58,
+    "timestamp": 1047055.0618109703,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4284,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.319,
+        "tcpConnection": 3.4819999999999998,
+        "tlsHandshake": 67.621,
+        "timeToFirstByte": 379.596,
+        "totalTime": 379.729,
+        "fcp": 241.342,
+        "lcp": 241.342,
+        "speedIndex": 242,
+        "curlTotalTime": 433.37964403629303,
+        "playwrightTotalTime": 534.278312087059
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 59,
+    "timestamp": 967114.227257,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 60,
+    "timestamp": 737702.8204859999,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9833,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.028,
+        "tcpConnection": 3.354,
+        "tlsHandshake": 52.894,
+        "timeToFirstByte": 165.33800000000002,
+        "totalTime": 165.45000000000002,
+        "fcp": 201.338,
+        "lcp": 201.338,
+        "speedIndex": 202,
+        "curlTotalTime": 207.74973099993076,
+        "playwrightTotalTime": 429.9673719999846
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 61,
+    "timestamp": 909266.46739,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 62,
+    "timestamp": 951811.6968699992,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5553,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.77,
+        "tcpConnection": 2.49,
+        "tlsHandshake": 54.235,
+        "timeToFirstByte": 292.812,
+        "totalTime": 292.954,
+        "fcp": 245.009,
+        "lcp": 245.009,
+        "speedIndex": 246,
+        "curlTotalTime": 334.2184569835663,
+        "playwrightTotalTime": 473.9249719977379
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 63,
+    "timestamp": 1047162.755606,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 64,
+    "timestamp": 1017923.0634930134,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8976,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.794,
+        "tcpConnection": 3.624,
+        "tlsHandshake": 73.099,
+        "timeToFirstByte": 181.13199999999998,
+        "totalTime": 181.241,
+        "fcp": 226.185,
+        "lcp": 226.185,
+        "speedIndex": 227,
+        "curlTotalTime": 225.1409009695053,
+        "playwrightTotalTime": 464.9295070171356
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 65,
+    "timestamp": 874585.445164,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3459,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.6340000000000001,
+        "tcpConnection": 14.996,
+        "tlsHandshake": 217.595,
+        "timeToFirstByte": 470.127,
+        "totalTime": 470.315,
+        "fcp": 547.292,
+        "lcp": 547.292,
+        "speedIndex": 548,
+        "curlTotalTime": 511.4795729999896,
+        "playwrightTotalTime": 817.055323000066
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 66,
+    "timestamp": 985448.2313560247,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8728,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.149,
+        "tcpConnection": 3.8310000000000004,
+        "tlsHandshake": 74.867,
+        "timeToFirstByte": 186.257,
+        "totalTime": 186.395,
+        "fcp": 265.838,
+        "lcp": 265.838,
+        "speedIndex": 266,
+        "curlTotalTime": 228.8818680047989,
+        "playwrightTotalTime": 465.6461349725723
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 67,
+    "timestamp": 850324.65604,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3519,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7429999999999999,
+        "tcpConnection": 15.114,
+        "tlsHandshake": 219.576,
+        "timeToFirstByte": 462.108,
+        "totalTime": 462.28799999999995,
+        "fcp": 466.397,
+        "lcp": 466.397,
+        "speedIndex": 467,
+        "curlTotalTime": 508.99083399993833,
+        "playwrightTotalTime": 916.3783149999799
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 68,
+    "timestamp": 731489.9416819811,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 69,
+    "timestamp": 1150795.959731,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1413,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.665,
+        "tcpConnection": 14.645,
+        "tlsHandshake": 214.954,
+        "timeToFirstByte": 1150.6860000000001,
+        "totalTime": 1150.863,
+        "fcp": 472.985,
+        "lcp": 472.985,
+        "speedIndex": 474,
+        "curlTotalTime": 1203.7757309998851,
+        "playwrightTotalTime": 833.026639000047
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 70,
+    "timestamp": 1062991.7467980385,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5616,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.681,
+        "tcpConnection": 3.142,
+        "tlsHandshake": 54.251,
+        "timeToFirstByte": 289.571,
+        "totalTime": 289.686,
+        "fcp": 255.319,
+        "lcp": 255.319,
+        "speedIndex": 256,
+        "curlTotalTime": 331.650661945343,
+        "playwrightTotalTime": 451.9913569688797
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 71,
+    "timestamp": 968604.629981,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 72,
+    "timestamp": 753456.139923,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8609,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.61,
+        "tcpConnection": 2.7079999999999997,
+        "tlsHandshake": 77.965,
+        "timeToFirstByte": 188.85,
+        "totalTime": 188.96699999999998,
+        "fcp": 207.531,
+        "lcp": 207.531,
+        "speedIndex": 208,
+        "curlTotalTime": 226.36930599994957,
+        "playwrightTotalTime": 432.11838499992155
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 73,
+    "timestamp": 975703.169863,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 74,
+    "timestamp": 967660.5711160004,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10095,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.011,
+        "tcpConnection": 3.597,
+        "tlsHandshake": 54.496,
+        "timeToFirstByte": 161.048,
+        "totalTime": 161.159,
+        "fcp": 217.011,
+        "lcp": 217.011,
+        "speedIndex": 218,
+        "curlTotalTime": 200.50512099266052,
+        "playwrightTotalTime": 419.07033199071884
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 75,
+    "timestamp": 766466.273262,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 76,
+    "timestamp": 1033723.8239759207,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10038,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.6039999999999999,
+        "tcpConnection": 2.781,
+        "tlsHandshake": 50.321999999999996,
+        "timeToFirstByte": 161.925,
+        "totalTime": 162.076,
+        "fcp": 211.636,
+        "lcp": 211.636,
+        "speedIndex": 212,
+        "curlTotalTime": 205.58140099048615,
+        "playwrightTotalTime": 453.9827969074249
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 77,
+    "timestamp": 967152.945684,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 78,
+    "timestamp": 1001623.954226017,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2666,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.298,
+        "tcpConnection": 2.933,
+        "tlsHandshake": 63.723,
+        "timeToFirstByte": 610.033,
+        "totalTime": 610.1600000000001,
+        "fcp": 247.601,
+        "lcp": 247.601,
+        "speedIndex": 246,
+        "curlTotalTime": 653.7942769527435,
+        "playwrightTotalTime": 433.5136830806732
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 79,
+    "timestamp": 909308.082644,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 80,
+    "timestamp": 731527.8324300051,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 81,
+    "timestamp": 1047248.918858,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 82,
+    "timestamp": 1078971.0949579477,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6103,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.891,
+        "tcpConnection": 3.408,
+        "tlsHandshake": 85.21900000000001,
+        "timeToFirstByte": 266.46999999999997,
+        "totalTime": 266.59,
+        "fcp": 245.135,
+        "lcp": 245.135,
+        "speedIndex": 244,
+        "curlTotalTime": 308.57262003421783,
+        "playwrightTotalTime": 470.46267104148865
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 83,
+    "timestamp": 891410.467737,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3568,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9919999999999998,
+        "tcpConnection": 15.373,
+        "tlsHandshake": 212.371,
+        "timeToFirstByte": 455.817,
+        "totalTime": 455.99,
+        "fcp": 539.515,
+        "lcp": 539.515,
+        "speedIndex": 540,
+        "curlTotalTime": 505.8873259999091,
+        "playwrightTotalTime": 815.0091859999811
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 84,
+    "timestamp": 769515.170697,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8956,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7619999999999998,
+        "tcpConnection": 2.521,
+        "tlsHandshake": 64.306,
+        "timeToFirstByte": 181.485,
+        "totalTime": 181.664,
+        "fcp": 281.625,
+        "lcp": 281.625,
+        "speedIndex": 282,
+        "curlTotalTime": 222.93733300000895,
+        "playwrightTotalTime": 493.2239910000935
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 85,
+    "timestamp": 867062.962459,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3545,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.026,
+        "tcpConnection": 15.355,
+        "tlsHandshake": 216.038,
+        "timeToFirstByte": 458.727,
+        "totalTime": 458.854,
+        "fcp": 478.264,
+        "lcp": 478.264,
+        "speedIndex": 479,
+        "curlTotalTime": 503.13534200005233,
+        "playwrightTotalTime": 809.4340150000062
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 86,
+    "timestamp": 983481.9014310241,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10402,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.8090000000000002,
+        "tcpConnection": 2.46,
+        "tlsHandshake": 49.258,
+        "timeToFirstByte": 156.296,
+        "totalTime": 156.40599999999998,
+        "fcp": 222.019,
+        "lcp": 222.019,
+        "speedIndex": 222,
+        "curlTotalTime": 198.7673940062523,
+        "playwrightTotalTime": 409.94380298256874
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 87,
+    "timestamp": 1167614.986319,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3443,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.803,
+        "tcpConnection": 15.223,
+        "tlsHandshake": 218.059,
+        "timeToFirstByte": 472.312,
+        "totalTime": 472.435,
+        "fcp": 512.374,
+        "lcp": 512.374,
+        "speedIndex": 510,
+        "curlTotalTime": 517.6642070000526,
+        "playwrightTotalTime": 849.8822739999741
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 88,
+    "timestamp": 1049343.9194719791,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9338,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.6949999999999998,
+        "tcpConnection": 3.2070000000000003,
+        "tlsHandshake": 57.594,
+        "timeToFirstByte": 174.09199999999998,
+        "totalTime": 174.226,
+        "fcp": 256.751,
+        "lcp": 256.751,
+        "speedIndex": 257,
+        "curlTotalTime": 215.67285406589508,
+        "playwrightTotalTime": 438.91629898548126
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 89,
+    "timestamp": 968643.481245,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 90,
+    "timestamp": 1017593.2031899691,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9243,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9189999999999998,
+        "tcpConnection": 2.472,
+        "tlsHandshake": 71.24900000000001,
+        "timeToFirstByte": 175.88899999999998,
+        "totalTime": 176.018,
+        "fcp": 239.202,
+        "lcp": 239.202,
+        "speedIndex": 240,
+        "curlTotalTime": 219.37467205524445,
+        "playwrightTotalTime": 469.7168320417404
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 91,
+    "timestamp": 975749.050886,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 92,
+    "timestamp": 731572.5445070267,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 93,
+    "timestamp": 766501.529449,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 94,
+    "timestamp": 1095022.5699119568,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5019,
+        "uploadSpeed": 0,
+        "dnsLookup": 45.29600000000001,
+        "tcpConnection": 46.814,
+        "tlsHandshake": 97.922,
+        "timeToFirstByte": 323.996,
+        "totalTime": 324.13599999999997,
+        "fcp": 247.322,
+        "lcp": 247.322,
+        "speedIndex": 242,
+        "curlTotalTime": 372.2948520183563,
+        "playwrightTotalTime": 483.96643698215485
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 95,
+    "timestamp": 967189.964685,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 96,
+    "timestamp": 785161.985998,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9442,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.821,
+        "tcpConnection": 3.342,
+        "tlsHandshake": 54.323,
+        "timeToFirstByte": 172.201,
+        "totalTime": 172.31199999999998,
+        "fcp": 194.54,
+        "lcp": 194.54,
+        "speedIndex": 195,
+        "curlTotalTime": 216.408044999931,
+        "playwrightTotalTime": 423.247687999974
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 97,
+    "timestamp": 909350.130066,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 98,
+    "timestamp": 999556.7199280262,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9993,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.79,
+        "tcpConnection": 2.5260000000000002,
+        "tlsHandshake": 55.586000000000006,
+        "timeToFirstByte": 162.676,
+        "totalTime": 162.802,
+        "fcp": 213.17,
+        "lcp": 213.17,
+        "speedIndex": 211,
+        "curlTotalTime": 208.4453620016575,
+        "playwrightTotalTime": 462.01282399892807
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 99,
+    "timestamp": 1047315.730775,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 100,
+    "timestamp": 1065217.7463220358,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8458,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9040000000000001,
+        "tcpConnection": 2.999,
+        "tlsHandshake": 82.27,
+        "timeToFirstByte": 192.23999999999998,
+        "totalTime": 192.357,
+        "fcp": 215.375,
+        "lcp": 215.375,
+        "speedIndex": 216,
+        "curlTotalTime": 236.89108002185822,
+        "playwrightTotalTime": 457.9450229406357
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 101,
+    "timestamp": 908580.050762,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3530,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.842,
+        "tcpConnection": 15.327,
+        "tlsHandshake": 216.47299999999998,
+        "timeToFirstByte": 460.735,
+        "totalTime": 460.89000000000004,
+        "fcp": 482.132,
+        "lcp": 482.132,
+        "speedIndex": 483,
+        "curlTotalTime": 513.0200660000555,
+        "playwrightTotalTime": 921.7208490000339
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 102,
+    "timestamp": 1033441.8830280304,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9863,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.8339999999999999,
+        "tcpConnection": 2.902,
+        "tlsHandshake": 55.369,
+        "timeToFirstByte": 164.825,
+        "totalTime": 164.951,
+        "fcp": 260.672,
+        "lcp": 260.672,
+        "speedIndex": 259,
+        "curlTotalTime": 206.0144840478897,
+        "playwrightTotalTime": 488.38602101802826
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 103,
+    "timestamp": 883850.605454,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3487,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.818,
+        "tcpConnection": 15.172,
+        "tlsHandshake": 221.733,
+        "timeToFirstByte": 466.37600000000003,
+        "totalTime": 466.49600000000004,
+        "fcp": 472.617,
+        "lcp": 472.617,
+        "speedIndex": 473,
+        "curlTotalTime": 505.782882999978,
+        "playwrightTotalTime": 855.316843999899
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 104,
+    "timestamp": 731613.5962500572,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 105,
+    "timestamp": 1184961.927218,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3492,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.504,
+        "tcpConnection": 17.201999999999998,
+        "tlsHandshake": 214.355,
+        "timeToFirstByte": 465.733,
+        "totalTime": 465.857,
+        "fcp": 510.43,
+        "lcp": 510.43,
+        "speedIndex": 511,
+        "curlTotalTime": 511.79495000001043,
+        "playwrightTotalTime": 930.7508650000673
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 106,
+    "timestamp": 1110914.1684479713,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5889,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.008,
+        "tcpConnection": 3.447,
+        "tlsHandshake": 51.712,
+        "timeToFirstByte": 276.094,
+        "totalTime": 276.24199999999996,
+        "fcp": 251.059,
+        "lcp": 251.059,
+        "speedIndex": 252,
+        "curlTotalTime": 322.99493300914764,
+        "playwrightTotalTime": 482.4061049222946
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 107,
+    "timestamp": 968681.349813,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 108,
+    "timestamp": 800832.5629339999,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10071,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.556,
+        "tcpConnection": 2.535,
+        "tlsHandshake": 51.575,
+        "timeToFirstByte": 161.422,
+        "totalTime": 161.539,
+        "fcp": 221.901,
+        "lcp": 221.901,
+        "speedIndex": 222,
+        "curlTotalTime": 202.1707040000474,
+        "playwrightTotalTime": 410.6188420000253
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 109,
+    "timestamp": 975788.379506,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 110,
+    "timestamp": 1015444.5271760225,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9258,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.495,
+        "tcpConnection": 7.922999999999999,
+        "tlsHandshake": 67.896,
+        "timeToFirstByte": 175.436,
+        "totalTime": 175.731,
+        "fcp": 204.699,
+        "lcp": 204.699,
+        "speedIndex": 205,
+        "curlTotalTime": 235.0634450018406,
+        "playwrightTotalTime": 472.53906401991844
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 111,
+    "timestamp": 766537.0465,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 112,
+    "timestamp": 1080912.1994359493,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9279,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.022,
+        "tcpConnection": 3.202,
+        "tlsHandshake": 63.859,
+        "timeToFirstByte": 175.202,
+        "totalTime": 175.331,
+        "fcp": 236.487,
+        "lcp": 236.487,
+        "speedIndex": 237,
+        "curlTotalTime": 212.96141397953033,
+        "playwrightTotalTime": 400.4272030591965
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 113,
+    "timestamp": 967232.950741,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 114,
+    "timestamp": 1049241.9788880348,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8933,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.072,
+        "tcpConnection": 2.7390000000000003,
+        "tlsHandshake": 70.998,
+        "timeToFirstByte": 182.01,
+        "totalTime": 182.126,
+        "fcp": 289.897,
+        "lcp": 289.897,
+        "speedIndex": 290,
+        "curlTotalTime": 226.42908000946045,
+        "playwrightTotalTime": 455.12942802906036
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 115,
+    "timestamp": 909389.440303,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 116,
+    "timestamp": 731657.0144250393,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 117,
+    "timestamp": 1047366.859437,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 118,
+    "timestamp": 1127181.3702360392,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5426,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.885,
+        "tcpConnection": 3.598,
+        "tlsHandshake": 53.193999999999996,
+        "timeToFirstByte": 299.71,
+        "totalTime": 299.83799999999997,
+        "fcp": 207.857,
+        "lcp": 207.857,
+        "speedIndex": 208,
+        "curlTotalTime": 349.8113030195236,
+        "playwrightTotalTime": 674.5514019727707
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 119,
+    "timestamp": 925368.642296,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3450,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.106,
+        "tcpConnection": 15.578,
+        "tlsHandshake": 220.941,
+        "timeToFirstByte": 471.327,
+        "totalTime": 471.47499999999997,
+        "fcp": 493.157,
+        "lcp": 493.157,
+        "speedIndex": 494,
+        "curlTotalTime": 511.86774000001606,
+        "playwrightTotalTime": 889.742288999958
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 120,
+    "timestamp": 816581.282791,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9781,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.079,
+        "tcpConnection": 3.783,
+        "tlsHandshake": 54.535,
+        "timeToFirstByte": 166.162,
+        "totalTime": 166.33,
+        "fcp": 222.367,
+        "lcp": 222.367,
+        "speedIndex": 223,
+        "curlTotalTime": 208.83373300009407,
+        "playwrightTotalTime": 436.58342199993785
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 121,
+    "timestamp": 900652.686049,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3589,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.447,
+        "tcpConnection": 15.810999999999998,
+        "tlsHandshake": 212.856,
+        "timeToFirstByte": 453.122,
+        "totalTime": 453.248,
+        "fcp": 476.325,
+        "lcp": 476.325,
+        "speedIndex": 476,
+        "curlTotalTime": 500.3401420000009,
+        "playwrightTotalTime": 817.8256840000395
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 122,
+    "timestamp": 1031359.3501349986,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5187,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.091,
+        "tcpConnection": 2.83,
+        "tlsHandshake": 68.94,
+        "timeToFirstByte": 313.405,
+        "totalTime": 313.61699999999996,
+        "fcp": 247.777,
+        "lcp": 247.777,
+        "speedIndex": 248,
+        "curlTotalTime": 365.28409799933434,
+        "playwrightTotalTime": 424.6532549858093
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 123,
+    "timestamp": 1201970.47636,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3483,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6380000000000003,
+        "tcpConnection": 15.765,
+        "tlsHandshake": 214.764,
+        "timeToFirstByte": 466.871,
+        "totalTime": 466.992,
+        "fcp": 506.808,
+        "lcp": 506.808,
+        "speedIndex": 508,
+        "curlTotalTime": 514.9498319998384,
+        "playwrightTotalTime": 898.1108889998868
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 124,
+    "timestamp": 1096661.996984005,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9461,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.283,
+        "tcpConnection": 2.8960000000000004,
+        "tlsHandshake": 52.248999999999995,
+        "timeToFirstByte": 171.774,
+        "totalTime": 171.96200000000002,
+        "fcp": 235.961,
+        "lcp": 235.961,
+        "speedIndex": 235,
+        "curlTotalTime": 216.6199369430542,
+        "playwrightTotalTime": 453.14193201065063
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 125,
+    "timestamp": 968718.1665,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 126,
+    "timestamp": 1065076.545832038,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9035,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.729,
+        "tcpConnection": 2.783,
+        "tlsHandshake": 70.125,
+        "timeToFirstByte": 179.934,
+        "totalTime": 180.068,
+        "fcp": 257.529,
+        "lcp": 257.529,
+        "speedIndex": 256,
+        "curlTotalTime": 221.17696404457092,
+        "playwrightTotalTime": 443.5780349969864
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 127,
+    "timestamp": 975826.491733,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 128,
+    "timestamp": 731702.2316670418,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 129,
+    "timestamp": 766573.94866,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 130,
+    "timestamp": 1143084.5699529648,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8208,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.617,
+        "tcpConnection": 4.118,
+        "tlsHandshake": 73.571,
+        "timeToFirstByte": 198.065,
+        "totalTime": 198.198,
+        "fcp": 247.966,
+        "lcp": 247.966,
+        "speedIndex": 249,
+        "curlTotalTime": 244.6683759689331,
+        "playwrightTotalTime": 421.243057012558
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 131,
+    "timestamp": 967271.998276,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 132,
+    "timestamp": 832416.733458,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8148,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.996,
+        "tcpConnection": 2.801,
+        "tlsHandshake": 86.271,
+        "timeToFirstByte": 199.548,
+        "totalTime": 199.68,
+        "fcp": 200.873,
+        "lcp": 200.873,
+        "speedIndex": 201,
+        "curlTotalTime": 249.00280500005465,
+        "playwrightTotalTime": 470.49807599990163
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 133,
+    "timestamp": 909429.033574,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 134,
+    "timestamp": 1047410.5952470005,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5306,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9689999999999999,
+        "tcpConnection": 3.267,
+        "tlsHandshake": 58.367000000000004,
+        "timeToFirstByte": 306.464,
+        "totalTime": 306.599,
+        "fcp": 234.537,
+        "lcp": 234.537,
+        "speedIndex": 235,
+        "curlTotalTime": 356.50235998630524,
+        "playwrightTotalTime": 422.08075299859047
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 135,
+    "timestamp": 1047409.87112,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 136,
+    "timestamp": 1112444.4822700024,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9371,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2169999999999996,
+        "tcpConnection": 3.9690000000000003,
+        "tlsHandshake": 55.074999999999996,
+        "timeToFirstByte": 173.5,
+        "totalTime": 173.61599999999999,
+        "fcp": 213.649,
+        "lcp": 213.649,
+        "speedIndex": 214,
+        "curlTotalTime": 224.08349895477295,
+        "playwrightTotalTime": 457.68026196956635
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 137,
+    "timestamp": 942094.336193,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3578,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.438,
+        "tcpConnection": 14.791,
+        "tlsHandshake": 211.76600000000002,
+        "timeToFirstByte": 454.53,
+        "totalTime": 454.65,
+        "fcp": 483.115,
+        "lcp": 483.115,
+        "speedIndex": 483,
+        "curlTotalTime": 495.91582200000994,
+        "playwrightTotalTime": 848.72287399997
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 138,
+    "timestamp": 1080886.9567300081,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9166,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.917,
+        "tcpConnection": 2.561,
+        "tlsHandshake": 63.293,
+        "timeToFirstByte": 177.376,
+        "totalTime": 177.499,
+        "fcp": 231.477,
+        "lcp": 231.477,
+        "speedIndex": 230,
+        "curlTotalTime": 216.41088008880615,
+        "playwrightTotalTime": 422.73549604415894
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 139,
+    "timestamp": 918202.789474,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3592,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.5330000000000001,
+        "tcpConnection": 14.871,
+        "tlsHandshake": 211.145,
+        "timeToFirstByte": 452.74199999999996,
+        "totalTime": 452.90599999999995,
+        "fcp": 514.677,
+        "lcp": 514.677,
+        "speedIndex": 515,
+        "curlTotalTime": 510.1884779999964,
+        "playwrightTotalTime": 873.6532120000338
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 140,
+    "timestamp": 731745.4390140772,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 141,
+    "timestamp": 1219123.632768,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3455,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.5659999999999998,
+        "tcpConnection": 14.889,
+        "tlsHandshake": 216.664,
+        "timeToFirstByte": 470.716,
+        "totalTime": 470.841,
+        "fcp": 521.947,
+        "lcp": 521.947,
+        "speedIndex": 522,
+        "curlTotalTime": 511.56308200000785,
+        "playwrightTotalTime": 892.1867859999184
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 142,
+    "timestamp": 1159122.6174800396,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5906,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.853,
+        "tcpConnection": 3.4250000000000003,
+        "tlsHandshake": 53.830000000000005,
+        "timeToFirstByte": 275.356,
+        "totalTime": 275.48,
+        "fcp": 208.879,
+        "lcp": 208.879,
+        "speedIndex": 209,
+        "curlTotalTime": 318.2437119483948,
+        "playwrightTotalTime": 496.68918800354004
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 143,
+    "timestamp": 968754.160978,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 144,
+    "timestamp": 848298.039046,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10064,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.851,
+        "tcpConnection": 3.0260000000000002,
+        "tlsHandshake": 54.139,
+        "timeToFirstByte": 161.546,
+        "totalTime": 161.663,
+        "fcp": 230.058,
+        "lcp": 230.058,
+        "speedIndex": 230,
+        "curlTotalTime": 203.39508200006094,
+        "playwrightTotalTime": 411.9427709999727
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 145,
+    "timestamp": 975869.924684,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 146,
+    "timestamp": 1063333.6288350224,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8732,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.16,
+        "tcpConnection": 3.7,
+        "tlsHandshake": 79.83500000000001,
+        "timeToFirstByte": 186.17600000000002,
+        "totalTime": 186.305,
+        "fcp": 230.679,
+        "lcp": 230.679,
+        "speedIndex": 231,
+        "curlTotalTime": 239.91791000962257,
+        "playwrightTotalTime": 489.55811500549316
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 147,
+    "timestamp": 766612.26235,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 148,
+    "timestamp": 1128233.7635669708,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8779,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.903,
+        "tcpConnection": 3.565,
+        "tlsHandshake": 74.265,
+        "timeToFirstByte": 185.21099999999998,
+        "totalTime": 185.32399999999998,
+        "fcp": 212.76,
+        "lcp": 212.76,
+        "speedIndex": 214,
+        "curlTotalTime": 229.72216999530792,
+        "playwrightTotalTime": 414.6303230524063
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 149,
+    "timestamp": 967306.940637,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 150,
+    "timestamp": 1096810.3883479834,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 10029,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.856,
+        "tcpConnection": 3.479,
+        "tlsHandshake": 53.855,
+        "timeToFirstByte": 162.099,
+        "totalTime": 162.22,
+        "fcp": 202.271,
+        "lcp": 202.271,
+        "speedIndex": 203,
+        "curlTotalTime": 206.0470780134201,
+        "playwrightTotalTime": 463.1199120283127
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 151,
+    "timestamp": 909462.72458,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 152,
+    "timestamp": 731786.191642046,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 153,
+    "timestamp": 1047452.331233,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 154,
+    "timestamp": 1175240.5121530294,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4969,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0349999999999997,
+        "tcpConnection": 3.4160000000000004,
+        "tlsHandshake": 50.071,
+        "timeToFirstByte": 327.301,
+        "totalTime": 327.414,
+        "fcp": 262.87,
+        "lcp": 262.87,
+        "speedIndex": 264,
+        "curlTotalTime": 367.0558959245682,
+        "playwrightTotalTime": 422.536495923996
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 155,
+    "timestamp": 959177.572994,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3516,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.516,
+        "tcpConnection": 14.838000000000001,
+        "tlsHandshake": 217.842,
+        "timeToFirstByte": 462.60499999999996,
+        "totalTime": 462.723,
+        "fcp": 491.496,
+        "lcp": 491.496,
+        "speedIndex": 492,
+        "curlTotalTime": 503.19547199993394,
+        "playwrightTotalTime": 891.518579000025
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 156,
+    "timestamp": 864026.066478,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8757,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0100000000000002,
+        "tcpConnection": 3.527,
+        "tlsHandshake": 76.879,
+        "timeToFirstByte": 185.678,
+        "totalTime": 185.793,
+        "fcp": 216.267,
+        "lcp": 216.267,
+        "speedIndex": 217,
+        "curlTotalTime": 236.94435100001283,
+        "playwrightTotalTime": 454.15715900005307
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 157,
+    "timestamp": 934939.458371,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3560,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.55,
+        "tcpConnection": 14.929,
+        "tlsHandshake": 215.42600000000002,
+        "timeToFirstByte": 456.899,
+        "totalTime": 457.022,
+        "fcp": 520.884,
+        "lcp": 520.884,
+        "speedIndex": 522,
+        "curlTotalTime": 496.02710299997125,
+        "playwrightTotalTime": 813.667883999995
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 158,
+    "timestamp": 1079373.7689400017,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5113,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7049999999999998,
+        "tcpConnection": 2.299,
+        "tlsHandshake": 77.42599999999999,
+        "timeToFirstByte": 317.99899999999997,
+        "totalTime": 318.171,
+        "fcp": 257.12,
+        "lcp": 257.12,
+        "speedIndex": 256,
+        "curlTotalTime": 362.8191159963608,
+        "playwrightTotalTime": 494.44862300157547
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 159,
+    "timestamp": 1236047.477808,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3415,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.275,
+        "tcpConnection": 15.395000000000001,
+        "tlsHandshake": 221.42000000000002,
+        "timeToFirstByte": 476.214,
+        "totalTime": 476.35,
+        "fcp": 480.31,
+        "lcp": 480.31,
+        "speedIndex": 481,
+        "curlTotalTime": 517.7875870000571,
+        "playwrightTotalTime": 871.2996650000568
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 160,
+    "timestamp": 1143855.1779919863,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9985,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.829,
+        "tcpConnection": 3.507,
+        "tlsHandshake": 53.112,
+        "timeToFirstByte": 162.792,
+        "totalTime": 162.92999999999998,
+        "fcp": 203.649,
+        "lcp": 203.649,
+        "speedIndex": 205,
+        "curlTotalTime": 208.95604598522186,
+        "playwrightTotalTime": 414.67554998397827
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 161,
+    "timestamp": 968791.053998,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 162,
+    "timestamp": 1112460.9402639866,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8863,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.174,
+        "tcpConnection": 3.622,
+        "tlsHandshake": 65.18,
+        "timeToFirstByte": 183.447,
+        "totalTime": 183.557,
+        "fcp": 231.824,
+        "lcp": 231.824,
+        "speedIndex": 232,
+        "curlTotalTime": 224.56435596942902,
+        "playwrightTotalTime": 407.58799600601196
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 163,
+    "timestamp": 975918.82255,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 164,
+    "timestamp": 731828.1708370447,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 165,
+    "timestamp": 766648.156576,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 166,
+    "timestamp": 1191220.3698049784,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6767,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.049,
+        "tcpConnection": 3.441,
+        "tlsHandshake": 60.016,
+        "timeToFirstByte": 240.287,
+        "totalTime": 240.417,
+        "fcp": 241.611,
+        "lcp": 241.611,
+        "speedIndex": 242,
+        "curlTotalTime": 286.1940109729767,
+        "playwrightTotalTime": 409.306657910347
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 167,
+    "timestamp": 967347.262554,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 168,
+    "timestamp": 879968.902871,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8535,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9,
+        "tcpConnection": 3.493,
+        "tlsHandshake": 78.876,
+        "timeToFirstByte": 190.463,
+        "totalTime": 190.605,
+        "fcp": 288.268,
+        "lcp": 288.268,
+        "speedIndex": 289,
+        "curlTotalTime": 236.89614900003653,
+        "playwrightTotalTime": 436.35720699990634
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 169,
+    "timestamp": 909505.254065,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 170,
+    "timestamp": 1095197.8302220106,
+    "webTests": [
+      {
+        "url": "https://i8muxsh9lbi5.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5156,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.363,
+        "tcpConnection": 3.5309999999999997,
+        "tlsHandshake": 77.857,
+        "timeToFirstByte": 315.273,
+        "totalTime": 315.543,
+        "fcp": 204.871,
+        "lcp": 204.871,
+        "speedIndex": 205,
+        "curlTotalTime": 358.0504780113697,
+        "playwrightTotalTime": 448.6300539970398
+      }
+    ],
+    "totalDuration": 255948.3677600026,
+    "setupDuration": 4100.237555980682,
+    "diagnosticsDuration": 0.0046930015087127686,
+    "measurementDuration": 241832.337864995,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 171,
+    "timestamp": 1047495.177181,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 172,
+    "timestamp": 1159609.4087350368,
+    "webTests": [
+      {
+        "url": "https://u5dh44l58fe2.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9476,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.745,
+        "tcpConnection": 3.2720000000000002,
+        "tlsHandshake": 60.983000000000004,
+        "timeToFirstByte": 171.56099999999998,
+        "totalTime": 171.681,
+        "fcp": 225.243,
+        "lcp": 225.243,
+        "speedIndex": 226,
+        "curlTotalTime": 212.70875203609467,
+        "playwrightTotalTime": 419.1895749568939
+      }
+    ],
+    "totalDuration": 252926.45104408264,
+    "setupDuration": 4093.1722691059113,
+    "diagnosticsDuration": 0.005566954612731934,
+    "measurementDuration": 238822.8374134302,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 173,
+    "timestamp": 976016.597836,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3586,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0509999999999997,
+        "tcpConnection": 15.446,
+        "tlsHandshake": 211.277,
+        "timeToFirstByte": 453.47700000000003,
+        "totalTime": 453.63599999999997,
+        "fcp": 478.316,
+        "lcp": 478.316,
+        "speedIndex": 479,
+        "curlTotalTime": 498.30791500001214,
+        "playwrightTotalTime": 834.9132710000267
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 174,
+    "timestamp": 1128177.5565469265,
+    "webTests": [
+      {
+        "url": "https://f00vql5m70zl.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9922,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9789999999999999,
+        "tcpConnection": 3.6679999999999997,
+        "tlsHandshake": 51.888,
+        "timeToFirstByte": 163.873,
+        "totalTime": 163.972,
+        "fcp": 247.197,
+        "lcp": 247.197,
+        "speedIndex": 248,
+        "curlTotalTime": 206.9973599910736,
+        "playwrightTotalTime": 433.2001429796219
+      }
+    ],
+    "totalDuration": 253028.75048410892,
+    "setupDuration": 4103.463129043579,
+    "diagnosticsDuration": 0.00500798225402832,
+    "measurementDuration": 238911.61970376968,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 175,
+    "timestamp": 951506.704324,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3527,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.621,
+        "tcpConnection": 15.027000000000001,
+        "tlsHandshake": 218.191,
+        "timeToFirstByte": 461.137,
+        "totalTime": 461.285,
+        "fcp": 465.157,
+        "lcp": 465.157,
+        "speedIndex": 466,
+        "curlTotalTime": 501.20961599994916,
+        "playwrightTotalTime": 829.4211589999031
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 176,
+    "timestamp": 731870.3148390055,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30975.812643051147,
+    "setupDuration": 20364.47733294964,
+    "diagnosticsDuration": 0.003264904022216797,
+    "measurementDuration": 608.7160383462906,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 177,
+    "timestamp": 1253010.781585,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3457,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.908,
+        "tcpConnection": 15.091999999999999,
+        "tlsHandshake": 217.282,
+        "timeToFirstByte": 470.494,
+        "totalTime": 470.61199999999997,
+        "fcp": 498.328,
+        "lcp": 498.328,
+        "speedIndex": 501,
+        "curlTotalTime": 517.1570119999815,
+        "playwrightTotalTime": 921.5785069998819
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 178,
+    "timestamp": 1207209.0695940256,
+    "webTests": [
+      {
+        "url": "https://yiqx8k6zd4zw.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5226,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.022,
+        "tcpConnection": 2.64,
+        "tlsHandshake": 61.441,
+        "timeToFirstByte": 311.136,
+        "totalTime": 311.271,
+        "fcp": 206.033,
+        "lcp": 206.033,
+        "speedIndex": 206,
+        "curlTotalTime": 359.696170091629,
+        "playwrightTotalTime": 402.936282992363
+      }
+    ],
+    "totalDuration": 257372.06611800194,
+    "setupDuration": 5045.8215589523315,
+    "diagnosticsDuration": 0.004236936569213867,
+    "measurementDuration": 242315.99794316292,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 179,
+    "timestamp": 968827.841048,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 180,
+    "timestamp": 895688.384367,
+    "webTests": [
+      {
+        "url": "https://1aaw888kklu7.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8469,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0370000000000004,
+        "tcpConnection": 3.699,
+        "tlsHandshake": 82.521,
+        "timeToFirstByte": 191.965,
+        "totalTime": 192.105,
+        "fcp": 227.5,
+        "lcp": 227.5,
+        "speedIndex": 226,
+        "curlTotalTime": 241.49785300006624,
+        "playwrightTotalTime": 469.3436929999152
+      }
+    ],
+    "totalDuration": 251487.56231399998,
+    "setupDuration": 3891.463996000006,
+    "diagnosticsDuration": 0.003965000039897859,
+    "measurementDuration": 237582.72051900008,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 181,
+    "timestamp": 975963.165342,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 182,
+    "timestamp": 766686.313393,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 183,
+    "timestamp": 967386.397622,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 184,
+    "timestamp": 909541.111547,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 185,
+    "timestamp": 1047535.785629,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 186,
+    "timestamp": 992944.602763,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3508,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.213,
+        "tcpConnection": 15.573,
+        "tlsHandshake": 219.046,
+        "timeToFirstByte": 463.623,
+        "totalTime": 463.75300000000004,
+        "fcp": 491.757,
+        "lcp": 491.757,
+        "speedIndex": 492,
+        "curlTotalTime": 529.15417600004,
+        "playwrightTotalTime": 888.8951400000369
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 187,
+    "timestamp": 968541.664963,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3534,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.49,
+        "tcpConnection": 14.974,
+        "tlsHandshake": 214.284,
+        "timeToFirstByte": 460.125,
+        "totalTime": 460.27000000000004,
+        "fcp": 472.963,
+        "lcp": 472.963,
+        "speedIndex": 473,
+        "curlTotalTime": 503.7049020000268,
+        "playwrightTotalTime": 840.2889469999354
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 188,
+    "timestamp": 1269998.452866,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3514,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7489999999999999,
+        "tcpConnection": 15.106,
+        "tlsHandshake": 211.863,
+        "timeToFirstByte": 462.86100000000005,
+        "totalTime": 462.98499999999996,
+        "fcp": 485.829,
+        "lcp": 485.829,
+        "speedIndex": 487,
+        "curlTotalTime": 510.211501999991,
+        "playwrightTotalTime": 958.0236980000045
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 189,
+    "timestamp": 968866.512177,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 190,
+    "timestamp": 976007.7532,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 191,
+    "timestamp": 766722.058598,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 192,
+    "timestamp": 967425.430304,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 193,
+    "timestamp": 909578.509054,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 194,
+    "timestamp": 1047573.506951,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 195,
+    "timestamp": 1009729.377078,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3574,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.722,
+        "tcpConnection": 15.197000000000001,
+        "tlsHandshake": 212.51,
+        "timeToFirstByte": 454.916,
+        "totalTime": 455.166,
+        "fcp": 468.703,
+        "lcp": 468.703,
+        "speedIndex": 470,
+        "curlTotalTime": 498.2542479999829,
+        "playwrightTotalTime": 809.4958939999342
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 196,
+    "timestamp": 985727.066554,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3516,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.596,
+        "tcpConnection": 14.943,
+        "tlsHandshake": 215.68599999999998,
+        "timeToFirstByte": 462.506,
+        "totalTime": 462.663,
+        "fcp": 499.614,
+        "lcp": 499.614,
+        "speedIndex": 500,
+        "curlTotalTime": 503.50305699999444,
+        "playwrightTotalTime": 882.8897500000894
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 197,
+    "timestamp": 1287360.089266,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3400,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.937,
+        "tcpConnection": 16.334,
+        "tlsHandshake": 222.053,
+        "timeToFirstByte": 478.30400000000003,
+        "totalTime": 478.468,
+        "fcp": 524.325,
+        "lcp": 524.325,
+        "speedIndex": 525,
+        "curlTotalTime": 537.7897669998929,
+        "playwrightTotalTime": 984.7811179999262
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 198,
+    "timestamp": 968910.283506,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 199,
+    "timestamp": 976053.672132,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 200,
+    "timestamp": 766757.914861,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 201,
+    "timestamp": 967463.250841,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 202,
+    "timestamp": 909614.979745,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 203,
+    "timestamp": 1047615.229595,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 204,
+    "timestamp": 1026895.581587,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3526,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.6620000000000001,
+        "tcpConnection": 15.024,
+        "tlsHandshake": 217.358,
+        "timeToFirstByte": 461.203,
+        "totalTime": 461.31899999999996,
+        "fcp": 472.415,
+        "lcp": 472.415,
+        "speedIndex": 473,
+        "curlTotalTime": 503.8463890000712,
+        "playwrightTotalTime": 901.4788549999939
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 205,
+    "timestamp": 1002417.697306,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3504,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9189999999999998,
+        "tcpConnection": 15.452,
+        "tlsHandshake": 221.391,
+        "timeToFirstByte": 464.149,
+        "totalTime": 464.272,
+        "fcp": 475.642,
+        "lcp": 475.642,
+        "speedIndex": 476,
+        "curlTotalTime": 510.4072660000529,
+        "playwrightTotalTime": 854.2906509999884
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 206,
+    "timestamp": 1304900.880167,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3385,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.709,
+        "tcpConnection": 16.019,
+        "tlsHandshake": 221.185,
+        "timeToFirstByte": 480.443,
+        "totalTime": 480.586,
+        "fcp": 631.784,
+        "lcp": 631.784,
+        "speedIndex": 632,
+        "curlTotalTime": 530.4325999999419,
+        "playwrightTotalTime": 927.975376999937
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 207,
+    "timestamp": 968956.339911,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 208,
+    "timestamp": 976091.129067,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 209,
+    "timestamp": 766790.924141,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 210,
+    "timestamp": 967503.159029,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 211,
+    "timestamp": 909651.110802,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 212,
+    "timestamp": 1047655.841236,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 213,
+    "timestamp": 1043909.757742,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3488,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.682,
+        "tcpConnection": 15.026,
+        "tlsHandshake": 217.105,
+        "timeToFirstByte": 466.306,
+        "totalTime": 466.42499999999995,
+        "fcp": 762.659,
+        "lcp": 762.659,
+        "speedIndex": 764,
+        "curlTotalTime": 511.0056310000364,
+        "playwrightTotalTime": 821.7961389999837
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 214,
+    "timestamp": 1019315.618358,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3603,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.605,
+        "tcpConnection": 15.036000000000001,
+        "tlsHandshake": 211.142,
+        "timeToFirstByte": 451.365,
+        "totalTime": 451.488,
+        "fcp": 449.175,
+        "lcp": 449.175,
+        "speedIndex": 450,
+        "curlTotalTime": 494.46086600003764,
+        "playwrightTotalTime": 928.7073790000286
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 215,
+    "timestamp": 1321953.614536,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3464,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.026,
+        "tcpConnection": 15.207999999999998,
+        "tlsHandshake": 216.832,
+        "timeToFirstByte": 469.44399999999996,
+        "totalTime": 469.574,
+        "fcp": 591.324,
+        "lcp": 591.324,
+        "speedIndex": 593,
+        "curlTotalTime": 514.6970550001133,
+        "playwrightTotalTime": 876.9500070000067
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 216,
+    "timestamp": 969000.377888,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 217,
+    "timestamp": 976129.207365,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30934.69647700002,
+    "setupDuration": 20261.304339999915,
+    "diagnosticsDuration": 0.007901999983005226,
+    "measurementDuration": 669.8762530001113,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 218,
+    "timestamp": 766828.822892,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30793.510191999958,
+    "setupDuration": 20249.00107,
+    "diagnosticsDuration": 0.005426999996416271,
+    "measurementDuration": 541.396716000163,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 219,
+    "timestamp": 967539.712772,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30855.057589999982,
+    "setupDuration": 20271.441038000048,
+    "diagnosticsDuration": 0.006163000012747943,
+    "measurementDuration": 581.3654799999204,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 220,
+    "timestamp": 909688.559889,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30853.470684000058,
+    "setupDuration": 20269.281972999917,
+    "diagnosticsDuration": 0.006442000041715801,
+    "measurementDuration": 581.4907189996447,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 221,
+    "timestamp": 1047694.589832,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30920.217610999942,
+    "setupDuration": 20231.119852000033,
+    "diagnosticsDuration": 0.0049279999220743775,
+    "measurementDuration": 687.1528470001649,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 222,
+    "timestamp": 1061167.53029,
+    "webTests": [
+      {
+        "url": "https://bk1nixqkypa1.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3489,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.408,
+        "tcpConnection": 15.862000000000002,
+        "tlsHandshake": 220.82399999999998,
+        "timeToFirstByte": 466.088,
+        "totalTime": 466.218,
+        "fcp": 470.261,
+        "lcp": 470.261,
+        "speedIndex": 471,
+        "curlTotalTime": 519.6266299999552,
+        "playwrightTotalTime": 1145.1064939999487
+      }
+    ],
+    "totalDuration": 273910.6883420001,
+    "setupDuration": 7175.822451999993,
+    "diagnosticsDuration": 0.004249999998137355,
+    "measurementDuration": 256723.97278299986,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 223,
+    "timestamp": 1036899.108955,
+    "webTests": [
+      {
+        "url": "https://69e565gg0cei.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1795,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9120000000000001,
+        "tcpConnection": 15.389999999999999,
+        "tlsHandshake": 215.477,
+        "timeToFirstByte": 905.817,
+        "totalTime": 905.9399999999999,
+        "fcp": 533.07,
+        "lcp": 533.07,
+        "speedIndex": 534,
+        "curlTotalTime": 956.4479750000173,
+        "playwrightTotalTime": 897.8942430000752
+      }
+    ],
+    "totalDuration": 272918.56873099995,
+    "setupDuration": 6259.643198000034,
+    "diagnosticsDuration": 0.004980999976396561,
+    "measurementDuration": 256651.83958400006,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 224,
+    "timestamp": 1338996.87318,
+    "webTests": [
+      {
+        "url": "https://o0p8sdv4ci5q.share.zrok.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3464,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9139999999999997,
+        "tcpConnection": 16.084999999999997,
+        "tlsHandshake": 215.925,
+        "timeToFirstByte": 469.495,
+        "totalTime": 469.659,
+        "fcp": 534.211,
+        "lcp": 534.211,
+        "speedIndex": 535,
+        "curlTotalTime": 516.7077059999574,
+        "playwrightTotalTime": 907.3185459999368
+      }
+    ],
+    "totalDuration": 274000.759751,
+    "setupDuration": 4858.69608299993,
+    "diagnosticsDuration": 0.01197099988348782,
+    "measurementDuration": 259130.83397299983,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Zrok",
+    "measurementNumber": 225,
+    "timestamp": 969038.42149,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 30848.939589999965,
+    "setupDuration": 20257.30468099995,
+    "diagnosticsDuration": 0.02205100003629923,
+    "measurementDuration": 589.1837090000045,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  }
+]

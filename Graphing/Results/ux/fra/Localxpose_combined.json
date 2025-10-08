@@ -1,0 +1,2702 @@
+[
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 1,
+    "timestamp": 1759268.3132010102,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 131689,
+        "uploadSpeed": 0,
+        "dnsLookup": 20.849,
+        "tcpConnection": 108.001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 424.597,
+        "totalTime": 682.933,
+        "fcp": 942.995,
+        "lcp": 942.995,
+        "speedIndex": 944,
+        "curlTotalTime": 726.333566993475,
+        "playwrightTotalTime": 917.4306510090828
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 2,
+    "timestamp": 1799152.8386039734,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 154991,
+        "uploadSpeed": 0,
+        "dnsLookup": 6.196,
+        "tcpConnection": 92.914,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 407.812,
+        "totalTime": 580.258,
+        "fcp": 816.546,
+        "lcp": 816.546,
+        "speedIndex": 817,
+        "curlTotalTime": 626.2662739753723,
+        "playwrightTotalTime": 883.7198610305786
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 3,
+    "timestamp": 1767831.4688169956,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 169908,
+        "uploadSpeed": 0,
+        "dnsLookup": 7.97,
+        "tcpConnection": 90.503,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 365.694,
+        "totalTime": 529.3149999999999,
+        "fcp": 825.783,
+        "lcp": 825.783,
+        "speedIndex": 826,
+        "curlTotalTime": 565.4463829994202,
+        "playwrightTotalTime": 944.2034670114517
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 4,
+    "timestamp": 1610065.7071210146,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 143571,
+        "uploadSpeed": 0,
+        "dnsLookup": 15.359,
+        "tcpConnection": 106.502,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 444.899,
+        "totalTime": 626.4110000000001,
+        "fcp": 885.971,
+        "lcp": 885.971,
+        "speedIndex": 886,
+        "curlTotalTime": 666.2588269710541,
+        "playwrightTotalTime": 953.119148015976
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 5,
+    "timestamp": 1598299.0575660467,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 145844,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.128,
+        "tcpConnection": 91.60300000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 453.493,
+        "totalTime": 616.648,
+        "fcp": 842.856,
+        "lcp": 842.856,
+        "speedIndex": 843,
+        "curlTotalTime": 668.9308770895004,
+        "playwrightTotalTime": 896.0404899120331
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 6,
+    "timestamp": 1785331.4987309999,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163472,
+        "uploadSpeed": 0,
+        "dnsLookup": 6.116,
+        "tcpConnection": 88.568,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 386.846,
+        "totalTime": 550.155,
+        "fcp": 820.126,
+        "lcp": 820.126,
+        "speedIndex": 821,
+        "curlTotalTime": 585.7082340000197,
+        "playwrightTotalTime": 923.9943750000093
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 7,
+    "timestamp": 1777059.2951680124,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 142715,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.605,
+        "tcpConnection": 94.237,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 448.791,
+        "totalTime": 630.168,
+        "fcp": 822.077,
+        "lcp": 822.077,
+        "speedIndex": 823,
+        "curlTotalTime": 678.7287870049477,
+        "playwrightTotalTime": 916.5785339772701
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 8,
+    "timestamp": 1816704.4032759666,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 161841,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2439999999999998,
+        "tcpConnection": 88.5,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 382.791,
+        "totalTime": 555.698,
+        "fcp": 791.585,
+        "lcp": 791.585,
+        "speedIndex": 790,
+        "curlTotalTime": 595.5168590545654,
+        "playwrightTotalTime": 951.9257839918137
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 9,
+    "timestamp": 1785529.7142410278,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162963,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7439999999999998,
+        "tcpConnection": 84.91,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 387.962,
+        "totalTime": 551.871,
+        "fcp": 809.619,
+        "lcp": 809.619,
+        "speedIndex": 810,
+        "curlTotalTime": 589.8519719839096,
+        "playwrightTotalTime": 923.4123569726944
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 10,
+    "timestamp": 1627662.8588169813,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153589,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.524,
+        "tcpConnection": 84.15,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 422.09799999999996,
+        "totalTime": 585.5559999999999,
+        "fcp": 814.169,
+        "lcp": 814.169,
+        "speedIndex": 815,
+        "curlTotalTime": 625.190388917923,
+        "playwrightTotalTime": 954.8889999389648
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 11,
+    "timestamp": 1616010.1357489824,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162130,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.6380000000000003,
+        "tcpConnection": 89.691,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 382.561,
+        "totalTime": 554.708,
+        "fcp": 834.756,
+        "lcp": 834.756,
+        "speedIndex": 835,
+        "curlTotalTime": 590.5748770236969,
+        "playwrightTotalTime": 924.1769350767136
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 12,
+    "timestamp": 1803065.6961069999,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153530,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.114,
+        "tcpConnection": 90.24600000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 413.47499999999997,
+        "totalTime": 585.78,
+        "fcp": 831.137,
+        "lcp": 831.137,
+        "speedIndex": 832,
+        "curlTotalTime": 622.6687400001101,
+        "playwrightTotalTime": 999.9058389998972
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 13,
+    "timestamp": 1795214.5426430106,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 129780,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.314,
+        "tcpConnection": 94.045,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 511.46100000000007,
+        "totalTime": 692.98,
+        "fcp": 830.902,
+        "lcp": 830.902,
+        "speedIndex": 832,
+        "curlTotalTime": 741.3682590126991,
+        "playwrightTotalTime": 979.7559559941292
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 14,
+    "timestamp": 1834406.3498129845,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 134736,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.307,
+        "tcpConnection": 93.919,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 486.372,
+        "totalTime": 667.4870000000001,
+        "fcp": 842.418,
+        "lcp": 842.418,
+        "speedIndex": 841,
+        "curlTotalTime": 709.6061080694199,
+        "playwrightTotalTime": 856.442507982254
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 15,
+    "timestamp": 1803157.5650390387,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 167918,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1270000000000002,
+        "tcpConnection": 84.74900000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 372.453,
+        "totalTime": 535.588,
+        "fcp": 903.746,
+        "lcp": 903.746,
+        "speedIndex": 904,
+        "curlTotalTime": 571.2528669834137,
+        "playwrightTotalTime": 848.1590099334717
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 16,
+    "timestamp": 1645290.0098860264,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155164,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.749,
+        "tcpConnection": 84.539,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 416.062,
+        "totalTime": 579.61,
+        "fcp": 892.204,
+        "lcp": 892.204,
+        "speedIndex": 893,
+        "curlTotalTime": 625.4032829999924,
+        "playwrightTotalTime": 954.7555080652237
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 17,
+    "timestamp": 1633728.6842229366,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 151369,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.765,
+        "tcpConnection": 84.49,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 430.703,
+        "totalTime": 594.144,
+        "fcp": 859.67,
+        "lcp": 859.67,
+        "speedIndex": 860,
+        "curlTotalTime": 639.5949060916901,
+        "playwrightTotalTime": 887.4173859357834
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 18,
+    "timestamp": 1820726.269205,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155977,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.648,
+        "tcpConnection": 88.823,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 404.523,
+        "totalTime": 576.588,
+        "fcp": 816.403,
+        "lcp": 816.403,
+        "speedIndex": 817,
+        "curlTotalTime": 615.8395750001073,
+        "playwrightTotalTime": 929.61376200011
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 19,
+    "timestamp": 1812807.0849760175,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 157619,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2279999999999998,
+        "tcpConnection": 88.512,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 398.181,
+        "totalTime": 570.582,
+        "fcp": 891.361,
+        "lcp": 891.361,
+        "speedIndex": 892,
+        "curlTotalTime": 610.118597984314,
+        "playwrightTotalTime": 953.0250990092754
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 20,
+    "timestamp": 1852236.5395109653,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162247,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.625,
+        "tcpConnection": 89.306,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 381.87,
+        "totalTime": 554.308,
+        "fcp": 851.26,
+        "lcp": 851.26,
+        "speedIndex": 852,
+        "curlTotalTime": 594.6854439973831,
+        "playwrightTotalTime": 978.981656908989
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 21,
+    "timestamp": 1820671.322113037,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 157166,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.799,
+        "tcpConnection": 93.898,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 390.884,
+        "totalTime": 572.226,
+        "fcp": 833.843,
+        "lcp": 833.843,
+        "speedIndex": 834,
+        "curlTotalTime": 610.4947290420532,
+        "playwrightTotalTime": 935.8145260810852
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 22,
+    "timestamp": 1663104.4702290297,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 140686,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.684,
+        "tcpConnection": 88.912,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 463.872,
+        "totalTime": 639.258,
+        "fcp": 875.221,
+        "lcp": 875.221,
+        "speedIndex": 876,
+        "curlTotalTime": 683.2744519710541,
+        "playwrightTotalTime": 946.0296850204468
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 23,
+    "timestamp": 1651635.3606649637,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153658,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0709999999999997,
+        "tcpConnection": 89.301,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 413.031,
+        "totalTime": 585.29,
+        "fcp": 950.106,
+        "lcp": 950.106,
+        "speedIndex": 951,
+        "curlTotalTime": 631.9964029788971,
+        "playwrightTotalTime": 948.8110619783401
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 24,
+    "timestamp": 1838370.870583,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 158324,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2529999999999997,
+        "tcpConnection": 92.852,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 386.90999999999997,
+        "totalTime": 568.042,
+        "fcp": 769.227,
+        "lcp": 769.227,
+        "speedIndex": 770,
+        "curlTotalTime": 606.5529839999508,
+        "playwrightTotalTime": 918.4814810000826
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 25,
+    "timestamp": 1830562.9931530058,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 145021,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.597,
+        "tcpConnection": 84.325,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 375.324,
+        "totalTime": 620.151,
+        "fcp": 928.067,
+        "lcp": 928.067,
+        "speedIndex": 929,
+        "curlTotalTime": 658.8076190054417,
+        "playwrightTotalTime": 920.2543749809265
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 26,
+    "timestamp": 1869796.7809519768,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 165258,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.879,
+        "tcpConnection": 84.51599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 380.849,
+        "totalTime": 544.207,
+        "fcp": 911.04,
+        "lcp": 911.04,
+        "speedIndex": 911,
+        "curlTotalTime": 580.8097590208054,
+        "playwrightTotalTime": 947.2728799581528
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 27,
+    "timestamp": 1838364.6543849707,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 161126,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0869999999999997,
+        "tcpConnection": 89.406,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 385.904,
+        "totalTime": 558.164,
+        "fcp": 768.756,
+        "lcp": 768.756,
+        "speedIndex": 770,
+        "curlTotalTime": 593.2555010318756,
+        "playwrightTotalTime": 875.6857149600983
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 28,
+    "timestamp": 1680685.4255510569,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 146010,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.629,
+        "tcpConnection": 88.74799999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 429.151,
+        "totalTime": 615.9480000000001,
+        "fcp": 895.642,
+        "lcp": 895.642,
+        "speedIndex": 896,
+        "curlTotalTime": 654.6938389539719,
+        "playwrightTotalTime": 890.0320320129395
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 29,
+    "timestamp": 1669434.4238690138,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 158355,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.921,
+        "tcpConnection": 90.085,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 395.262,
+        "totalTime": 567.9309999999999,
+        "fcp": 1062.397,
+        "lcp": 1062.397,
+        "speedIndex": 1063,
+        "curlTotalTime": 606.5015419721603,
+        "playwrightTotalTime": 1027.0519169569016
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 30,
+    "timestamp": 1855912.221984,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 156109,
+        "uploadSpeed": 0,
+        "dnsLookup": 9.834000000000001,
+        "tcpConnection": 96.068,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 403.935,
+        "totalTime": 576.102,
+        "fcp": 924.872,
+        "lcp": 924.872,
+        "speedIndex": 925,
+        "curlTotalTime": 624.7323020000476,
+        "playwrightTotalTime": 870.134013999952
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 31,
+    "timestamp": 1848423.724867016,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155030,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.527,
+        "tcpConnection": 90.80000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 407.413,
+        "totalTime": 580.111,
+        "fcp": 848.639,
+        "lcp": 848.639,
+        "speedIndex": 850,
+        "curlTotalTime": 619.6212109923363,
+        "playwrightTotalTime": 941.8758479952812
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 32,
+    "timestamp": 1887568.6612839699,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 151123,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.0969999999999995,
+        "tcpConnection": 85.975,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 432.102,
+        "totalTime": 595.11,
+        "fcp": 843.661,
+        "lcp": 843.661,
+        "speedIndex": 844,
+        "curlTotalTime": 644.1483999490738,
+        "playwrightTotalTime": 995.9311590194702
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 33,
+    "timestamp": 1855957.975976944,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155730,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.375,
+        "tcpConnection": 93.075,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 396.526,
+        "totalTime": 577.505,
+        "fcp": 821.498,
+        "lcp": 821.498,
+        "speedIndex": 822,
+        "curlTotalTime": 622.9903190135956,
+        "playwrightTotalTime": 878.4241850376129
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 34,
+    "timestamp": 1698656.6216390133,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 139962,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.064,
+        "tcpConnection": 88.237,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 470.12100000000004,
+        "totalTime": 642.567,
+        "fcp": 883.21,
+        "lcp": 883.21,
+        "speedIndex": 884,
+        "curlTotalTime": 681.3063859939575,
+        "playwrightTotalTime": 915.9196850061417
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 35,
+    "timestamp": 1687166.773851037,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 152059,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.235,
+        "tcpConnection": 85.323,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 428.36600000000004,
+        "totalTime": 591.4469999999999,
+        "fcp": 847.79,
+        "lcp": 847.79,
+        "speedIndex": 848,
+        "curlTotalTime": 640.0018479824066,
+        "playwrightTotalTime": 895.669968008995
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 36,
+    "timestamp": 1873722.094761,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 142310,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.469,
+        "tcpConnection": 93.163,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 438.795,
+        "totalTime": 631.961,
+        "fcp": 792.671,
+        "lcp": 792.671,
+        "speedIndex": 793,
+        "curlTotalTime": 670.4445199999027,
+        "playwrightTotalTime": 928.3109969999641
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 37,
+    "timestamp": 1866479.2331550121,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 156282,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.095,
+        "tcpConnection": 89.309,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 397.189,
+        "totalTime": 575.4639999999999,
+        "fcp": 838.096,
+        "lcp": 838.096,
+        "speedIndex": 839,
+        "curlTotalTime": 614.974221020937,
+        "playwrightTotalTime": 1024.0590060055256
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 38,
+    "timestamp": 1905178.9115630388,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 164084,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.835,
+        "tcpConnection": 89.942,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 374.008,
+        "totalTime": 548.102,
+        "fcp": 817.048,
+        "lcp": 817.048,
+        "speedIndex": 818,
+        "curlTotalTime": 587.3762629032135,
+        "playwrightTotalTime": 1069.3861179351807
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 39,
+    "timestamp": 1873864.8851610422,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 141946,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.061,
+        "tcpConnection": 89.13,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 375.605,
+        "totalTime": 633.582,
+        "fcp": 1013.93,
+        "lcp": 1013.93,
+        "speedIndex": 1014,
+        "curlTotalTime": 678.5288550853729,
+        "playwrightTotalTime": 920.0468740463257
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 40,
+    "timestamp": 1716252.450023055,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 154267,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.422,
+        "tcpConnection": 88.61099999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 410.36499999999995,
+        "totalTime": 582.982,
+        "fcp": 800.192,
+        "lcp": 800.192,
+        "speedIndex": 801,
+        "curlTotalTime": 623.0094249248505,
+        "playwrightTotalTime": 912.3975019454956
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 41,
+    "timestamp": 1704939.1374440193,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 161236,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.442,
+        "tcpConnection": 88.708,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 385.469,
+        "totalTime": 557.783,
+        "fcp": 828.014,
+        "lcp": 828.014,
+        "speedIndex": 829,
+        "curlTotalTime": 595.5984140634537,
+        "playwrightTotalTime": 975.2902679443359
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 42,
+    "timestamp": 1891233.011216,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 160026,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.196,
+        "tcpConnection": 84.86200000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 398.75,
+        "totalTime": 562,
+        "fcp": 812.227,
+        "lcp": 812.227,
+        "speedIndex": 813,
+        "curlTotalTime": 611.9038800001144,
+        "playwrightTotalTime": 922.9126420000102
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 43,
+    "timestamp": 1884055.4173410237,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163937,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.902,
+        "tcpConnection": 84.713,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 385.116,
+        "totalTime": 548.594,
+        "fcp": 800.391,
+        "lcp": 800.391,
+        "speedIndex": 801,
+        "curlTotalTime": 596.0433470010757,
+        "playwrightTotalTime": 903.5295850038528
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 44,
+    "timestamp": 1922930.707126975,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 156376,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3890000000000002,
+        "tcpConnection": 88.605,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 402.99,
+        "totalTime": 575.119,
+        "fcp": 778.205,
+        "lcp": 778.205,
+        "speedIndex": 779,
+        "curlTotalTime": 613.7557229995728,
+        "playwrightTotalTime": 914.3795340061188
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 45,
+    "timestamp": 1891320.5646959543,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 159842,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7720000000000002,
+        "tcpConnection": 84.492,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 399.18199999999996,
+        "totalTime": 562.648,
+        "fcp": 851.484,
+        "lcp": 851.484,
+        "speedIndex": 852,
+        "curlTotalTime": 606.8319439888,
+        "playwrightTotalTime": 878.1767580509186
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 46,
+    "timestamp": 1733796.088798046,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 156939,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.989,
+        "tcpConnection": 89.116,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 400.541,
+        "totalTime": 573.054,
+        "fcp": 886.271,
+        "lcp": 886.271,
+        "speedIndex": 887,
+        "curlTotalTime": 610.2474050521851,
+        "playwrightTotalTime": 878.9248299598694
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 47,
+    "timestamp": 1722710.2899730206,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 161433,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.311,
+        "tcpConnection": 90.506,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 384.817,
+        "totalTime": 557.102,
+        "fcp": 825.879,
+        "lcp": 825.879,
+        "speedIndex": 826,
+        "curlTotalTime": 601.4589920043945,
+        "playwrightTotalTime": 895.1797930002213
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 48,
+    "timestamp": 1908870.695937,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162524,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.766,
+        "tcpConnection": 84.413,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 390.093,
+        "totalTime": 553.3639999999999,
+        "fcp": 958.219,
+        "lcp": 958.219,
+        "speedIndex": 959,
+        "curlTotalTime": 595.0106200000737,
+        "playwrightTotalTime": 861.4779629998375
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 49,
+    "timestamp": 1901832.1942970157,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 164918,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.318,
+        "tcpConnection": 85.088,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 382.014,
+        "totalTime": 545.329,
+        "fcp": 811.444,
+        "lcp": 811.444,
+        "speedIndex": 812,
+        "curlTotalTime": 588.4198780059814,
+        "playwrightTotalTime": 904.1700450181961
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 50,
+    "timestamp": 1940477.1196639538,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 168252,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4290000000000003,
+        "tcpConnection": 85.247,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 370.88599999999997,
+        "totalTime": 534.525,
+        "fcp": 804.617,
+        "lcp": 804.617,
+        "speedIndex": 805,
+        "curlTotalTime": 578.9978059530258,
+        "playwrightTotalTime": 909.5691999197006
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 51,
+    "timestamp": 1908920.5459150076,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 160507,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.101,
+        "tcpConnection": 89.23599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 387.90200000000004,
+        "totalTime": 560.317,
+        "fcp": 805.399,
+        "lcp": 805.399,
+        "speedIndex": 806,
+        "curlTotalTime": 595.8239879608154,
+        "playwrightTotalTime": 940.1275490522385
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 52,
+    "timestamp": 1751185.2941100597,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 147063,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0170000000000003,
+        "tcpConnection": 89.159,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 439.134,
+        "totalTime": 611.538,
+        "fcp": 835.1,
+        "lcp": 835.1,
+        "speedIndex": 835,
+        "curlTotalTime": 656.7731169462204,
+        "playwrightTotalTime": 860.6893179416656
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 53,
+    "timestamp": 1740218.6389850378,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 164168,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.888,
+        "tcpConnection": 85.72399999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 384.70799999999997,
+        "totalTime": 547.8199999999999,
+        "fcp": 874.645,
+        "lcp": 874.645,
+        "speedIndex": 875,
+        "curlTotalTime": 589.6698480844498,
+        "playwrightTotalTime": 871.929347038269
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 54,
+    "timestamp": 1926270.337966,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155643,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.797,
+        "tcpConnection": 94.394,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 396.78000000000003,
+        "totalTime": 577.827,
+        "fcp": 875.695,
+        "lcp": 875.695,
+        "speedIndex": 875,
+        "curlTotalTime": 617.2397459999193,
+        "playwrightTotalTime": 896.1839090001304
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 55,
+    "timestamp": 1919850.108185023,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 134455,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.462,
+        "tcpConnection": 91.642,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 410.871,
+        "totalTime": 668.884,
+        "fcp": 879.952,
+        "lcp": 879.952,
+        "speedIndex": 879,
+        "curlTotalTime": 709.9282470047474,
+        "playwrightTotalTime": 912.9400970041752
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 56,
+    "timestamp": 1958048.4138610363,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 168271,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.532,
+        "tcpConnection": 84.238,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 371.183,
+        "totalTime": 534.463,
+        "fcp": 849.704,
+        "lcp": 849.704,
+        "speedIndex": 850,
+        "curlTotalTime": 572.8820930719376,
+        "playwrightTotalTime": 871.8324669599533
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 57,
+    "timestamp": 1926586.447533965,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 160777,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.882,
+        "tcpConnection": 89.037,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 386.963,
+        "totalTime": 559.374,
+        "fcp": 847.262,
+        "lcp": 847.262,
+        "speedIndex": 848,
+        "curlTotalTime": 598.8707519769669,
+        "playwrightTotalTime": 872.362753033638
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 58,
+    "timestamp": 1768759.024047017,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 154912,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.5260000000000002,
+        "tcpConnection": 85.19500000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 417.12399999999997,
+        "totalTime": 580.5519999999999,
+        "fcp": 812.551,
+        "lcp": 812.551,
+        "speedIndex": 813,
+        "curlTotalTime": 621.4028089046478,
+        "playwrightTotalTime": 884.8294759988785
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 59,
+    "timestamp": 1758125.2253819704,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163563,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.002,
+        "tcpConnection": 89.229,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 377.329,
+        "totalTime": 549.8459999999999,
+        "fcp": 851.377,
+        "lcp": 851.377,
+        "speedIndex": 852,
+        "curlTotalTime": 588.665540933609,
+        "playwrightTotalTime": 976.8620009422302
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 60,
+    "timestamp": 1944149.111358,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 151893,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8890000000000002,
+        "tcpConnection": 89.167,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 419.433,
+        "totalTime": 592.093,
+        "fcp": 899.051,
+        "lcp": 899.051,
+        "speedIndex": 897,
+        "curlTotalTime": 633.1989639999811,
+        "playwrightTotalTime": 953.3537469999865
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 61,
+    "timestamp": 1937599.5453720093,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153268,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4139999999999997,
+        "tcpConnection": 88.456,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 414.557,
+        "totalTime": 586.782,
+        "fcp": 837.29,
+        "lcp": 837.29,
+        "speedIndex": 838,
+        "curlTotalTime": 625.525532990694,
+        "playwrightTotalTime": 932.0855240225792
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 62,
+    "timestamp": 1975639.5460289717,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 158071,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.655,
+        "tcpConnection": 88.792,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 396.72,
+        "totalTime": 568.952,
+        "fcp": 803.496,
+        "lcp": 803.496,
+        "speedIndex": 804,
+        "curlTotalTime": 616.8034559488297,
+        "playwrightTotalTime": 906.9593080282211
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 63,
+    "timestamp": 1944421.9892629385,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162222,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.493,
+        "tcpConnection": 88.642,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 382.217,
+        "totalTime": 554.392,
+        "fcp": 830.516,
+        "lcp": 830.516,
+        "speedIndex": 831,
+        "curlTotalTime": 598.3394839763641,
+        "playwrightTotalTime": 882.1844749450684
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 64,
+    "timestamp": 1786395.330875039,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155986,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8579999999999997,
+        "tcpConnection": 89.045,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 403.59299999999996,
+        "totalTime": 576.557,
+        "fcp": 842.634,
+        "lcp": 842.634,
+        "speedIndex": 843,
+        "curlTotalTime": 622.1549800634384,
+        "playwrightTotalTime": 918.6826460361481
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 65,
+    "timestamp": 1775922.0901989937,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 156912,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2279999999999998,
+        "tcpConnection": 92.916,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 392.173,
+        "totalTime": 573.155,
+        "fcp": 854.825,
+        "lcp": 854.825,
+        "speedIndex": 855,
+        "curlTotalTime": 611.7222300767899,
+        "playwrightTotalTime": 958.0939540863037
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 66,
+    "timestamp": 1961735.3081089999,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 136881,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.392,
+        "tcpConnection": 88.53099999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 484.917,
+        "totalTime": 657.0279999999999,
+        "fcp": 865.755,
+        "lcp": 865.755,
+        "speedIndex": 864,
+        "curlTotalTime": 699.8549599999096,
+        "playwrightTotalTime": 880.2402840000577
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 67,
+    "timestamp": 1955463.7007040083,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 131851,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.368,
+        "tcpConnection": 88.535,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 509.8,
+        "totalTime": 682.093,
+        "fcp": 817.625,
+        "lcp": 817.625,
+        "speedIndex": 818,
+        "curlTotalTime": 723.4373889863491,
+        "playwrightTotalTime": 906.1139929890633
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 68,
+    "timestamp": 1993473.98121202,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163156,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.7439999999999998,
+        "tcpConnection": 89.91799999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 379.024,
+        "totalTime": 551.219,
+        "fcp": 859.358,
+        "lcp": 859.358,
+        "speedIndex": 860,
+        "curlTotalTime": 593.4582049846649,
+        "playwrightTotalTime": 957.3501160144806
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 69,
+    "timestamp": 1961856.9773409367,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 149989,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.888,
+        "tcpConnection": 90.20100000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 427.428,
+        "totalTime": 599.6080000000001,
+        "fcp": 769.688,
+        "lcp": 769.688,
+        "speedIndex": 770,
+        "curlTotalTime": 641.7130019664764,
+        "playwrightTotalTime": 825.2538950443268
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 70,
+    "timestamp": 1804216.286984086,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 126135,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.173,
+        "tcpConnection": 92.78,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 531.655,
+        "totalTime": 713.004,
+        "fcp": 811.913,
+        "lcp": 811.913,
+        "speedIndex": 812,
+        "curlTotalTime": 750.8333210945129,
+        "playwrightTotalTime": 878.4094190597534
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 71,
+    "timestamp": 1793524.0591819286,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 158743,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7279999999999998,
+        "tcpConnection": 93.31200000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 385.445,
+        "totalTime": 566.543,
+        "fcp": 920.145,
+        "lcp": 920.145,
+        "speedIndex": 921,
+        "curlTotalTime": 615.4389050006866,
+        "playwrightTotalTime": 898.3901699781418
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 72,
+    "timestamp": 1979429.6561170002,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163007,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9459999999999997,
+        "tcpConnection": 89.053,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 379.539,
+        "totalTime": 551.724,
+        "fcp": 833.49,
+        "lcp": 833.49,
+        "speedIndex": 834,
+        "curlTotalTime": 591.8890029999893,
+        "playwrightTotalTime": 908.7479769999627
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 73,
+    "timestamp": 1973560.6946170032,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 161033,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4160000000000004,
+        "tcpConnection": 88.61099999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 386.406,
+        "totalTime": 558.486,
+        "fcp": 878.684,
+        "lcp": 878.684,
+        "speedIndex": 880,
+        "curlTotalTime": 604.9841600060463,
+        "playwrightTotalTime": 1002.3872020244598
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 74,
+    "timestamp": 2011379.7462539673,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 139383,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2239999999999998,
+        "tcpConnection": 93.989,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 463.54699999999997,
+        "totalTime": 645.2339999999999,
+        "fcp": 842.997,
+        "lcp": 842.997,
+        "speedIndex": 844,
+        "curlTotalTime": 686.1442999839783,
+        "playwrightTotalTime": 879.4768559932709
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 75,
+    "timestamp": 1979671.5054600239,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 163512,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1069999999999998,
+        "tcpConnection": 89.32,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 377.76300000000003,
+        "totalTime": 550.019,
+        "fcp": 810.961,
+        "lcp": 810.961,
+        "speedIndex": 812,
+        "curlTotalTime": 586.4057239294052,
+        "playwrightTotalTime": 926.4632040262222
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 76,
+    "timestamp": 1821981.7792170048,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153649,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4749999999999996,
+        "tcpConnection": 89.625,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 412.84,
+        "totalTime": 585.324,
+        "fcp": 824.69,
+        "lcp": 824.69,
+        "speedIndex": 825,
+        "curlTotalTime": 635.471067070961,
+        "playwrightTotalTime": 1026.0057400465012
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 77,
+    "timestamp": 1811566.953788042,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155264,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.963,
+        "tcpConnection": 94.111,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 398.098,
+        "totalTime": 579.237,
+        "fcp": 809.976,
+        "lcp": 809.976,
+        "speedIndex": 811,
+        "curlTotalTime": 621.079686999321,
+        "playwrightTotalTime": 873.4606779813766
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 78,
+    "timestamp": 1997483.4632199998,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 154630,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.9439999999999995,
+        "tcpConnection": 94.582,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 400.557,
+        "totalTime": 581.612,
+        "fcp": 836.815,
+        "lcp": 836.815,
+        "speedIndex": 837,
+        "curlTotalTime": 626.0951849999838,
+        "playwrightTotalTime": 971.7633080002852
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 79,
+    "timestamp": 1991241.4225720167,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 150205,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.798,
+        "tcpConnection": 84.966,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 435.49199999999996,
+        "totalTime": 598.746,
+        "fcp": 819.671,
+        "lcp": 819.671,
+        "speedIndex": 820,
+        "curlTotalTime": 650.1369649767876,
+        "playwrightTotalTime": 927.0089980065823
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 80,
+    "timestamp": 2028975.956956029,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 138154,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.365,
+        "tcpConnection": 86.086,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 487.376,
+        "totalTime": 650.972,
+        "fcp": 857.041,
+        "lcp": 857.041,
+        "speedIndex": 857,
+        "curlTotalTime": 703.2503989934921,
+        "playwrightTotalTime": 866.6140930652618
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 81,
+    "timestamp": 1997364.2408479452,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 152567,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.6879999999999997,
+        "tcpConnection": 94.326,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 407.171,
+        "totalTime": 589.477,
+        "fcp": 847.939,
+        "lcp": 847.939,
+        "speedIndex": 849,
+        "curlTotalTime": 642.4903689622879,
+        "playwrightTotalTime": 946.3116769790649
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 82,
+    "timestamp": 1839454.6509699821,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 150397,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.7729999999999997,
+        "tcpConnection": 90.23,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 425.392,
+        "totalTime": 597.9830000000001,
+        "fcp": 833.253,
+        "lcp": 833.253,
+        "speedIndex": 834,
+        "curlTotalTime": 639.7444630861282,
+        "playwrightTotalTime": 854.040748000145
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 83,
+    "timestamp": 1829409.0344799757,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155990,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1069999999999998,
+        "tcpConnection": 89.41,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 404.317,
+        "totalTime": 576.543,
+        "fcp": 836.346,
+        "lcp": 836.346,
+        "speedIndex": 837,
+        "curlTotalTime": 639.069825053215,
+        "playwrightTotalTime": 876.107794046402
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 84,
+    "timestamp": 2015016.9802859998,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 151200,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.529,
+        "tcpConnection": 93.634,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 413.538,
+        "totalTime": 594.807,
+        "fcp": 818.049,
+        "lcp": 818.049,
+        "speedIndex": 818,
+        "curlTotalTime": 638.8368629999459,
+        "playwrightTotalTime": 967.7830170001835
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 85,
+    "timestamp": 2009311.3138940036,
+    "webTests": [
+      {
+        "url": "http://ujhdwlzwva.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 153784,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.774,
+        "tcpConnection": 94.66499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 403.563,
+        "totalTime": 584.812,
+        "fcp": 813.361,
+        "lcp": 813.361,
+        "speedIndex": 814,
+        "curlTotalTime": 625.4117029905319,
+        "playwrightTotalTime": 974.1504070162773
+      }
+    ],
+    "totalDuration": 281744.4263689816,
+    "setupDuration": 3485.636038005352,
+    "diagnosticsDuration": 0.0034190118312835693,
+    "measurementDuration": 268245.5192040205,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 86,
+    "timestamp": 2046613.7972459793,
+    "webTests": [
+      {
+        "url": "http://tscl327owt.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 157394,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5820000000000003,
+        "tcpConnection": 84.23899999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 407.941,
+        "totalTime": 571.3979999999999,
+        "fcp": 846.538,
+        "lcp": 846.538,
+        "speedIndex": 847,
+        "curlTotalTime": 615.2026369571686,
+        "playwrightTotalTime": 920.3444240093231
+      }
+    ],
+    "totalDuration": 278341.74314403534,
+    "setupDuration": 2935.225779056549,
+    "diagnosticsDuration": 0.003177046775817871,
+    "measurementDuration": 265395.03818786144,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 87,
+    "timestamp": 2015221.3884420395,
+    "webTests": [
+      {
+        "url": "http://ixunuzmydh.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 160310,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.764,
+        "tcpConnection": 88.87599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 388.876,
+        "totalTime": 561.005,
+        "fcp": 866.94,
+        "lcp": 866.94,
+        "speedIndex": 867,
+        "curlTotalTime": 596.8577139377594,
+        "playwrightTotalTime": 864.9201749563217
+      }
+    ],
+    "totalDuration": 278396.55542099476,
+    "setupDuration": 3136.018919944763,
+    "diagnosticsDuration": 0.002846956253051758,
+    "measurementDuration": 265248.1422019005,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 88,
+    "timestamp": 1857019.7692930698,
+    "webTests": [
+      {
+        "url": "http://kkv2t43cnz.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 155657,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.443,
+        "tcpConnection": 88.55499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 405.413,
+        "totalTime": 577.7750000000001,
+        "fcp": 808.152,
+        "lcp": 808.152,
+        "speedIndex": 809,
+        "curlTotalTime": 615.4368520975113,
+        "playwrightTotalTime": 914.7337709665298
+      }
+    ],
+    "totalDuration": 277908.93127691746,
+    "setupDuration": 3127.7435220479965,
+    "diagnosticsDuration": 0.003102898597717285,
+    "measurementDuration": 264768.4166479111,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 89,
+    "timestamp": 1847110.2763209343,
+    "webTests": [
+      {
+        "url": "http://vgyjy5xsw9.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 164463,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3280000000000003,
+        "tcpConnection": 88.492,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 374.749,
+        "totalTime": 546.837,
+        "fcp": 849.367,
+        "lcp": 849.367,
+        "speedIndex": 850,
+        "curlTotalTime": 592.5604799985886,
+        "playwrightTotalTime": 927.4311839342117
+      }
+    ],
+    "totalDuration": 280533.5791299343,
+    "setupDuration": 3615.4236129522324,
+    "diagnosticsDuration": 0.0037668943405151367,
+    "measurementDuration": 266907.000819087,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Localxpose",
+    "measurementNumber": 90,
+    "timestamp": 2032827.888065,
+    "webTests": [
+      {
+        "url": "http://10kiestmiw.loclx.io/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 162282,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.881,
+        "tcpConnection": 85.53399999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 390.84000000000003,
+        "totalTime": 554.188,
+        "fcp": 810.836,
+        "lcp": 810.836,
+        "speedIndex": 811,
+        "curlTotalTime": 603.247181000188,
+        "playwrightTotalTime": 976.7955700000748
+      }
+    ],
+    "totalDuration": 277849.78199200006,
+    "setupDuration": 2615.512793000089,
+    "diagnosticsDuration": 0.009732000064104795,
+    "measurementDuration": 265223.0451780001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

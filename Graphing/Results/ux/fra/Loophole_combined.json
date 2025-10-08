@@ -1,0 +1,2795 @@
+[
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 1,
+    "timestamp": 5622361.166222006,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 2,
+    "timestamp": 2077450.3492069244,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4758,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.107,
+        "tcpConnection": 10.682,
+        "tlsHandshake": 231.159,
+        "timeToFirstByte": 341.807,
+        "totalTime": 341.92,
+        "fcp": 448.951,
+        "lcp": 729.984,
+        "speedIndex": 689,
+        "curlTotalTime": 385.4464359283447,
+        "playwrightTotalTime": 915.5035879611969
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 3,
+    "timestamp": 2046486.532595992,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4903,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.1450000000000005,
+        "tcpConnection": 11.695,
+        "tlsHandshake": 226.25500000000002,
+        "timeToFirstByte": 331.69100000000003,
+        "totalTime": 331.786,
+        "fcp": 658.169,
+        "lcp": 1067.593,
+        "speedIndex": 1037,
+        "curlTotalTime": 371.41396701335907,
+        "playwrightTotalTime": 903.136106967926
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 4,
+    "timestamp": 1888051.5857790709,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4356,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.6519999999999997,
+        "tcpConnection": 10.001,
+        "tlsHandshake": 261.69399999999996,
+        "timeToFirstByte": 373.33,
+        "totalTime": 373.43100000000004,
+        "fcp": 436.487,
+        "lcp": 717.857,
+        "speedIndex": 702,
+        "curlTotalTime": 411.7436990737915,
+        "playwrightTotalTime": 858.7917549610138
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 5,
+    "timestamp": 1878242.4572039843,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4746,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.695,
+        "tcpConnection": 12.838000000000001,
+        "tlsHandshake": 234.604,
+        "timeToFirstByte": 342.615,
+        "totalTime": 342.747,
+        "fcp": 458.866,
+        "lcp": 669.457,
+        "speedIndex": 703,
+        "curlTotalTime": 384.77095997333527,
+        "playwrightTotalTime": 876.3875839710236
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 6,
+    "timestamp": 3446186.27615,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 7,
+    "timestamp": 5622406.007815003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 8,
+    "timestamp": 2096475.057600975,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4811,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.597,
+        "tcpConnection": 9.741,
+        "tlsHandshake": 233.215,
+        "timeToFirstByte": 338.041,
+        "totalTime": 338.154,
+        "fcp": 451.511,
+        "lcp": 1149.385,
+        "speedIndex": 1044,
+        "curlTotalTime": 385.7502429485321,
+        "playwrightTotalTime": 1408.2253730297089
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 9,
+    "timestamp": 2064334.6057709455,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4934,
+        "uploadSpeed": 0,
+        "dnsLookup": 7.8709999999999996,
+        "tcpConnection": 13.506,
+        "tlsHandshake": 228.153,
+        "timeToFirstByte": 329.56600000000003,
+        "totalTime": 329.701,
+        "fcp": 447.77,
+        "lcp": 846.805,
+        "speedIndex": 841,
+        "curlTotalTime": 382.0903590917587,
+        "playwrightTotalTime": 870.4990249872208
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 10,
+    "timestamp": 1905593.6539360285,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4984,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.1850000000000005,
+        "tcpConnection": 10.229000000000001,
+        "tlsHandshake": 219.776,
+        "timeToFirstByte": 326.29,
+        "totalTime": 326.389,
+        "fcp": 476.093,
+        "lcp": 963.073,
+        "speedIndex": 808,
+        "curlTotalTime": 374.115394949913,
+        "playwrightTotalTime": 841.6637560129166
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 11,
+    "timestamp": 1896153.7130619287,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4541,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.451,
+        "tcpConnection": 9.216999999999999,
+        "tlsHandshake": 249.388,
+        "timeToFirstByte": 358.126,
+        "totalTime": 358.237,
+        "fcp": 465.028,
+        "lcp": 956.906,
+        "speedIndex": 909,
+        "curlTotalTime": 404.47916305065155,
+        "playwrightTotalTime": 879.6560770273209
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 12,
+    "timestamp": 3446233.058596,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 13,
+    "timestamp": 5622449.408481002,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 14,
+    "timestamp": 2114309.8106609583,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4697,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.612,
+        "tcpConnection": 8.208,
+        "tlsHandshake": 240.591,
+        "timeToFirstByte": 346.225,
+        "totalTime": 346.32099999999997,
+        "fcp": 455.745,
+        "lcp": 730.643,
+        "speedIndex": 689,
+        "curlTotalTime": 386.99256694316864,
+        "playwrightTotalTime": 874.5994819402695
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 15,
+    "timestamp": 2082034.0545309782,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4827,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0370000000000004,
+        "tcpConnection": 9.308,
+        "tlsHandshake": 234.849,
+        "timeToFirstByte": 336.932,
+        "totalTime": 337.02500000000003,
+        "fcp": 468.537,
+        "lcp": 739.835,
+        "speedIndex": 752,
+        "curlTotalTime": 375.02692997455597,
+        "playwrightTotalTime": 851.9398100376129
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 16,
+    "timestamp": 1923687.3853759766,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4638,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.885,
+        "tcpConnection": 9.969000000000001,
+        "tlsHandshake": 243.554,
+        "timeToFirstByte": 350.70099999999996,
+        "totalTime": 350.795,
+        "fcp": 409.87,
+        "lcp": 723.855,
+        "speedIndex": 680,
+        "curlTotalTime": 391.5499849319458,
+        "playwrightTotalTime": 813.0847820043564
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 17,
+    "timestamp": 1913906.9832530022,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4565,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.719,
+        "tcpConnection": 8.562,
+        "tlsHandshake": 248.151,
+        "timeToFirstByte": 356.241,
+        "totalTime": 356.354,
+        "fcp": 462.687,
+        "lcp": 719.332,
+        "speedIndex": 756,
+        "curlTotalTime": 404.0086510181427,
+        "playwrightTotalTime": 912.3405309915543
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 18,
+    "timestamp": 3446277.276496,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 19,
+    "timestamp": 5622492.029274017,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 20,
+    "timestamp": 2132411.4583319426,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4937,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8609999999999998,
+        "tcpConnection": 8.729000000000001,
+        "tlsHandshake": 221.678,
+        "timeToFirstByte": 329.40599999999995,
+        "totalTime": 329.51000000000005,
+        "fcp": 438.183,
+        "lcp": 792.941,
+        "speedIndex": 801,
+        "curlTotalTime": 379.60485196113586,
+        "playwrightTotalTime": 842.0585360527039
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 21,
+    "timestamp": 2100276.332720995,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4776,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7,
+        "tcpConnection": 8.850999999999999,
+        "tlsHandshake": 236.28,
+        "timeToFirstByte": 340.49,
+        "totalTime": 340.621,
+        "fcp": 465.49,
+        "lcp": 1111.433,
+        "speedIndex": 1018,
+        "curlTotalTime": 389.1648509502411,
+        "playwrightTotalTime": 811.4155679941177
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 22,
+    "timestamp": 1941349.1909940243,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4694,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.023,
+        "tcpConnection": 8.651000000000002,
+        "tlsHandshake": 238.614,
+        "timeToFirstByte": 346.461,
+        "totalTime": 346.571,
+        "fcp": 427.349,
+        "lcp": 620.449,
+        "speedIndex": 644,
+        "curlTotalTime": 394.80860805511475,
+        "playwrightTotalTime": 870.688628077507
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 23,
+    "timestamp": 1931773.8330500126,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4837,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.89,
+        "tcpConnection": 9.251000000000001,
+        "tlsHandshake": 231.309,
+        "timeToFirstByte": 336.215,
+        "totalTime": 336.343,
+        "fcp": 435.148,
+        "lcp": 774.392,
+        "speedIndex": 769,
+        "curlTotalTime": 376.2113609313965,
+        "playwrightTotalTime": 853.4777280092239
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 24,
+    "timestamp": 3446323.2350169998,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 25,
+    "timestamp": 5622538.009276003,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 26,
+    "timestamp": 2150625.3045459986,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4258,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.494,
+        "tcpConnection": 42.683,
+        "tlsHandshake": 273.034,
+        "timeToFirstByte": 381.90000000000003,
+        "totalTime": 382.015,
+        "fcp": 455.407,
+        "lcp": 819.372,
+        "speedIndex": 775,
+        "curlTotalTime": 425.9657070636749,
+        "playwrightTotalTime": 1061.7136290073395
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 27,
+    "timestamp": 2118566.9602969885,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4566,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.775,
+        "tcpConnection": 8.612,
+        "tlsHandshake": 247.536,
+        "timeToFirstByte": 356.212,
+        "totalTime": 356.329,
+        "fcp": 470.758,
+        "lcp": 1061.528,
+        "speedIndex": 1008,
+        "curlTotalTime": 408.8099240064621,
+        "playwrightTotalTime": 1018.4725329875946
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 28,
+    "timestamp": 1958892.270179987,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5064,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8609999999999998,
+        "tcpConnection": 8.676,
+        "tlsHandshake": 217.994,
+        "timeToFirstByte": 321.139,
+        "totalTime": 321.231,
+        "fcp": 421.256,
+        "lcp": 677.838,
+        "speedIndex": 684,
+        "curlTotalTime": 363.2131620645523,
+        "playwrightTotalTime": 842.4219191074371
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 29,
+    "timestamp": 1949788.3447079659,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4574,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.781,
+        "tcpConnection": 9.827,
+        "tlsHandshake": 251.76,
+        "timeToFirstByte": 355.538,
+        "totalTime": 355.653,
+        "fcp": 432.168,
+        "lcp": 756.252,
+        "speedIndex": 772,
+        "curlTotalTime": 400.6696799993515,
+        "playwrightTotalTime": 1001.8731499910355
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 30,
+    "timestamp": 3446372.604343,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 31,
+    "timestamp": 5622585.541220009,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 32,
+    "timestamp": 2168245.669013977,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4943,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.758,
+        "tcpConnection": 8.377,
+        "tlsHandshake": 220.49099999999999,
+        "timeToFirstByte": 328.913,
+        "totalTime": 329.109,
+        "fcp": 480.053,
+        "lcp": 771.789,
+        "speedIndex": 787,
+        "curlTotalTime": 378.99639904499054,
+        "playwrightTotalTime": 888.9226430654526
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 33,
+    "timestamp": 2136340.9592369795,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4672,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.064,
+        "tcpConnection": 9.424,
+        "tlsHandshake": 239.947,
+        "timeToFirstByte": 348.1,
+        "totalTime": 348.2,
+        "fcp": 475.968,
+        "lcp": 964.194,
+        "speedIndex": 880,
+        "curlTotalTime": 452.8986339569092,
+        "playwrightTotalTime": 834.3710919618607
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 34,
+    "timestamp": 1993973.8436089754,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4982,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6830000000000003,
+        "tcpConnection": 8.706999999999999,
+        "tlsHandshake": 219.878,
+        "timeToFirstByte": 326.445,
+        "totalTime": 326.542,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 366.0271899700165,
+        "playwrightTotalTime": 806.0019850730896
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 35,
+    "timestamp": 1967834.191969037,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4673,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.665,
+        "tcpConnection": 9.556000000000001,
+        "tlsHandshake": 237.16,
+        "timeToFirstByte": 348.00399999999996,
+        "totalTime": 348.13100000000003,
+        "fcp": 453.877,
+        "lcp": 760.735,
+        "speedIndex": 770,
+        "curlTotalTime": 391.3003879785538,
+        "playwrightTotalTime": 859.286092042923
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 36,
+    "timestamp": 3446418.492512,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 37,
+    "timestamp": 5622630.577289015,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 38,
+    "timestamp": 2186044.5876049995,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4032,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.166,
+        "tcpConnection": 8.874,
+        "tlsHandshake": 239.394,
+        "timeToFirstByte": 403.33299999999997,
+        "totalTime": 403.441,
+        "fcp": 457.74,
+        "lcp": 708.187,
+        "speedIndex": 731,
+        "curlTotalTime": 451.50466001033783,
+        "playwrightTotalTime": 833.8079299926758
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 39,
+    "timestamp": 2153963.9453220367,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5049,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.875,
+        "tcpConnection": 10.445,
+        "tlsHandshake": 215.731,
+        "timeToFirstByte": 322.096,
+        "totalTime": 322.185,
+        "fcp": 433.73,
+        "lcp": 819.494,
+        "speedIndex": 794,
+        "curlTotalTime": 369.77914690971375,
+        "playwrightTotalTime": 862.1085759401321
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 40,
+    "timestamp": 2011642.9053549767,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4765,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.115,
+        "tcpConnection": 8.222999999999999,
+        "tlsHandshake": 238.261,
+        "timeToFirstByte": 341.334,
+        "totalTime": 341.443,
+        "fcp": 441.504,
+        "lcp": 803.987,
+        "speedIndex": 788,
+        "curlTotalTime": 389.39816200733185,
+        "playwrightTotalTime": 801.3285340070724
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 41,
+    "timestamp": 1985729.0280989408,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4707,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.911,
+        "tcpConnection": 13.521999999999998,
+        "tlsHandshake": 241.71,
+        "timeToFirstByte": 345.508,
+        "totalTime": 345.603,
+        "fcp": 450.671,
+        "lcp": 741.267,
+        "speedIndex": 751,
+        "curlTotalTime": 396.1350510120392,
+        "playwrightTotalTime": 862.1315610408783
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 42,
+    "timestamp": 3446464.59509,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 43,
+    "timestamp": 5622676.64904201,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 44,
+    "timestamp": 2203718.532274008,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4804,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7950000000000004,
+        "tcpConnection": 8.456999999999999,
+        "tlsHandshake": 231.466,
+        "timeToFirstByte": 338.49,
+        "totalTime": 338.62399999999997,
+        "fcp": 431.331,
+        "lcp": 759.464,
+        "speedIndex": 772,
+        "curlTotalTime": 380.12159299850464,
+        "playwrightTotalTime": 834.3401089906693
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 45,
+    "timestamp": 2171697.754317999,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4988,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.027,
+        "tcpConnection": 9.927,
+        "tlsHandshake": 221.07299999999998,
+        "timeToFirstByte": 326.04,
+        "totalTime": 326.154,
+        "fcp": 447.322,
+        "lcp": 1146.35,
+        "speedIndex": 1064,
+        "curlTotalTime": 370.94166004657745,
+        "playwrightTotalTime": 831.3015810251236
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 46,
+    "timestamp": 2042322.6832190752,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4747,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.17,
+        "tcpConnection": 9.436,
+        "tlsHandshake": 236.717,
+        "timeToFirstByte": 342.605,
+        "totalTime": 342.714,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 385.39036798477173,
+        "playwrightTotalTime": 0,
+        "error": "Playwright error: page.goto: net::ERR_TIMED_OUT at https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest\nCall log:\n\u001b[2m  - navigating to \"https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest\", waiting until \"load\"\u001b[22m\n"
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 47,
+    "timestamp": 2003721.614027977,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4614,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9139999999999997,
+        "tcpConnection": 9.259,
+        "tlsHandshake": 245.46599999999998,
+        "timeToFirstByte": 352.50100000000003,
+        "totalTime": 352.614,
+        "fcp": 506.265,
+        "lcp": 785.203,
+        "speedIndex": 805,
+        "curlTotalTime": 393.9001280069351,
+        "playwrightTotalTime": 838.9987540245056
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 48,
+    "timestamp": 3446511.073458,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 49,
+    "timestamp": 5622718.96162501,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 50,
+    "timestamp": 2221554.5675230026,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4798,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6,
+        "tcpConnection": 8.266,
+        "tlsHandshake": 231.888,
+        "timeToFirstByte": 338.964,
+        "totalTime": 339.05400000000003,
+        "fcp": 476.583,
+        "lcp": 899.41,
+        "speedIndex": 852,
+        "curlTotalTime": 382.9647480249405,
+        "playwrightTotalTime": 865.3663909435272
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 51,
+    "timestamp": 2189863.9904710054,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4721,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.846,
+        "tcpConnection": 9.089,
+        "tlsHandshake": 238.097,
+        "timeToFirstByte": 344.479,
+        "totalTime": 344.62,
+        "fcp": 439.933,
+        "lcp": 793.083,
+        "speedIndex": 794,
+        "curlTotalTime": 385.7280809879303,
+        "playwrightTotalTime": 895.0866680145264
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 52,
+    "timestamp": 2060133.618653059,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4723,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0460000000000003,
+        "tcpConnection": 9.251000000000001,
+        "tlsHandshake": 237.30200000000002,
+        "timeToFirstByte": 344.31600000000003,
+        "totalTime": 344.457,
+        "fcp": 434.353,
+        "lcp": 704.417,
+        "speedIndex": 701,
+        "curlTotalTime": 413.1003190279007,
+        "playwrightTotalTime": 835.6159800291061
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 53,
+    "timestamp": 2021466.6733759642,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4818,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2030000000000003,
+        "tcpConnection": 9.023,
+        "tlsHandshake": 232.459,
+        "timeToFirstByte": 337.568,
+        "totalTime": 337.686,
+        "fcp": 448.413,
+        "lcp": 833.176,
+        "speedIndex": 825,
+        "curlTotalTime": 389.8163150548935,
+        "playwrightTotalTime": 879.3501899242401
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 54,
+    "timestamp": 3446549.548884,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 55,
+    "timestamp": 5622759.792737007,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 56,
+    "timestamp": 2239099.794268012,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4758,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.721,
+        "tcpConnection": 8.463999999999999,
+        "tlsHandshake": 236.143,
+        "timeToFirstByte": 341.845,
+        "totalTime": 341.93800000000005,
+        "fcp": 446.19,
+        "lcp": 777.166,
+        "speedIndex": 755,
+        "curlTotalTime": 385.80233895778656,
+        "playwrightTotalTime": 856.9458910226822
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 57,
+    "timestamp": 2207699.033336997,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4865,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7950000000000004,
+        "tcpConnection": 8.536,
+        "tlsHandshake": 231.143,
+        "timeToFirstByte": 334.291,
+        "totalTime": 334.392,
+        "fcp": 442.032,
+        "lcp": 999.402,
+        "speedIndex": 943,
+        "curlTotalTime": 380.62414598464966,
+        "playwrightTotalTime": 808.0606820583344
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 58,
+    "timestamp": 2360591.8646270037,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 28: "
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 59,
+    "timestamp": 2038932.845353961,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4608,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.801,
+        "tcpConnection": 8.486,
+        "tlsHandshake": 248.762,
+        "timeToFirstByte": 352.937,
+        "totalTime": 353.06399999999996,
+        "fcp": 432.901,
+        "lcp": 712.184,
+        "speedIndex": 721,
+        "curlTotalTime": 402.0233689546585,
+        "playwrightTotalTime": 854.1953490972519
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 60,
+    "timestamp": 3446585.137613,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 61,
+    "timestamp": 5622796.407870024,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 62,
+    "timestamp": 2257016.7743979692,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4773,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7950000000000004,
+        "tcpConnection": 8.501,
+        "tlsHandshake": 236.687,
+        "timeToFirstByte": 340.752,
+        "totalTime": 340.857,
+        "fcp": 439.925,
+        "lcp": 751.353,
+        "speedIndex": 722,
+        "curlTotalTime": 382.41097700595856,
+        "playwrightTotalTime": 856.3395830392838
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 63,
+    "timestamp": 2226046.9576619864,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4787,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.754,
+        "tcpConnection": 8.41,
+        "tlsHandshake": 233.515,
+        "timeToFirstByte": 339.717,
+        "totalTime": 339.866,
+        "fcp": 433.547,
+        "lcp": 1156.991,
+        "speedIndex": 1078,
+        "curlTotalTime": 388.88475799560547,
+        "playwrightTotalTime": 870.6530120372772
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 64,
+    "timestamp": 2378213.8119010925,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4824,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.633,
+        "tcpConnection": 10.429,
+        "tlsHandshake": 230.79,
+        "timeToFirstByte": 337.108,
+        "totalTime": 337.204,
+        "fcp": 428.584,
+        "lcp": 780.662,
+        "speedIndex": 699,
+        "curlTotalTime": 380.6535279750824,
+        "playwrightTotalTime": 851.6761699914932
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 65,
+    "timestamp": 2057402.9076189995,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4778,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.879,
+        "tcpConnection": 9.096,
+        "tlsHandshake": 234.488,
+        "timeToFirstByte": 340.372,
+        "totalTime": 340.468,
+        "fcp": 447.313,
+        "lcp": 951.364,
+        "speedIndex": 826,
+        "curlTotalTime": 388.95806205272675,
+        "playwrightTotalTime": 1277.88408100605
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 66,
+    "timestamp": 3446627.539729,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 67,
+    "timestamp": 5622841.567257017,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 68,
+    "timestamp": 2274721.4113839865,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4875,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.714,
+        "tcpConnection": 8.396,
+        "tlsHandshake": 225.183,
+        "timeToFirstByte": 333.648,
+        "totalTime": 333.741,
+        "fcp": 453.043,
+        "lcp": 790.347,
+        "speedIndex": 798,
+        "curlTotalTime": 381.03923296928406,
+        "playwrightTotalTime": 896.8205990791321
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 69,
+    "timestamp": 2243563.812216997,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4777,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.848,
+        "tcpConnection": 8.581999999999999,
+        "tlsHandshake": 237.964,
+        "timeToFirstByte": 340.462,
+        "totalTime": 340.578,
+        "fcp": 447.995,
+        "lcp": 771.428,
+        "speedIndex": 800,
+        "curlTotalTime": 384.591658949852,
+        "playwrightTotalTime": 851.3580529689789
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 70,
+    "timestamp": 2395904.8781950474,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4662,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2,
+        "tcpConnection": 8.209,
+        "tlsHandshake": 245.928,
+        "timeToFirstByte": 348.882,
+        "totalTime": 348.974,
+        "fcp": 436.302,
+        "lcp": 1019.775,
+        "speedIndex": 930,
+        "curlTotalTime": 388.0786519050598,
+        "playwrightTotalTime": 835.1194039583206
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 71,
+    "timestamp": 2075648.5366020203,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4502,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.31,
+        "tcpConnection": 9.464,
+        "tlsHandshake": 251.59300000000002,
+        "timeToFirstByte": 361.236,
+        "totalTime": 361.36600000000004,
+        "fcp": 449.932,
+        "lcp": 996.366,
+        "speedIndex": 930,
+        "curlTotalTime": 416.8008929491043,
+        "playwrightTotalTime": 889.0262550115585
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 72,
+    "timestamp": 3446676.7605,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 73,
+    "timestamp": 5622883.6153,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 74,
+    "timestamp": 2292586.3008369207,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4519,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.771,
+        "tcpConnection": 8.803,
+        "tlsHandshake": 236.497,
+        "timeToFirstByte": 359.93,
+        "totalTime": 360.024,
+        "fcp": 434.737,
+        "lcp": 1099.441,
+        "speedIndex": 990,
+        "curlTotalTime": 398.13489496707916,
+        "playwrightTotalTime": 933.0427409410477
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 75,
+    "timestamp": 2261344.2608749866,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4944,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.305,
+        "tcpConnection": 9.993,
+        "tlsHandshake": 215.316,
+        "timeToFirstByte": 328.96799999999996,
+        "totalTime": 329.065,
+        "fcp": 465.744,
+        "lcp": 725.148,
+        "speedIndex": 684,
+        "curlTotalTime": 371.82582795619965,
+        "playwrightTotalTime": 863.8467639684677
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 76,
+    "timestamp": 2426533.2909600735,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4786,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.007,
+        "tcpConnection": 8.825,
+        "tlsHandshake": 233.93,
+        "timeToFirstByte": 339.82099999999997,
+        "totalTime": 339.946,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 387.1785920858383,
+        "playwrightTotalTime": 0,
+        "error": "Playwright error: page.goto: net::ERR_TIMED_OUT at https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest\nCall log:\n\u001b[2m  - navigating to \"https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest\", waiting until \"load\"\u001b[22m\n"
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 77,
+    "timestamp": 2093677.311013937,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4765,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.251,
+        "tcpConnection": 9.176,
+        "tlsHandshake": 233.9,
+        "timeToFirstByte": 341.329,
+        "totalTime": 341.441,
+        "fcp": 434.697,
+        "lcp": 1013.835,
+        "speedIndex": 919,
+        "curlTotalTime": 392.90561401844025,
+        "playwrightTotalTime": 949.8682700395584
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 78,
+    "timestamp": 3446724.087703,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 79,
+    "timestamp": 5622929.487742007,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 80,
+    "timestamp": 2310653.897374034,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5011,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.69,
+        "tcpConnection": 9.719,
+        "tlsHandshake": 221.302,
+        "timeToFirstByte": 324.52599999999995,
+        "totalTime": 324.668,
+        "fcp": 449.376,
+        "lcp": 1041.203,
+        "speedIndex": 963,
+        "curlTotalTime": 367.1362609863281,
+        "playwrightTotalTime": 1252.9157309532166
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 81,
+    "timestamp": 2279413.157243967,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4796,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.184,
+        "tcpConnection": 9.364,
+        "tlsHandshake": 234.377,
+        "timeToFirstByte": 339.021,
+        "totalTime": 339.22799999999995,
+        "fcp": 440.997,
+        "lcp": 771.783,
+        "speedIndex": 801,
+        "curlTotalTime": 393.89783096313477,
+        "playwrightTotalTime": 876.4629830121994
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 82,
+    "timestamp": 2444008.749898076,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4777,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.036,
+        "tcpConnection": 11.204,
+        "tlsHandshake": 234.96,
+        "timeToFirstByte": 340.457,
+        "totalTime": 340.566,
+        "fcp": 439.085,
+        "lcp": 841.358,
+        "speedIndex": 820,
+        "curlTotalTime": 390.74301397800446,
+        "playwrightTotalTime": 807.6156189441681
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 83,
+    "timestamp": 2111644.3776329756,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4739,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9299999999999997,
+        "tcpConnection": 9.14,
+        "tlsHandshake": 237.79500000000002,
+        "timeToFirstByte": 343.158,
+        "totalTime": 343.274,
+        "fcp": 456.262,
+        "lcp": 817.026,
+        "speedIndex": 819,
+        "curlTotalTime": 394.27094995975494,
+        "playwrightTotalTime": 877.9041179418564
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 84,
+    "timestamp": 3446770.206539,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 85,
+    "timestamp": 5622971.721651018,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 3613448.586982012,
+    "setupDuration": 3602792.427868992,
+    "diagnosticsDuration": 0.002366989850997925,
+    "measurementDuration": 653.463299036026,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 86,
+    "timestamp": 2328396.5803790092,
+    "webTests": [
+      {
+        "url": "https://7a94d46508721ba654873e1f2f948803.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4688,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.898,
+        "tcpConnection": 8.898,
+        "tlsHandshake": 239.179,
+        "timeToFirstByte": 346.935,
+        "totalTime": 347.053,
+        "fcp": 447.824,
+        "lcp": 696.519,
+        "speedIndex": 719,
+        "curlTotalTime": 388.61405396461487,
+        "playwrightTotalTime": 948.1402869224548
+      }
+    ],
+    "totalDuration": 281585.49249601364,
+    "setupDuration": 2810.522374033928,
+    "diagnosticsDuration": 0.0029979944229125977,
+    "measurementDuration": 268763.4439550638,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 87,
+    "timestamp": 2297293.2123869658,
+    "webTests": [
+      {
+        "url": "https://d9a90c8e08bc6f42ccc7917d50394cfb.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5063,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.202,
+        "tcpConnection": 9.949,
+        "tlsHandshake": 218.401,
+        "timeToFirstByte": 321.202,
+        "totalTime": 321.33299999999997,
+        "fcp": 477.857,
+        "lcp": 801.42,
+        "speedIndex": 805,
+        "curlTotalTime": 370.7028180360794,
+        "playwrightTotalTime": 872.4703229665756
+      }
+    ],
+    "totalDuration": 281878.7022769451,
+    "setupDuration": 2787.5996050834656,
+    "diagnosticsDuration": 0.0026110410690307617,
+    "measurementDuration": 269079.6596558094,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 88,
+    "timestamp": 2461565.982282996,
+    "webTests": [
+      {
+        "url": "https://c58993108ba93cb3f84b96f23d402006.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4896,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4139999999999997,
+        "tcpConnection": 8.452,
+        "tlsHandshake": 228.62099999999998,
+        "timeToFirstByte": 332.168,
+        "totalTime": 332.294,
+        "fcp": 432.825,
+        "lcp": 692.237,
+        "speedIndex": 697,
+        "curlTotalTime": 370.2275069952011,
+        "playwrightTotalTime": 761.7265779972076
+      }
+    ],
+    "totalDuration": 604362.5226650238,
+    "setupDuration": 2899.7735710144043,
+    "diagnosticsDuration": 0.0032950639724731445,
+    "measurementDuration": 591454.934530735,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 89,
+    "timestamp": 2130042.9376080036,
+    "webTests": [
+      {
+        "url": "https://22bc6551defb7923ebfb5b0e1940c4ad.loophole.site/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4658,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0370000000000004,
+        "tcpConnection": 9.249,
+        "tlsHandshake": 241.145,
+        "timeToFirstByte": 349.16,
+        "totalTime": 349.277,
+        "fcp": 447.788,
+        "lcp": 1018.297,
+        "speedIndex": 949,
+        "curlTotalTime": 401.11371302604675,
+        "playwrightTotalTime": 1276.845545053482
+      }
+    ],
+    "totalDuration": 282707.8411259651,
+    "setupDuration": 3097.0988730192184,
+    "diagnosticsDuration": 0.0032699108123779297,
+    "measurementDuration": 269602.87403714657,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Loophole",
+    "measurementNumber": 90,
+    "timestamp": 3446816.761376,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 1413793.613849,
+    "setupDuration": 1403116.4775650003,
+    "diagnosticsDuration": 0.004061000421643257,
+    "measurementDuration": 673.6570070008747,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 1,
+    "timestamp": 591446.5398710072,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2773,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.91,
+        "tcpConnection": 6.954,
+        "tlsHandshake": 52.758,
+        "timeToFirstByte": 586.468,
+        "totalTime": 586.6179999999999,
+        "fcp": 262.463,
+        "lcp": 670.44,
+        "speedIndex": 673,
+        "curlTotalTime": 624.4843889772892,
+        "playwrightTotalTime": 738.1984579861164
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 2,
+    "timestamp": 665099.8812559843,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2733,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.677,
+        "tcpConnection": 7.736,
+        "tlsHandshake": 50.609,
+        "timeToFirstByte": 594.533,
+        "totalTime": 595.1419999999999,
+        "fcp": 266.581,
+        "lcp": 601.875,
+        "speedIndex": 600,
+        "curlTotalTime": 637.0205500125885,
+        "playwrightTotalTime": 691.2209030389786
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 3,
+    "timestamp": 627731.4084899426,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2613,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.183,
+        "tcpConnection": 7.388,
+        "tlsHandshake": 68.741,
+        "timeToFirstByte": 622.381,
+        "totalTime": 622.537,
+        "fcp": 240.829,
+        "lcp": 699.893,
+        "speedIndex": 637,
+        "curlTotalTime": 664.3667550086975,
+        "playwrightTotalTime": 723.6974170207977
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 4,
+    "timestamp": 457271.6512030363,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2647,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.890000000000001,
+        "tcpConnection": 7.061999999999999,
+        "tlsHandshake": 48.577000000000005,
+        "timeToFirstByte": 614.443,
+        "totalTime": 614.5690000000001,
+        "fcp": 273.682,
+        "lcp": 655.194,
+        "speedIndex": 636,
+        "curlTotalTime": 658.6833760738373,
+        "playwrightTotalTime": 654.0501600503922
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 5,
+    "timestamp": 703158.596339941,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2355,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.035,
+        "tcpConnection": 7.211,
+        "tlsHandshake": 81.96100000000001,
+        "timeToFirstByte": 690.7529999999999,
+        "totalTime": 690.862,
+        "fcp": 438.624,
+        "lcp": 698.896,
+        "speedIndex": 664,
+        "curlTotalTime": 742.5621359348297,
+        "playwrightTotalTime": 695.1233140230179
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 6,
+    "timestamp": 398935.657643,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2680,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.328,
+        "tcpConnection": 7.283,
+        "tlsHandshake": 51.469,
+        "timeToFirstByte": 606.798,
+        "totalTime": 606.933,
+        "fcp": 264.451,
+        "lcp": 727.724,
+        "speedIndex": 709,
+        "curlTotalTime": 651.6820730000036,
+        "playwrightTotalTime": 681.8173759999918
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 7,
+    "timestamp": 608760.0830340087,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9098,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9949999999999997,
+        "tcpConnection": 4.235,
+        "tlsHandshake": 44.135,
+        "timeToFirstByte": 178.72299999999998,
+        "totalTime": 178.82600000000002,
+        "fcp": 272.793,
+        "lcp": 473.561,
+        "speedIndex": 514,
+        "curlTotalTime": 216.9081540107727,
+        "playwrightTotalTime": 648.8698699772358
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 8,
+    "timestamp": 682381.4373890162,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9583,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0669999999999997,
+        "tcpConnection": 4.446000000000001,
+        "tlsHandshake": 43.661,
+        "timeToFirstByte": 166.513,
+        "totalTime": 169.768,
+        "fcp": 249.168,
+        "lcp": 588.029,
+        "speedIndex": 590,
+        "curlTotalTime": 210.64859700202942,
+        "playwrightTotalTime": 581.0013619661331
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 9,
+    "timestamp": 645119.7335119247,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9507,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.766,
+        "tcpConnection": 6.285,
+        "tlsHandshake": 47.096,
+        "timeToFirstByte": 170.519,
+        "totalTime": 171.137,
+        "fcp": 267.307,
+        "lcp": 637.324,
+        "speedIndex": 621,
+        "curlTotalTime": 215.25119590759277,
+        "playwrightTotalTime": 618.1827000379562
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 10,
+    "timestamp": 474795.3704470396,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4786,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.564,
+        "tcpConnection": 3.927,
+        "tlsHandshake": 41.894,
+        "timeToFirstByte": 339.709,
+        "totalTime": 339.891,
+        "fcp": 269.059,
+        "lcp": 843.746,
+        "speedIndex": 729,
+        "curlTotalTime": 384.8483279943466,
+        "playwrightTotalTime": 683.1139039993286
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 11,
+    "timestamp": 720594.4225189686,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8966,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6319999999999997,
+        "tcpConnection": 3.575,
+        "tlsHandshake": 41.639,
+        "timeToFirstByte": 181.286,
+        "totalTime": 181.457,
+        "fcp": 254.541,
+        "lcp": 442.381,
+        "speedIndex": 476,
+        "curlTotalTime": 224.19339501857758,
+        "playwrightTotalTime": 637.8911949396133
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 12,
+    "timestamp": 416630.0549829999,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9265,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0370000000000004,
+        "tcpConnection": 4.184,
+        "tlsHandshake": 45.138,
+        "timeToFirstByte": 175.49,
+        "totalTime": 175.597,
+        "fcp": 421.803,
+        "lcp": 793.094,
+        "speedIndex": 769,
+        "curlTotalTime": 218.35253899998497,
+        "playwrightTotalTime": 714.1856960000005
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 13,
+    "timestamp": 626021.9081280231,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8106,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.193,
+        "tcpConnection": 4.647,
+        "tlsHandshake": 79.775,
+        "timeToFirstByte": 200.565,
+        "totalTime": 200.708,
+        "fcp": 288.369,
+        "lcp": 771.269,
+        "speedIndex": 614,
+        "curlTotalTime": 250.82907900214195,
+        "playwrightTotalTime": 705.2876850068569
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 14,
+    "timestamp": 699656.5190320015,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8552,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1670000000000003,
+        "tcpConnection": 4.362,
+        "tlsHandshake": 65.762,
+        "timeToFirstByte": 190.143,
+        "totalTime": 190.24699999999999,
+        "fcp": 418.117,
+        "lcp": 688.392,
+        "speedIndex": 676,
+        "curlTotalTime": 233.0258470773697,
+        "playwrightTotalTime": 607.5437170267105
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 15,
+    "timestamp": 662381.3342239857,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7014,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.301,
+        "tcpConnection": 5.436,
+        "tlsHandshake": 80.05900000000001,
+        "timeToFirstByte": 231.806,
+        "totalTime": 231.953,
+        "fcp": 242.912,
+        "lcp": 678.676,
+        "speedIndex": 593,
+        "curlTotalTime": 277.28076899051666,
+        "playwrightTotalTime": 674.1245090961456
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 16,
+    "timestamp": 492062.3563129902,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8201,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.746,
+        "tcpConnection": 3.835,
+        "tlsHandshake": 46.519,
+        "timeToFirstByte": 198.242,
+        "totalTime": 198.367,
+        "fcp": 255.882,
+        "lcp": 867.411,
+        "speedIndex": 783,
+        "curlTotalTime": 238.27646899223328,
+        "playwrightTotalTime": 641.0569250583649
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 17,
+    "timestamp": 738547.9218569994,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7823,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.214,
+        "tcpConnection": 4.54,
+        "tlsHandshake": 73.587,
+        "timeToFirstByte": 207.78,
+        "totalTime": 207.964,
+        "fcp": 264.115,
+        "lcp": 715.022,
+        "speedIndex": 630,
+        "curlTotalTime": 252.07649993896484,
+        "playwrightTotalTime": 693.5262730121613
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 18,
+    "timestamp": 434104.86100399995,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7488,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.855,
+        "tcpConnection": 4.993,
+        "tlsHandshake": 53.058,
+        "timeToFirstByte": 217.144,
+        "totalTime": 217.262,
+        "fcp": 252.86,
+        "lcp": 785.894,
+        "speedIndex": 657,
+        "curlTotalTime": 264.9533029999584,
+        "playwrightTotalTime": 637.9879939999664
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 19,
+    "timestamp": 643855.6950320005,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3358,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.258,
+        "tcpConnection": 4.432,
+        "tlsHandshake": 78.957,
+        "timeToFirstByte": 484.283,
+        "totalTime": 484.416,
+        "fcp": 257.187,
+        "lcp": 749.161,
+        "speedIndex": 654,
+        "curlTotalTime": 536.6160669922829,
+        "playwrightTotalTime": 710.8231319785118
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 20,
+    "timestamp": 717122.7515089512,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3502,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.033,
+        "tcpConnection": 4.642,
+        "tlsHandshake": 46.115,
+        "timeToFirstByte": 464.42,
+        "totalTime": 464.555,
+        "fcp": 237.083,
+        "lcp": 603.485,
+        "speedIndex": 598,
+        "curlTotalTime": 513.1153839826584,
+        "playwrightTotalTime": 661.8102439641953
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 21,
+    "timestamp": 680526.9034029245,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3501,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1670000000000003,
+        "tcpConnection": 4.373,
+        "tlsHandshake": 53.536,
+        "timeToFirstByte": 464.539,
+        "totalTime": 464.667,
+        "fcp": 286.373,
+        "lcp": 618.577,
+        "speedIndex": 617,
+        "curlTotalTime": 512.6335560083389,
+        "playwrightTotalTime": 713.1408830881119
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 22,
+    "timestamp": 509896.3145980835,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3187,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.826,
+        "tcpConnection": 3.904,
+        "tlsHandshake": 46.508,
+        "timeToFirstByte": 510.354,
+        "totalTime": 510.46599999999995,
+        "fcp": 415.027,
+        "lcp": 702.718,
+        "speedIndex": 673,
+        "curlTotalTime": 553.1273390054703,
+        "playwrightTotalTime": 610.7014989852905
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 23,
+    "timestamp": 756707.5897430182,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2513,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.634,
+        "tcpConnection": 4.811,
+        "tlsHandshake": 45.661,
+        "timeToFirstByte": 647.1360000000001,
+        "totalTime": 647.258,
+        "fcp": 253.403,
+        "lcp": 516.994,
+        "speedIndex": 544,
+        "curlTotalTime": 690.0084689855576,
+        "playwrightTotalTime": 642.2421929836273
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 24,
+    "timestamp": 451783.58160399995,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2327,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.859999999999999,
+        "tcpConnection": 6.183,
+        "tlsHandshake": 70.705,
+        "timeToFirstByte": 698.894,
+        "totalTime": 698.997,
+        "fcp": 275.18,
+        "lcp": 733.889,
+        "speedIndex": 724,
+        "curlTotalTime": 739.9738859999925,
+        "playwrightTotalTime": 596.3720269999467
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 25,
+    "timestamp": 661424.7358110249,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8793,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.048,
+        "tcpConnection": 4.443,
+        "tlsHandshake": 50.857,
+        "timeToFirstByte": 184.868,
+        "totalTime": 185.023,
+        "fcp": 270.234,
+        "lcp": 794.453,
+        "speedIndex": 745,
+        "curlTotalTime": 236.10422998666763,
+        "playwrightTotalTime": 891.2786299884319
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 26,
+    "timestamp": 734353.5810389519,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8369,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4090000000000003,
+        "tcpConnection": 4.726,
+        "tlsHandshake": 72.881,
+        "timeToFirstByte": 194.266,
+        "totalTime": 194.39999999999998,
+        "fcp": 271.175,
+        "lcp": 608.102,
+        "speedIndex": 575,
+        "curlTotalTime": 247.32475399971008,
+        "playwrightTotalTime": 654.785611987114
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 27,
+    "timestamp": 697832.3548890352,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4277,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.996,
+        "tcpConnection": 4.161,
+        "tlsHandshake": 73.48599999999999,
+        "timeToFirstByte": 380.241,
+        "totalTime": 380.396,
+        "fcp": 245.935,
+        "lcp": 572.157,
+        "speedIndex": 584,
+        "curlTotalTime": 429.1911140680313,
+        "playwrightTotalTime": 712.435763001442
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 28,
+    "timestamp": 526846.9794560671,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9562,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.94,
+        "tcpConnection": 3.93,
+        "tlsHandshake": 41.609,
+        "timeToFirstByte": 170.04500000000002,
+        "totalTime": 170.151,
+        "fcp": 258.654,
+        "lcp": 764.854,
+        "speedIndex": 711,
+        "curlTotalTime": 218.10578894615173,
+        "playwrightTotalTime": 695.4744019508362
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 29,
+    "timestamp": 774066.5179979801,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4349,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9450000000000003,
+        "tcpConnection": 4.155,
+        "tlsHandshake": 72.08,
+        "timeToFirstByte": 373.911,
+        "totalTime": 374.039,
+        "fcp": 248.381,
+        "lcp": 525.271,
+        "speedIndex": 481,
+        "curlTotalTime": 425.51501202583313,
+        "playwrightTotalTime": 657.5232269763947
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 30,
+    "timestamp": 469350.819792,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9191,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7239999999999998,
+        "tcpConnection": 3.942,
+        "tlsHandshake": 40.94,
+        "timeToFirstByte": 176.887,
+        "totalTime": 177.008,
+        "fcp": 265.032,
+        "lcp": 665.285,
+        "speedIndex": 594,
+        "curlTotalTime": 217.31175500003155,
+        "playwrightTotalTime": 647.3477940000594
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 31,
+    "timestamp": 679142.4151880145,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4652,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.052,
+        "tcpConnection": 4.229,
+        "tlsHandshake": 57.52,
+        "timeToFirstByte": 349.551,
+        "totalTime": 349.717,
+        "fcp": 416.39,
+        "lcp": 1069.81,
+        "speedIndex": 1025,
+        "curlTotalTime": 388.7178550064564,
+        "playwrightTotalTime": 740.8281030058861
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 32,
+    "timestamp": 751576.6079829931,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5068,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.049,
+        "tcpConnection": 4.4910000000000005,
+        "tlsHandshake": 65.712,
+        "timeToFirstByte": 320.921,
+        "totalTime": 321.02799999999996,
+        "fcp": 254.528,
+        "lcp": 400.57,
+        "speedIndex": 446,
+        "curlTotalTime": 363.8990570306778,
+        "playwrightTotalTime": 638.5163180828094
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 33,
+    "timestamp": 715548.2597160339,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5392,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.891,
+        "tcpConnection": 3.974,
+        "tlsHandshake": 42.629,
+        "timeToFirstByte": 301.576,
+        "totalTime": 301.712,
+        "fcp": 413.087,
+        "lcp": 739.019,
+        "speedIndex": 737,
+        "curlTotalTime": 339.0933349132538,
+        "playwrightTotalTime": 848.5313620567322
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 34,
+    "timestamp": 544302.1061410904,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3159,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.615,
+        "tcpConnection": 3.692,
+        "tlsHandshake": 43.408,
+        "timeToFirstByte": 514.864,
+        "totalTime": 514.967,
+        "fcp": 241.509,
+        "lcp": 538.237,
+        "speedIndex": 553,
+        "curlTotalTime": 557.719841003418,
+        "playwrightTotalTime": 595.055869936943
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 35,
+    "timestamp": 791876.575701952,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4453,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.146,
+        "tcpConnection": 4.395,
+        "tlsHandshake": 47.993,
+        "timeToFirstByte": 359.509,
+        "totalTime": 365.291,
+        "fcp": 280.512,
+        "lcp": 621.315,
+        "speedIndex": 603,
+        "curlTotalTime": 414.0162569284439,
+        "playwrightTotalTime": 868.3266459703445
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 36,
+    "timestamp": 486432.65110799996,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9721,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.806,
+        "tcpConnection": 4.256,
+        "tlsHandshake": 42.454,
+        "timeToFirstByte": 167.261,
+        "totalTime": 167.369,
+        "fcp": 235.696,
+        "lcp": 698.666,
+        "speedIndex": 643,
+        "curlTotalTime": 208.00923700002022,
+        "playwrightTotalTime": 704.6060080000898
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 37,
+    "timestamp": 697122.9516170025,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3621,
+        "uploadSpeed": 0,
+        "dnsLookup": 6.058,
+        "tcpConnection": 7.309,
+        "tlsHandshake": 50.925,
+        "timeToFirstByte": 449.129,
+        "totalTime": 449.262,
+        "fcp": 258.462,
+        "lcp": 721.494,
+        "speedIndex": 669,
+        "curlTotalTime": 492.2516349852085,
+        "playwrightTotalTime": 693.1563670039177
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 38,
+    "timestamp": 769111.2316119671,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5156,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.021,
+        "tcpConnection": 4.163,
+        "tlsHandshake": 49.325,
+        "timeToFirstByte": 315.439,
+        "totalTime": 315.538,
+        "fcp": 258.671,
+        "lcp": 433.178,
+        "speedIndex": 469,
+        "curlTotalTime": 358.4350759983063,
+        "playwrightTotalTime": 774.8322740793228
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 39,
+    "timestamp": 733633.0925439596,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3584,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.991,
+        "tcpConnection": 4.018,
+        "tlsHandshake": 43.635,
+        "timeToFirstByte": 453.778,
+        "totalTime": 453.897,
+        "fcp": 272.046,
+        "lcp": 560.619,
+        "speedIndex": 576,
+        "curlTotalTime": 494.31421506404877,
+        "playwrightTotalTime": 659.0371459722519
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 40,
+    "timestamp": 561858.9324070215,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2463,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.827,
+        "tcpConnection": 3.992,
+        "tlsHandshake": 46.909,
+        "timeToFirstByte": 660.2710000000001,
+        "totalTime": 660.372,
+        "fcp": 259.835,
+        "lcp": 576.311,
+        "speedIndex": 527,
+        "curlTotalTime": 704.7073109149933,
+        "playwrightTotalTime": 677.9273719787598
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 41,
+    "timestamp": 809962.8109190464,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2403,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1510000000000002,
+        "tcpConnection": 4.348,
+        "tlsHandshake": 79.265,
+        "timeToFirstByte": 676.71,
+        "totalTime": 676.828,
+        "fcp": 265.173,
+        "lcp": 670.933,
+        "speedIndex": 639,
+        "curlTotalTime": 724.2017970085144,
+        "playwrightTotalTime": 708.4148370027542
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 42,
+    "timestamp": 504339.79082699993,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2786,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.012,
+        "tcpConnection": 4.395,
+        "tlsHandshake": 47.308,
+        "timeToFirstByte": 583.7679999999999,
+        "totalTime": 583.88,
+        "fcp": 257.195,
+        "lcp": 631.957,
+        "speedIndex": 605,
+        "curlTotalTime": 623.1992740000132,
+        "playwrightTotalTime": 654.4637629999779
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 43,
+    "timestamp": 715149.0093249977,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4444,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.26,
+        "tcpConnection": 4.691,
+        "tlsHandshake": 67.993,
+        "timeToFirstByte": 364.517,
+        "totalTime": 366.106,
+        "fcp": 278.478,
+        "lcp": 847.706,
+        "speedIndex": 815,
+        "curlTotalTime": 413.0191580057144,
+        "playwrightTotalTime": 852.0497680008411
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 44,
+    "timestamp": 786197.4072669744,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9381,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6020000000000003,
+        "tcpConnection": 3.613,
+        "tlsHandshake": 43.89,
+        "timeToFirstByte": 173.30499999999998,
+        "totalTime": 173.423,
+        "fcp": 243.095,
+        "lcp": 518.513,
+        "speedIndex": 527,
+        "curlTotalTime": 212.0223549604416,
+        "playwrightTotalTime": 694.2265790700912
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 45,
+    "timestamp": 751116.2445260286,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8498,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.283,
+        "tcpConnection": 4.346,
+        "tlsHandshake": 52.226,
+        "timeToFirstByte": 191.28400000000002,
+        "totalTime": 191.447,
+        "fcp": 270.801,
+        "lcp": 537.99,
+        "speedIndex": 566,
+        "curlTotalTime": 239.5857549905777,
+        "playwrightTotalTime": 659.8291449546814
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 46,
+    "timestamp": 579094.3858430386,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7596,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2929999999999997,
+        "tcpConnection": 4.424,
+        "tlsHandshake": 66.97,
+        "timeToFirstByte": 214.04999999999998,
+        "totalTime": 214.172,
+        "fcp": 271.395,
+        "lcp": 535.17,
+        "speedIndex": 496,
+        "curlTotalTime": 257.42249608039856,
+        "playwrightTotalTime": 662.9875268936157
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 47,
+    "timestamp": 827088.2639659643,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9651,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.334,
+        "tcpConnection": 3.3600000000000003,
+        "tlsHandshake": 46.037,
+        "timeToFirstByte": 168.459,
+        "totalTime": 168.567,
+        "fcp": 268.665,
+        "lcp": 498.349,
+        "speedIndex": 519,
+        "curlTotalTime": 209.5072339773178,
+        "playwrightTotalTime": 668.6851409673691
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 48,
+    "timestamp": 521667.731472,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9261,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8930000000000002,
+        "tcpConnection": 4.337,
+        "tlsHandshake": 44.557,
+        "timeToFirstByte": 175.565,
+        "totalTime": 175.675,
+        "fcp": 278.146,
+        "lcp": 778.828,
+        "speedIndex": 727,
+        "curlTotalTime": 213.76624599995557,
+        "playwrightTotalTime": 757.6072049998911
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 49,
+    "timestamp": 733384.8032500148,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5087,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.3609999999999998,
+        "tcpConnection": 4.6499999999999995,
+        "tlsHandshake": 49.895,
+        "timeToFirstByte": 319.707,
+        "totalTime": 319.818,
+        "fcp": 289.39,
+        "lcp": 980.165,
+        "speedIndex": 872,
+        "curlTotalTime": 366.1462549865246,
+        "playwrightTotalTime": 1097.6364859938622
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 50,
+    "timestamp": 803212.2234319448,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5367,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1879999999999997,
+        "tcpConnection": 4.792,
+        "tlsHandshake": 45.413000000000004,
+        "timeToFirstByte": 302.99,
+        "totalTime": 303.11100000000005,
+        "fcp": 274.713,
+        "lcp": 438.211,
+        "speedIndex": 467,
+        "curlTotalTime": 353.02337098121643,
+        "playwrightTotalTime": 636.9430140256882
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 51,
+    "timestamp": 768444.7110829353,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5161,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.811,
+        "tcpConnection": 4.702,
+        "tlsHandshake": 43.687999999999995,
+        "timeToFirstByte": 315.064,
+        "totalTime": 315.209,
+        "fcp": 245.133,
+        "lcp": 542.766,
+        "speedIndex": 519,
+        "curlTotalTime": 357.61210906505585,
+        "playwrightTotalTime": 724.0459790229797
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 52,
+    "timestamp": 596260.8339930773,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4878,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.022,
+        "tcpConnection": 5.283,
+        "tlsHandshake": 69.008,
+        "timeToFirstByte": 333.32,
+        "totalTime": 333.493,
+        "fcp": 268.259,
+        "lcp": 795.165,
+        "speedIndex": 764,
+        "curlTotalTime": 379.5489500761032,
+        "playwrightTotalTime": 652.4484540224075
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 53,
+    "timestamp": 844293.136253953,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8351,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.764,
+        "tcpConnection": 3.8089999999999997,
+        "tlsHandshake": 67.84400000000001,
+        "timeToFirstByte": 194.656,
+        "totalTime": 194.826,
+        "fcp": 255.643,
+        "lcp": 477.294,
+        "speedIndex": 497,
+        "curlTotalTime": 242.75304102897644,
+        "playwrightTotalTime": 727.9047939777374
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 54,
+    "timestamp": 539012.035473,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7586,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.973,
+        "tcpConnection": 7.116,
+        "tlsHandshake": 75.938,
+        "timeToFirstByte": 214.314,
+        "totalTime": 214.447,
+        "fcp": 267.586,
+        "lcp": 646.086,
+        "speedIndex": 529,
+        "curlTotalTime": 251.49391899991315,
+        "playwrightTotalTime": 852.465668000048
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 55,
+    "timestamp": 751347.5317189991,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2545,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.9029999999999996,
+        "tcpConnection": 4.957,
+        "tlsHandshake": 47.7,
+        "timeToFirstByte": 639.023,
+        "totalTime": 639.141,
+        "fcp": 301.986,
+        "lcp": 764.36,
+        "speedIndex": 761,
+        "curlTotalTime": 682.5603299736977,
+        "playwrightTotalTime": 662.7917519807816
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 56,
+    "timestamp": 820781.623026967,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5049,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.711,
+        "tcpConnection": 3.955,
+        "tlsHandshake": 44.824000000000005,
+        "timeToFirstByte": 322.05699999999996,
+        "totalTime": 322.201,
+        "fcp": 591.913,
+        "lcp": 1016.721,
+        "speedIndex": 984,
+        "curlTotalTime": 363.0873420238495,
+        "playwrightTotalTime": 647.2265359163284
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 57,
+    "timestamp": 786362.78728199,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3612,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.787,
+        "tcpConnection": 3.761,
+        "tlsHandshake": 42.405,
+        "timeToFirstByte": 450.212,
+        "totalTime": 450.326,
+        "fcp": 275.802,
+        "lcp": 553.703,
+        "speedIndex": 507,
+        "curlTotalTime": 487.512699007988,
+        "playwrightTotalTime": 650.3709110021591
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 58,
+    "timestamp": 613889.7709730864,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3618,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.908,
+        "tcpConnection": 4.063,
+        "tlsHandshake": 46.207,
+        "timeToFirstByte": 449.46799999999996,
+        "totalTime": 449.609,
+        "fcp": 424.434,
+        "lcp": 903.541,
+        "speedIndex": 827,
+        "curlTotalTime": 495.16924798488617,
+        "playwrightTotalTime": 688.7504720687866
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 59,
+    "timestamp": 862374.7937829494,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2092,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.056,
+        "tcpConnection": 4.087999999999999,
+        "tlsHandshake": 45.449000000000005,
+        "timeToFirstByte": 777.4159999999999,
+        "totalTime": 777.55,
+        "fcp": 257.236,
+        "lcp": 550.021,
+        "speedIndex": 553,
+        "curlTotalTime": 824.7180409431458,
+        "playwrightTotalTime": 837.5566710233688
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 60,
+    "timestamp": 556749.6155269999,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2824,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.165,
+        "tcpConnection": 4.322,
+        "tlsHandshake": 46.221,
+        "timeToFirstByte": 575.8149999999999,
+        "totalTime": 576.006,
+        "fcp": 260.537,
+        "lcp": 540.163,
+        "speedIndex": 568,
+        "curlTotalTime": 617.787505999906,
+        "playwrightTotalTime": 676.5529920000117
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 61,
+    "timestamp": 769127.4367280006,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4776,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9459999999999997,
+        "tcpConnection": 4.326,
+        "tlsHandshake": 48.235,
+        "timeToFirstByte": 340.429,
+        "totalTime": 340.611,
+        "fcp": 240.451,
+        "lcp": 762.872,
+        "speedIndex": 631,
+        "curlTotalTime": 381.97956401109695,
+        "playwrightTotalTime": 918.9045360088348
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 62,
+    "timestamp": 837981.9059740305,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8887,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.2,
+        "tcpConnection": 4.265,
+        "tlsHandshake": 44.875,
+        "timeToFirstByte": 182.955,
+        "totalTime": 183.07000000000002,
+        "fcp": 246.084,
+        "lcp": 632.345,
+        "speedIndex": 601,
+        "curlTotalTime": 226.98527896404266,
+        "playwrightTotalTime": 967.6742869615555
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 63,
+    "timestamp": 803780.2630330324,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9109,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.245,
+        "tcpConnection": 4.944,
+        "tlsHandshake": 49.065999999999995,
+        "timeToFirstByte": 178.466,
+        "totalTime": 178.603,
+        "fcp": 250.94,
+        "lcp": 573.363,
+        "speedIndex": 548,
+        "curlTotalTime": 221.95241904258728,
+        "playwrightTotalTime": 655.2852679491043
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 64,
+    "timestamp": 630835.811989069,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7861,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.767,
+        "tcpConnection": 3.7840000000000003,
+        "tlsHandshake": 57.165,
+        "timeToFirstByte": 206.85,
+        "totalTime": 206.957,
+        "fcp": 253.016,
+        "lcp": 488.069,
+        "speedIndex": 503,
+        "curlTotalTime": 250.01854693889618,
+        "playwrightTotalTime": 597.917081952095
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 65,
+    "timestamp": 879411.1234829426,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9337,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.647,
+        "tcpConnection": 5.922000000000001,
+        "tlsHandshake": 45.595,
+        "timeToFirstByte": 174.142,
+        "totalTime": 174.25,
+        "fcp": 268.736,
+        "lcp": 542.31,
+        "speedIndex": 515,
+        "curlTotalTime": 212.32736003398895,
+        "playwrightTotalTime": 605.9716010093689
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 66,
+    "timestamp": 574378.861908,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8742,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.836,
+        "tcpConnection": 4.424,
+        "tlsHandshake": 62.565,
+        "timeToFirstByte": 185.98700000000002,
+        "totalTime": 186.109,
+        "fcp": 426.088,
+        "lcp": 737.449,
+        "speedIndex": 691,
+        "curlTotalTime": 235.7359309999738,
+        "playwrightTotalTime": 720.4630659999093
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 67,
+    "timestamp": 786729.7180519998,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5104,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.246,
+        "tcpConnection": 6.357,
+        "tlsHandshake": 48.888,
+        "timeToFirstByte": 318.62600000000003,
+        "totalTime": 318.76,
+        "fcp": 237.094,
+        "lcp": 638.569,
+        "speedIndex": 594,
+        "curlTotalTime": 360.8785189986229,
+        "playwrightTotalTime": 623.1822980046272
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 68,
+    "timestamp": 854985.8938670158,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5249,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1879999999999997,
+        "tcpConnection": 4.3839999999999995,
+        "tlsHandshake": 47.509,
+        "timeToFirstByte": 309.786,
+        "totalTime": 309.91,
+        "fcp": 262.316,
+        "lcp": 516.918,
+        "speedIndex": 537,
+        "curlTotalTime": 350.3283380270004,
+        "playwrightTotalTime": 610.0272089242935
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 69,
+    "timestamp": 821475.7934809923,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4900,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.78,
+        "tcpConnection": 6.141,
+        "tlsHandshake": 61.369,
+        "timeToFirstByte": 331.818,
+        "totalTime": 332,
+        "fcp": 288.457,
+        "lcp": 801.702,
+        "speedIndex": 637,
+        "curlTotalTime": 389.95782494544983,
+        "playwrightTotalTime": 713.1159439086914
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 70,
+    "timestamp": 648211.340816021,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8651,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.061,
+        "tcpConnection": 4.248,
+        "tlsHandshake": 46.918,
+        "timeToFirstByte": 187.92800000000003,
+        "totalTime": 188.06300000000002,
+        "fcp": 255.154,
+        "lcp": 763.841,
+        "speedIndex": 678,
+        "curlTotalTime": 234.59509706497192,
+        "playwrightTotalTime": 907.6746180057526
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 71,
+    "timestamp": 896735.6514760256,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8757,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.059,
+        "tcpConnection": 4.2490000000000006,
+        "tlsHandshake": 53.227999999999994,
+        "timeToFirstByte": 185.649,
+        "totalTime": 185.78300000000002,
+        "fcp": 253.04,
+        "lcp": 682.15,
+        "speedIndex": 675,
+        "curlTotalTime": 226.1535849571228,
+        "playwrightTotalTime": 670.8914129734039
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 72,
+    "timestamp": 591898.8035789999,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9120,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.803,
+        "tcpConnection": 4.313,
+        "tlsHandshake": 47.294000000000004,
+        "timeToFirstByte": 178.268,
+        "totalTime": 178.399,
+        "fcp": 252.006,
+        "lcp": 514.774,
+        "speedIndex": 538,
+        "curlTotalTime": 224.6488299999619,
+        "playwrightTotalTime": 656.0888330000453
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 73,
+    "timestamp": 804139.4829140007,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3499,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.851,
+        "tcpConnection": 3.9699999999999998,
+        "tlsHandshake": 54.022,
+        "timeToFirstByte": 464.771,
+        "totalTime": 464.89000000000004,
+        "fcp": 255.674,
+        "lcp": 493.364,
+        "speedIndex": 518,
+        "curlTotalTime": 503.2819339931011,
+        "playwrightTotalTime": 657.3862549960613
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 74,
+    "timestamp": 872170.1646720171,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5454,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.927,
+        "tcpConnection": 4.08,
+        "tlsHandshake": 42.852000000000004,
+        "timeToFirstByte": 298.192,
+        "totalTime": 298.29299999999995,
+        "fcp": 377.249,
+        "lcp": 611.058,
+        "speedIndex": 633,
+        "curlTotalTime": 341.7206679582596,
+        "playwrightTotalTime": 633.7298309803009
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 75,
+    "timestamp": 839348.444887042,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3286,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.164,
+        "tcpConnection": 4.913,
+        "tlsHandshake": 78.97500000000001,
+        "timeToFirstByte": 494.867,
+        "totalTime": 495.024,
+        "fcp": 257.825,
+        "lcp": 605.839,
+        "speedIndex": 603,
+        "curlTotalTime": 548.1148099899292,
+        "playwrightTotalTime": 699.3069269657135
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 76,
+    "timestamp": 665593.6784020662,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 3411,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.036,
+        "tcpConnection": 4.481,
+        "tlsHandshake": 44.268,
+        "timeToFirstByte": 476.726,
+        "totalTime": 476.84900000000005,
+        "fcp": 250.891,
+        "lcp": 712.307,
+        "speedIndex": 672,
+        "curlTotalTime": 520.9337129592896,
+        "playwrightTotalTime": 693.4950829744339
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 77,
+    "timestamp": 914709.6443099976,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2519,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.709,
+        "tcpConnection": 3.885,
+        "tlsHandshake": 46.379999999999995,
+        "timeToFirstByte": 645.678,
+        "totalTime": 645.796,
+        "fcp": 272.544,
+        "lcp": 662.22,
+        "speedIndex": 653,
+        "curlTotalTime": 690.0929710865021,
+        "playwrightTotalTime": 678.3476170301437
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 78,
+    "timestamp": 609456.37449,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2642,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8800000000000003,
+        "tcpConnection": 4.001,
+        "tlsHandshake": 64.791,
+        "timeToFirstByte": 615.702,
+        "totalTime": 615.808,
+        "fcp": 256.932,
+        "lcp": 498.804,
+        "speedIndex": 522,
+        "curlTotalTime": 664.4079889999703,
+        "playwrightTotalTime": 630.2769550000085
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 79,
+    "timestamp": 821574.9740000069,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8835,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.999,
+        "tcpConnection": 4.19,
+        "tlsHandshake": 53.765,
+        "timeToFirstByte": 184.028,
+        "totalTime": 184.144,
+        "fcp": 252.918,
+        "lcp": 582.496,
+        "speedIndex": 586,
+        "curlTotalTime": 225.87339800596237,
+        "playwrightTotalTime": 635.9886159896851
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 80,
+    "timestamp": 889450.5807880163,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9140,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.068,
+        "tcpConnection": 4.193,
+        "tlsHandshake": 47.479,
+        "timeToFirstByte": 177.901,
+        "totalTime": 178.008,
+        "fcp": 295.761,
+        "lcp": 630.528,
+        "speedIndex": 653,
+        "curlTotalTime": 218.69929003715515,
+        "playwrightTotalTime": 670.0111110210419
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 81,
+    "timestamp": 857324.1475260258,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9087,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.258,
+        "tcpConnection": 4.745,
+        "tlsHandshake": 47.144999999999996,
+        "timeToFirstByte": 178.892,
+        "totalTime": 179.04500000000002,
+        "fcp": 289.777,
+        "lcp": 915.417,
+        "speedIndex": 855,
+        "curlTotalTime": 225.72157299518585,
+        "playwrightTotalTime": 914.3854049444199
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 82,
+    "timestamp": 683094.5926970243,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9274,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.787,
+        "tcpConnection": 4.1770000000000005,
+        "tlsHandshake": 48.71,
+        "timeToFirstByte": 175.291,
+        "totalTime": 175.41799999999998,
+        "fcp": 240.629,
+        "lcp": 755.585,
+        "speedIndex": 712,
+        "curlTotalTime": 221.59189808368683,
+        "playwrightTotalTime": 702.499095916748
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 83,
+    "timestamp": 932320.1080570221,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9476,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.815,
+        "tcpConnection": 5.244999999999999,
+        "tlsHandshake": 45.89,
+        "timeToFirstByte": 171.56199999999998,
+        "totalTime": 171.69400000000002,
+        "fcp": 246.035,
+        "lcp": 846.86,
+        "speedIndex": 756,
+        "curlTotalTime": 214.5428969860077,
+        "playwrightTotalTime": 898.5748139619827
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 84,
+    "timestamp": 626865.386949,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9266,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.381,
+        "tcpConnection": 5.518999999999999,
+        "tlsHandshake": 50.066,
+        "timeToFirstByte": 175.452,
+        "totalTime": 175.57500000000002,
+        "fcp": 256.903,
+        "lcp": 711.621,
+        "speedIndex": 617,
+        "curlTotalTime": 219.49212200008333,
+        "playwrightTotalTime": 819.507207000046
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 85,
+    "timestamp": 839055.9720890224,
+    "webTests": [
+      {
+        "url": "https://filename-providence-following-griffin.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5101,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.162,
+        "tcpConnection": 4.3629999999999995,
+        "tlsHandshake": 57.625,
+        "timeToFirstByte": 318.76300000000003,
+        "totalTime": 318.904,
+        "fcp": 263.244,
+        "lcp": 590.652,
+        "speedIndex": 597,
+        "curlTotalTime": 363.3949860036373,
+        "playwrightTotalTime": 722.0658229887486
+      }
+    ],
+    "totalDuration": 280067.89453199506,
+    "setupDuration": 4184.3464940190315,
+    "diagnosticsDuration": 0.007196992635726929,
+    "measurementDuration": 265874.32657805085,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 86,
+    "timestamp": 906487.0471580029,
+    "webTests": [
+      {
+        "url": "https://therapeutic-jason-decent-ira.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9462,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.938,
+        "tcpConnection": 4.327,
+        "tlsHandshake": 42.456,
+        "timeToFirstByte": 171.778,
+        "totalTime": 171.93900000000002,
+        "fcp": 403.99,
+        "lcp": 720.465,
+        "speedIndex": 734,
+        "curlTotalTime": 215.34025299549103,
+        "playwrightTotalTime": 614.5556190013885
+      }
+    ],
+    "totalDuration": 273325.49255907536,
+    "setupDuration": 3799.4696658849716,
+    "diagnosticsDuration": 0.006940960884094238,
+    "measurementDuration": 259517.61352992058,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 87,
+    "timestamp": 874950.8453420401,
+    "webTests": [
+      {
+        "url": "https://notified-apr-ul-minutes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 5173,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.718,
+        "tcpConnection": 3.749,
+        "tlsHandshake": 43.888000000000005,
+        "timeToFirstByte": 314.355,
+        "totalTime": 314.50800000000004,
+        "fcp": 266.59,
+        "lcp": 731.126,
+        "speedIndex": 708,
+        "curlTotalTime": 359.47025299072266,
+        "playwrightTotalTime": 674.807217001915
+      }
+    ],
+    "totalDuration": 279893.57557702065,
+    "setupDuration": 4201.906113982201,
+    "diagnosticsDuration": 0.030354022979736328,
+    "measurementDuration": 265682.8235259056,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 88,
+    "timestamp": 700690.8864580393,
+    "webTests": [
+      {
+        "url": "https://homework-multiple-backgrounds-titanium.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 4747,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.841,
+        "tcpConnection": 4.165,
+        "tlsHandshake": 57.768,
+        "timeToFirstByte": 342.53,
+        "totalTime": 342.68399999999997,
+        "fcp": 566.028,
+        "lcp": 566.028,
+        "speedIndex": 611,
+        "curlTotalTime": 390.4137079715729,
+        "playwrightTotalTime": 953.8643289804459
+      }
+    ],
+    "totalDuration": 279091.0139679909,
+    "setupDuration": 7648.660840034485,
+    "diagnosticsDuration": 0.015011906623840332,
+    "measurementDuration": 261434.69554769993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 89,
+    "timestamp": 949619.7066249847,
+    "webTests": [
+      {
+        "url": "https://starter-treo-allow-stripes.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8857,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.516,
+        "tcpConnection": 5.638,
+        "tlsHandshake": 50.663,
+        "timeToFirstByte": 183.57000000000002,
+        "totalTime": 183.68599999999998,
+        "fcp": 264.099,
+        "lcp": 628.59,
+        "speedIndex": 600,
+        "curlTotalTime": 231.93751204013824,
+        "playwrightTotalTime": 745.5597529411316
+      }
+    ],
+    "totalDuration": 278567.8197610378,
+    "setupDuration": 3735.4765609502792,
+    "diagnosticsDuration": 0.010182023048400879,
+    "measurementDuration": 264823.7444320917,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Cloudflared",
+    "measurementNumber": 90,
+    "timestamp": 644001.6508579999,
+    "webTests": [
+      {
+        "url": "https://bristol-austin-lap-aurora.trycloudflare.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9087,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.165,
+        "tcpConnection": 4.275,
+        "tlsHandshake": 46.814,
+        "timeToFirstByte": 178.917,
+        "totalTime": 179.029,
+        "fcp": 267.595,
+        "lcp": 560.16,
+        "speedIndex": 575,
+        "curlTotalTime": 218.1151930000633,
+        "playwrightTotalTime": 797.0400910000317
+      }
+    ],
+    "totalDuration": 277925.297728,
+    "setupDuration": 4695.004900000058,
+    "diagnosticsDuration": 0.017461000010371208,
+    "measurementDuration": 263218.2747409999,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

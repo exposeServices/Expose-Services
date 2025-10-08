@@ -1,0 +1,41 @@
+{
+  "name": "testbed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mime-types": "^2.1.4",
+    "axios": "^1.7.9",
+    "cli-progress": "^3.12.0",
+    "express": "^4.21.1",
+    "lighthouse": "^12.5.1",
+    "mime-types": "^2.1.35",
+    "pcap": "^3.1.0",
+    "socks-proxy-agent": "^8.0.4",
+    "telebit": "^0.20.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3",
+    "yargs": "^17.7.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "loclx",
+      "pcap"
+    ],
+    "ignoredBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "devDependencies": {
+    "loclx": "^24.4.1",
+    "playwright": "^1.51.1",
+    "playwright-lighthouse": "^4.0.0",
+    "tsx": "^4.19.3"
+  }
+}

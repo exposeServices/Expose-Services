@@ -1,0 +1,4097 @@
+[
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 1,
+    "timestamp": 6265913.310357,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1662,
+        "uploadSpeed": 0,
+        "dnsLookup": 86.218,
+        "tcpConnection": 331.21,
+        "tlsHandshake": 579.9689999999999,
+        "timeToFirstByte": 978.229,
+        "totalTime": 978.369,
+        "fcp": 983.866,
+        "lcp": 2133.862,
+        "speedIndex": 1930,
+        "curlTotalTime": 1029.100885999389,
+        "playwrightTotalTime": 3357.857296000235
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 2,
+    "timestamp": 2774635.827503,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1359,
+        "uploadSpeed": 0,
+        "dnsLookup": 299.693,
+        "tcpConnection": 545.5980000000001,
+        "tlsHandshake": 795.8340000000001,
+        "timeToFirstByte": 1196.9289999999999,
+        "totalTime": 1197.096,
+        "fcp": 972.484,
+        "lcp": 2144.864,
+        "speedIndex": 1844,
+        "curlTotalTime": 1236.9342809999362,
+        "playwrightTotalTime": 2230.9659669999965
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 3,
+    "timestamp": 2694446.695911,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 4,
+    "timestamp": 3138592.267783,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1390,
+        "uploadSpeed": 0,
+        "dnsLookup": 270.519,
+        "tcpConnection": 516.496,
+        "tlsHandshake": 768.258,
+        "timeToFirstByte": 1170.31,
+        "totalTime": 1170.455,
+        "fcp": 983.245,
+        "lcp": 2089.442,
+        "speedIndex": 1905,
+        "curlTotalTime": 1208.6716390000656,
+        "playwrightTotalTime": 2236.6986440001056
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 5,
+    "timestamp": 3669750.641024,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1475,
+        "uploadSpeed": 0,
+        "dnsLookup": 150.175,
+        "tcpConnection": 444.193,
+        "tlsHandshake": 696.219,
+        "timeToFirstByte": 1102.411,
+        "totalTime": 1102.56,
+        "fcp": 987.194,
+        "lcp": 2013.147,
+        "speedIndex": 1891,
+        "curlTotalTime": 1150.9115539998747,
+        "playwrightTotalTime": 2234.9410859998316
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 6,
+    "timestamp": 3432529.292311,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1722,
+        "uploadSpeed": 0,
+        "dnsLookup": 47.176,
+        "tcpConnection": 292.64,
+        "tlsHandshake": 541.9540000000001,
+        "timeToFirstByte": 944.386,
+        "totalTime": 944.596,
+        "fcp": 1077.541,
+        "lcp": 2165.172,
+        "speedIndex": 2014,
+        "curlTotalTime": 986.9203600003384,
+        "playwrightTotalTime": 2279.2574330000207
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 7,
+    "timestamp": 3711960.755318,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1719,
+        "uploadSpeed": 0,
+        "dnsLookup": 70.74,
+        "tcpConnection": 309.614,
+        "tlsHandshake": 551.7109999999999,
+        "timeToFirstByte": 945.806,
+        "totalTime": 945.977,
+        "fcp": 978.316,
+        "lcp": 2058.632,
+        "speedIndex": 1832,
+        "curlTotalTime": 987.8759560002945,
+        "playwrightTotalTime": 2200.4193739998154
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 8,
+    "timestamp": 3680952.076719,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1655,
+        "uploadSpeed": 0,
+        "dnsLookup": 88.438,
+        "tcpConnection": 332.991,
+        "tlsHandshake": 581.164,
+        "timeToFirstByte": 982.863,
+        "totalTime": 983.07,
+        "fcp": 971.415,
+        "lcp": 2087.683,
+        "speedIndex": 1916,
+        "curlTotalTime": 1027.3663609996438,
+        "playwrightTotalTime": 2300.8953219996765
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 9,
+    "timestamp": 3727793.384088,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1562,
+        "uploadSpeed": 0,
+        "dnsLookup": 152.82100000000003,
+        "tcpConnection": 396.303,
+        "tlsHandshake": 643.631,
+        "timeToFirstByte": 1041.326,
+        "totalTime": 1041.471,
+        "fcp": 988.044,
+        "lcp": 2089.766,
+        "speedIndex": 1930,
+        "curlTotalTime": 1081.6565950000659,
+        "playwrightTotalTime": 2334.9891349999234
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 10,
+    "timestamp": 6287370.303477,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1832,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.342,
+        "tcpConnection": 245.808,
+        "tlsHandshake": 494.86400000000003,
+        "timeToFirstByte": 887.941,
+        "totalTime": 888.076,
+        "fcp": 995.261,
+        "lcp": 2092.613,
+        "speedIndex": 1917,
+        "curlTotalTime": 926.5710979998112,
+        "playwrightTotalTime": 2194.1560960002244
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 11,
+    "timestamp": 2795884.815248,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1792,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.863,
+        "tcpConnection": 250.58700000000002,
+        "tlsHandshake": 504.861,
+        "timeToFirstByte": 907.64,
+        "totalTime": 907.841,
+        "fcp": 986.264,
+        "lcp": 2074.233,
+        "speedIndex": 1869,
+        "curlTotalTime": 954.2557300003245,
+        "playwrightTotalTime": 2251.2537940000184
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 12,
+    "timestamp": 2694504.461562,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 13,
+    "timestamp": 3159314.33608,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1860,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.453,
+        "tcpConnection": 241.048,
+        "tlsHandshake": 485.033,
+        "timeToFirstByte": 874.1379999999999,
+        "totalTime": 874.61,
+        "fcp": 985.961,
+        "lcp": 2043.048,
+        "speedIndex": 1916,
+        "curlTotalTime": 920.2075879997574,
+        "playwrightTotalTime": 2144.4947149995714
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 14,
+    "timestamp": 3690975.219616,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1874,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.421,
+        "tcpConnection": 238.72899999999998,
+        "tlsHandshake": 481.918,
+        "timeToFirstByte": 867.71,
+        "totalTime": 867.85,
+        "fcp": 981.11,
+        "lcp": 2081.154,
+        "speedIndex": 1923,
+        "curlTotalTime": 917.8502289997414,
+        "playwrightTotalTime": 2190.4476469997317
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 15,
+    "timestamp": 3454009.475395,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1861,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0100000000000002,
+        "tcpConnection": 240.54500000000002,
+        "tlsHandshake": 485.495,
+        "timeToFirstByte": 873.599,
+        "totalTime": 873.801,
+        "fcp": 995.342,
+        "lcp": 2091.449,
+        "speedIndex": 1909,
+        "curlTotalTime": 927.1158759999089,
+        "playwrightTotalTime": 2259.3616260001436
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 16,
+    "timestamp": 3733314.247257,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1875,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.219,
+        "tcpConnection": 238.71300000000002,
+        "tlsHandshake": 480.86600000000004,
+        "timeToFirstByte": 867.443,
+        "totalTime": 867.583,
+        "fcp": 980.781,
+        "lcp": 2048.058,
+        "speedIndex": 1895,
+        "curlTotalTime": 908.3705319999717,
+        "playwrightTotalTime": 2207.7503259996884
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 17,
+    "timestamp": 3702830.53454,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1873,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1189999999999998,
+        "tcpConnection": 238.241,
+        "tlsHandshake": 481.094,
+        "timeToFirstByte": 868.191,
+        "totalTime": 868.381,
+        "fcp": 1037.212,
+        "lcp": 2086.924,
+        "speedIndex": 1948,
+        "curlTotalTime": 920.6035839999095,
+        "playwrightTotalTime": 2255.2777149998583
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 18,
+    "timestamp": 3749198.291027,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1816,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.307,
+        "tcpConnection": 250.913,
+        "tlsHandshake": 501.87000000000006,
+        "timeToFirstByte": 895.433,
+        "totalTime": 895.582,
+        "fcp": 1001.056,
+        "lcp": 2113.183,
+        "speedIndex": 1938,
+        "curlTotalTime": 945.3060869998299,
+        "playwrightTotalTime": 2222.023302000016
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 19,
+    "timestamp": 6309043.856211,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1829,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.525,
+        "tcpConnection": 244.386,
+        "tlsHandshake": 492.85200000000003,
+        "timeToFirstByte": 888.952,
+        "totalTime": 889.15,
+        "fcp": 1003.543,
+        "lcp": 2058.485,
+        "speedIndex": 1947,
+        "curlTotalTime": 932.533121000044,
+        "playwrightTotalTime": 2808.312289999798
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 20,
+    "timestamp": 2817008.807632,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1868,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.264,
+        "tcpConnection": 241.004,
+        "tlsHandshake": 483.75,
+        "timeToFirstByte": 870.737,
+        "totalTime": 870.8820000000001,
+        "fcp": 1011.404,
+        "lcp": 2106.072,
+        "speedIndex": 1852,
+        "curlTotalTime": 912.3903520000167,
+        "playwrightTotalTime": 2206.150828999933
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 21,
+    "timestamp": 2694563.965999,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 22,
+    "timestamp": 3180591.714041,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1833,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.043,
+        "tcpConnection": 245.345,
+        "tlsHandshake": 494.562,
+        "timeToFirstByte": 887.3919999999999,
+        "totalTime": 887.537,
+        "fcp": 964.535,
+        "lcp": 2038.925,
+        "speedIndex": 1887,
+        "curlTotalTime": 925.8893709997647,
+        "playwrightTotalTime": 2170.7544619999826
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 23,
+    "timestamp": 3712290.041957,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1881,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.458,
+        "tcpConnection": 239.071,
+        "tlsHandshake": 480.85699999999997,
+        "timeToFirstByte": 864.3570000000001,
+        "totalTime": 864.519,
+        "fcp": 1035.301,
+        "lcp": 2059.475,
+        "speedIndex": 1942,
+        "curlTotalTime": 912.6358779999427,
+        "playwrightTotalTime": 2250.6574380001985
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 24,
+    "timestamp": 3475517.522797,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1878,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.355,
+        "tcpConnection": 238.636,
+        "tlsHandshake": 480.483,
+        "timeToFirstByte": 865.847,
+        "totalTime": 866.031,
+        "fcp": 1044.098,
+        "lcp": 2174.226,
+        "speedIndex": 2008,
+        "curlTotalTime": 906.8900810000487,
+        "playwrightTotalTime": 2309.7326159998775
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 25,
+    "timestamp": 3754366.36958,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1883,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.284,
+        "tcpConnection": 237.397,
+        "tlsHandshake": 479.125,
+        "timeToFirstByte": 863.617,
+        "totalTime": 863.815,
+        "fcp": 1015.589,
+        "lcp": 2087.949,
+        "speedIndex": 1959,
+        "curlTotalTime": 907.1311449999921,
+        "playwrightTotalTime": 2210.73268200038
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 26,
+    "timestamp": 3724346.88892,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1875,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.32,
+        "tcpConnection": 238.92,
+        "tlsHandshake": 481.053,
+        "timeToFirstByte": 867.395,
+        "totalTime": 867.555,
+        "fcp": 988.92,
+        "lcp": 2153.679,
+        "speedIndex": 2008,
+        "curlTotalTime": 917.3825460001826,
+        "playwrightTotalTime": 2250.1455509997904
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 27,
+    "timestamp": 3770433.317717,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1834,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.353,
+        "tcpConnection": 246.156,
+        "tlsHandshake": 494.917,
+        "timeToFirstByte": 886.328,
+        "totalTime": 886.803,
+        "fcp": 990.9,
+        "lcp": 2187.659,
+        "speedIndex": 2013,
+        "curlTotalTime": 937.9947389997542,
+        "playwrightTotalTime": 2248.933172999881
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 28,
+    "timestamp": 6330096.339056,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1809,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.438,
+        "tcpConnection": 249.684,
+        "tlsHandshake": 502.26800000000003,
+        "timeToFirstByte": 898.772,
+        "totalTime": 899.302,
+        "fcp": 1005.218,
+        "lcp": 2058.203,
+        "speedIndex": 1909,
+        "curlTotalTime": 942.6690599992871,
+        "playwrightTotalTime": 2163.808586999774
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 29,
+    "timestamp": 2838211.220503,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1751,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.16,
+        "tcpConnection": 248.325,
+        "tlsHandshake": 500.74300000000005,
+        "timeToFirstByte": 928.909,
+        "totalTime": 929.1089999999999,
+        "fcp": 963.255,
+        "lcp": 2091.992,
+        "speedIndex": 1825,
+        "curlTotalTime": 975.713757999707,
+        "playwrightTotalTime": 2231.30815500021
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 30,
+    "timestamp": 2694614.325759,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 31,
+    "timestamp": 3201601.957475,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1849,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2369999999999997,
+        "tcpConnection": 242.363,
+        "tlsHandshake": 487.47499999999997,
+        "timeToFirstByte": 879.377,
+        "totalTime": 879.544,
+        "fcp": 981.814,
+        "lcp": 2060.015,
+        "speedIndex": 1886,
+        "curlTotalTime": 923.576035999693,
+        "playwrightTotalTime": 2168.716812999919
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 32,
+    "timestamp": 3733666.502548,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1835,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1380000000000003,
+        "tcpConnection": 246.376,
+        "tlsHandshake": 495.674,
+        "timeToFirstByte": 886.0360000000001,
+        "totalTime": 886.217,
+        "fcp": 983.656,
+        "lcp": 2116.656,
+        "speedIndex": 1921,
+        "curlTotalTime": 936.3810879997909,
+        "playwrightTotalTime": 2220.95809199987
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 33,
+    "timestamp": 3497085.459251,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1763,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.478,
+        "tcpConnection": 246.665,
+        "tlsHandshake": 497.937,
+        "timeToFirstByte": 920.356,
+        "totalTime": 922.377,
+        "fcp": 977.238,
+        "lcp": 2097.06,
+        "speedIndex": 1902,
+        "curlTotalTime": 978.5744790001772,
+        "playwrightTotalTime": 2326.217649000231
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 34,
+    "timestamp": 3775468.00686,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1846,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.11,
+        "tcpConnection": 243.417,
+        "tlsHandshake": 489.991,
+        "timeToFirstByte": 880.878,
+        "totalTime": 881.1210000000001,
+        "fcp": 1000.562,
+        "lcp": 2081.01,
+        "speedIndex": 1931,
+        "curlTotalTime": 925.8253270001151,
+        "playwrightTotalTime": 2229.0567669998854
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 35,
+    "timestamp": 3746321.757562,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1848,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.499,
+        "tcpConnection": 239.256,
+        "tlsHandshake": 481.21999999999997,
+        "timeToFirstByte": 880.069,
+        "totalTime": 880.225,
+        "fcp": 984.824,
+        "lcp": 2483.694,
+        "speedIndex": 2222,
+        "curlTotalTime": 930.7987790000625,
+        "playwrightTotalTime": 2338.259045000188
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 36,
+    "timestamp": 3791636.638654,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1813,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.062,
+        "tcpConnection": 249.195,
+        "tlsHandshake": 502.13699999999994,
+        "timeToFirstByte": 897.2139999999999,
+        "totalTime": 897.36,
+        "fcp": 988.14,
+        "lcp": 2081.856,
+        "speedIndex": 1917,
+        "curlTotalTime": 940.8703180002049,
+        "playwrightTotalTime": 2250.9544999999925
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 37,
+    "timestamp": 6351128.060178,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1842,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.965,
+        "tcpConnection": 242.636,
+        "tlsHandshake": 489.356,
+        "timeToFirstByte": 882.8359999999999,
+        "totalTime": 883.0029999999999,
+        "fcp": 1012.933,
+        "lcp": 2147.283,
+        "speedIndex": 1912,
+        "curlTotalTime": 924.4612539997324,
+        "playwrightTotalTime": 2131.2604750003666
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 38,
+    "timestamp": 2859321.603971,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1870,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9589999999999999,
+        "tcpConnection": 237.97899999999998,
+        "tlsHandshake": 479.59000000000003,
+        "timeToFirstByte": 869.5310000000001,
+        "totalTime": 869.707,
+        "fcp": 974.888,
+        "lcp": 2188.467,
+        "speedIndex": 1870,
+        "curlTotalTime": 912.0536560001783,
+        "playwrightTotalTime": 2160.171238000039
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 39,
+    "timestamp": 2694667.87177,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 40,
+    "timestamp": 3222372.179598,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1831,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.142,
+        "tcpConnection": 244.331,
+        "tlsHandshake": 492.82300000000004,
+        "timeToFirstByte": 887.981,
+        "totalTime": 888.134,
+        "fcp": 981.979,
+        "lcp": 2086.533,
+        "speedIndex": 1938,
+        "curlTotalTime": 929.5381829999387,
+        "playwrightTotalTime": 2173.1165690002963
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 41,
+    "timestamp": 3754733.942267,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1850,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.76,
+        "tcpConnection": 242.44199999999998,
+        "tlsHandshake": 486.965,
+        "timeToFirstByte": 878.846,
+        "totalTime": 878.9979999999999,
+        "fcp": 966.363,
+        "lcp": 2036.392,
+        "speedIndex": 1888,
+        "curlTotalTime": 930.303528000135,
+        "playwrightTotalTime": 2197.699861000292
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 42,
+    "timestamp": 3518380.295425,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1843,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3640000000000003,
+        "tcpConnection": 239.995,
+        "tlsHandshake": 484.777,
+        "timeToFirstByte": 882.1909999999999,
+        "totalTime": 882.4100000000001,
+        "fcp": 1005.858,
+        "lcp": 2164.308,
+        "speedIndex": 2016,
+        "curlTotalTime": 923.5781179997139,
+        "playwrightTotalTime": 2259.4450340000913
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 43,
+    "timestamp": 3796747.316944,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1815,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.375,
+        "tcpConnection": 247.66299999999998,
+        "tlsHandshake": 497.78,
+        "timeToFirstByte": 895.788,
+        "totalTime": 895.9599999999999,
+        "fcp": 999.626,
+        "lcp": 2127.191,
+        "speedIndex": 1968,
+        "curlTotalTime": 942.7788399998099,
+        "playwrightTotalTime": 2145.4577879998833
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 44,
+    "timestamp": 3768092.05168,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1871,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6519999999999997,
+        "tcpConnection": 239.036,
+        "tlsHandshake": 481.192,
+        "timeToFirstByte": 869.227,
+        "totalTime": 869.39,
+        "fcp": 995.614,
+        "lcp": 2074.643,
+        "speedIndex": 1975,
+        "curlTotalTime": 910.6035750000738,
+        "playwrightTotalTime": 2284.4572379998863
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 45,
+    "timestamp": 3812700.875716,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1832,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2079999999999997,
+        "tcpConnection": 245.481,
+        "tlsHandshake": 493.02000000000004,
+        "timeToFirstByte": 887.58,
+        "totalTime": 887.775,
+        "fcp": 1011.739,
+        "lcp": 2132.569,
+        "speedIndex": 1966,
+        "curlTotalTime": 929.2694159997627,
+        "playwrightTotalTime": 2282.1587040000595
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 46,
+    "timestamp": 6372617.882205,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1811,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3019999999999996,
+        "tcpConnection": 248.93699999999998,
+        "tlsHandshake": 500.418,
+        "timeToFirstByte": 898.164,
+        "totalTime": 898.324,
+        "fcp": 1081.802,
+        "lcp": 2209.384,
+        "speedIndex": 2084,
+        "curlTotalTime": 940.1608790000901,
+        "playwrightTotalTime": 2154.5532320002094
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 47,
+    "timestamp": 2880715.875036,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1448,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9980000000000002,
+        "tcpConnection": 245.225,
+        "tlsHandshake": 493.384,
+        "timeToFirstByte": 1123.3029999999999,
+        "totalTime": 1123.451,
+        "fcp": 968.749,
+        "lcp": 2105.595,
+        "speedIndex": 1794,
+        "curlTotalTime": 1161.1878649997525,
+        "playwrightTotalTime": 2228.293864000123
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 48,
+    "timestamp": 2694719.422234,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 49,
+    "timestamp": 3243413.37543,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1823,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.214,
+        "tcpConnection": 246.30599999999998,
+        "tlsHandshake": 495.351,
+        "timeToFirstByte": 891.894,
+        "totalTime": 892.13,
+        "fcp": 1003.484,
+        "lcp": 2104.907,
+        "speedIndex": 1963,
+        "curlTotalTime": 930.3005369999446,
+        "playwrightTotalTime": 2182.4662460000254
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 50,
+    "timestamp": 3775981.78473,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1873,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.97,
+        "tcpConnection": 239.35600000000002,
+        "tlsHandshake": 481.502,
+        "timeToFirstByte": 868.462,
+        "totalTime": 868.654,
+        "fcp": 1019.147,
+        "lcp": 2125.506,
+        "speedIndex": 1913,
+        "curlTotalTime": 916.1044430001639,
+        "playwrightTotalTime": 2250.3972119996324
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 51,
+    "timestamp": 3539784.142964,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1830,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2039999999999997,
+        "tcpConnection": 245.35199999999998,
+        "tlsHandshake": 495.082,
+        "timeToFirstByte": 888.645,
+        "totalTime": 888.8439999999999,
+        "fcp": 1033.7,
+        "lcp": 2121.384,
+        "speedIndex": 1925,
+        "curlTotalTime": 933.7407769998536,
+        "playwrightTotalTime": 2243.875229000114
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 52,
+    "timestamp": 3818203.038757,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1828,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6029999999999998,
+        "tcpConnection": 245.375,
+        "tlsHandshake": 493.529,
+        "timeToFirstByte": 889.83,
+        "totalTime": 890.024,
+        "fcp": 993.058,
+        "lcp": 2043.109,
+        "speedIndex": 1869,
+        "curlTotalTime": 934.1345320004039,
+        "playwrightTotalTime": 2174.8997649997473
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 53,
+    "timestamp": 3789470.081969,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1856,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.621,
+        "tcpConnection": 240.552,
+        "tlsHandshake": 484.53000000000003,
+        "timeToFirstByte": 876.208,
+        "totalTime": 876.385,
+        "fcp": 982.757,
+        "lcp": 2125.595,
+        "speedIndex": 1951,
+        "curlTotalTime": 924.066416000016,
+        "playwrightTotalTime": 2301.862887999974
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 54,
+    "timestamp": 3833860.781228,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1804,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.258,
+        "tcpConnection": 249.433,
+        "tlsHandshake": 500.86299999999994,
+        "timeToFirstByte": 901.442,
+        "totalTime": 901.655,
+        "fcp": 1015.855,
+        "lcp": 2112.58,
+        "speedIndex": 1938,
+        "curlTotalTime": 953.1195710003376,
+        "playwrightTotalTime": 2216.1456000003964
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 55,
+    "timestamp": 6395109.875961,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1867,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.335,
+        "tcpConnection": 239.3,
+        "tlsHandshake": 482.544,
+        "timeToFirstByte": 871.0400000000001,
+        "totalTime": 871.1940000000001,
+        "fcp": 990.196,
+        "lcp": 2106.063,
+        "speedIndex": 1947,
+        "curlTotalTime": 914.3711130004376,
+        "playwrightTotalTime": 1677.4055549995974
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 56,
+    "timestamp": 2901887.22505,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1864,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.714,
+        "tcpConnection": 239.921,
+        "tlsHandshake": 482.462,
+        "timeToFirstByte": 872.24,
+        "totalTime": 872.445,
+        "fcp": 996.578,
+        "lcp": 2104.633,
+        "speedIndex": 1888,
+        "curlTotalTime": 914.3110169996507,
+        "playwrightTotalTime": 2229.144694000017
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 57,
+    "timestamp": 2694770.055244,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 58,
+    "timestamp": 3264541.755547,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1819,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.084,
+        "tcpConnection": 246.227,
+        "tlsHandshake": 497.468,
+        "timeToFirstByte": 894.119,
+        "totalTime": 894.306,
+        "fcp": 1001.47,
+        "lcp": 2143.955,
+        "speedIndex": 1907,
+        "curlTotalTime": 942.0061279996298,
+        "playwrightTotalTime": 2204.953711000271
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 59,
+    "timestamp": 3797125.009343,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1866,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.843,
+        "tcpConnection": 239.32899999999998,
+        "tlsHandshake": 482.4,
+        "timeToFirstByte": 871.712,
+        "totalTime": 871.874,
+        "fcp": 1010.387,
+        "lcp": 2103.645,
+        "speedIndex": 1938,
+        "curlTotalTime": 914.6146660000086,
+        "playwrightTotalTime": 2245.199159000069
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 60,
+    "timestamp": 3560414.634974,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1825,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7680000000000002,
+        "tcpConnection": 245.889,
+        "tlsHandshake": 494.41400000000004,
+        "timeToFirstByte": 891.239,
+        "totalTime": 891.4490000000001,
+        "fcp": 992.656,
+        "lcp": 1589.683,
+        "speedIndex": 1552,
+        "curlTotalTime": 955.908102999907,
+        "playwrightTotalTime": 2270.062326000072
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 61,
+    "timestamp": 3839809.911064,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1800,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3930000000000002,
+        "tcpConnection": 240.734,
+        "tlsHandshake": 484.57,
+        "timeToFirstByte": 903.3639999999999,
+        "totalTime": 903.5490000000001,
+        "fcp": 1025.676,
+        "lcp": 2114.07,
+        "speedIndex": 1939,
+        "curlTotalTime": 944.594887000043,
+        "playwrightTotalTime": 2184.1020289999433
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 62,
+    "timestamp": 3811366.988681,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1811,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.28,
+        "tcpConnection": 245.838,
+        "tlsHandshake": 496.685,
+        "timeToFirstByte": 897.9970000000001,
+        "totalTime": 898.1519999999999,
+        "fcp": 998.966,
+        "lcp": 2190.378,
+        "speedIndex": 1924,
+        "curlTotalTime": 939.6581959999166,
+        "playwrightTotalTime": 2272.919785999693
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 63,
+    "timestamp": 3855067.595073,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1780,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.613,
+        "tcpConnection": 242.838,
+        "tlsHandshake": 489.73100000000005,
+        "timeToFirstByte": 913.588,
+        "totalTime": 913.737,
+        "fcp": 995.095,
+        "lcp": 2032.598,
+        "speedIndex": 1901,
+        "curlTotalTime": 962.8206720002927,
+        "playwrightTotalTime": 2178.394117000047
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 64,
+    "timestamp": 6416310.271041,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1873,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.297,
+        "tcpConnection": 238.478,
+        "tlsHandshake": 480.597,
+        "timeToFirstByte": 868.36,
+        "totalTime": 868.51,
+        "fcp": 1004.955,
+        "lcp": 2114.145,
+        "speedIndex": 1955,
+        "curlTotalTime": 911.4762770002708,
+        "playwrightTotalTime": 2177.9980560000986
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 65,
+    "timestamp": 2922816.095207,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1843,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.343,
+        "tcpConnection": 243.66899999999998,
+        "tlsHandshake": 491.632,
+        "timeToFirstByte": 882.403,
+        "totalTime": 882.722,
+        "fcp": 1001.884,
+        "lcp": 2031.659,
+        "speedIndex": 1767,
+        "curlTotalTime": 934.9541440000758,
+        "playwrightTotalTime": 2211.5287959999405
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 66,
+    "timestamp": 2694827.596727,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 67,
+    "timestamp": 3285616.300063,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1834,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.097,
+        "tcpConnection": 244.83599999999998,
+        "tlsHandshake": 492.46299999999997,
+        "timeToFirstByte": 886.824,
+        "totalTime": 887.038,
+        "fcp": 996.25,
+        "lcp": 2127.306,
+        "speedIndex": 1938,
+        "curlTotalTime": 932.7955050002784,
+        "playwrightTotalTime": 2175.4443830000237
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 68,
+    "timestamp": 3818324.397177,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1875,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.077,
+        "tcpConnection": 238.708,
+        "tlsHandshake": 480.767,
+        "timeToFirstByte": 867.562,
+        "totalTime": 867.719,
+        "fcp": 985.017,
+        "lcp": 2057.172,
+        "speedIndex": 1902,
+        "curlTotalTime": 915.2052839999087,
+        "playwrightTotalTime": 2145.8693989999592
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 69,
+    "timestamp": 3582027.668639,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1630,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.372,
+        "tcpConnection": 238.83499999999998,
+        "tlsHandshake": 600.499,
+        "timeToFirstByte": 997.845,
+        "totalTime": 998.057,
+        "fcp": 1066.145,
+        "lcp": 2158.955,
+        "speedIndex": 2000,
+        "curlTotalTime": 1049.3649450000376,
+        "playwrightTotalTime": 2300.110314999707
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 70,
+    "timestamp": 3861769.679856,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1867,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.421,
+        "tcpConnection": 239.173,
+        "tlsHandshake": 483.193,
+        "timeToFirstByte": 870.9480000000001,
+        "totalTime": 871.139,
+        "fcp": 992.602,
+        "lcp": 2124.655,
+        "speedIndex": 1950,
+        "curlTotalTime": 918.8721700003371,
+        "playwrightTotalTime": 2336.0657640001737
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 71,
+    "timestamp": 3832701.272158,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1834,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.76,
+        "tcpConnection": 244.19,
+        "tlsHandshake": 492.00300000000004,
+        "timeToFirstByte": 886.838,
+        "totalTime": 886.9970000000001,
+        "fcp": 974.253,
+        "lcp": 2085.72,
+        "speedIndex": 1888,
+        "curlTotalTime": 950.8266610000283,
+        "playwrightTotalTime": 2286.707396000158
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 72,
+    "timestamp": 3876425.930882,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1818,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.412,
+        "tcpConnection": 248.691,
+        "tlsHandshake": 501.111,
+        "timeToFirstByte": 894.615,
+        "totalTime": 894.805,
+        "fcp": 1014.444,
+        "lcp": 2114.524,
+        "speedIndex": 1927,
+        "curlTotalTime": 945.2915659998544,
+        "playwrightTotalTime": 2167.7412749999203
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 73,
+    "timestamp": 6437664.421409,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1866,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.823,
+        "tcpConnection": 239.978,
+        "tlsHandshake": 482.774,
+        "timeToFirstByte": 871.636,
+        "totalTime": 871.867,
+        "fcp": 984.183,
+        "lcp": 2088.394,
+        "speedIndex": 1972,
+        "curlTotalTime": 918.7921529999003,
+        "playwrightTotalTime": 2265.0414150003344
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 74,
+    "timestamp": 2943649.809825,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1864,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.074,
+        "tcpConnection": 239.762,
+        "tlsHandshake": 483.375,
+        "timeToFirstByte": 872.56,
+        "totalTime": 872.7,
+        "fcp": 1002.59,
+        "lcp": 2092.049,
+        "speedIndex": 1823,
+        "curlTotalTime": 917.1563280001283,
+        "playwrightTotalTime": 2227.2609000001103
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 75,
+    "timestamp": 2694883.626879,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 76,
+    "timestamp": 3306664.890101,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1832,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.083,
+        "tcpConnection": 246.167,
+        "tlsHandshake": 494.721,
+        "timeToFirstByte": 887.692,
+        "totalTime": 887.837,
+        "fcp": 971.887,
+        "lcp": 2073.428,
+        "speedIndex": 1910,
+        "curlTotalTime": 932.7247440000065,
+        "playwrightTotalTime": 2170.751874999609
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 77,
+    "timestamp": 3840098.761369,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1842,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.407,
+        "tcpConnection": 244.401,
+        "tlsHandshake": 492.918,
+        "timeToFirstByte": 882.8059999999999,
+        "totalTime": 883.0179999999999,
+        "fcp": 1002.861,
+        "lcp": 2170.475,
+        "speedIndex": 1994,
+        "curlTotalTime": 934.4561729999259,
+        "playwrightTotalTime": 2296.64698900003
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 78,
+    "timestamp": 3602681.645324,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1819,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.076,
+        "tcpConnection": 247.712,
+        "tlsHandshake": 499.052,
+        "timeToFirstByte": 894.232,
+        "totalTime": 894.442,
+        "fcp": 1017.754,
+        "lcp": 2108.751,
+        "speedIndex": 1945,
+        "curlTotalTime": 943.2715870002285,
+        "playwrightTotalTime": 1642.9856340000406
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 79,
+    "timestamp": 3883030.259393,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1828,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.764,
+        "tcpConnection": 246.855,
+        "tlsHandshake": 497.529,
+        "timeToFirstByte": 889.605,
+        "totalTime": 889.799,
+        "fcp": 1003.961,
+        "lcp": 2029.783,
+        "speedIndex": 1834,
+        "curlTotalTime": 945.4582210001536,
+        "playwrightTotalTime": 2270.7376080001704
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 80,
+    "timestamp": 3853208.758416,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1823,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2279999999999998,
+        "tcpConnection": 246.541,
+        "tlsHandshake": 497.192,
+        "timeToFirstByte": 892.254,
+        "totalTime": 892.454,
+        "fcp": 976.242,
+        "lcp": 1552.867,
+        "speedIndex": 1479,
+        "curlTotalTime": 935.4015609999187,
+        "playwrightTotalTime": 2258.0319910002872
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 81,
+    "timestamp": 3897544.812388,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1795,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.653,
+        "tcpConnection": 251.46800000000002,
+        "tlsHandshake": 507.748,
+        "timeToFirstByte": 906.088,
+        "totalTime": 906.3050000000001,
+        "fcp": 990.977,
+        "lcp": 2026.637,
+        "speedIndex": 1857,
+        "curlTotalTime": 961.5230199997313,
+        "playwrightTotalTime": 2254.307291999925
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 82,
+    "timestamp": 6459054.043722,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1830,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.323,
+        "tcpConnection": 245.012,
+        "tlsHandshake": 494.027,
+        "timeToFirstByte": 888.529,
+        "totalTime": 888.729,
+        "fcp": 975.537,
+        "lcp": 2063.876,
+        "speedIndex": 1866,
+        "curlTotalTime": 953.4061159994453,
+        "playwrightTotalTime": 2194.6203479999676
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 83,
+    "timestamp": 2965109.151814,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1872,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2399999999999998,
+        "tcpConnection": 238.696,
+        "tlsHandshake": 481.706,
+        "timeToFirstByte": 868.56,
+        "totalTime": 868.734,
+        "fcp": 1015.122,
+        "lcp": 2105.419,
+        "speedIndex": 1894,
+        "curlTotalTime": 908.0933910002932,
+        "playwrightTotalTime": 2237.8533899998292
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 84,
+    "timestamp": 2694936.064783,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 85,
+    "timestamp": 3327391.211391,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1877,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.277,
+        "tcpConnection": 238.215,
+        "tlsHandshake": 478.80699999999996,
+        "timeToFirstByte": 866.2990000000001,
+        "totalTime": 866.486,
+        "fcp": 1008.545,
+        "lcp": 2108.511,
+        "speedIndex": 1933,
+        "curlTotalTime": 907.5042969998904,
+        "playwrightTotalTime": 2124.913634000346
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 86,
+    "timestamp": 3861263.043242,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1854,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.406,
+        "tcpConnection": 242.97299999999998,
+        "tlsHandshake": 490.96099999999996,
+        "timeToFirstByte": 877.1510000000001,
+        "totalTime": 877.3149999999999,
+        "fcp": 975.748,
+        "lcp": 2040.879,
+        "speedIndex": 1858,
+        "curlTotalTime": 933.2010200000368,
+        "playwrightTotalTime": 2177.8074849997647
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 87,
+    "timestamp": 3623890.622428,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1825,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.297,
+        "tcpConnection": 247.162,
+        "tlsHandshake": 497.96000000000004,
+        "timeToFirstByte": 890.8629999999999,
+        "totalTime": 891.047,
+        "fcp": 989.364,
+        "lcp": 2073.212,
+        "speedIndex": 1899,
+        "curlTotalTime": 935.3764700000174,
+        "playwrightTotalTime": 2292.526044999715
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 88,
+    "timestamp": 3904508.335224,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1886,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2720000000000002,
+        "tcpConnection": 237.407,
+        "tlsHandshake": 478.051,
+        "timeToFirstByte": 862.023,
+        "totalTime": 862.2189999999999,
+        "fcp": 967.269,
+        "lcp": 2043.512,
+        "speedIndex": 1899,
+        "curlTotalTime": 905.3654009997845,
+        "playwrightTotalTime": 2176.320032000076
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 89,
+    "timestamp": 3874693.99432,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1868,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9880000000000002,
+        "tcpConnection": 238.701,
+        "tlsHandshake": 480.655,
+        "timeToFirstByte": 870.324,
+        "totalTime": 870.6120000000001,
+        "fcp": 1007.217,
+        "lcp": 2117.505,
+        "speedIndex": 1946,
+        "curlTotalTime": 911.931152000092,
+        "playwrightTotalTime": 2259.900522999931
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 90,
+    "timestamp": 3918955.767674,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1837,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.214,
+        "tcpConnection": 246.234,
+        "tlsHandshake": 495.36,
+        "timeToFirstByte": 885.456,
+        "totalTime": 885.652,
+        "fcp": 991.484,
+        "lcp": 2148.713,
+        "speedIndex": 1865,
+        "curlTotalTime": 927.6070520002395,
+        "playwrightTotalTime": 2227.1137649999
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 91,
+    "timestamp": 6480742.621957,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1877,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.57,
+        "tcpConnection": 239.14,
+        "tlsHandshake": 481.56,
+        "timeToFirstByte": 866.4960000000001,
+        "totalTime": 866.672,
+        "fcp": 1010.545,
+        "lcp": 2215.211,
+        "speedIndex": 2012,
+        "curlTotalTime": 910.4215219998732,
+        "playwrightTotalTime": 2229.437096999958
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 92,
+    "timestamp": 2986189.391665,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1808,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.523,
+        "tcpConnection": 247.793,
+        "tlsHandshake": 499.822,
+        "timeToFirstByte": 899.7199999999999,
+        "totalTime": 899.879,
+        "fcp": 965.736,
+        "lcp": 2039.131,
+        "speedIndex": 1800,
+        "curlTotalTime": 942.6783750001341,
+        "playwrightTotalTime": 2198.770630999934
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 93,
+    "timestamp": 2694987.977574,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 94,
+    "timestamp": 3348314.488273,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1829,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.281,
+        "tcpConnection": 245.28900000000002,
+        "tlsHandshake": 494.577,
+        "timeToFirstByte": 889.239,
+        "totalTime": 889.4309999999999,
+        "fcp": 1016.853,
+        "lcp": 2014.879,
+        "speedIndex": 1881,
+        "curlTotalTime": 929.5466020000167,
+        "playwrightTotalTime": 2192.0698520001024
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 95,
+    "timestamp": 3882437.704524,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1849,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.162,
+        "tcpConnection": 241.882,
+        "tlsHandshake": 487.15999999999997,
+        "timeToFirstByte": 879.364,
+        "totalTime": 879.558,
+        "fcp": 973.537,
+        "lcp": 2088.546,
+        "speedIndex": 1888,
+        "curlTotalTime": 923.6763250003569,
+        "playwrightTotalTime": 2230.8772439998575
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 96,
+    "timestamp": 3645569.07606,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1830,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.608,
+        "tcpConnection": 246.025,
+        "tlsHandshake": 494.154,
+        "timeToFirstByte": 888.696,
+        "totalTime": 888.953,
+        "fcp": 983.305,
+        "lcp": 2038.426,
+        "speedIndex": 1921,
+        "curlTotalTime": 931.5701009999029,
+        "playwrightTotalTime": 2232.059304000344
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 97,
+    "timestamp": 3925786.340191,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1808,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7030000000000003,
+        "tcpConnection": 248.279,
+        "tlsHandshake": 500.49999999999994,
+        "timeToFirstByte": 899.671,
+        "totalTime": 899.885,
+        "fcp": 1021.236,
+        "lcp": 2082.862,
+        "speedIndex": 1918,
+        "curlTotalTime": 955.8874320001341,
+        "playwrightTotalTime": 2236.4023569999263
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 98,
+    "timestamp": 3895838.07266,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1865,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.105,
+        "tcpConnection": 240.5,
+        "tlsHandshake": 484.704,
+        "timeToFirstByte": 871.7810000000001,
+        "totalTime": 871.9749999999999,
+        "fcp": 1034.743,
+        "lcp": 2085.155,
+        "speedIndex": 1937,
+        "curlTotalTime": 910.6184379998595,
+        "playwrightTotalTime": 2249.959744999651
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 99,
+    "timestamp": 3940670.265556,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1829,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.07,
+        "tcpConnection": 244.748,
+        "tlsHandshake": 494.016,
+        "timeToFirstByte": 889.3389999999999,
+        "totalTime": 889.531,
+        "fcp": 1020.354,
+        "lcp": 2155.154,
+        "speedIndex": 1979,
+        "curlTotalTime": 934.723273999989,
+        "playwrightTotalTime": 2237.8505420000292
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 100,
+    "timestamp": 6503128.179372,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1802,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.353,
+        "tcpConnection": 249.639,
+        "tlsHandshake": 502.44500000000005,
+        "timeToFirstByte": 902.62,
+        "totalTime": 902.788,
+        "fcp": 998.113,
+        "lcp": 2140.341,
+        "speedIndex": 1994,
+        "curlTotalTime": 943.3730380004272,
+        "playwrightTotalTime": 3479.818739000708
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 101,
+    "timestamp": 3007685.028818,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1870,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.088,
+        "tcpConnection": 238.69299999999998,
+        "tlsHandshake": 481.474,
+        "timeToFirstByte": 869.632,
+        "totalTime": 869.792,
+        "fcp": 989.951,
+        "lcp": 2118.136,
+        "speedIndex": 1861,
+        "curlTotalTime": 908.2954319999553,
+        "playwrightTotalTime": 2166.649723999668
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 102,
+    "timestamp": 2695037.945804,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 103,
+    "timestamp": 3369505.526481,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1809,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3489999999999998,
+        "tcpConnection": 247.664,
+        "tlsHandshake": 499.621,
+        "timeToFirstByte": 899.23,
+        "totalTime": 899.377,
+        "fcp": 1020.08,
+        "lcp": 1983.588,
+        "speedIndex": 1882,
+        "curlTotalTime": 946.6408989997581,
+        "playwrightTotalTime": 2299.414987000171
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 104,
+    "timestamp": 3903831.048577,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1840,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.646,
+        "tcpConnection": 244.18300000000002,
+        "tlsHandshake": 492.51,
+        "timeToFirstByte": 883.735,
+        "totalTime": 883.915,
+        "fcp": 958.946,
+        "lcp": 2076.791,
+        "speedIndex": 1924,
+        "curlTotalTime": 936.7681259997189,
+        "playwrightTotalTime": 2249.2956530000083
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 105,
+    "timestamp": 3667016.228329,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1818,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.893,
+        "tcpConnection": 248.88,
+        "tlsHandshake": 498.594,
+        "timeToFirstByte": 894.368,
+        "totalTime": 894.599,
+        "fcp": 971.751,
+        "lcp": 2032.287,
+        "speedIndex": 1879,
+        "curlTotalTime": 937.0760280000977,
+        "playwrightTotalTime": 2356.087678000331
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 106,
+    "timestamp": 3946841.578772,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1821,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.541,
+        "tcpConnection": 246.85999999999999,
+        "tlsHandshake": 496.64300000000003,
+        "timeToFirstByte": 893.083,
+        "totalTime": 893.245,
+        "fcp": 974.636,
+        "lcp": 2083.887,
+        "speedIndex": 1922,
+        "curlTotalTime": 935.0230349996127,
+        "playwrightTotalTime": 2190.5619060001336
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 107,
+    "timestamp": 3916534.952672,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1852,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.731,
+        "tcpConnection": 241.5,
+        "tlsHandshake": 486.885,
+        "timeToFirstByte": 878.028,
+        "totalTime": 878.1940000000001,
+        "fcp": 1036.731,
+        "lcp": 1689.338,
+        "speedIndex": 1611,
+        "curlTotalTime": 921.2694500000216,
+        "playwrightTotalTime": 2325.4923199997284
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 108,
+    "timestamp": 3967682.799382,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1807,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.458,
+        "tcpConnection": 249.439,
+        "tlsHandshake": 502.336,
+        "timeToFirstByte": 899.871,
+        "totalTime": 900.06,
+        "fcp": 993.153,
+        "lcp": 2127.932,
+        "speedIndex": 2840,
+        "curlTotalTime": 955.1816010000184,
+        "playwrightTotalTime": 2249.84417900024
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 109,
+    "timestamp": 6524428.796287,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1803,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.606,
+        "tcpConnection": 249.417,
+        "tlsHandshake": 503.277,
+        "timeToFirstByte": 901.926,
+        "totalTime": 902.106,
+        "fcp": 991.7,
+        "lcp": 2114.883,
+        "speedIndex": 1962,
+        "curlTotalTime": 945.1294309999794,
+        "playwrightTotalTime": 2221.00627100002
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 110,
+    "timestamp": 3029333.725227,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1789,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.63,
+        "tcpConnection": 250.69200000000004,
+        "tlsHandshake": 507.33799999999997,
+        "timeToFirstByte": 908.7330000000001,
+        "totalTime": 908.947,
+        "fcp": 969.112,
+        "lcp": 2115.128,
+        "speedIndex": 1884,
+        "curlTotalTime": 975.0979519998655,
+        "playwrightTotalTime": 2326.9993640002795
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 111,
+    "timestamp": 2695091.819341,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 112,
+    "timestamp": 3390429.472608,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1844,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.924,
+        "tcpConnection": 241.769,
+        "tlsHandshake": 488.525,
+        "timeToFirstByte": 881.725,
+        "totalTime": 881.97,
+        "fcp": 994.419,
+        "lcp": 2074.425,
+        "speedIndex": 1924,
+        "curlTotalTime": 922.8170229997486,
+        "playwrightTotalTime": 2179.8823780003004
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 113,
+    "timestamp": 3921461.363928,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1849,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.254,
+        "tcpConnection": 242.019,
+        "tlsHandshake": 487.38,
+        "timeToFirstByte": 879.3570000000001,
+        "totalTime": 879.521,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 934.1061869999394,
+        "playwrightTotalTime": 2278.6753050000407
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 114,
+    "timestamp": 3684747.767256,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1856,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.18,
+        "tcpConnection": 240.71,
+        "tlsHandshake": 484.519,
+        "timeToFirstByte": 876.378,
+        "totalTime": 876.5600000000001,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 916.6469959998503,
+        "playwrightTotalTime": 2264.779988999944
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 115,
+    "timestamp": 3964254.04902,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1858,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.335,
+        "tcpConnection": 240.99200000000002,
+        "tlsHandshake": 486.43199999999996,
+        "timeToFirstByte": 875.125,
+        "totalTime": 875.28,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 921.6760489996523,
+        "playwrightTotalTime": 2165.6802500002086
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 116,
+    "timestamp": 3934344.398533,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1871,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.205,
+        "tcpConnection": 237.99,
+        "tlsHandshake": 481.598,
+        "timeToFirstByte": 869.1990000000001,
+        "totalTime": 869.3729999999999,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 915.0882580000907,
+        "playwrightTotalTime": 2260.817272000015
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 117,
+    "timestamp": 3988815.447261,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1807,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3449999999999998,
+        "tcpConnection": 249.72,
+        "tlsHandshake": 503.15600000000006,
+        "timeToFirstByte": 899.974,
+        "totalTime": 900.166,
+        "fcp": 987.378,
+        "lcp": 2062.077,
+        "speedIndex": 1911,
+        "curlTotalTime": 942.4555609999225,
+        "playwrightTotalTime": 2248.398754999973
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 118,
+    "timestamp": 6545751.502859,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1866,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2520000000000002,
+        "tcpConnection": 238.87800000000001,
+        "tlsHandshake": 483.50399999999996,
+        "timeToFirstByte": 871.3779999999999,
+        "totalTime": 871.557,
+        "fcp": 992.933,
+        "lcp": 2151.242,
+        "speedIndex": 1961,
+        "curlTotalTime": 916.3065640004352,
+        "playwrightTotalTime": 2241.933583999984
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 119,
+    "timestamp": 3050413.696823,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1821,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3800000000000003,
+        "tcpConnection": 247.42700000000002,
+        "tlsHandshake": 497.136,
+        "timeToFirstByte": 893.2560000000001,
+        "totalTime": 893.404,
+        "fcp": 988.831,
+        "lcp": 2112.856,
+        "speedIndex": 1861,
+        "curlTotalTime": 937.3515739999712,
+        "playwrightTotalTime": 2218.400381000247
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 120,
+    "timestamp": 2695146.533823,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 121,
+    "timestamp": 3411468.434896,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1810,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0309999999999997,
+        "tcpConnection": 248.229,
+        "tlsHandshake": 498.221,
+        "timeToFirstByte": 898.332,
+        "totalTime": 898.513,
+        "fcp": 982.972,
+        "lcp": 2117.279,
+        "speedIndex": 1937,
+        "curlTotalTime": 938.1366030001082,
+        "playwrightTotalTime": 2226.1825800002553
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 122,
+    "timestamp": 3937662.182629,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 86,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.461,
+        "tcpConnection": 236.791,
+        "tlsHandshake": 479.456,
+        "timeToFirstByte": 716.492,
+        "totalTime": 716.6949999999999,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 764.5529640000314,
+        "playwrightTotalTime": 1026.1282259998843
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 123,
+    "timestamp": 3700756.815973,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 83,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7440000000000002,
+        "tcpConnection": 245.906,
+        "tlsHandshake": 495.222,
+        "timeToFirstByte": 740.829,
+        "totalTime": 741.0029999999999,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 783.8051569997333,
+        "playwrightTotalTime": 1044.1399489999749
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 124,
+    "timestamp": 3980498.99005,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 86,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.761,
+        "tcpConnection": 236.816,
+        "tlsHandshake": 477.526,
+        "timeToFirstByte": 714.5200000000001,
+        "totalTime": 714.674,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 763.4711980000138,
+        "playwrightTotalTime": 1025.743759999983
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 125,
+    "timestamp": 3950547.492571,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 86,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.7619999999999998,
+        "tcpConnection": 238.877,
+        "tlsHandshake": 481.868,
+        "timeToFirstByte": 720.071,
+        "totalTime": 720.2579999999999,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 764.8626079997048,
+        "playwrightTotalTime": 1043.0042150001973
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 126,
+    "timestamp": 4009937.644627,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1855,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.18,
+        "tcpConnection": 241.69199999999998,
+        "tlsHandshake": 486.541,
+        "timeToFirstByte": 876.684,
+        "totalTime": 876.983,
+        "fcp": 971.873,
+        "lcp": 2058.04,
+        "speedIndex": 1851,
+        "curlTotalTime": 924.1890250002034,
+        "playwrightTotalTime": 2263.98587199999
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 127,
+    "timestamp": 6566886.885326,
+    "webTests": [
+      {
+        "url": "https://qt3e167546ccab1f49506715732d.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1807,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.276,
+        "tcpConnection": 246.399,
+        "tlsHandshake": 496.2,
+        "timeToFirstByte": 899.892,
+        "totalTime": 900.067,
+        "fcp": 1002.491,
+        "lcp": 2113.468,
+        "speedIndex": 1957,
+        "curlTotalTime": 940.3966359999031,
+        "playwrightTotalTime": 2244.4255489995703
+      }
+    ],
+    "totalDuration": 336732.1155659994,
+    "setupDuration": 2882.375607999973,
+    "diagnosticsDuration": 0.005401999689638615,
+    "measurementDuration": 323841.83487799857,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 128,
+    "timestamp": 3071404.106133,
+    "webTests": [
+      {
+        "url": "https://qt6175a9fe80f28f16f43103778c.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1868,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.258,
+        "tcpConnection": 240.048,
+        "tlsHandshake": 483.447,
+        "timeToFirstByte": 870.66,
+        "totalTime": 870.855,
+        "fcp": 987.113,
+        "lcp": 2042.966,
+        "speedIndex": 1793,
+        "curlTotalTime": 910.5478500002064,
+        "playwrightTotalTime": 2232.7014100002125
+      }
+    ],
+    "totalDuration": 331276.5654810001,
+    "setupDuration": 2676.8474510000087,
+    "diagnosticsDuration": 0.003208999987691641,
+    "measurementDuration": 318590.85481999815,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 129,
+    "timestamp": 2695193.591181,
+    "webTests": [
+      {
+        "url": "/webtest",
+        "statusCode": 0,
+        "downloadSpeed": 0,
+        "uploadSpeed": 0,
+        "dnsLookup": 0,
+        "tcpConnection": 0,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 0,
+        "totalTime": 0,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 0,
+        "playwrightTotalTime": 0,
+        "error": "Command failed with code 3: "
+      }
+    ],
+    "totalDuration": 28285.413292999845,
+    "setupDuration": 17474.241433999967,
+    "diagnosticsDuration": 0.003242999780923128,
+    "measurementDuration": 810.540154999122,
+    "hasErrors": true,
+    "errorCount": 1,
+    "errors": [
+      "Tunnel Setup: Request failed with status code 500"
+    ]
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 130,
+    "timestamp": 3432677.866945,
+    "webTests": [
+      {
+        "url": "https://qtf63d16a9a15ec6d22f968a5570.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1816,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.222,
+        "tcpConnection": 248.141,
+        "tlsHandshake": 498.88500000000005,
+        "timeToFirstByte": 895.336,
+        "totalTime": 895.524,
+        "fcp": 989.549,
+        "lcp": 1988.065,
+        "speedIndex": 1872,
+        "curlTotalTime": 938.9181240000762,
+        "playwrightTotalTime": 2203.7089370000176
+      }
+    ],
+    "totalDuration": 328285.70180399995,
+    "setupDuration": 2665.4250579997897,
+    "diagnosticsDuration": 0.002876000013202429,
+    "measurementDuration": 315615.26564000035,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 131,
+    "timestamp": 3954560.946294,
+    "webTests": [
+      {
+        "url": "https://qt4cbcf14e4e42cd400bcc3f5d8b.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 83,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.848,
+        "tcpConnection": 245.4,
+        "tlsHandshake": 495.159,
+        "timeToFirstByte": 740.316,
+        "totalTime": 740.469,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 794.0383629999124,
+        "playwrightTotalTime": 1101.9110119999386
+      }
+    ],
+    "totalDuration": 319637.401453,
+    "setupDuration": 2755.427638000343,
+    "diagnosticsDuration": 0.0037369998171925545,
+    "measurementDuration": 306873.98407500004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 132,
+    "timestamp": 3716910.110531,
+    "webTests": [
+      {
+        "url": "https://qt8b63e5c0ca72c0f0c68ee69919.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 86,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.721,
+        "tcpConnection": 237.815,
+        "tlsHandshake": 479.182,
+        "timeToFirstByte": 716.349,
+        "totalTime": 716.492,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 757.5190020003356,
+        "playwrightTotalTime": 1016.7231700001284
+      }
+    ],
+    "totalDuration": 318758.97299299994,
+    "setupDuration": 2462.9910609996878,
+    "diagnosticsDuration": 0.0023949998430907726,
+    "measurementDuration": 306284.703778001,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 133,
+    "timestamp": 3996722.254533,
+    "webTests": [
+      {
+        "url": "https://qtd80302deea177f04adfa25bacd.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 86,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.529,
+        "tcpConnection": 238.068,
+        "tlsHandshake": 481.33500000000004,
+        "timeToFirstByte": 719.173,
+        "totalTime": 719.303,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 757.7820429997519,
+        "playwrightTotalTime": 1015.464478999842
+      }
+    ],
+    "totalDuration": 318660.9739669999,
+    "setupDuration": 2459.3309899996966,
+    "diagnosticsDuration": 0.0032110000029206276,
+    "measurementDuration": 306191.0354320002,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 134,
+    "timestamp": 3966779.302753,
+    "webTests": [
+      {
+        "url": "https://qte196821df8b18f585716043335.free.beeceptor.com/webtest",
+        "statusCode": 429,
+        "downloadSpeed": 82,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9589999999999999,
+        "tcpConnection": 248.12699999999998,
+        "tlsHandshake": 500.61699999999996,
+        "timeToFirstByte": 748.472,
+        "totalTime": 748.6859999999999,
+        "fcp": 0,
+        "lcp": 0,
+        "speedIndex": 0,
+        "curlTotalTime": 801.2261930000968,
+        "playwrightTotalTime": 1047.8513390002772
+      }
+    ],
+    "totalDuration": 320348.12271999987,
+    "setupDuration": 2461.638830000069,
+    "diagnosticsDuration": 0.005553000140935183,
+    "measurementDuration": 307878.86508899974,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Beeceptor",
+    "measurementNumber": 135,
+    "timestamp": 4030982.011762,
+    "webTests": [
+      {
+        "url": "https://qt02004ecd79e219d2ce9f5134b2.free.beeceptor.com/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1836,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.997,
+        "tcpConnection": 246.431,
+        "tlsHandshake": 493.398,
+        "timeToFirstByte": 885.972,
+        "totalTime": 886.158,
+        "fcp": 987.389,
+        "lcp": 2088.108,
+        "speedIndex": 1947,
+        "curlTotalTime": 935.3401300003752,
+        "playwrightTotalTime": 2293.523264999967
+      }
+    ],
+    "totalDuration": 337708.12577599986,
+    "setupDuration": 2667.247909999918,
+    "diagnosticsDuration": 0.0051209996454417706,
+    "measurementDuration": 325031.25431099953,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]

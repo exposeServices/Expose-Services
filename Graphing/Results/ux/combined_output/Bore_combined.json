@@ -1,0 +1,6752 @@
+[
+  {
+    "toolName": "Bore",
+    "measurementNumber": 1,
+    "timestamp": 1407105.512244,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2345,
+        "uploadSpeed": 0,
+        "dnsLookup": 56.432,
+        "tcpConnection": 264.317,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 693.493,
+        "totalTime": 693.622,
+        "fcp": 800.311,
+        "lcp": 1810.523,
+        "speedIndex": 1686,
+        "curlTotalTime": 735.5556719999295,
+        "playwrightTotalTime": 3290.244856999954
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 2,
+    "timestamp": 1481802.6664540172,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6631,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.067,
+        "tcpConnection": 150.4,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 245.203,
+        "totalTime": 245.357,
+        "fcp": 321.239,
+        "lcp": 637.981,
+        "speedIndex": 645,
+        "curlTotalTime": 285.4524610042572,
+        "playwrightTotalTime": 748.7748019993305
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 3,
+    "timestamp": 1174823.973737,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2204,
+        "uploadSpeed": 0,
+        "dnsLookup": 95.167,
+        "tcpConnection": 306.577,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 737.856,
+        "totalTime": 737.9839999999999,
+        "fcp": 774.006,
+        "lcp": 1903.244,
+        "speedIndex": 1666,
+        "curlTotalTime": 777.316632000031,
+        "playwrightTotalTime": 2034.0105899998453
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 4,
+    "timestamp": 1526435.4828299284,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7487,
+        "uploadSpeed": 0,
+        "dnsLookup": 27.265,
+        "tcpConnection": 117.013,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 217.15599999999998,
+        "totalTime": 217.29299999999998,
+        "fcp": 289.96,
+        "lcp": 924.673,
+        "speedIndex": 862,
+        "curlTotalTime": 257.14885795116425,
+        "playwrightTotalTime": 680.8259550333023
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 5,
+    "timestamp": 1417614.450578,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1788,
+        "uploadSpeed": 0,
+        "dnsLookup": 233.86399999999998,
+        "tcpConnection": 443.112,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 909.337,
+        "totalTime": 909.456,
+        "fcp": 797.625,
+        "lcp": 1952.414,
+        "speedIndex": 1735,
+        "curlTotalTime": 953.5362680000253,
+        "playwrightTotalTime": 2053.659670999972
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 6,
+    "timestamp": 1497275.6647139788,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8019,
+        "uploadSpeed": 0,
+        "dnsLookup": 19.058,
+        "tcpConnection": 108.778,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 202.72899999999998,
+        "totalTime": 202.88600000000002,
+        "fcp": 295.928,
+        "lcp": 659.473,
+        "speedIndex": 605,
+        "curlTotalTime": 246.3700499534607,
+        "playwrightTotalTime": 677.6770030260086
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 7,
+    "timestamp": 1319768.326752,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2312,
+        "uploadSpeed": 0,
+        "dnsLookup": 51.623000000000005,
+        "tcpConnection": 263.721,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 703.3399999999999,
+        "totalTime": 703.4359999999999,
+        "fcp": 761.204,
+        "lcp": 2058.744,
+        "speedIndex": 1840,
+        "curlTotalTime": 742.9082010001875,
+        "playwrightTotalTime": 1987.027241999982
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 8,
+    "timestamp": 1338788.8822339773,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6748,
+        "uploadSpeed": 0,
+        "dnsLookup": 56.219,
+        "tcpConnection": 145.43800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 240.929,
+        "totalTime": 241.092,
+        "fcp": 285.377,
+        "lcp": 770.083,
+        "speedIndex": 623,
+        "curlTotalTime": 282.61175096035004,
+        "playwrightTotalTime": 884.8017259836197
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 9,
+    "timestamp": 1739228.712801,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2122,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.022,
+        "tcpConnection": 266.01000000000005,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 766.3100000000001,
+        "totalTime": 766.4499999999999,
+        "fcp": 776.801,
+        "lcp": 1811.242,
+        "speedIndex": 1663,
+        "curlTotalTime": 809.6637160000391,
+        "playwrightTotalTime": 1968.6271059999708
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 10,
+    "timestamp": 1310896.988955021,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2228,
+        "uploadSpeed": 0,
+        "dnsLookup": 54.738,
+        "tcpConnection": 142.832,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 729.99,
+        "totalTime": 730.133,
+        "fcp": 1008.392,
+        "lcp": 1302.533,
+        "speedIndex": 1307,
+        "curlTotalTime": 770.2659769058228,
+        "playwrightTotalTime": 1274.7723120450974
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 11,
+    "timestamp": 1481664.850188,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2153,
+        "uploadSpeed": 0,
+        "dnsLookup": 84.86200000000001,
+        "tcpConnection": 290.18300000000005,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 755.383,
+        "totalTime": 755.484,
+        "fcp": 794.147,
+        "lcp": 1426.415,
+        "speedIndex": 1335,
+        "curlTotalTime": 794.1694750001188,
+        "playwrightTotalTime": 2170.3734909999184
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 12,
+    "timestamp": 1512839.297428,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6611,
+        "uploadSpeed": 0,
+        "dnsLookup": 63.905,
+        "tcpConnection": 152.053,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 245.951,
+        "totalTime": 246.083,
+        "fcp": 296.478,
+        "lcp": 616.261,
+        "speedIndex": 581,
+        "curlTotalTime": 281.22754300013185,
+        "playwrightTotalTime": 755.682010000106
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 13,
+    "timestamp": 1729669.518403,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2313,
+        "uploadSpeed": 0,
+        "dnsLookup": 91.611,
+        "tcpConnection": 297.331,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 703.148,
+        "totalTime": 703.2610000000001,
+        "fcp": 748.311,
+        "lcp": 1873.084,
+        "speedIndex": 1704,
+        "curlTotalTime": 742.2643590001389,
+        "playwrightTotalTime": 2012.3380040000193
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 14,
+    "timestamp": 1499253.8108270168,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9162,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.127,
+        "tcpConnection": 86.833,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 177.455,
+        "totalTime": 177.57600000000002,
+        "fcp": 311.436,
+        "lcp": 846.592,
+        "speedIndex": 722,
+        "curlTotalTime": 237.34942999482155,
+        "playwrightTotalTime": 752.4071469902992
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 15,
+    "timestamp": 2040235.707287,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2326,
+        "uploadSpeed": 0,
+        "dnsLookup": 53.830000000000005,
+        "tcpConnection": 258.935,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 699.2660000000001,
+        "totalTime": 699.392,
+        "fcp": 817.389,
+        "lcp": 1944.462,
+        "speedIndex": 1799,
+        "curlTotalTime": 741.3796569998376,
+        "playwrightTotalTime": 2097.6813399998937
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 16,
+    "timestamp": 1543985.8894979954,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6931,
+        "uploadSpeed": 0,
+        "dnsLookup": 54.308,
+        "tcpConnection": 140.882,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 234.55100000000002,
+        "totalTime": 234.71200000000002,
+        "fcp": 296.59,
+        "lcp": 788.088,
+        "speedIndex": 666,
+        "curlTotalTime": 273.3463889360428,
+        "playwrightTotalTime": 721.2753330469131
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 17,
+    "timestamp": 1677160.723513,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2143,
+        "uploadSpeed": 0,
+        "dnsLookup": 50.217999999999996,
+        "tcpConnection": 254.508,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 759.021,
+        "totalTime": 759.12,
+        "fcp": 785.78,
+        "lcp": 1926.787,
+        "speedIndex": 1750,
+        "curlTotalTime": 805.8793409999926,
+        "playwrightTotalTime": 2129.084288999904
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 18,
+    "timestamp": 1514435.456041932,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8486,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.735,
+        "tcpConnection": 90.007,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 191.59,
+        "totalTime": 191.708,
+        "fcp": 286.931,
+        "lcp": 679.634,
+        "speedIndex": 629,
+        "curlTotalTime": 227.61121010780334,
+        "playwrightTotalTime": 629.8619259595871
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 19,
+    "timestamp": 1427702.886614,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2541,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.222,
+        "tcpConnection": 206.65,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 640.112,
+        "totalTime": 640.207,
+        "fcp": 742.471,
+        "lcp": 1846.659,
+        "speedIndex": 1709,
+        "curlTotalTime": 679.5007769998629,
+        "playwrightTotalTime": 1950.3549500000663
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 20,
+    "timestamp": 1355876.6471290588,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6618,
+        "uploadSpeed": 0,
+        "dnsLookup": 54.475,
+        "tcpConnection": 145.794,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 245.7,
+        "totalTime": 245.821,
+        "fcp": 322.613,
+        "lcp": 597.32,
+        "speedIndex": 604,
+        "curlTotalTime": 291.0297679901123,
+        "playwrightTotalTime": 675.1905770301819
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 21,
+    "timestamp": 1195093.170818,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2330,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2239999999999998,
+        "tcpConnection": 207.435,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 698.0150000000001,
+        "totalTime": 698.117,
+        "fcp": 797,
+        "lcp": 1861.204,
+        "speedIndex": 1689,
+        "curlTotalTime": 735.3441550000571,
+        "playwrightTotalTime": 1961.3964450000785
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 22,
+    "timestamp": 1332492.307749033,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1183,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.595,
+        "tcpConnection": 89.436,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1374.213,
+        "totalTime": 1374.354,
+        "fcp": 1787.452,
+        "lcp": 2194.53,
+        "speedIndex": 2183,
+        "curlTotalTime": 1410.903734922409,
+        "playwrightTotalTime": 1549.5114780664444
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 23,
+    "timestamp": 1438736.026491,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2403,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2520000000000002,
+        "tcpConnection": 210.588,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 676.9159999999999,
+        "totalTime": 677.014,
+        "fcp": 784.705,
+        "lcp": 1850.204,
+        "speedIndex": 1591,
+        "curlTotalTime": 726.5335859998595,
+        "playwrightTotalTime": 2064.6590829999186
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 24,
+    "timestamp": 1530117.529451,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 6688,
+        "uploadSpeed": 0,
+        "dnsLookup": 61.236,
+        "tcpConnection": 148.38000000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 242.90800000000002,
+        "totalTime": 243.238,
+        "fcp": 316.034,
+        "lcp": 667.633,
+        "speedIndex": 697,
+        "curlTotalTime": 281.41652899980545,
+        "playwrightTotalTime": 728.2460229999851
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 25,
+    "timestamp": 1339880.374865,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2619,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.605,
+        "tcpConnection": 208.785,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 620.995,
+        "totalTime": 621.0989999999999,
+        "fcp": 781.887,
+        "lcp": 1859.227,
+        "speedIndex": 1688,
+        "curlTotalTime": 671.6517199999653,
+        "playwrightTotalTime": 1875.312479000073
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 26,
+    "timestamp": 1516728.9779770076,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8813,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.271,
+        "tcpConnection": 90.283,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.474,
+        "totalTime": 184.606,
+        "fcp": 291.513,
+        "lcp": 801.271,
+        "speedIndex": 776,
+        "curlTotalTime": 223.95605999231339,
+        "playwrightTotalTime": 759.3470749855042
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 27,
+    "timestamp": 1759824.181313,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2324,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1189999999999998,
+        "tcpConnection": 209.141,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 699.7750000000001,
+        "totalTime": 699.8720000000001,
+        "fcp": 848.377,
+        "lcp": 2011.941,
+        "speedIndex": 1835,
+        "curlTotalTime": 740.2290010000579,
+        "playwrightTotalTime": 1977.4367229999043
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 28,
+    "timestamp": 1561099.9875500202,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9305,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5860000000000003,
+        "tcpConnection": 85.45400000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.65200000000002,
+        "totalTime": 174.838,
+        "fcp": 303.178,
+        "lcp": 614.494,
+        "speedIndex": 590,
+        "curlTotalTime": 219.98599708080292,
+        "playwrightTotalTime": 657.4183210134506
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 29,
+    "timestamp": 1502650.766859,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2172,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.258,
+        "tcpConnection": 206.286,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 748.91,
+        "totalTime": 749.0360000000001,
+        "fcp": 828.892,
+        "lcp": 2027.202,
+        "speedIndex": 1880,
+        "curlTotalTime": 800.2119420000818,
+        "playwrightTotalTime": 2122.794596000109
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 30,
+    "timestamp": 1531450.6961729527,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9265,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.68,
+        "tcpConnection": 85.68199999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.44000000000003,
+        "totalTime": 175.603,
+        "fcp": 383.747,
+        "lcp": 605.687,
+        "speedIndex": 623,
+        "curlTotalTime": 215.99633407592773,
+        "playwrightTotalTime": 702.2379839420319
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 31,
+    "timestamp": 1750248.197521,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2383,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.055,
+        "tcpConnection": 207.754,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 682.516,
+        "totalTime": 682.645,
+        "fcp": 798.573,
+        "lcp": 1822.321,
+        "speedIndex": 1677,
+        "curlTotalTime": 725.8358740000986,
+        "playwrightTotalTime": 1997.2339320001192
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 32,
+    "timestamp": 1372998.505967021,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8835,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.806,
+        "tcpConnection": 89.349,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.023,
+        "totalTime": 184.14,
+        "fcp": 291.086,
+        "lcp": 832.49,
+        "speedIndex": 771,
+        "curlTotalTime": 224.9025000333786,
+        "playwrightTotalTime": 659.0328139066696
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 33,
+    "timestamp": 2062632.113734,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2627,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.539,
+        "tcpConnection": 210.457,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 619.019,
+        "totalTime": 619.143,
+        "fcp": 816.987,
+        "lcp": 2479.455,
+        "speedIndex": 2177,
+        "curlTotalTime": 662.0564919998869,
+        "playwrightTotalTime": 3001.157518999884
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 34,
+    "timestamp": 1352789.3260179758,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1257,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.996,
+        "tcpConnection": 85.225,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 1293.918,
+        "totalTime": 1294.072,
+        "fcp": 1046.088,
+        "lcp": 1507.984,
+        "speedIndex": 1486,
+        "curlTotalTime": 1339.0396749973297,
+        "playwrightTotalTime": 1645.5559219121933
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 35,
+    "timestamp": 1697714.852955,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2414,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.018,
+        "tcpConnection": 201.958,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 673.592,
+        "totalTime": 673.7149999999999,
+        "fcp": 808.346,
+        "lcp": 1947.808,
+        "speedIndex": 1764,
+        "curlTotalTime": 718.5479150000028,
+        "playwrightTotalTime": 1964.004345000023
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 36,
+    "timestamp": 1547748.759885,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9151,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.109,
+        "tcpConnection": 85.673,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 177.675,
+        "totalTime": 177.788,
+        "fcp": 328.497,
+        "lcp": 629.634,
+        "speedIndex": 642,
+        "curlTotalTime": 216.19484399980865,
+        "playwrightTotalTime": 682.5364039998967
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 37,
+    "timestamp": 1449359.738737,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2673,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.177,
+        "tcpConnection": 204.85999999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 608.514,
+        "totalTime": 608.64,
+        "fcp": 754.086,
+        "lcp": 2997.61,
+        "speedIndex": 2630,
+        "curlTotalTime": 657.2367710000835,
+        "playwrightTotalTime": 1955.3127070001792
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 38,
+    "timestamp": 1534245.7551000118,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9297,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.036,
+        "tcpConnection": 85.235,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.846,
+        "totalTime": 174.99300000000002,
+        "fcp": 310.568,
+        "lcp": 620.314,
+        "speedIndex": 639,
+        "curlTotalTime": 226.05808198451996,
+        "playwrightTotalTime": 668.373083025217
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 39,
+    "timestamp": 1215645.537321,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2448,
+        "uploadSpeed": 0,
+        "dnsLookup": 7.794,
+        "tcpConnection": 214.18699999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 664.267,
+        "totalTime": 664.3599999999999,
+        "fcp": 811.961,
+        "lcp": 1873.396,
+        "speedIndex": 1648,
+        "curlTotalTime": 712.1650939998217,
+        "playwrightTotalTime": 1961.2565460000187
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 40,
+    "timestamp": 1578406.080667019,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8787,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9250000000000003,
+        "tcpConnection": 89.95599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.958,
+        "totalTime": 185.139,
+        "fcp": 312.143,
+        "lcp": 651.7,
+        "speedIndex": 633,
+        "curlTotalTime": 231.81762194633484,
+        "playwrightTotalTime": 774.6897560358047
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 41,
+    "timestamp": 1459341.955598,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2436,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.4520000000000004,
+        "tcpConnection": 210.11599999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 667.7579999999999,
+        "totalTime": 667.879,
+        "fcp": 773.967,
+        "lcp": 1783.867,
+        "speedIndex": 1613,
+        "curlTotalTime": 716.0835090000182,
+        "playwrightTotalTime": 2055.1706660001073
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 42,
+    "timestamp": 1548832.7799220085,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8820,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.816,
+        "tcpConnection": 89.94000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.318,
+        "totalTime": 184.459,
+        "fcp": 293.838,
+        "lcp": 594.105,
+        "speedIndex": 608,
+        "curlTotalTime": 221.71843993663788,
+        "playwrightTotalTime": 713.7513670921326
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 43,
+    "timestamp": 1360129.977569,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2447,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2399999999999998,
+        "tcpConnection": 208.824,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 664.4870000000001,
+        "totalTime": 664.6370000000001,
+        "fcp": 797.625,
+        "lcp": 1833.447,
+        "speedIndex": 1690,
+        "curlTotalTime": 705.5281010000035,
+        "playwrightTotalTime": 1971.4272110001184
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 44,
+    "timestamp": 1390052.0572689772,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8497,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.584,
+        "tcpConnection": 89.7,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 191.33800000000002,
+        "totalTime": 191.475,
+        "fcp": 285.51,
+        "lcp": 614.302,
+        "speedIndex": 600,
+        "curlTotalTime": 227.59206295013428,
+        "playwrightTotalTime": 684.5345839262009
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 45,
+    "timestamp": 1780199.7023,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2569,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.601,
+        "tcpConnection": 210.34900000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 633.152,
+        "totalTime": 633.263,
+        "fcp": 743.266,
+        "lcp": 1796.545,
+        "speedIndex": 1612,
+        "curlTotalTime": 678.9993259999901,
+        "playwrightTotalTime": 1949.8821219999809
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 46,
+    "timestamp": 1375142.6378530264,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 1682,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.906,
+        "tcpConnection": 93.989,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 966.909,
+        "totalTime": 967.099,
+        "fcp": 1901.046,
+        "lcp": 2367.81,
+        "speedIndex": 2274,
+        "curlTotalTime": 1010.5184980630875,
+        "playwrightTotalTime": 2254.7396730184555
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 47,
+    "timestamp": 1523452.789411,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2580,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.222,
+        "tcpConnection": 205.809,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 630.46,
+        "totalTime": 630.5840000000001,
+        "fcp": 742.265,
+        "lcp": 1885.249,
+        "speedIndex": 1761,
+        "curlTotalTime": 675.7026730000507,
+        "playwrightTotalTime": 2023.8850229999516
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 48,
+    "timestamp": 1564872.666491,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8860,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.64,
+        "tcpConnection": 89.79299999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.49599999999998,
+        "totalTime": 183.626,
+        "fcp": 289.062,
+        "lcp": 645.285,
+        "speedIndex": 646,
+        "curlTotalTime": 227.29890700010583,
+        "playwrightTotalTime": 664.1835079998709
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 49,
+    "timestamp": 1770656.309906,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2350,
+        "uploadSpeed": 0,
+        "dnsLookup": 43.706,
+        "tcpConnection": 249.59799999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 692.049,
+        "totalTime": 692.141,
+        "fcp": 795.456,
+        "lcp": 1810.127,
+        "speedIndex": 1689,
+        "curlTotalTime": 733.6761289997958,
+        "playwrightTotalTime": 1946.7667410001159
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 50,
+    "timestamp": 1551706.878139019,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8808,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.908,
+        "tcpConnection": 89.787,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.476,
+        "totalTime": 184.718,
+        "fcp": 318.912,
+        "lcp": 674.992,
+        "speedIndex": 683,
+        "curlTotalTime": 238.01977199316025,
+        "playwrightTotalTime": 682.5738600194454
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 51,
+    "timestamp": 2084490.812325,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2374,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5100000000000002,
+        "tcpConnection": 207.965,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 685.096,
+        "totalTime": 685.195,
+        "fcp": 791.514,
+        "lcp": 2340.54,
+        "speedIndex": 2098,
+        "curlTotalTime": 731.1818890001159,
+        "playwrightTotalTime": 2738.769002000103
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 52,
+    "timestamp": 1595611.4199439287,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9265,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.936,
+        "tcpConnection": 85.83,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.48,
+        "totalTime": 175.603,
+        "fcp": 310.615,
+        "lcp": 816.65,
+        "speedIndex": 657,
+        "curlTotalTime": 220.72001898288727,
+        "playwrightTotalTime": 684.3631330728531
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 53,
+    "timestamp": 1718184.661883,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2399,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.536,
+        "tcpConnection": 203.93800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 678.074,
+        "totalTime": 678.163,
+        "fcp": 761.358,
+        "lcp": 1822.798,
+        "speedIndex": 1649,
+        "curlTotalTime": 722.55876299995,
+        "playwrightTotalTime": 1978.661003000103
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 54,
+    "timestamp": 1565719.6679239273,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8614,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.589,
+        "tcpConnection": 89.135,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 188.726,
+        "totalTime": 188.868,
+        "fcp": 302.897,
+        "lcp": 567.116,
+        "speedIndex": 584,
+        "curlTotalTime": 227.87805795669556,
+        "playwrightTotalTime": 654.8027399778366
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 55,
+    "timestamp": 1469690.910608,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2527,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.37,
+        "tcpConnection": 208.313,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 643.644,
+        "totalTime": 643.738,
+        "fcp": 730.213,
+        "lcp": 1799.627,
+        "speedIndex": 1659,
+        "curlTotalTime": 686.5920700000133,
+        "playwrightTotalTime": 1991.998855000129
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 56,
+    "timestamp": 1408511.3069390059,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8815,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.835,
+        "tcpConnection": 89.895,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.42,
+        "totalTime": 184.557,
+        "fcp": 295.866,
+        "lcp": 921.979,
+        "speedIndex": 832,
+        "curlTotalTime": 225.95552802085876,
+        "playwrightTotalTime": 697.9892539978027
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 57,
+    "timestamp": 1235950.719918,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2419,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.132,
+        "tcpConnection": 207.906,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 672.461,
+        "totalTime": 672.572,
+        "fcp": 730.502,
+        "lcp": 1843.276,
+        "speedIndex": 1569,
+        "curlTotalTime": 716.736748999916,
+        "playwrightTotalTime": 2024.7238810001872
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 58,
+    "timestamp": 1392518.543552041,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7931,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.198,
+        "tcpConnection": 94.60499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 204.995,
+        "totalTime": 205.126,
+        "fcp": 310.723,
+        "lcp": 631.875,
+        "speedIndex": 644,
+        "curlTotalTime": 253.01862907409668,
+        "playwrightTotalTime": 697.8731970787048
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 59,
+    "timestamp": 1480121.455193,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2324,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.736,
+        "tcpConnection": 208.154,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 699.844,
+        "totalTime": 699.961,
+        "fcp": 755.268,
+        "lcp": 1778.043,
+        "speedIndex": 1487,
+        "curlTotalTime": 758.0708369999193,
+        "playwrightTotalTime": 2090.735122999875
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 60,
+    "timestamp": 1581899.101258,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8780,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7880000000000003,
+        "tcpConnection": 89.759,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 185.159,
+        "totalTime": 185.287,
+        "fcp": 347.485,
+        "lcp": 627.261,
+        "speedIndex": 642,
+        "curlTotalTime": 224.08277700003237,
+        "playwrightTotalTime": 687.0469740000553
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 61,
+    "timestamp": 1380398.876188,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2651,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.159,
+        "tcpConnection": 207.26500000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 613.457,
+        "totalTime": 613.5509999999999,
+        "fcp": 791.59,
+        "lcp": 1853.212,
+        "speedIndex": 1702,
+        "curlTotalTime": 659.3353939999361,
+        "playwrightTotalTime": 1939.9419289999641
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 62,
+    "timestamp": 1569332.525124997,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8852,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.784,
+        "tcpConnection": 89.309,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.675,
+        "totalTime": 183.796,
+        "fcp": 310.067,
+        "lcp": 676.567,
+        "speedIndex": 680,
+        "curlTotalTime": 220.3497920036316,
+        "playwrightTotalTime": 680.6764550209045
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 63,
+    "timestamp": 1801814.223012,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2420,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4,
+        "tcpConnection": 208.584,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 672.085,
+        "totalTime": 672.282,
+        "fcp": 788.625,
+        "lcp": 1858.569,
+        "speedIndex": 1700,
+        "curlTotalTime": 719.9966299999505,
+        "playwrightTotalTime": 3200.430330999894
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 64,
+    "timestamp": 1613450.2699469328,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8002,
+        "uploadSpeed": 0,
+        "dnsLookup": 5.9959999999999996,
+        "tcpConnection": 94.098,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 203.154,
+        "totalTime": 203.308,
+        "fcp": 321.97,
+        "lcp": 595.855,
+        "speedIndex": 605,
+        "curlTotalTime": 256.9213058948517,
+        "playwrightTotalTime": 882.6726720333099
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 65,
+    "timestamp": 1544160.353887,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2323,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.412,
+        "tcpConnection": 207.333,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 700.0699999999999,
+        "totalTime": 700.196,
+        "fcp": 802.916,
+        "lcp": 1970.848,
+        "speedIndex": 1803,
+        "curlTotalTime": 743.162769000046,
+        "playwrightTotalTime": 2058.4018769999966
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 66,
+    "timestamp": 1582842.4888509512,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8135,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.748,
+        "tcpConnection": 94.136,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 199.849,
+        "totalTime": 199.99,
+        "fcp": 298.136,
+        "lcp": 584.543,
+        "speedIndex": 595,
+        "curlTotalTime": 240.69012701511383,
+        "playwrightTotalTime": 663.1417169570923
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 67,
+    "timestamp": 1790953.243401,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2621,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.509,
+        "tcpConnection": 207.38899999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 620.467,
+        "totalTime": 620.586,
+        "fcp": 747.995,
+        "lcp": 1829.765,
+        "speedIndex": 1679,
+        "curlTotalTime": 669.9428830000106,
+        "playwrightTotalTime": 1988.9364160001278
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 68,
+    "timestamp": 1425507.5759270191,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8474,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.656,
+        "tcpConnection": 94.02000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 191.874,
+        "totalTime": 191.996,
+        "fcp": 319.437,
+        "lcp": 682.949,
+        "speedIndex": 692,
+        "curlTotalTime": 234.53923392295837,
+        "playwrightTotalTime": 612.4329210519791
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 69,
+    "timestamp": 2108683.185472,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2305,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3649999999999998,
+        "tcpConnection": 207.92,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 705.567,
+        "totalTime": 705.688,
+        "fcp": 814.507,
+        "lcp": 2589.238,
+        "speedIndex": 2322,
+        "curlTotalTime": 746.058589000022,
+        "playwrightTotalTime": 2492.9181210000534
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 70,
+    "timestamp": 1410188.6422809362,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8743,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.89,
+        "tcpConnection": 89.92,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 185.919,
+        "totalTime": 186.083,
+        "fcp": 322.409,
+        "lcp": 793.926,
+        "speedIndex": 788,
+        "curlTotalTime": 223.4153289794922,
+        "playwrightTotalTime": 735.4289720058441
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 71,
+    "timestamp": 1738568.37179,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2692,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.89,
+        "tcpConnection": 203.443,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 604.227,
+        "totalTime": 604.38,
+        "fcp": 772.95,
+        "lcp": 1927.794,
+        "speedIndex": 1778,
+        "curlTotalTime": 659.5151370000094,
+        "playwrightTotalTime": 1906.388501000125
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 72,
+    "timestamp": 1599448.050581,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8800,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.695,
+        "tcpConnection": 90.22,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.75300000000001,
+        "totalTime": 184.881,
+        "fcp": 302.375,
+        "lcp": 692.565,
+        "speedIndex": 690,
+        "curlTotalTime": 226.5071259997785,
+        "playwrightTotalTime": 672.4300090000033
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 73,
+    "timestamp": 1490195.313315,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2486,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2169999999999996,
+        "tcpConnection": 205.926,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 654.259,
+        "totalTime": 654.363,
+        "fcp": 747.444,
+        "lcp": 1838.996,
+        "speedIndex": 1682,
+        "curlTotalTime": 693.2415639997926,
+        "playwrightTotalTime": 1888.4666469998192
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 74,
+    "timestamp": 1586351.0217820108,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9308,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.735,
+        "tcpConnection": 85.084,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.642,
+        "totalTime": 174.779,
+        "fcp": 289.705,
+        "lcp": 617.646,
+        "speedIndex": 621,
+        "curlTotalTime": 217.83800202608109,
+        "playwrightTotalTime": 629.4342349767685
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 75,
+    "timestamp": 1256548.292052,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2423,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7529999999999997,
+        "tcpConnection": 208.40800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 671.338,
+        "totalTime": 671.471,
+        "fcp": 856.802,
+        "lcp": 1955.772,
+        "speedIndex": 1721,
+        "curlTotalTime": 712.2515259999782,
+        "playwrightTotalTime": 2082.88905899995
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 76,
+    "timestamp": 1630362.3589699268,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8820,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.957,
+        "tcpConnection": 89.52499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.348,
+        "totalTime": 184.464,
+        "fcp": 311.926,
+        "lcp": 676.971,
+        "speedIndex": 671,
+        "curlTotalTime": 226.8837150335312,
+        "playwrightTotalTime": 651.7852139472961
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 77,
+    "timestamp": 1500858.734866,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2223,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.769,
+        "tcpConnection": 212.778,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 731.456,
+        "totalTime": 731.579,
+        "fcp": 764.334,
+        "lcp": 1834.374,
+        "speedIndex": 1627,
+        "curlTotalTime": 774.1193830000702,
+        "playwrightTotalTime": 2187.8030479999725
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 78,
+    "timestamp": 1599850.0732250214,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9272,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.881,
+        "tcpConnection": 84.83699999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.32500000000002,
+        "totalTime": 175.461,
+        "fcp": 285.807,
+        "lcp": 708.465,
+        "speedIndex": 609,
+        "curlTotalTime": 216.3915890455246,
+        "playwrightTotalTime": 685.7445520162582
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 79,
+    "timestamp": 1400593.591483,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2319,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.402,
+        "tcpConnection": 208.47299999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 701.447,
+        "totalTime": 701.5709999999999,
+        "fcp": 754.936,
+        "lcp": 1792.714,
+        "speedIndex": 1612,
+        "curlTotalTime": 747.8293469999917,
+        "playwrightTotalTime": 1974.491675999947
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 80,
+    "timestamp": 1442713.6984850168,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9300,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.525,
+        "tcpConnection": 85.279,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.78,
+        "totalTime": 174.933,
+        "fcp": 278.726,
+        "lcp": 628.337,
+        "speedIndex": 645,
+        "curlTotalTime": 215.401172041893,
+        "playwrightTotalTime": 651.1501979827881
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 81,
+    "timestamp": 1822340.054598,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2494,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.199,
+        "tcpConnection": 205.55200000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 652.0740000000001,
+        "totalTime": 652.2170000000001,
+        "fcp": 748.763,
+        "lcp": 1804.384,
+        "speedIndex": 1676,
+        "curlTotalTime": 695.9736949999351,
+        "playwrightTotalTime": 1949.5918389998842
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 82,
+    "timestamp": 1427230.6904480457,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9258,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0170000000000003,
+        "tcpConnection": 85.485,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.54600000000002,
+        "totalTime": 175.735,
+        "fcp": 294.301,
+        "lcp": 627.145,
+        "speedIndex": 618,
+        "curlTotalTime": 221.3516219854355,
+        "playwrightTotalTime": 732.7904649972916
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 83,
+    "timestamp": 1565558.620351,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2404,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.281,
+        "tcpConnection": 206.935,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 676.631,
+        "totalTime": 676.768,
+        "fcp": 822.457,
+        "lcp": 2150.564,
+        "speedIndex": 1943,
+        "curlTotalTime": 718.398378000129,
+        "playwrightTotalTime": 2768.893659000052
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 84,
+    "timestamp": 1616704.848598,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 7926,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.086,
+        "tcpConnection": 101.042,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 205.068,
+        "totalTime": 205.25099999999998,
+        "fcp": 316.605,
+        "lcp": 637.53,
+        "speedIndex": 642,
+        "curlTotalTime": 242.70807900000364,
+        "playwrightTotalTime": 707.7966479999013
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 85,
+    "timestamp": 1811724.657143,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2474,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0010000000000003,
+        "tcpConnection": 204.471,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 657.497,
+        "totalTime": 657.6070000000001,
+        "fcp": 784.565,
+        "lcp": 2208.607,
+        "speedIndex": 1965,
+        "curlTotalTime": 698.0479579998646,
+        "playwrightTotalTime": 1962.5848540000152
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 86,
+    "timestamp": 1604391.2814100087,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8870,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.797,
+        "tcpConnection": 90.761,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.249,
+        "totalTime": 183.40699999999998,
+        "fcp": 303.309,
+        "lcp": 642.726,
+        "speedIndex": 600,
+        "curlTotalTime": 229.69789698719978,
+        "playwrightTotalTime": 856.0780940055847
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 87,
+    "timestamp": 2129569.03139,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2465,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4139999999999997,
+        "tcpConnection": 209.65300000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 659.88,
+        "totalTime": 660.0129999999999,
+        "fcp": 716.573,
+        "lcp": 1959.939,
+        "speedIndex": 1802,
+        "curlTotalTime": 706.7274409998208,
+        "playwrightTotalTime": 2398.0904740002006
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 88,
+    "timestamp": 1647516.114712,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8807,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.663,
+        "tcpConnection": 89.791,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.612,
+        "totalTime": 184.731,
+        "fcp": 296.427,
+        "lcp": 574.984,
+        "speedIndex": 588,
+        "curlTotalTime": 223.8552529811859,
+        "playwrightTotalTime": 692.0113059282303
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 89,
+    "timestamp": 1758639.037744,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2549,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.42,
+        "tcpConnection": 205.47899999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 637.968,
+        "totalTime": 638.072,
+        "fcp": 750.388,
+        "lcp": 1833.698,
+        "speedIndex": 1685,
+        "curlTotalTime": 678.024104999844,
+        "playwrightTotalTime": 1968.6435999998357
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 90,
+    "timestamp": 1616804.7055039406,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8870,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.507,
+        "tcpConnection": 89.494,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.293,
+        "totalTime": 183.411,
+        "fcp": 285.943,
+        "lcp": 555.118,
+        "speedIndex": 528,
+        "curlTotalTime": 226.53468096256256,
+        "playwrightTotalTime": 640.7492340803146
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 91,
+    "timestamp": 1510538.993275,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2618,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.548,
+        "tcpConnection": 208.19899999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 621.29,
+        "totalTime": 621.413,
+        "fcp": 771.475,
+        "lcp": 1864.28,
+        "speedIndex": 1714,
+        "curlTotalTime": 672.3844469999894,
+        "playwrightTotalTime": 2008.9695240000729
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 92,
+    "timestamp": 1459819.1167230606,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8810,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.1380000000000003,
+        "tcpConnection": 90.424,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.518,
+        "totalTime": 184.674,
+        "fcp": 295.476,
+        "lcp": 735.455,
+        "speedIndex": 707,
+        "curlTotalTime": 235.50482499599457,
+        "playwrightTotalTime": 707.8944059610367
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 93,
+    "timestamp": 1276698.972329,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2314,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3,
+        "tcpConnection": 209.312,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 702.784,
+        "totalTime": 702.879,
+        "fcp": 765.468,
+        "lcp": 1817.588,
+        "speedIndex": 1552,
+        "curlTotalTime": 748.4912250000052,
+        "playwrightTotalTime": 2004.9965929999016
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 94,
+    "timestamp": 1444562.3187339306,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9295,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.569,
+        "tcpConnection": 84.752,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.904,
+        "totalTime": 175.02499999999998,
+        "fcp": 304.615,
+        "lcp": 765.368,
+        "speedIndex": 717,
+        "curlTotalTime": 213.2473509311676,
+        "playwrightTotalTime": 684.1722140312195
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 95,
+    "timestamp": 1521383.496082,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2279,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6020000000000003,
+        "tcpConnection": 210.49699999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 713.539,
+        "totalTime": 713.6479999999999,
+        "fcp": 768.227,
+        "lcp": 1887.415,
+        "speedIndex": 1641,
+        "curlTotalTime": 766.8097689999267,
+        "playwrightTotalTime": 2010.4671960000414
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 96,
+    "timestamp": 1633849.854545,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8483,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.734,
+        "tcpConnection": 90.083,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 191.667,
+        "totalTime": 191.792,
+        "fcp": 300.376,
+        "lcp": 787.255,
+        "speedIndex": 769,
+        "curlTotalTime": 234.95317899994552,
+        "playwrightTotalTime": 689.1718350001611
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 97,
+    "timestamp": 1420619.041136,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2386,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0509999999999997,
+        "tcpConnection": 205.52599999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 681.529,
+        "totalTime": 681.64,
+        "fcp": 730.525,
+        "lcp": 1759.689,
+        "speedIndex": 1628,
+        "curlTotalTime": 722.5683609999251,
+        "playwrightTotalTime": 1956.2619139999151
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 98,
+    "timestamp": 1621817.0983040035,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8899,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.194,
+        "tcpConnection": 86.00399999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 182.655,
+        "totalTime": 182.823,
+        "fcp": 305.637,
+        "lcp": 741.164,
+        "speedIndex": 733,
+        "curlTotalTime": 224.63113301992416,
+        "playwrightTotalTime": 731.0137740075588
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 99,
+    "timestamp": 1843074.714278,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2314,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6519999999999997,
+        "tcpConnection": 206.32,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 702.847,
+        "totalTime": 702.962,
+        "fcp": 745.526,
+        "lcp": 1784.681,
+        "speedIndex": 1631,
+        "curlTotalTime": 761.4573150000069,
+        "playwrightTotalTime": 1903.0411869999953
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 100,
+    "timestamp": 1664584.8813369274,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8758,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.784,
+        "tcpConnection": 90.276,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 185.6,
+        "totalTime": 185.752,
+        "fcp": 300.198,
+        "lcp": 483.625,
+        "speedIndex": 523,
+        "curlTotalTime": 227.1266280412674,
+        "playwrightTotalTime": 660.5301560163498
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 101,
+    "timestamp": 1586084.228083,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2434,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.2569999999999997,
+        "tcpConnection": 209.24300000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 668.068,
+        "totalTime": 668.199,
+        "fcp": 782.762,
+        "lcp": 1958.368,
+        "speedIndex": 1779,
+        "curlTotalTime": 707.5221230001189,
+        "playwrightTotalTime": 2116.600781999994
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 102,
+    "timestamp": 1633773.1476089954,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8414,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.798,
+        "tcpConnection": 90.044,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 193.245,
+        "totalTime": 193.355,
+        "fcp": 280.25,
+        "lcp": 789.819,
+        "speedIndex": 680,
+        "curlTotalTime": 231.07880902290344,
+        "playwrightTotalTime": 667.3398679494858
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 103,
+    "timestamp": 1831429.69371,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2347,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.099,
+        "tcpConnection": 207.24,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 692.895,
+        "totalTime": 692.995,
+        "fcp": 742.471,
+        "lcp": 1326.005,
+        "speedIndex": 1247,
+        "curlTotalTime": 735.1219389999751,
+        "playwrightTotalTime": 1949.2140510000754
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 104,
+    "timestamp": 1476610.9878020287,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8878,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.489,
+        "tcpConnection": 89.419,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.13299999999998,
+        "totalTime": 183.25,
+        "fcp": 274.122,
+        "lcp": 590.875,
+        "speedIndex": 599,
+        "curlTotalTime": 222.17104995250702,
+        "playwrightTotalTime": 637.6112319231033
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 105,
+    "timestamp": 2151124.684412,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2536,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.615,
+        "tcpConnection": 207.237,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 641.353,
+        "totalTime": 641.52,
+        "fcp": 807.276,
+        "lcp": 2418.218,
+        "speedIndex": 2146,
+        "curlTotalTime": 692.8538379999809,
+        "playwrightTotalTime": 2477.603046000004
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 106,
+    "timestamp": 1461834.1297619343,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8870,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.904,
+        "tcpConnection": 89.71300000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.305,
+        "totalTime": 183.417,
+        "fcp": 335.325,
+        "lcp": 729.4,
+        "speedIndex": 759,
+        "curlTotalTime": 228.62180304527283,
+        "playwrightTotalTime": 671.1159479618073
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 107,
+    "timestamp": 1778867.370553,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2509,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.149,
+        "tcpConnection": 202.193,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 648.1479999999999,
+        "totalTime": 648.274,
+        "fcp": 729.652,
+        "lcp": 1829.921,
+        "speedIndex": 1676,
+        "curlTotalTime": 687.9750870000571,
+        "playwrightTotalTime": 1940.127260999987
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 108,
+    "timestamp": 1651300.490058,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8841,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.764,
+        "tcpConnection": 89.307,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.897,
+        "totalTime": 184.012,
+        "fcp": 286.542,
+        "lcp": 837.203,
+        "speedIndex": 663,
+        "curlTotalTime": 221.90524899982847,
+        "playwrightTotalTime": 751.5518869999796
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 109,
+    "timestamp": 1532332.863841,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2467,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.427,
+        "tcpConnection": 208.62800000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 659.2869999999999,
+        "totalTime": 659.387,
+        "fcp": 753.176,
+        "lcp": 1804.834,
+        "speedIndex": 1681,
+        "curlTotalTime": 698.3184209999163,
+        "playwrightTotalTime": 3230.3463800000027
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 110,
+    "timestamp": 1639314.4709060192,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8832,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.807,
+        "tcpConnection": 89.30499999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.067,
+        "totalTime": 184.21599999999998,
+        "fcp": 294.57,
+        "lcp": 627.366,
+        "speedIndex": 641,
+        "curlTotalTime": 226.40753999352455,
+        "playwrightTotalTime": 707.5690969824791
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 111,
+    "timestamp": 1297028.485483,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2321,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.15,
+        "tcpConnection": 207.851,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 700.648,
+        "totalTime": 700.7560000000001,
+        "fcp": 769.978,
+        "lcp": 1883.007,
+        "speedIndex": 1626,
+        "curlTotalTime": 738.539269000059,
+        "playwrightTotalTime": 2016.5017089999747
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 112,
+    "timestamp": 1681697.9627649784,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9274,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.659,
+        "tcpConnection": 84.747,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.307,
+        "totalTime": 175.423,
+        "fcp": 278.68,
+        "lcp": 674.621,
+        "speedIndex": 581,
+        "curlTotalTime": 213.80360102653503,
+        "playwrightTotalTime": 706.1296418905258
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 113,
+    "timestamp": 1541721.915045,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2109,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.508,
+        "tcpConnection": 211.754,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 771.317,
+        "totalTime": 771.415,
+        "fcp": 730.382,
+        "lcp": 1879.014,
+        "speedIndex": 1683,
+        "curlTotalTime": 815.1381500000134,
+        "playwrightTotalTime": 2048.9825420000125
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 114,
+    "timestamp": 1650870.860517025,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9311,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6220000000000003,
+        "tcpConnection": 85.61399999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.608,
+        "totalTime": 174.739,
+        "fcp": 300.636,
+        "lcp": 849.96,
+        "speedIndex": 814,
+        "curlTotalTime": 224.300989985466,
+        "playwrightTotalTime": 662.6823290586472
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 115,
+    "timestamp": 1440709.302362,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2519,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9589999999999999,
+        "tcpConnection": 209.37900000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 645.547,
+        "totalTime": 645.6469999999999,
+        "fcp": 766.802,
+        "lcp": 1842.612,
+        "speedIndex": 1698,
+        "curlTotalTime": 682.2417520000599,
+        "playwrightTotalTime": 1943.206819999963
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 116,
+    "timestamp": 1493442.3562710285,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8524,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5500000000000003,
+        "tcpConnection": 89.729,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 190.755,
+        "totalTime": 190.872,
+        "fcp": 289.235,
+        "lcp": 660.945,
+        "speedIndex": 647,
+        "curlTotalTime": 226.69403195381165,
+        "playwrightTotalTime": 706.003487944603
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 117,
+    "timestamp": 1863722.332181,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2578,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.77,
+        "tcpConnection": 209.971,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 630.9200000000001,
+        "totalTime": 631.097,
+        "fcp": 806.647,
+        "lcp": 1859.64,
+        "speedIndex": 1703,
+        "curlTotalTime": 685.0892809999641,
+        "playwrightTotalTime": 2019.9720310000703
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 118,
+    "timestamp": 1479393.8257850409,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8415,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.82,
+        "tcpConnection": 94.002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 193.116,
+        "totalTime": 193.33700000000002,
+        "fcp": 337.745,
+        "lcp": 577.208,
+        "speedIndex": 593,
+        "curlTotalTime": 231.1699470281601,
+        "playwrightTotalTime": 787.4009619951248
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 119,
+    "timestamp": 1606728.967991,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2182,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.265,
+        "tcpConnection": 206.79,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 745.388,
+        "totalTime": 745.499,
+        "fcp": 753.012,
+        "lcp": 1857.529,
+        "speedIndex": 1722,
+        "curlTotalTime": 789.0822819999885,
+        "playwrightTotalTime": 1505.3503040000796
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 120,
+    "timestamp": 1668678.730234,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9226,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.276,
+        "tcpConnection": 86.387,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 176.2,
+        "totalTime": 176.338,
+        "fcp": 305.141,
+        "lcp": 605.165,
+        "speedIndex": 627,
+        "curlTotalTime": 223.9318669999484,
+        "playwrightTotalTime": 697.1821510000154
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 121,
+    "timestamp": 1851560.605426,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2660,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.1380000000000003,
+        "tcpConnection": 207.341,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 611.5279999999999,
+        "totalTime": 611.626,
+        "fcp": 751.914,
+        "lcp": 1859.093,
+        "speedIndex": 1708,
+        "curlTotalTime": 653.8440560000017,
+        "playwrightTotalTime": 1999.7500690000597
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 122,
+    "timestamp": 1656730.569528997,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8433,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.82,
+        "tcpConnection": 94.117,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 192.674,
+        "totalTime": 192.912,
+        "fcp": 303.887,
+        "lcp": 602.956,
+        "speedIndex": 637,
+        "curlTotalTime": 241.5448559820652,
+        "playwrightTotalTime": 730.0176570117474
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 123,
+    "timestamp": 2172781.634352,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2403,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.484,
+        "tcpConnection": 210.04600000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 676.7919999999999,
+        "totalTime": 676.899,
+        "fcp": 809.803,
+        "lcp": 2295.226,
+        "speedIndex": 2054,
+        "curlTotalTime": 719.8327790000476,
+        "playwrightTotalTime": 2656.0408890000544
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 124,
+    "timestamp": 1698915.2321989536,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8779,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.843,
+        "tcpConnection": 90.21600000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 185.20700000000002,
+        "totalTime": 185.32199999999997,
+        "fcp": 270.699,
+        "lcp": 550.171,
+        "speedIndex": 562,
+        "curlTotalTime": 236.70400094985962,
+        "playwrightTotalTime": 635.8718049526215
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 125,
+    "timestamp": 1798807.689667,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2452,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.283,
+        "tcpConnection": 202.08100000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 663.414,
+        "totalTime": 663.525,
+        "fcp": 777.938,
+        "lcp": 1831.657,
+        "speedIndex": 1692,
+        "curlTotalTime": 707.5721920002252,
+        "playwrightTotalTime": 1895.8529459999409
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 126,
+    "timestamp": 1668074.5848870277,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8469,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.691,
+        "tcpConnection": 93.708,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 191.98100000000002,
+        "totalTime": 192.09699999999998,
+        "fcp": 291.383,
+        "lcp": 746.678,
+        "speedIndex": 614,
+        "curlTotalTime": 228.3095589876175,
+        "playwrightTotalTime": 651.597109079361
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 127,
+    "timestamp": 1552651.095311,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2600,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.219,
+        "tcpConnection": 210.46,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 625.591,
+        "totalTime": 625.7139999999999,
+        "fcp": 765.866,
+        "lcp": 1878.781,
+        "speedIndex": 1691,
+        "curlTotalTime": 669.5633359998465,
+        "playwrightTotalTime": 1972.7642529997975
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 128,
+    "timestamp": 1510638.6452150345,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9307,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.627,
+        "tcpConnection": 84.903,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.67499999999998,
+        "totalTime": 174.79600000000002,
+        "fcp": 293.56,
+        "lcp": 791.562,
+        "speedIndex": 755,
+        "curlTotalTime": 212.89917397499084,
+        "playwrightTotalTime": 745.637727022171
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 129,
+    "timestamp": 1317292.552872,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2416,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.134,
+        "tcpConnection": 208.587,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 673.076,
+        "totalTime": 673.1930000000001,
+        "fcp": 754.053,
+        "lcp": 1882.677,
+        "speedIndex": 1640,
+        "curlTotalTime": 715.2275280000176,
+        "playwrightTotalTime": 2042.780102999881
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 130,
+    "timestamp": 1496771.098721981,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8821,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.705,
+        "tcpConnection": 90.21,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.287,
+        "totalTime": 184.428,
+        "fcp": 310.175,
+        "lcp": 939.802,
+        "speedIndex": 873,
+        "curlTotalTime": 225.32192599773407,
+        "playwrightTotalTime": 707.7075009346008
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 131,
+    "timestamp": 1562298.500063,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2466,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4650000000000003,
+        "tcpConnection": 210.036,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 659.473,
+        "totalTime": 659.6410000000001,
+        "fcp": 879.505,
+        "lcp": 1996.225,
+        "speedIndex": 1779,
+        "curlTotalTime": 705.339668000117,
+        "playwrightTotalTime": 2078.113346999977
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 132,
+    "timestamp": 1686032.574974,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8700,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.81,
+        "tcpConnection": 89.97800000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 186.863,
+        "totalTime": 186.998,
+        "fcp": 294.451,
+        "lcp": 824.287,
+        "speedIndex": 735,
+        "curlTotalTime": 223.41702300007455,
+        "playwrightTotalTime": 682.1296769999899
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 133,
+    "timestamp": 1460761.83406,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2457,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.534,
+        "tcpConnection": 209.9,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 661.8389999999999,
+        "totalTime": 661.9350000000001,
+        "fcp": 780.19,
+        "lcp": 1886.191,
+        "speedIndex": 1720,
+        "curlTotalTime": 708.5782900000922,
+        "playwrightTotalTime": 1885.6788609998766
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 134,
+    "timestamp": 1674385.901883006,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9206,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.247,
+        "tcpConnection": 86.199,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 176.582,
+        "totalTime": 176.724,
+        "fcp": 323.907,
+        "lcp": 765.682,
+        "speedIndex": 735,
+        "curlTotalTime": 214.08681598305702,
+        "playwrightTotalTime": 880.5865939855576
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 135,
+    "timestamp": 1884030.908985,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2325,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.282,
+        "tcpConnection": 208.04500000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 699.538,
+        "totalTime": 699.6289999999999,
+        "fcp": 720.796,
+        "lcp": 1793.421,
+        "speedIndex": 1683,
+        "curlTotalTime": 754.8251559999771,
+        "playwrightTotalTime": 1970.2237619999796
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 136,
+    "timestamp": 1716022.7332530022,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8805,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3930000000000002,
+        "tcpConnection": 89.509,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.634,
+        "totalTime": 184.761,
+        "fcp": 288.908,
+        "lcp": 601.677,
+        "speedIndex": 547,
+        "curlTotalTime": 221.65426409244537,
+        "playwrightTotalTime": 727.570307970047
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 137,
+    "timestamp": 1627430.826174,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2329,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.359,
+        "tcpConnection": 207.039,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 698.3439999999999,
+        "totalTime": 698.466,
+        "fcp": 785.569,
+        "lcp": 1981.003,
+        "speedIndex": 1780,
+        "curlTotalTime": 750.5592410000972,
+        "playwrightTotalTime": 2052.3684069998562
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 138,
+    "timestamp": 1685364.6621199846,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8802,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.826,
+        "tcpConnection": 89.967,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.688,
+        "totalTime": 184.82999999999998,
+        "fcp": 282.551,
+        "lcp": 739.269,
+        "speedIndex": 666,
+        "curlTotalTime": 221.6775929927826,
+        "playwrightTotalTime": 637.787425994873
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 139,
+    "timestamp": 1871782.909758,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2657,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9559999999999997,
+        "tcpConnection": 207.077,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 612.033,
+        "totalTime": 612.143,
+        "fcp": 727.978,
+        "lcp": 1806.923,
+        "speedIndex": 1639,
+        "curlTotalTime": 654.9571489999071,
+        "playwrightTotalTime": 1921.4119780000765
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 140,
+    "timestamp": 1527974.10522604,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8744,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8579999999999997,
+        "tcpConnection": 90.421,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 185.93599999999998,
+        "totalTime": 186.06900000000002,
+        "fcp": 290.278,
+        "lcp": 608.949,
+        "speedIndex": 631,
+        "curlTotalTime": 231.006049990654,
+        "playwrightTotalTime": 721.4488849639893
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 141,
+    "timestamp": 2193016.645723,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2480,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8930000000000002,
+        "tcpConnection": 207.143,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 655.675,
+        "totalTime": 655.792,
+        "fcp": 816.683,
+        "lcp": 1466.674,
+        "speedIndex": 1390,
+        "curlTotalTime": 704.5351439998485,
+        "playwrightTotalTime": 2135.7758369999938
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 142,
+    "timestamp": 1514406.4104249477,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8854,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.912,
+        "tcpConnection": 89.881,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.613,
+        "totalTime": 183.757,
+        "fcp": 296.377,
+        "lcp": 760.142,
+        "speedIndex": 648,
+        "curlTotalTime": 226.7056519985199,
+        "playwrightTotalTime": 717.9286340475082
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 143,
+    "timestamp": 1819050.378391,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2412,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.177,
+        "tcpConnection": 202.307,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 674.156,
+        "totalTime": 674.271,
+        "fcp": 708.408,
+        "lcp": 1826.415,
+        "speedIndex": 1657,
+        "curlTotalTime": 722.5630570000503,
+        "playwrightTotalTime": 1986.9043019998353
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 144,
+    "timestamp": 1703622.221915,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9248,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8019999999999996,
+        "tcpConnection": 85.481,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 175.789,
+        "totalTime": 175.91899999999998,
+        "fcp": 289.589,
+        "lcp": 601.85,
+        "speedIndex": 577,
+        "curlTotalTime": 216.15971799986437,
+        "playwrightTotalTime": 735.2211929999758
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 145,
+    "timestamp": 1573498.51619,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2338,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.676,
+        "tcpConnection": 207.26500000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 695.521,
+        "totalTime": 695.6759999999999,
+        "fcp": 798.082,
+        "lcp": 1869.1,
+        "speedIndex": 1758,
+        "curlTotalTime": 748.8881409999449,
+        "playwrightTotalTime": 1981.4120799999218
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 146,
+    "timestamp": 1691823.0253590047,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8882,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.7169999999999996,
+        "tcpConnection": 89.935,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 182.99699999999999,
+        "totalTime": 183.16299999999998,
+        "fcp": 277.895,
+        "lcp": 692.37,
+        "speedIndex": 617,
+        "curlTotalTime": 221.89655601978302,
+        "playwrightTotalTime": 666.9593940079212
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 147,
+    "timestamp": 1337749.050981,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2566,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.918,
+        "tcpConnection": 210.53,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 633.807,
+        "totalTime": 633.903,
+        "fcp": 817.613,
+        "lcp": 1890.519,
+        "speedIndex": 1670,
+        "curlTotalTime": 671.3327470000368,
+        "playwrightTotalTime": 2157.5858609999996
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 148,
+    "timestamp": 1733523.8964159489,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8436,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.233,
+        "tcpConnection": 90.897,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 192.73499999999999,
+        "totalTime": 192.853,
+        "fcp": 291.043,
+        "lcp": 799.798,
+        "speedIndex": 671,
+        "curlTotalTime": 239.36247789859772,
+        "playwrightTotalTime": 748.5766589641571
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 149,
+    "timestamp": 1582716.558903,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2278,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.177,
+        "tcpConnection": 211.125,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 713.834,
+        "totalTime": 713.9440000000001,
+        "fcp": 778.237,
+        "lcp": 1911.568,
+        "speedIndex": 1645,
+        "curlTotalTime": 757.7007120000198,
+        "playwrightTotalTime": 2037.8034919998609
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 150,
+    "timestamp": 1702481.7195049524,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8029,
+        "uploadSpeed": 0,
+        "dnsLookup": 4.7860000000000005,
+        "tcpConnection": 99.887,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 202.484,
+        "totalTime": 202.619,
+        "fcp": 296.311,
+        "lcp": 577.309,
+        "speedIndex": 579,
+        "curlTotalTime": 274.6122760772705,
+        "playwrightTotalTime": 720.6170380115509
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 151,
+    "timestamp": 1481027.523241,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2618,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.178,
+        "tcpConnection": 208.534,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 621.151,
+        "totalTime": 621.2520000000001,
+        "fcp": 803.181,
+        "lcp": 1887.132,
+        "speedIndex": 1691,
+        "curlTotalTime": 666.1399840000086,
+        "playwrightTotalTime": 1950.6422000001185
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 152,
+    "timestamp": 1544930.8214770555,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8270,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.983,
+        "tcpConnection": 94.973,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 196.566,
+        "totalTime": 196.717,
+        "fcp": 283.184,
+        "lcp": 594.68,
+        "speedIndex": 605,
+        "curlTotalTime": 236.36860597133636,
+        "playwrightTotalTime": 621.5441800355911
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 153,
+    "timestamp": 1904591.702109,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2320,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.229,
+        "tcpConnection": 208.66899999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 701.053,
+        "totalTime": 701.172,
+        "fcp": 807.168,
+        "lcp": 1858.536,
+        "speedIndex": 1727,
+        "curlTotalTime": 754.7554840000812,
+        "playwrightTotalTime": 1972.4097509998828
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 154,
+    "timestamp": 1531572.6874619722,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8662,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.876,
+        "tcpConnection": 90.219,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 187.65200000000002,
+        "totalTime": 187.82399999999998,
+        "fcp": 278.659,
+        "lcp": 776.069,
+        "speedIndex": 674,
+        "curlTotalTime": 234.80293405056,
+        "playwrightTotalTime": 788.2854239940643
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 155,
+    "timestamp": 1648868.678098,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2419,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.233,
+        "tcpConnection": 207.984,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 672.419,
+        "totalTime": 672.513,
+        "fcp": 820.109,
+        "lcp": 2224.613,
+        "speedIndex": 1888,
+        "curlTotalTime": 721.5076039999258,
+        "playwrightTotalTime": 2751.7884680000134
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 156,
+    "timestamp": 1720687.415409,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8837,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.927,
+        "tcpConnection": 89.5,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 183.988,
+        "totalTime": 184.097,
+        "fcp": 295.841,
+        "lcp": 697.533,
+        "speedIndex": 607,
+        "curlTotalTime": 227.5720859998837,
+        "playwrightTotalTime": 723.6533940001391
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 157,
+    "timestamp": 1892108.990339,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2498,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.322,
+        "tcpConnection": 204.536,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 651.102,
+        "totalTime": 651.2470000000001,
+        "fcp": 791.835,
+        "lcp": 1833.873,
+        "speedIndex": 1699,
+        "curlTotalTime": 691.089646999957,
+        "playwrightTotalTime": 1993.988136
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 158,
+    "timestamp": 1709338.195167005,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9292,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.643,
+        "tcpConnection": 85.09400000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.903,
+        "totalTime": 175.081,
+        "fcp": 296.116,
+        "lcp": 720.005,
+        "speedIndex": 666,
+        "curlTotalTime": 218.02017399668694,
+        "playwrightTotalTime": 689.7723499834538
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 159,
+    "timestamp": 2213512.415654,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2517,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.205,
+        "tcpConnection": 209.562,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 646.1850000000001,
+        "totalTime": 646.284,
+        "fcp": 760.022,
+        "lcp": 1833.521,
+        "speedIndex": 1701,
+        "curlTotalTime": 684.9044530000538,
+        "playwrightTotalTime": 2037.3316110000014
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 160,
+    "timestamp": 1750682.2430490255,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8353,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.897,
+        "tcpConnection": 95.661,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 194.58100000000002,
+        "totalTime": 194.77800000000002,
+        "fcp": 299.31,
+        "lcp": 613.452,
+        "speedIndex": 629,
+        "curlTotalTime": 240.13601303100586,
+        "playwrightTotalTime": 651.1448719501495
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 161,
+    "timestamp": 1839688.295979,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2724,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9729999999999999,
+        "tcpConnection": 199.223,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 596.9910000000001,
+        "totalTime": 597.087,
+        "fcp": 759.442,
+        "lcp": 1846.136,
+        "speedIndex": 1690,
+        "curlTotalTime": 637.6726850001141,
+        "playwrightTotalTime": 1973.7480920001399
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 162,
+    "timestamp": 1719434.8732470274,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8536,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.887,
+        "tcpConnection": 89.80000000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 190.42000000000002,
+        "totalTime": 190.595,
+        "fcp": 287.696,
+        "lcp": 620.224,
+        "speedIndex": 620,
+        "curlTotalTime": 239.40102696418762,
+        "playwrightTotalTime": 654.4229218959808
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 163,
+    "timestamp": 1595295.51275,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2525,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.696,
+        "tcpConnection": 207.85899999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 644,
+        "totalTime": 644.1289999999999,
+        "fcp": 784.932,
+        "lcp": 1861.835,
+        "speedIndex": 1691,
+        "curlTotalTime": 697.4401040000375,
+        "playwrightTotalTime": 2084.427325000055
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 164,
+    "timestamp": 1561759.583757043,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8462,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.6229999999999998,
+        "tcpConnection": 93.76700000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 192.108,
+        "totalTime": 192.25400000000002,
+        "fcp": 278.408,
+        "lcp": 556.595,
+        "speedIndex": 564,
+        "curlTotalTime": 230.89989697933197,
+        "playwrightTotalTime": 700.6187419891357
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 165,
+    "timestamp": 1357948.157817,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2427,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.476,
+        "tcpConnection": 207.18800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 670.238,
+        "totalTime": 670.333,
+        "fcp": 823.457,
+        "lcp": 1883.9,
+        "speedIndex": 1645,
+        "curlTotalTime": 706.6284930000547,
+        "playwrightTotalTime": 1948.833578000078
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 166,
+    "timestamp": 1549075.4627640247,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9102,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.8890000000000002,
+        "tcpConnection": 86.152,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 178.59,
+        "totalTime": 178.734,
+        "fcp": 314.039,
+        "lcp": 784.674,
+        "speedIndex": 717,
+        "curlTotalTime": 218.68874609470367,
+        "playwrightTotalTime": 741.1638920307159
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 167,
+    "timestamp": 1603275.844082,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2394,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.524,
+        "tcpConnection": 208.092,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 679.4,
+        "totalTime": 679.519,
+        "fcp": 772.823,
+        "lcp": 1892.078,
+        "speedIndex": 1603,
+        "curlTotalTime": 724.1389580001123,
+        "playwrightTotalTime": 2036.0960009999108
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 168,
+    "timestamp": 1737746.30841,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9299,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.965,
+        "tcpConnection": 86.12899999999999,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 174.80399999999997,
+        "totalTime": 174.951,
+        "fcp": 290.242,
+        "lcp": 599.226,
+        "speedIndex": 620,
+        "curlTotalTime": 214.5301099999342,
+        "playwrightTotalTime": 687.9286009999923
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 169,
+    "timestamp": 1501315.140099,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2420,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.202,
+        "tcpConnection": 211.317,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 672.008,
+        "totalTime": 672.0970000000001,
+        "fcp": 764.322,
+        "lcp": 1832.833,
+        "speedIndex": 1630,
+        "curlTotalTime": 716.3428650000133,
+        "playwrightTotalTime": 1909.7599649999756
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 170,
+    "timestamp": 1727362.8970080018,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10773/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8376,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.211,
+        "tcpConnection": 95.008,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 194.11800000000002,
+        "totalTime": 194.238,
+        "fcp": 303.98,
+        "lcp": 708.806,
+        "speedIndex": 716,
+        "curlTotalTime": 237.45501199364662,
+        "playwrightTotalTime": 1096.2238560020924
+      }
+    ],
+    "totalDuration": 273542.4505800009,
+    "setupDuration": 375.20689898729324,
+    "diagnosticsDuration": 0.0032120048999786377,
+    "measurementDuration": 263157.5141479373,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 171,
+    "timestamp": 1924966.154549,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2326,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.538,
+        "tcpConnection": 207.39499999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 699.1279999999999,
+        "totalTime": 699.244,
+        "fcp": 801.045,
+        "lcp": 1915.295,
+        "speedIndex": 1705,
+        "curlTotalTime": 750.907995000016,
+        "playwrightTotalTime": 1973.7391470000148
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 172,
+    "timestamp": 1768064.0102829933,
+    "webTests": [
+      {
+        "url": "http://bore.pub:11498/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8811,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0709999999999997,
+        "tcpConnection": 89.575,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.532,
+        "totalTime": 184.647,
+        "fcp": 301.485,
+        "lcp": 742.744,
+        "speedIndex": 723,
+        "curlTotalTime": 226.96310698986053,
+        "playwrightTotalTime": 638.4685549736023
+      }
+    ],
+    "totalDuration": 269346.2982749939,
+    "setupDuration": 281.22619700431824,
+    "diagnosticsDuration": 0.0034999847412109375,
+    "measurementDuration": 259055.57812702656,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 173,
+    "timestamp": 1669491.138978,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2289,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.097,
+        "tcpConnection": 208.971,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 710.459,
+        "totalTime": 710.5519999999999,
+        "fcp": 825.693,
+        "lcp": 1908.295,
+        "speedIndex": 1697,
+        "curlTotalTime": 750.9592770000454,
+        "playwrightTotalTime": 2014.3401800000574
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 174,
+    "timestamp": 1736617.2371510267,
+    "webTests": [
+      {
+        "url": "http://bore.pub:21163/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8362,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.044,
+        "tcpConnection": 94.862,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 194.417,
+        "totalTime": 194.562,
+        "fcp": 299.219,
+        "lcp": 597.716,
+        "speedIndex": 604,
+        "curlTotalTime": 232.5458060503006,
+        "playwrightTotalTime": 659.6506929397583
+      }
+    ],
+    "totalDuration": 266674.0846130848,
+    "setupDuration": 283.87243497371674,
+    "diagnosticsDuration": 0.0032581090927124023,
+    "measurementDuration": 256380.19532179832,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 175,
+    "timestamp": 1912327.871405,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2480,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.494,
+        "tcpConnection": 207.35600000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 655.7180000000001,
+        "totalTime": 655.857,
+        "fcp": 782.307,
+        "lcp": 1780.751,
+        "speedIndex": 1567,
+        "curlTotalTime": 699.3655669998843,
+        "playwrightTotalTime": 2005.2215070000384
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 176,
+    "timestamp": 1578918.431012988,
+    "webTests": [
+      {
+        "url": "http://bore.pub:3231/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8806,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.0140000000000002,
+        "tcpConnection": 89.879,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 184.616,
+        "totalTime": 184.756,
+        "fcp": 290.935,
+        "lcp": 602.375,
+        "speedIndex": 612,
+        "curlTotalTime": 236.2590069770813,
+        "playwrightTotalTime": 687.634682059288
+      }
+    ],
+    "totalDuration": 268318.5354100466,
+    "setupDuration": 384.1254049539566,
+    "diagnosticsDuration": 0.0029050111770629883,
+    "measurementDuration": 257926.48150253296,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 177,
+    "timestamp": 2234046.268123,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2658,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.002,
+        "tcpConnection": 206.944,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 611.952,
+        "totalTime": 612.072,
+        "fcp": 771.422,
+        "lcp": 1939.371,
+        "speedIndex": 1673,
+        "curlTotalTime": 651.9475259999745,
+        "playwrightTotalTime": 2119.0711430003867
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 178,
+    "timestamp": 1566339.1837109327,
+    "webTests": [
+      {
+        "url": "http://bore.pub:55822/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 9234,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.939,
+        "tcpConnection": 86.53800000000001,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 176.053,
+        "totalTime": 176.178,
+        "fcp": 308.102,
+        "lcp": 720.191,
+        "speedIndex": 715,
+        "curlTotalTime": 212.37104105949402,
+        "playwrightTotalTime": 661.5130439996719
+      }
+    ],
+    "totalDuration": 286309.1594080925,
+    "setupDuration": 1353.1315499544144,
+    "diagnosticsDuration": 0.00247800350189209,
+    "measurementDuration": 274948.91667830944,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 179,
+    "timestamp": 1860083.176323,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2634,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.326,
+        "tcpConnection": 204.829,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 617.3929999999999,
+        "totalTime": 617.546,
+        "fcp": 744.242,
+        "lcp": 1813.927,
+        "speedIndex": 1663,
+        "curlTotalTime": 660.2888599999715,
+        "playwrightTotalTime": 1927.934397000121
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 180,
+    "timestamp": 1754794.1025069999,
+    "webTests": [
+      {
+        "url": "http://bore.pub:52725/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 8615,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.032,
+        "tcpConnection": 89.827,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 188.693,
+        "totalTime": 188.838,
+        "fcp": 327.319,
+        "lcp": 685.273,
+        "speedIndex": 682,
+        "curlTotalTime": 235.40487299999222,
+        "playwrightTotalTime": 682.7538209999911
+      }
+    ],
+    "totalDuration": 269963.85820799996,
+    "setupDuration": 482.3049030001275,
+    "diagnosticsDuration": 0.0030499999411404133,
+    "measurementDuration": 259472.6665559993,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 181,
+    "timestamp": 1616169.504789,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2349,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5829999999999997,
+        "tcpConnection": 211.405,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 692.428,
+        "totalTime": 692.535,
+        "fcp": 776.284,
+        "lcp": 1830.912,
+        "speedIndex": 1684,
+        "curlTotalTime": 742.8317919999827,
+        "playwrightTotalTime": 1938.3190500000492
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 182,
+    "timestamp": 1378254.364682,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2448,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.9780000000000002,
+        "tcpConnection": 208.049,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 664.4069999999999,
+        "totalTime": 664.5029999999999,
+        "fcp": 817.663,
+        "lcp": 1900.882,
+        "speedIndex": 1648,
+        "curlTotalTime": 701.608780000126,
+        "playwrightTotalTime": 1978.5399599999655
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 183,
+    "timestamp": 1623702.027606,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2578,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.443,
+        "tcpConnection": 210.372,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 630.726,
+        "totalTime": 630.871,
+        "fcp": 777.919,
+        "lcp": 1891.776,
+        "speedIndex": 1561,
+        "curlTotalTime": 685.4942230000161,
+        "playwrightTotalTime": 2046.152478999924
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 184,
+    "timestamp": 1521371.342099,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2527,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.18,
+        "tcpConnection": 207.81,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 643.563,
+        "totalTime": 643.67,
+        "fcp": 800.949,
+        "lcp": 1831.122,
+        "speedIndex": 1676,
+        "curlTotalTime": 680.0082819999661,
+        "playwrightTotalTime": 1954.774141999893
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 185,
+    "timestamp": 1945246.797818,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2461,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.186,
+        "tcpConnection": 210.201,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 660.8969999999999,
+        "totalTime": 661.003,
+        "fcp": 766.753,
+        "lcp": 1837.905,
+        "speedIndex": 1698,
+        "curlTotalTime": 701.0722280000336,
+        "playwrightTotalTime": 2044.9025960001163
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 186,
+    "timestamp": 1690069.435141,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2256,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3649999999999998,
+        "tcpConnection": 207.719,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 720.757,
+        "totalTime": 720.896,
+        "fcp": 904.539,
+        "lcp": 2038.367,
+        "speedIndex": 1879,
+        "curlTotalTime": 767.2215879999567,
+        "playwrightTotalTime": 1971.7619340000674
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 187,
+    "timestamp": 1932710.496045,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2457,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4229999999999996,
+        "tcpConnection": 207.39,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 661.934,
+        "totalTime": 662.0279999999999,
+        "fcp": 797.012,
+        "lcp": 1890.768,
+        "speedIndex": 1752,
+        "curlTotalTime": 704.0600890000351,
+        "playwrightTotalTime": 1958.8315029998776
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 188,
+    "timestamp": 2255037.613259,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2367,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.318,
+        "tcpConnection": 208.28900000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 687.141,
+        "totalTime": 687.236,
+        "fcp": 795.175,
+        "lcp": 2243.745,
+        "speedIndex": 2034,
+        "curlTotalTime": 730.7432639999315,
+        "playwrightTotalTime": 2024.0963099999353
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 189,
+    "timestamp": 1880383.311147,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2685,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.392,
+        "tcpConnection": 204.244,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 605.799,
+        "totalTime": 605.893,
+        "fcp": 752.736,
+        "lcp": 1828.294,
+        "speedIndex": 1634,
+        "curlTotalTime": 652.9950109999627,
+        "playwrightTotalTime": 2027.5312460002024
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 190,
+    "timestamp": 1638268.755669,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2524,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.9099999999999997,
+        "tcpConnection": 208.794,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 644.3539999999999,
+        "totalTime": 644.4530000000001,
+        "fcp": 750.27,
+        "lcp": 1821.064,
+        "speedIndex": 1667,
+        "curlTotalTime": 690.1936180000193,
+        "playwrightTotalTime": 2086.221358000068
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 191,
+    "timestamp": 1398644.05128,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2443,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3930000000000002,
+        "tcpConnection": 211.761,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 665.736,
+        "totalTime": 665.952,
+        "fcp": 811.056,
+        "lcp": 1861.147,
+        "speedIndex": 1690,
+        "curlTotalTime": 705.5273370000068,
+        "playwrightTotalTime": 1998.5592779999133
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 192,
+    "timestamp": 1644161.753217,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2560,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.713,
+        "tcpConnection": 207.986,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 635.21,
+        "totalTime": 635.328,
+        "fcp": 744.225,
+        "lcp": 1797.668,
+        "speedIndex": 1602,
+        "curlTotalTime": 675.5771969999187,
+        "playwrightTotalTime": 2086.1865509999916
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 193,
+    "timestamp": 1541349.625887,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2425,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.432,
+        "tcpConnection": 211.134,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 670.7520000000001,
+        "totalTime": 670.873,
+        "fcp": 790.244,
+        "lcp": 1784.81,
+        "speedIndex": 1631,
+        "curlTotalTime": 714.7068090001121,
+        "playwrightTotalTime": 1960.6487610000186
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 194,
+    "timestamp": 1965722.613145,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2415,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.0869999999999997,
+        "tcpConnection": 208.483,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 673.588,
+        "totalTime": 673.688,
+        "fcp": 755.498,
+        "lcp": 1806.292,
+        "speedIndex": 1649,
+        "curlTotalTime": 714.7338549999986,
+        "playwrightTotalTime": 2009.1314199999906
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 195,
+    "timestamp": 1711467.999222,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2139,
+        "uploadSpeed": 0,
+        "dnsLookup": 1.977,
+        "tcpConnection": 205.893,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 760.353,
+        "totalTime": 760.476,
+        "fcp": 890.692,
+        "lcp": 2030.007,
+        "speedIndex": 1884,
+        "curlTotalTime": 806.8980900000315,
+        "playwrightTotalTime": 2298.0369510001037
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 196,
+    "timestamp": 1953014.207763,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2451,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.4979999999999998,
+        "tcpConnection": 208.838,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 663.605,
+        "totalTime": 663.7030000000001,
+        "fcp": 780.727,
+        "lcp": 1902.094,
+        "speedIndex": 1663,
+        "curlTotalTime": 711.3277499999385,
+        "playwrightTotalTime": 1912.3515600000974
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 197,
+    "timestamp": 2275799.129409,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2290,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.599,
+        "tcpConnection": 208.361,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 710.2230000000001,
+        "totalTime": 710.343,
+        "fcp": 767.424,
+        "lcp": 1896.879,
+        "speedIndex": 1709,
+        "curlTotalTime": 753.3488590000197,
+        "playwrightTotalTime": 2102.280105000362
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 198,
+    "timestamp": 1900420.059024,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2413,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.241,
+        "tcpConnection": 202.407,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 674.08,
+        "totalTime": 674.2,
+        "fcp": 706.511,
+        "lcp": 1805.779,
+        "speedIndex": 1638,
+        "curlTotalTime": 720.8984819999896,
+        "playwrightTotalTime": 1939.2340209998656
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 199,
+    "timestamp": 1658652.993168,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2673,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.317,
+        "tcpConnection": 205.573,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 608.375,
+        "totalTime": 608.485,
+        "fcp": 800.448,
+        "lcp": 1913.082,
+        "speedIndex": 1765,
+        "curlTotalTime": 648.4474239998963,
+        "playwrightTotalTime": 1953.9970400000457
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 200,
+    "timestamp": 1419029.919864,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2344,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.5500000000000003,
+        "tcpConnection": 207.127,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 693.8069999999999,
+        "totalTime": 693.905,
+        "fcp": 753.621,
+        "lcp": 1860.156,
+        "speedIndex": 1638,
+        "curlTotalTime": 741.4545450001024,
+        "playwrightTotalTime": 2044.1758890000638
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 201,
+    "timestamp": 1664610.959025,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2563,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.867,
+        "tcpConnection": 208.66299999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 634.626,
+        "totalTime": 634.758,
+        "fcp": 780.307,
+        "lcp": 1969.972,
+        "speedIndex": 1663,
+        "curlTotalTime": 677.0928960000165,
+        "playwrightTotalTime": 2108.0825549999718
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 202,
+    "timestamp": 1561624.919842,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2575,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.077,
+        "tcpConnection": 212.429,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 631.518,
+        "totalTime": 631.611,
+        "fcp": 758.544,
+        "lcp": 1815.188,
+        "speedIndex": 1649,
+        "curlTotalTime": 671.2007069999818,
+        "playwrightTotalTime": 2010.1049409999978
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 203,
+    "timestamp": 1986052.949973,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2166,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.478,
+        "tcpConnection": 210.564,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 750.8580000000001,
+        "totalTime": 750.9559999999999,
+        "fcp": 777.854,
+        "lcp": 1850.538,
+        "speedIndex": 1707,
+        "curlTotalTime": 790.5411010000389,
+        "playwrightTotalTime": 1999.787187000038
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 204,
+    "timestamp": 1732374.48626,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2559,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.395,
+        "tcpConnection": 210.98600000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 635.5269999999999,
+        "totalTime": 635.633,
+        "fcp": 811.576,
+        "lcp": 2008.116,
+        "speedIndex": 1849,
+        "curlTotalTime": 673.593378999969,
+        "playwrightTotalTime": 2055.258106000023
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 205,
+    "timestamp": 1973306.883913,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2475,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.095,
+        "tcpConnection": 206.933,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 657.088,
+        "totalTime": 657.203,
+        "fcp": 815.552,
+        "lcp": 1835.573,
+        "speedIndex": 1730,
+        "curlTotalTime": 697.4332149999682,
+        "playwrightTotalTime": 1951.9150880000088
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 206,
+    "timestamp": 2296484.987862,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2383,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.275,
+        "tcpConnection": 206.02200000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 682.564,
+        "totalTime": 682.6719999999999,
+        "fcp": 729.913,
+        "lcp": 1849.557,
+        "speedIndex": 1658,
+        "curlTotalTime": 725.6496480000205,
+        "playwrightTotalTime": 2101.2730660000816
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 207,
+    "timestamp": 1920694.370683,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2598,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.039,
+        "tcpConnection": 199.41,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 626.072,
+        "totalTime": 626.2149999999999,
+        "fcp": 796.135,
+        "lcp": 1819.159,
+        "speedIndex": 1660,
+        "curlTotalTime": 664.1566349999048,
+        "playwrightTotalTime": 2004.4559930001851
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 208,
+    "timestamp": 1679655.778717,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2350,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.456,
+        "tcpConnection": 210.092,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 691.981,
+        "totalTime": 692.1,
+        "fcp": 789.722,
+        "lcp": 1911.103,
+        "speedIndex": 1831,
+        "curlTotalTime": 733.0663550000172,
+        "playwrightTotalTime": 1958.3644759999588
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 209,
+    "timestamp": 1439108.911275,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2380,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.496,
+        "tcpConnection": 210.268,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 683.2439999999999,
+        "totalTime": 683.425,
+        "fcp": 807.196,
+        "lcp": 1831.724,
+        "speedIndex": 1615,
+        "curlTotalTime": 723.1587169999257,
+        "playwrightTotalTime": 2030.5192259999458
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 210,
+    "timestamp": 1685178.242428,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2436,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.261,
+        "tcpConnection": 210.013,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 667.592,
+        "totalTime": 667.692,
+        "fcp": 762.634,
+        "lcp": 1861.508,
+        "speedIndex": 1586,
+        "curlTotalTime": 706.6681880000979,
+        "playwrightTotalTime": 2081.257237999933
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 211,
+    "timestamp": 1581268.785921,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2532,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.3939999999999997,
+        "tcpConnection": 208.18900000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 642.358,
+        "totalTime": 642.484,
+        "fcp": 716.047,
+        "lcp": 1284.566,
+        "speedIndex": 1204,
+        "curlTotalTime": 681.0067249999847,
+        "playwrightTotalTime": 1921.0421070000157
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 212,
+    "timestamp": 2006144.325873,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2308,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.139,
+        "tcpConnection": 209.744,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 704.637,
+        "totalTime": 704.745,
+        "fcp": 741.282,
+        "lcp": 1783.141,
+        "speedIndex": 1638,
+        "curlTotalTime": 747.1614899998531,
+        "playwrightTotalTime": 1915.9364310000092
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 213,
+    "timestamp": 1753577.811925,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2464,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.091,
+        "tcpConnection": 206.601,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 660.0200000000001,
+        "totalTime": 660.142,
+        "fcp": 773.997,
+        "lcp": 1924.803,
+        "speedIndex": 1781,
+        "curlTotalTime": 702.8092879999895,
+        "playwrightTotalTime": 2075.93378400011
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 214,
+    "timestamp": 1993885.203735,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2460,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.154,
+        "tcpConnection": 206.967,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 660.938,
+        "totalTime": 661.144,
+        "fcp": 776.567,
+        "lcp": 1832.099,
+        "speedIndex": 1707,
+        "curlTotalTime": 705.802907000063,
+        "playwrightTotalTime": 1955.866454999894
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 215,
+    "timestamp": 2317211.173585,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2486,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.556,
+        "tcpConnection": 209.482,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 654.2059999999999,
+        "totalTime": 654.318,
+        "fcp": 755.816,
+        "lcp": 1853.907,
+        "speedIndex": 1708,
+        "curlTotalTime": 694.6095209997147,
+        "playwrightTotalTime": 2143.797720000148
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 216,
+    "timestamp": 1940977.449382,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2373,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.576,
+        "tcpConnection": 205.398,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 685.296,
+        "totalTime": 685.4010000000001,
+        "fcp": 779.586,
+        "lcp": 1864.944,
+        "speedIndex": 1691,
+        "curlTotalTime": 735.649991999846,
+        "playwrightTotalTime": 1943.7983140000142
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 217,
+    "timestamp": 1700528.9809,
+    "webTests": [
+      {
+        "url": "http://bore.pub:16026/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2531,
+        "uploadSpeed": 0,
+        "dnsLookup": 3.155,
+        "tcpConnection": 208.033,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 642.528,
+        "totalTime": 642.645,
+        "fcp": 753.011,
+        "lcp": 1825.414,
+        "speedIndex": 1689,
+        "curlTotalTime": 697.9059849998448,
+        "playwrightTotalTime": 1986.1235730000772
+      }
+    ],
+    "totalDuration": 325850.7048180001,
+    "setupDuration": 364.62573099997826,
+    "diagnosticsDuration": 0.004705999977886677,
+    "measurementDuration": 315478.17477999977,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 218,
+    "timestamp": 1459244.763144,
+    "webTests": [
+      {
+        "url": "http://bore.pub:1311/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2540,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.395,
+        "tcpConnection": 210.49499999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 640.2489999999999,
+        "totalTime": 640.368,
+        "fcp": 735.203,
+        "lcp": 1789.786,
+        "speedIndex": 1579,
+        "curlTotalTime": 687.5970320000779,
+        "playwrightTotalTime": 2072.404905000003
+      }
+    ],
+    "totalDuration": 315679.641693,
+    "setupDuration": 461.51451699994504,
+    "diagnosticsDuration": 0.005975000094622374,
+    "measurementDuration": 305208.8968220004,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 219,
+    "timestamp": 1705650.038847,
+    "webTests": [
+      {
+        "url": "http://bore.pub:26413/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2469,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.627,
+        "tcpConnection": 209.097,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 658.721,
+        "totalTime": 658.825,
+        "fcp": 789.006,
+        "lcp": 1940.544,
+        "speedIndex": 1681,
+        "curlTotalTime": 706.8222419999074,
+        "playwrightTotalTime": 2069.939149999991
+      }
+    ],
+    "totalDuration": 319629.8117839999,
+    "setupDuration": 467.35937099996954,
+    "diagnosticsDuration": 0.004213999956846237,
+    "measurementDuration": 309148.4549399996,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 220,
+    "timestamp": 1601500.600985,
+    "webTests": [
+      {
+        "url": "http://bore.pub:31894/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2610,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.133,
+        "tcpConnection": 209.60799999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 623.0759999999999,
+        "totalTime": 623.178,
+        "fcp": 752.23,
+        "lcp": 1821.721,
+        "speedIndex": 1684,
+        "curlTotalTime": 659.3753259999212,
+        "playwrightTotalTime": 1903.6807580001187
+      }
+    ],
+    "totalDuration": 312867.6785510001,
+    "setupDuration": 361.92287199990824,
+    "diagnosticsDuration": 0.004226000048220158,
+    "measurementDuration": 302494.25953799975,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 221,
+    "timestamp": 2026505.651254,
+    "webTests": [
+      {
+        "url": "http://bore.pub:18198/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2336,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.242,
+        "tcpConnection": 205.68800000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 696.3000000000001,
+        "totalTime": 696.419,
+        "fcp": 802.149,
+        "lcp": 1918.605,
+        "speedIndex": 1709,
+        "curlTotalTime": 738.2628409999888,
+        "playwrightTotalTime": 2028.054172999924
+      }
+    ],
+    "totalDuration": 318558.5180299999,
+    "setupDuration": 352.19249800010584,
+    "diagnosticsDuration": 0.003621000098064542,
+    "measurementDuration": 308197.5233159992,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 222,
+    "timestamp": 1774768.476074,
+    "webTests": [
+      {
+        "url": "http://bore.pub:23716/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2203,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.73,
+        "tcpConnection": 213.56300000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 738.13,
+        "totalTime": 738.278,
+        "fcp": 763.765,
+        "lcp": 2414.012,
+        "speedIndex": 2196,
+        "curlTotalTime": 790.754997999873,
+        "playwrightTotalTime": 2006.8067530000117
+      }
+    ],
+    "totalDuration": 324533.7400219999,
+    "setupDuration": 442.36268400005065,
+    "diagnosticsDuration": 0.004473000066354871,
+    "measurementDuration": 314079.27997500007,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 223,
+    "timestamp": 2014088.779411,
+    "webTests": [
+      {
+        "url": "http://bore.pub:17569/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2461,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.684,
+        "tcpConnection": 206.05499999999998,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 660.7769999999999,
+        "totalTime": 660.907,
+        "fcp": 807.384,
+        "lcp": 1826.069,
+        "speedIndex": 1667,
+        "curlTotalTime": 708.1727859999519,
+        "playwrightTotalTime": 1944.5065309999045
+      }
+    ],
+    "totalDuration": 315771.5225119998,
+    "setupDuration": 448.5925650000572,
+    "diagnosticsDuration": 0.0052640000358223915,
+    "measurementDuration": 305314.58311300096,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 224,
+    "timestamp": 2338545.030123,
+    "webTests": [
+      {
+        "url": "http://bore.pub:56928/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2316,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.248,
+        "tcpConnection": 207.79500000000002,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 702.112,
+        "totalTime": 702.2080000000001,
+        "fcp": 793.132,
+        "lcp": 2082.846,
+        "speedIndex": 1879,
+        "curlTotalTime": 751.5710590002127,
+        "playwrightTotalTime": 2498.6697689997964
+      }
+    ],
+    "totalDuration": 330094.334667,
+    "setupDuration": 344.4682089998387,
+    "diagnosticsDuration": 0.006899999920278788,
+    "measurementDuration": 319737.90476600034,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  },
+  {
+    "toolName": "Bore",
+    "measurementNumber": 225,
+    "timestamp": 1961003.883885,
+    "webTests": [
+      {
+        "url": "http://bore.pub:10100/webtest",
+        "statusCode": 200,
+        "downloadSpeed": 2664,
+        "uploadSpeed": 0,
+        "dnsLookup": 2.132,
+        "tcpConnection": 202.432,
+        "tlsHandshake": 0,
+        "timeToFirstByte": 610.5690000000001,
+        "totalTime": 610.679,
+        "fcp": 739.256,
+        "lcp": 1827.624,
+        "speedIndex": 1658,
+        "curlTotalTime": 649.6664510001428,
+        "playwrightTotalTime": 1916.8244189999532
+      }
+    ],
+    "totalDuration": 315165.836167,
+    "setupDuration": 453.4710419999901,
+    "diagnosticsDuration": 0.005472999997437,
+    "measurementDuration": 304703.20641999994,
+    "hasErrors": false,
+    "errorCount": 0,
+    "errors": []
+  }
+]
